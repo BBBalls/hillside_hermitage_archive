@@ -1,1 +1,1 @@
-[05hh- Purpose Of The Precepts]([https://github.com/BBBalls/hillside_hermitage_archive/html/05hh- Purpose Of The Precepts](https://github.com/BBBalls/hillside_hermitage_archive/blob/main/html/05hh-%20Purpose%20Of%20The%20Precepts))
+[05hh- Purpose Of The Precepts](https://github.com/BBBalls/hillside_hermitage_archive/blob/main/html/05hh-%20Purpose%20Of%20The%20Precepts)
