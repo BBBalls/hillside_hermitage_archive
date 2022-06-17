@@ -7,6 +7,8 @@
 Determining Determinations
 --------------------------
 
+by Ajahn Nyanamoli Thero
+
 1\. Feeling, perception and consciousness are always there
 together.[^1] It is impossible to have
 them arising independently and on their own; when there is one, the
