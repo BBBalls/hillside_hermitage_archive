@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 210hh- How To Let Go
 --------------------
 
@@ -292,3 +298,9 @@ and death.
 > should be done has been done, there is no more of this.'\"
 
 > -- [SN 22.59](https://suttacentral.net/sn22.59)
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
