@@ -1,4 +1,12 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
+
 ## The Infinity of The Mind (Notes on AN 1.51) 
+
+by Ajahn Nyanamoli Thero
 
 >*Pabhassaramidaṃ, bhikkhave, cittaṃ. Tañca kho āgantukehi upakkilesehi
 upakkiliṭṭham. Taṃ assutavā puthujjano yathābhūtaṃ nappajānāti. Tasmā
@@ -96,3 +104,9 @@ appropriation of it (eternity).
 [^9]: Cf.nibbānadhātu
 
 [^10]: For these very reasons the Buddha was able to "rediscover" the path which lay there. For more cf. SN 12.65.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
