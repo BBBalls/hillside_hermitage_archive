@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 185hh- Samsara Is Directly Visible
 ----------------------------------
 
@@ -231,3 +237,9 @@ manifestation, those inclinations will be what inclines you or directs
 you without wisdom or memory to recall on. That\'s really what rebirth
 in samsara is, the repetition of habits without knowing that you are
 repeating the same old habits.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
