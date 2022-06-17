@@ -113,8 +113,7 @@ Not Perceiving the Feeling (Meanings, p. 39 and p.43).
 
 [^24]: And this very indifference was obscured through the assumption of 'body' (i.e. matter) in one's thoughts. Cf. Resistance and Designation (Meanings, p. 47).
 
-[^25]:
->"Bhikkhus, I say that the destruction of the taints occurs in dependence on the first jhāna..."  
+[^25]: >"Bhikkhus, I say that the destruction of the taints occurs in dependence on the first jhāna..."  
 	
 	>-- AN 9:36
 
