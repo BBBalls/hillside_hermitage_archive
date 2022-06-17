@@ -292,8 +292,7 @@ generality of *nāma-rūpa*---*viññāṇa*. That is because
 level, as if one could stop it at any time; it stretches from the most
 general (reflexive) levels of existence[^7]. What one is responsible for, in that whole structure, is "delighting in, welcoming and holding to..." the "source through which perceptions and notions \[born of\] mental proliferation beset a man..."[^8]. Thus the hierarchy of signifying things continues to arise (cease and change-while-standing) but it no longer grows; it is "cut off at the root, made like a palm stump". Its root was ignorance in itself and with its absence everything founded upon it comes to an end---one is free. In other words the respective experiences of the *puthujjana* and *arahant* alike, share the same fundamental nature of impermanence (arising and ceasing) but the respective *intensities* of those experiences are changed; for the *arahant feeling none* of it)[^9] and for the *puthujjana* dependant on the amount of ignorance being present. More ignorance, more 'intensity', things appear as more 'pressing' and one is easily prone to giving in to desire-and-lust. The arising of things in the *puthujjana*'s mind brings diffusion of perceptions and notions which, while not understood at its roots, will in return diffuse further and further and so on. This cannot happen in the *arahant*'s mind any more. His consciousness has 'ceased' so there is nothing to follow and diversify upon this teleological characteristic of the existential structure, which will remain only until his aggregates 'break apart'.
 
-[^1]: Which, as I will attempt to show in this essay, is
-over-simplified.
+[^1]: Which, as I will attempt to show in this essay, is over-simplified.
 
 [^2]: Translated by Bhikkhu Ñāṇamoli and Bhikkhu Bodhi, Wisdom Publications, Third edition 2005.
 
