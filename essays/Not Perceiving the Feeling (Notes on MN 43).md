@@ -1,5 +1,13 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
+
 Not Perceiving the Feeling (Notes on MN 43)
 -------------------------------------------
+
+by Ajahn Nyanamoli Thero
 
 > Friend, feeling and perception and consciousness-these things are
 > associated, not disassociated. It is not possible to separate them and
@@ -147,3 +155,9 @@ again.
 [^15]: In the past, or possible in the future, or standing there in the present.
 
 [^16]: Matter matters, feeling feels, perception perceives, determinations determine, consciousness cognizes.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
