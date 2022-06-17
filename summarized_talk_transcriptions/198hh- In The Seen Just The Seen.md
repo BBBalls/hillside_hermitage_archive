@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 198hh- In The Seen Just The Seen
 --------------------------------
 
@@ -286,3 +292,9 @@ then.
 
 There is no craving being cultivated towards sense objects. He
 prioritises the context not the content of his experience.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
