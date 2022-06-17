@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 64hh- Responsibility Can Free You From Suffering
 ------------------------------------------------
 
@@ -378,3 +384,9 @@ experience, not before the arisen experience. It's about clearing out
 your "conceivings" and discerning things in their *nature*. If you can
 discern the nature of the presently enduring feeling, then you will be
 unable to crave it.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
