@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 171hh- The Beautiful side of Ugly, the Living side of Death
 -----------------------------------------------------------
 
@@ -301,3 +307,9 @@ because the pleasure of taste is now the criteria. Doesn\'t matter how
 refined the criteria you might have developed, it\'s still within the
 need of hunger. If there\'s no need for food, you wouldn\'t be engaging
 with food.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
