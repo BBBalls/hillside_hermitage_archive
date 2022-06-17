@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
+
 ## Existence Means Control
 
 In order for something to exist (*bhava*), in order for it to be, in a full and appropriated sense, that thing has to be given first, in the form of an experience as a whole. When I say 'given', this should be understood in the sense that we can only "find" things as already being there, in the world. (Cf. Sartre's statement in *Being & Nothingness* that every thing comes *with* past). The fact is that things can only be found when they are attended to and this means that -- fundamentally speaking -- they are *beyond* one's control[^1]: one is not their *creator*. Thus, one's experience as a whole *cannot* be controlled; the most a person can do is to modify an already given state of affairs, on a more particular level.
@@ -18,3 +24,9 @@ On the other hand, if the Self would see that, despite all of the proof, its mas
 [^2]: As a matter of fact, it's not only the characteristic that is obscured, the five-aggregates are not seen either, most of the time.
 
 [^3]: For a puthujjana it is not enough to see this once. It is only with the repetition of this insight (achieved through effort), that the habitual view of control will disappear, and be replaced (gradually too) with the view of an inherent lack of control -- the view of impermanence. When it is seen that impermanence underlies every project of the Self, the Self ceases to be Self, since without its mastery, selfhood cannot stand. (Cf. Ñāṇavīra Thera, Notes on Dhamma, PARAMATTHA SACCA, para. 6)
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
