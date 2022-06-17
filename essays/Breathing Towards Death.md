@@ -1,3 +1,5 @@
+---
+
 [[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
 
 ---
@@ -27,5 +29,7 @@ A dying man can only rely upon his wisdom, if he developed it. Wisdom is not dep
 ---
 
 [[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
 
 ---
