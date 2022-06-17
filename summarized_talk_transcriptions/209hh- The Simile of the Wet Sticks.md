@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 209hh- The Simile of the Wet Sticks
 -----------------------------------
 
@@ -713,3 +719,9 @@ sensuality is not a problem, if you think sensuality is not "your"
 problem, if you think because you're not a monk you don't need to
 address this. Well, if you want to practice the Dhamma, it doesn't
 matter whether you are a monk or not, the sticks still need to be dry.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
