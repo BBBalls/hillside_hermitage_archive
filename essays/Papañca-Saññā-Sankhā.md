@@ -1,4 +1,12 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
+
 ## Papañca-Saññā-Sankhā
+
+by Ajahn Nyanamoli Thero
 
 This compound has represented, to paraphrase John D. Ireland from his
 Udāna translation notes, a stumbling block which even the ancient
@@ -134,3 +142,9 @@ there is wisdom, of course).
 [^8]: op. cit. p. 202.
 
 [^9]: Compare Ven. Sāriputta's answer to Ven. Udāyi when the later asked him what is there that is pleasant when there is nothing felt \[in nibbāna\]---"Just this is pleasant, friend, that herein there is nothing felt", AN iv,414.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
