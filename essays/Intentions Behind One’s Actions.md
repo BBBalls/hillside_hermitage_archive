@@ -1,4 +1,12 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
+
 ## Intentions Behind One’s Actions
+
+by Ajahn Nyanamoli Thero
 
 The Right meditation is inseparable from the Right view. That means that even if a person doesn’t have the Right view, their meditation should be concerned about getting it. To put it simply – it comes down to developing the self-transparency (or self-honesty) concerning skilful as skilful (_kusala_) and unskilful as unskilful (_akusala_). The Buddha defined the Right view in those very terms – knowing “good as good”, and “bad as bad”. The person with the Right view knows for oneself, beyond any doubt, _kusala_ as _kusala_ and _akusala_ as _akusala_. By seeing it – he recognizes it. He doesn’t need to hold or adopt any other external criteria. The clarity of his vision pertains to here and now, internally. Thus, for someone who hasn’t achieved that yet, that’s where the meditation should start. Obtaining of the Right criteria and then meditating through it. Keeping it “composed” is the definition of the Right _samadhi_.
 
@@ -25,3 +33,9 @@ Consequently, one will be able to also see if something is genuinely not rooted 
 It should be clear by now that the self-honesty or transparency is not an optional thing (or just one of different ways leading to the same goal). It’s an absolute pre-requisite for any chance of getting the Right view and knowing how to practice the Dhamma. If a person still has difficulties in abandoning own dependence upon a particular “method” of practice, they can still take up this practice of self-questioning  all the time, as a “method”. Although not ideal, it will still result in seeing through the motivation and emotional need for any methods in the first place. (Needing “something to do”.) By seeing the subtle motivation under _any_ action, one will automatically feel responsible for one’s choices. No matter how “justified” those might seem externally. The weight on it is always on oneself, and that’s something that one cannot ignore any further.
 
 It is also then when the full weight of the Buddha’s “beings are owners of one’s actions” saying, is truly felt.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
