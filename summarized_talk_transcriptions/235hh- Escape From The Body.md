@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 235hh- Escape From The Body
 ---------------------------
 
@@ -533,3 +539,9 @@ order. Then the pleasure of *jhana* will happen:
 It does not say: "Not having been withdrawn, still being pressured by
 sensuality, he gets a technique, he experiences jhana and all his
 problems just falls away, and it's a magical experience."
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
