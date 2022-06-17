@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 131hh- Even Being A Layman Does Not Justify Your Sensuality
 -----------------------------------------------------------
 
@@ -489,3 +495,9 @@ better place.
 >
 > That is what the Buddha said. Satisfied, Venerable Ānanda was happy
 > with what the Buddha said.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
