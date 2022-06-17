@@ -1,4 +1,12 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
+
 ## Notes on Meditaion
+
+by Ajahn Nyanamoli Thero
 
 >**1. Mindfulness of breathing, bhikkhus, developed and repeatedly practised, is of great fruit, of great benefit; mindfulness of breathing, bhikkhus, developed and repeatedly practised, perfects the four foundations of mindfulness; the four foundations of mindfulness, developed and repeatedly practised, perfect the seven enlightenment factors; the seven enlightenment factors, developed and repeatedly practised, perfect knowledge and freedom...**
 >
@@ -109,3 +117,9 @@ Not Perceiving the Feeling (Meanings, p. 39 and p.43).
 >"Bhikkhus, I say that the destruction of the taints occurs in dependence on the first jhāna..."  
 	
 	>-- AN 9:36
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
