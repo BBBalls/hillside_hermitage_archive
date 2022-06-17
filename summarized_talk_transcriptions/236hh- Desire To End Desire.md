@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 236hh- Desire To End Desire
 ---------------------------
 
@@ -405,3 +411,9 @@ Craving:
 > should be said: not associating with good people.
 
 > -- [AN 10.62](https://suttacentral.net/an10.62)
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
