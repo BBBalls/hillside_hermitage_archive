@@ -1,7 +1,7 @@
 [05hh- Purpose Of The Precepts](05hh- Purpose Of The Precepts)\
 [10hh- No One Wants Sensuality](/hillside_hermitage_archive/summarized_talk_transcriptions/10hh- No One Wants Sensuality)\
 [28hh- Sense Of Shame And Fear Of Wrongdoing](/hillside_hermitage_archive/summarized_talk_transcriptions/28hh- Sense Of Shame And Fear Of Wrongdoing)\
-[29hh- What Is Wisdom?](/hillside_hermitage_archive/summarized_talk_transcriptions/29hh- What Is Wisdom?)\
+[29hh- What Is Wisdom?](29hh- What Is Wisdom)\
 [30hh- Four Noble Truths](/hillside_hermitage_archive/summarized_talk_transcriptions/30hh- Four Noble Truths)\
 [On Nanavira Thera's Notes on Dhamma - "Anicca"](/hillside_hermitage_archive/summarized_talk_transcriptions/On Nanavira Thera's Notes on Dhamma Anicca)\
 [41hh- Contemplation and Awareness](/hillside_hermitage_archive/summarized_talk_transcriptions/41hh- Contemplation and Awareness)\
