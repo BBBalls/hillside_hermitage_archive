@@ -28,7 +28,7 @@ SN 35.247:
 > phenomena nor are disagreeable mental phenomena repulsive." "It is in
 > such a way that there is restraint..."
 
-### The Right Perspective Regarding The Body. {#the-right-perspective-regarding-the-body. .sigil_not_in_toc}
+### The Right Perspective Regarding The Body.
 
 Can you have restraint of the six senses without the right context or
 perspective? No, because lack of perspective means that you are already
@@ -96,7 +96,7 @@ on your particular practice, but what happens when you stop? Are you
 still liable to passion? Because if there was any understanding
 developed, it would remain even when you are not focussing on the body.
 
-### Identifying With The Senses. {#identifying-with-the-senses. .sigil_not_in_toc}
+### Identifying With The Senses.
 
 Regarding sense restraint, the problem is not that the senses/animals
 want to go and feed in these different domains, the problem is that you
