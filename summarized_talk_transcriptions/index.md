@@ -1,5 +1,16 @@
 [05hh- Purpose Of The Precepts](/hillside_hermitage_archive/summarized_talk_transcriptions/05hh- Purpose Of The Precepts)\
 [10hh- No One Wants Sensuality](/hillside_hermitage_archive/summarized_talk_transcriptions/10hh- No One Wants Sensuality)\
+[28hh- Sense Of Shame And Fear Of Wrongdoing](/hillside_hermitage_archive/summarized_talk_transcriptions/28hh- Sense Of Shame And Fear Of Wrongdoing)\
+[29hh- What Is Wisdom?](/hillside_hermitage_archive/summarized_talk_transcriptions/29hh- What Is Wisdom?)\
+[30hh- Four Noble Truths](/hillside_hermitage_archive/summarized_talk_transcriptions/30hh- Four Noble Truths)\
+[41hh- Contemplation and Awareness](/hillside_hermitage_archive/summarized_talk_transcriptions/41hh- Contemplation and Awareness)\
+[51hh- Guided Contemplation - At The Old Guards Cave](/hillside_hermitage_archive/summarized_talk_transcriptions/51hh- Guided Contemplation - At The Old Guards Cave)\
+[54hh- Not Wanting the Wanting](/hillside_hermitage_archive/summarized_talk_transcriptions/54hh- Not Wanting the Wanting)\
+[64hh- Responsibility Can Free You From Suffering](/hillside_hermitage_archive/summarized_talk_transcriptions/64hh- Responsibility Can Free You From Suffering)\
+[67hh- Comprehending The Mindfulness Of Breathing And Death Contemplation](/hillside_hermitage_archive/summarized_talk_transcriptions/67hh- Comprehending The Mindfulness Of Breathing And Death Contemplation)\
+[70hh- The Stream Entry of Ajahn Chah](/hillside_hermitage_archive/summarized_talk_transcriptions/70hh- The Stream Entry of Ajahn Chah)\
+[71hh- Ajahn Chah and the Original Mind](/hillside_hermitage_archive/summarized_talk_transcriptions/71hh- Ajahn Chah and the Original Mind)\
+[83hh- Don’t Be Faithful to Ignorance](/hillside_hermitage_archive/summarized_talk_transcriptions/83hh- Don’t Be Faithful to Ignorance)\
 [131hh- Even Being A Layman Does Not Justify Your Sensuality](/hillside_hermitage_archive/summarized_talk_transcriptions/131hh- Even Being A Layman Does Not Justify Your Sensuality)\
 [150hh- Valuing Sense Pleasures Makes You An Addict](/hillside_hermitage_archive/summarized_talk_transcriptions/150hh- Valuing Sense Pleasures Makes You An Addict)\
 [155hh- You Don't Need To Say No To Everything](/hillside_hermitage_archive/summarized_talk_transcriptions/155hh- You Don't Need To Say No To Everything)\
@@ -29,15 +40,4 @@
 [247hh- Discerning The Body For Uprooting Of Sensuality](/hillside_hermitage_archive/summarized_talk_transcriptions/247hh- Discerning The Body For Uprooting Of Sensuality)\
 [257hh- Only The Noble Truth Of Pain](/hillside_hermitage_archive/summarized_talk_transcriptions/257hh- Only The Noble Truth Of Pain)\
 [258hh- Simile of The Son’s Flesh](/hillside_hermitage_archive/summarized_talk_transcriptions/258hh- Simile of The Son’s Flesh)\
-[28hh- Sense Of Shame And Fear Of Wrongdoing](/hillside_hermitage_archive/summarized_talk_transcriptions/28hh- Sense Of Shame And Fear Of Wrongdoing)\
-[29hh- What Is Wisdom?](/hillside_hermitage_archive/summarized_talk_transcriptions/29hh- What Is Wisdom?)\
-[30hh- Four Noble Truths](/hillside_hermitage_archive/summarized_talk_transcriptions/30hh- Four Noble Truths)\
-[41hh- Contemplation and Awareness](/hillside_hermitage_archive/summarized_talk_transcriptions/41hh- Contemplation and Awareness)\
-[51hh- Guided Contemplation - At The Old Guards Cave](/hillside_hermitage_archive/summarized_talk_transcriptions/51hh- Guided Contemplation - At The Old Guards Cave)\
-[54hh- Not Wanting the Wanting](/hillside_hermitage_archive/summarized_talk_transcriptions/54hh- Not Wanting the Wanting)\
-[64hh- Responsibility Can Free You From Suffering](/hillside_hermitage_archive/summarized_talk_transcriptions/64hh- Responsibility Can Free You From Suffering)\
-[67hh- Comprehending The Mindfulness Of Breathing And Death Contemplation](/hillside_hermitage_archive/summarized_talk_transcriptions/67hh- Comprehending The Mindfulness Of Breathing And Death Contemplation)\
-[70hh- The Stream Entry of Ajahn Chah](/hillside_hermitage_archive/summarized_talk_transcriptions/70hh- The Stream Entry of Ajahn Chah)\
-[71hh- Ajahn Chah and the Original Mind](/hillside_hermitage_archive/summarized_talk_transcriptions/)\
-[83hh- Don’t Be Faithful to Ignorance](/hillside_hermitage_archive/summarized_talk_transcriptions/83hh- Don’t Be Faithful to Ignorance)\
 [On Nanavira Thera's Notes on Dhamma - "Anicca"](/hillside_hermitage_archive/summarized_talk_transcriptions/On Nanavira Thera's Notes on Dhamma - "Anicca")
