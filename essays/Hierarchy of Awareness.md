@@ -1,4 +1,12 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
+
 ## Hierarchy of Awareness
+
+by Ajahn Nyanamoli Thero
 
 The fundamental nature of our experience can be described as a hierarchy, which Ven. Ñāṇavīra tried to explain in his FUNDAMENTAL STRUCTURE (NoD). We are what we experience, it is not possible to view (or imagine) this hierarchy from ‘outside’, independent of us, because regardless of how far one steps back, one cannot abandon the experience as such.
 
@@ -28,3 +36,9 @@ Thus, Self is the reason for the existence of Self, i.e. both reflexion and imme
 [^8]: By an ‘indirect approach’ we imply seeing the nature of superimposition. As it was outlined above, the _direct_ approach has been taken in this essay as _linear_, and as such it is incapable of reaching and understanding the hierarchy of awareness in a proper way (see the fifth paragraph). The _indirect approach_ refers to seeing that with the presence of _what_, does _this_ arise, and with the absence of _what_, does this cease. In other words, this is a phenomenological approach, or an approach founded upon _sati_, whereby the immediate things of experience are _not directly_ followed at its initial appearance.
 [^9]: View originating from the Self.
 [^10]: Only an _arahat_ is completely free from this pressing nature of experience. The case with other _sekhā_ is that ‘pressure’ varies in degrees.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
