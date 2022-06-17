@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 70hh- The Stream Entry of Ajahn Chah
 ------------------------------------
 
@@ -872,3 +878,9 @@ of the axe wears out. You don't know when that is. For *sotāpanna* it is
 even clearer than that, because he knows exactly what to think and what
 themes to develop; he just needs to do it. That is why the Buddha kept
 encouraging a sense of urgency in them.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
