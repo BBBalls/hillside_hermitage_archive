@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index)
+
+---
+
 [05hh- Purpose Of The Precepts](05hh- Purpose Of The Precepts)\
 [10hh- No One Wants Sensuality](10hh- No One Wants Sensuality)\
 [28hh- Sense Of Shame And Fear Of Wrongdoing](28hh- Sense Of Shame And Fear Of Wrongdoing)\
@@ -41,3 +47,9 @@
 [247hh- Discerning The Body For Uprooting Of Sensuality](247hh- Discerning The Body For Uprooting Of Sensuality)\
 [257hh- Only The Noble Truth Of Pain](257hh- Only The Noble Truth Of Pain)\
 [258hh- Simile of The Son’s Flesh](258hh- Simile of The Son’s Flesh)
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index)
+
+---
