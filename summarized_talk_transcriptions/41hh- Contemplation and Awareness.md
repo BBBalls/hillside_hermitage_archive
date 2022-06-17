@@ -427,8 +427,7 @@ already there on its own, manifested. You're not creating it by
 attending to it, you can only attend to it because it's already there
 enduring. You cannot create anything from nothingness and bring it into
 being because you are the result of it. Your attention is already
-secondary to it, structurally, not in the sense of a sequence like 1, 2,
-3. It's all within the same arisen basis of the present form, paired
+secondary to it, structurally, not in the sense of a sequence like 1, 2, 3. It's all within the same arisen basis of the present form, paired
 with consciousness that you cannot step outside of. Any movement you
 make within it, is strictly within it. If you try to attend to that, it
 would require you to step outside of it and see it as an object, but
