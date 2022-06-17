@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 10hh- No One Wants Sensuality
 -----------------------------
 
@@ -108,3 +114,9 @@ you have even less ground to deal with it.
 
 **Nm:** Exactly. That\'s why people are terrified of solitude. They can
 no longer escape what they have been running away from.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
