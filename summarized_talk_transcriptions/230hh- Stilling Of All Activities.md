@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 230hh- Stilling Of All Activities
 ---------------------------------
 
@@ -100,3 +106,9 @@ dispassion, cessation, *nibbāna*. When there is no *avijja* in regard to
 *sankhāras*, then sankhāras cease and the activities that are left are
 the activities on account of this conscious body and all external
 significances/things.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
