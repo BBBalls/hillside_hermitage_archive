@@ -3,7 +3,7 @@
 [28hh- Sense Of Shame And Fear Of Wrongdoing](/hillside_hermitage_archive/summarized_talk_transcriptions/28hh- Sense Of Shame And Fear Of Wrongdoing)\
 [29hh- What Is Wisdom?](29hh- What Is Wisdom)\
 [30hh- Four Noble Truths](/hillside_hermitage_archive/summarized_talk_transcriptions/30hh- Four Noble Truths)\
-[On Nanavira Thera's Notes on Dhamma - "Anicca"](/hillside_hermitage_archive/summarized_talk_transcriptions/On Nanavira Thera's Notes on Dhamma Anicca)\
+[On Nanavira Thera's Notes on Dhamma - "Anicca"](On Nanavira Thera's Notes on Dhamma Anicca)\
 [41hh- Contemplation and Awareness](/hillside_hermitage_archive/summarized_talk_transcriptions/41hh- Contemplation and Awareness)\
 [51hh- Guided Contemplation - At The Old Guards Cave](/hillside_hermitage_archive/summarized_talk_transcriptions/51hh- Guided Contemplation - At The Old Guards Cave)\
 [54hh- Not Wanting the Wanting](/hillside_hermitage_archive/summarized_talk_transcriptions/54hh- Not Wanting the Wanting)\
