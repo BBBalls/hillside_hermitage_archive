@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 170hh- How to Develop Solitude
 ------------------------------
 
@@ -165,3 +171,9 @@ would be the equivalent of recognizing your weakness, and then using
 that as a justification to yourself that you shouldn\'t develop strength
 in the first place and instead should develop more of that weakness
 because that\'s truly the strength you seek.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
