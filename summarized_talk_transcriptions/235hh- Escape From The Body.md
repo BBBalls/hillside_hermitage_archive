@@ -1,7 +1,7 @@
 235hh- Escape From The Body
 ---------------------------
 
-[**Right order, and non-delight in masculinity/femininity**]{.underline}
+<u>**Right order, and non-delight in masculinity/femininity**</u>
 
 > "Bhikkhus, I will teach you a Dhamma exposition on union and
 > disengagement...A man, bhikkhus, attends internally to his masculine
@@ -249,7 +249,7 @@ then that whole perverted order on account of taking up the pressure as
 mine would have faded or would have diminished sufficiently for you to
 see that it has diminished.
 
-[**Correct practice of Asubha vs *sīlabbataparāmāso***]{.underline}
+<u>**Correct practice of Asubha vs *sīlabbataparāmāso***</u>
 
 **Q:** There is an idea that one practices in such a way: "I have lust
 for a woman. So now I must contemplate the disgusting nature of a
@@ -395,7 +395,7 @@ masculinity" or vice versa, no - that's just you acting out of whatever
 you have, trying to deny it with the opposite. All you need to do is
 stop taking it for granted and stop assuming ownership of it.
 
-[**Opening amidst confinement and practice of *jhana***]{.underline}
+<u>**Opening amidst confinement and practice of *jhana***</u>
 
 > "This was said, friend, by the young deva Pañcālacaṇḍa:\
 > "'The sage, the withdrawn chief bull, the Buddha who has understood
