@@ -447,9 +447,7 @@ ownership.mp3](https://archive.org/download/hillside-hermitage-archive/20190829%
 [20190831 - 107hh - Why focusing meditations are
 wrong.mp3](https://archive.org/download/hillside-hermitage-archive/20190831%20-%20107hh%20-%20Why%20focusing%20meditations%20are%20wrong.mp3)
 
-[20190906 - 90hh - Why did the Buddha say sensuality to be an assumption
-- MN
-75.mp3](https://archive.org/download/hillside-hermitage-archive/20190906%20-%2090hh%20-%20Why%20did%20the%20Buddha%20say%20sensuality%20to%20be%20an%20assumption%20-%20MN%2075.mp3)
+[20190906 - 90hh - Why did the Buddha say sensuality to be an assumption - MN 75.mp3](https://archive.org/download/hillside-hermitage-archive/20190906%20-%2090hh%20-%20Why%20did%20the%20Buddha%20say%20sensuality%20to%20be%20an%20assumption%20-%20MN%2075.mp3)
 
 [20190909 - 91hh - QA - On faith and
 friendship.mp3](https://archive.org/download/hillside-hermitage-archive/20190909%20-%2091hh%20-%20QA%20-%20On%20faith%20and%20friendship.mp3)
@@ -460,91 +458,59 @@ observation.mp3](https://archive.org/download/hillside-hermitage-archive/2019091
 [20190914 - 89hh - Reversing of the pleasure that is actually
 painful.mp3](https://archive.org/download/hillside-hermitage-archive/20190914%20-%2089hh%20-%20Reversing%20of%20the%20pleasure%20that%20is%20actually%20painful.mp3)
 
-[20190918 - 119hh - Ask yourself could you suffer if things dont change
-- MN
-13.mp3](https://archive.org/download/hillside-hermitage-archive/20190918%20-%20119hh%20-%20Ask%20yourself%20could%20you%20suffer%20if%20things%20dont%20change%20-%20MN%2013.mp3)
+[20190918 - 119hh - Ask yourself could you suffer if things dont change - MN 13.mp3](https://archive.org/download/hillside-hermitage-archive/20190918%20-%20119hh%20-%20Ask%20yourself%20could%20you%20suffer%20if%20things%20dont%20change%20-%20MN%2013.mp3)
 
-[20190921 - 110hh - Danger is in change not in things
-changing.mp3](https://archive.org/download/hillside-hermitage-archive/20190921%20-%20110hh%20-%20Danger%20is%20in%20change%20not%20in%20things%20changing.mp3)
+[20190921 - 110hh - Danger is in change not in things changing.mp3](https://archive.org/download/hillside-hermitage-archive/20190921%20-%20110hh%20-%20Danger%20is%20in%20change%20not%20in%20things%20changing.mp3)
 
-[20190927 - 108hh - True meaning of
-anicca.mp3](https://archive.org/download/hillside-hermitage-archive/20190927%20-%20108hh%20-%20True%20meaning%20of%20anicca.mp3)
+[20190927 - 108hh - True meaning of anicca.mp3](https://archive.org/download/hillside-hermitage-archive/20190927%20-%20108hh%20-%20True%20meaning%20of%20anicca.mp3)
 
-[20190930 - 115hh - How to enter the first
-jhana.mp3](https://archive.org/download/hillside-hermitage-archive/20190930%20-%20115hh%20-%20How%20to%20enter%20the%20first%20jhana.mp3)
+[20190930 - 115hh - How to enter the first jhana.mp3](https://archive.org/download/hillside-hermitage-archive/20190930%20-%20115hh%20-%20How%20to%20enter%20the%20first%20jhana.mp3)
 
-[20191004 - 124hh - Where is my mind only 4 kinds of thoughts needed for
-full
-awakening.mp3](https://archive.org/download/hillside-hermitage-archive/20191004%20-%20124hh%20-%20Where%20is%20my%20mind%20only%204%20kinds%20of%20thoughts%20needed%20for%20full%20awakening.mp3)
+[20191004 - 124hh - Where is my mind only 4 kinds of thoughts needed for full awakening.mp3](https://archive.org/download/hillside-hermitage-archive/20191004%20-%20124hh%20-%20Where%20is%20my%20mind%20only%204%20kinds%20of%20thoughts%20needed%20for%20full%20awakening.mp3)
 
-[20191009 - 105hh - Samatha vs vipassana purpose of the better
-technique.mp3](https://archive.org/download/hillside-hermitage-archive/20191009%20-%20105hh%20-%20Samatha%20vs%20vipassana%20purpose%20of%20the%20better%20technique.mp3)
+[20191009 - 105hh - Samatha vs vipassana purpose of the better technique.mp3](https://archive.org/download/hillside-hermitage-archive/20191009%20-%20105hh%20-%20Samatha%20vs%20vipassana%20purpose%20of%20the%20better%20technique.mp3)
 
 [20191013 - 122hh - Why are you not an arahant yet interrogation of the
 meaning.mp3](https://archive.org/download/hillside-hermitage-archive/20191013%20-%20122hh%20-%20Why%20are%20you%20not%20an%20arahant%20yet%20interrogation%20of%20the%20meaning.mp3)
 
-[20191016 - 112hh - Recollectedness of breathing revisiting anapanasati
-meditation
-practice.mp3](https://archive.org/download/hillside-hermitage-archive/20191016%20-%20112hh%20-%20Recollectedness%20of%20breathing%20revisiting%20anapanasati%20meditation%20practice.mp3)
+[20191016 - 112hh - Recollectedness of breathing revisiting anapanasati meditation practice.mp3](https://archive.org/download/hillside-hermitage-archive/20191016%20-%20112hh%20-%20Recollectedness%20of%20breathing%20revisiting%20anapanasati%20meditation%20practice.mp3)
 
 [20191024 - 102hh - GUIDED CONTEMPLATION - Interrogation of the
 body.mp3](https://archive.org/download/hillside-hermitage-archive/20191024%20-%20102hh%20-%20GUIDED%20CONTEMPLATION%20-%20Interrogation%20of%20the%20body.mp3)
 
-[20191027 - 103hh - NOBLE METHOD - Beginners guide to dependent
-origination in practice - SN
-12.41.mp3](https://archive.org/download/hillside-hermitage-archive/20191027%20-%20103hh%20-%20NOBLE%20METHOD%20-%20Beginners%20guide%20to%20dependent%20origination%20in%20practice%20-%20SN%2012.41.mp3)
+[20191027 - 103hh - NOBLE METHOD - Beginners guide to dependent origination in practice - SN 12.41.mp3](https://archive.org/download/hillside-hermitage-archive/20191027%20-%20103hh%20-%20NOBLE%20METHOD%20-%20Beginners%20guide%20to%20dependent%20origination%20in%20practice%20-%20SN%2012.41.mp3)
 
-[20191030 - 113hh - Overcoming attachments how to step outside of Maras
-domain - SN
-4.19.mp3](https://archive.org/download/hillside-hermitage-archive/20191030%20-%20113hh%20-%20Overcoming%20attachments%20how%20to%20step%20outside%20of%20Maras%20domain%20-%20SN%204.19.mp3)
+[20191030 - 113hh - Overcoming attachments how to step outside of Maras domain - SN 4.19.mp3](https://archive.org/download/hillside-hermitage-archive/20191030%20-%20113hh%20-%20Overcoming%20attachments%20how%20to%20step%20outside%20of%20Maras%20domain%20-%20SN%204.19.mp3)
 
-[20191107 - 96hh - How to be happy simple steps towards lasting
-contentment.mp3](https://archive.org/download/hillside-hermitage-archive/20191107%20-%2096hh%20-%20How%20to%20be%20happy%20simple%20steps%20towards%20lasting%20contentment.mp3)
+[20191107 - 96hh - How to be happy simple steps towards lasting contentment.mp3](https://archive.org/download/hillside-hermitage-archive/20191107%20-%2096hh%20-%20How%20to%20be%20happy%20simple%20steps%20towards%20lasting%20contentment.mp3)
 
-[20191111 - 118hh - You cant enter jhana jnana enters
-you.mp3](https://archive.org/download/hillside-hermitage-archive/20191111%20-%20118hh%20-%20You%20cant%20enter%20jhana%20jnana%20enters%20you.mp3)
+[20191111 - 118hh - You cant enter jhana jnana enters you.mp3](https://archive.org/download/hillside-hermitage-archive/20191111%20-%20118hh%20-%20You%20cant%20enter%20jhana%20jnana%20enters%20you.mp3)
 
-[20191116 - 116hh - Take your mind out of your mouth method for the
-first
-jhana.mp3](https://archive.org/download/hillside-hermitage-archive/20191116%20-%20116hh%20-%20Take%20your%20mind%20out%20of%20your%20mouth%20method%20for%20the%20first%20jhana.mp3)
+[20191116 - 116hh - Take your mind out of your mouth method for the first jhana.mp3](https://archive.org/download/hillside-hermitage-archive/20191116%20-%20116hh%20-%20Take%20your%20mind%20out%20of%20your%20mouth%20method%20for%20the%20first%20jhana.mp3)
 
-[20191123 - 111hh - How to overcome your personality without destroying
-it the nature of sakkaya ditthi - MN
-44.mp3](https://archive.org/download/hillside-hermitage-archive/20191123%20-%20111hh%20-%20How%20to%20overcome%20your%20personality%20without%20destroying%20it%20the%20nature%20of%20sakkaya%20ditthi%20-%20MN%2044.mp3)
+[20191123 - 111hh - How to overcome your personality without destroying it the nature of sakkaya ditthi - MN 44.mp3](https://archive.org/download/hillside-hermitage-archive/20191123%20-%20111hh%20-%20How%20to%20overcome%20your%20personality%20without%20destroying%20it%20the%20nature%20of%20sakkaya%20ditthi%20-%20MN%2044.mp3)
 
-[20191127 - 100hh - Beginners guide to contemplating the body - MN
-74.mp3](https://archive.org/download/hillside-hermitage-archive/20191127%20-%20100hh%20-%20Beginners%20guide%20to%20contemplating%20the%20body%20-%20MN%2074.mp3)
+[20191127 - 100hh - Beginners guide to contemplating the body - MN 74.mp3](https://archive.org/download/hillside-hermitage-archive/20191127%20-%20100hh%20-%20Beginners%20guide%20to%20contemplating%20the%20body%20-%20MN%2074.mp3)
 
-[20191201 - 125hh - Can you think anything other than a thought the 4th
-satipatthana in
-practice.mp3](https://archive.org/download/hillside-hermitage-archive/20191201%20-%20125hh%20-%20Can%20you%20think%20anything%20other%20than%20a%20thought%20the%204th%20satipatthana%20in%20practice.mp3)
+[20191201 - 125hh - Can you think anything other than a thought the 4th satipatthana in practice.mp3](https://archive.org/download/hillside-hermitage-archive/20191201%20-%20125hh%20-%20Can%20you%20think%20anything%20other%20than%20a%20thought%20the%204th%20satipatthana%20in%20practice.mp3)
 
-[20191208 - 101hh - Recollectedness of the body another way - Ud
-7.8.mp3](https://archive.org/download/hillside-hermitage-archive/20191208%20-%20101hh%20-%20Recollectedness%20of%20the%20body%20another%20way%20-%20Ud%207.8.mp3)
+[20191208 - 101hh - Recollectedness of the body another way - Ud 7.8.mp3](https://archive.org/download/hillside-hermitage-archive/20191208%20-%20101hh%20-%20Recollectedness%20of%20the%20body%20another%20way%20-%20Ud%207.8.mp3)
 
-[20191212 - 117hh - Pervading the body of jhana - MN
-39.mp3](https://archive.org/download/hillside-hermitage-archive/20191212%20-%20117hh%20-%20Pervading%20the%20body%20of%20jhana%20-%20MN%2039.mp3)
+[20191212 - 117hh - Pervading the body of jhana - MN 39.mp3](https://archive.org/download/hillside-hermitage-archive/20191212%20-%20117hh%20-%20Pervading%20the%20body%20of%20jhana%20-%20MN%2039.mp3)
 
-[20191215 - 97hh - You are responsible for what you
-are.mp3](https://archive.org/download/hillside-hermitage-archive/20191215%20-%2097hh%20-%20You%20are%20responsible%20for%20what%20you%20are.mp3)
+[20191215 - 97hh - You are responsible for what you are.mp3](https://archive.org/download/hillside-hermitage-archive/20191215%20-%2097hh%20-%20You%20are%20responsible%20for%20what%20you%20are.mp3)
 
-[20191216 - 131hh - Even being a layman does not justify your
-sensuality.mp3](https://archive.org/download/hillside-hermitage-archive/20191216%20-%20131hh%20-%20Even%20being%20a%20layman%20does%20not%20justify%20your%20sensuality.mp3)
+[20191216 - 131hh - Even being a layman does not justify your sensuality.mp3](https://archive.org/download/hillside-hermitage-archive/20191216%20-%20131hh%20-%20Even%20being%20a%20layman%20does%20not%20justify%20your%20sensuality.mp3)
 
-[20191218 - 88hh - Not acting out of your
-feelings.mp3](https://archive.org/download/hillside-hermitage-archive/20191218%20-%2088hh%20-%20Not%20acting%20out%20of%20your%20feelings.mp3)
+[20191218 - 88hh - Not acting out of your feelings.mp3](https://archive.org/download/hillside-hermitage-archive/20191218%20-%2088hh%20-%20Not%20acting%20out%20of%20your%20feelings.mp3)
 
-[20191219 - 129hh - How to be mindful of your
-forgetfulness.mp3](https://archive.org/download/hillside-hermitage-archive/20191219%20-%20129hh%20-%20How%20to%20be%20mindful%20of%20your%20forgetfulness.mp3)
+[20191219 - 129hh - How to be mindful of your forgetfulness.mp3](https://archive.org/download/hillside-hermitage-archive/20191219%20-%20129hh%20-%20How%20to%20be%20mindful%20of%20your%20forgetfulness.mp3)
 
-[20191222 - 92hh - The noble friendship and what it actually means - SN
-3.18.mp3](https://archive.org/download/hillside-hermitage-archive/20191222%20-%2092hh%20-%20The%20noble%20friendship%20and%20what%20it%20actually%20means%20-%20SN%203.18.mp3)
+[20191222 - 92hh - The noble friendship and what it actually means - SN 3.18.mp3](https://archive.org/download/hillside-hermitage-archive/20191222%20-%2092hh%20-%20The%20noble%20friendship%20and%20what%20it%20actually%20means%20-%20SN%203.18.mp3)
 
-[20200101 - 95hh - QA - Practice for
-Laypeople.mp3](https://archive.org/download/hillside-hermitage-archive/20200101%20-%2095hh%20-%20QA%20-%20Practice%20for%20Laypeople.mp3)
+[20200101 - 95hh - QA - Practice for Laypeople.mp3](https://archive.org/download/hillside-hermitage-archive/20200101%20-%2095hh%20-%20QA%20-%20Practice%20for%20Laypeople.mp3)
 
-[20200106 - 99hh - The emotional proliferation The Honeyball Sutta - MN
-18.mp3](https://archive.org/download/hillside-hermitage-archive/20200106%20-%2099hh%20-%20The%20emotional%20proliferation%20The%20Honeyball%20Sutta%20-%20MN%2018.mp3)
+[20200106 - 99hh - The emotional proliferation The Honeyball Sutta - MN 18.mp3](https://archive.org/download/hillside-hermitage-archive/20200106%20-%2099hh%20-%20The%20emotional%20proliferation%20The%20Honeyball%20Sutta%20-%20MN%2018.mp3)
 
 [20200108 - 114hh - Jhana is a state of
 being.mp3](https://archive.org/download/hillside-hermitage-archive/20200108%20-%20114hh%20-%20Jhana%20is%20a%20state%20of%20being.mp3)
@@ -599,9 +565,7 @@ Brahmaviharas - Part
 Part
 2.mp3](https://archive.org/download/hillside-hermitage-archive/20200316%20-%20141hh%20-%20Non-malice%20and%20non-retaliation%20-%20On%20Brahmaviharas%20-%20Part%202.mp3)
 
-[20200319 - 142hh - Do you have a fault-finding mind - On Brahmaviharas
-- Part
-3.mp3](https://archive.org/download/hillside-hermitage-archive/20200319%20-%20142hh%20-%20Do%20you%20have%20a%20fault-finding%20mind%20-%20On%20Brahmaviharas%20-%20Part%203.mp3)
+[20200319 - 142hh - Do you have a fault-finding mind - On Brahmaviharas - Part 3.mp3](https://archive.org/download/hillside-hermitage-archive/20200319%20-%20142hh%20-%20Do%20you%20have%20a%20fault-finding%20mind%20-%20On%20Brahmaviharas%20-%20Part%203.mp3)
 
 [20200327 - 143hh - Nibbana absence of desire towards beautiful self
 interrogation.mp3](https://archive.org/download/hillside-hermitage-archive/20200327%20-%20143hh%20-%20Nibbana%20absence%20of%20desire%20towards%20beautiful%20self%20interrogation.mp3)
@@ -780,13 +744,9 @@ suffering.mp3](https://archive.org/download/hillside-hermitage-archive/20210304%
 [20210316 - 200hh - Gateway to
 nibbana.mp3](https://archive.org/download/hillside-hermitage-archive/20210316%20-%20200hh%20-%20Gateway%20to%20nibbana.mp3)
 
-[20210324 - 201hh - QA - On peripheral awareness, uprooting of anger,
-dealing with
-displeasure.mp3](https://archive.org/download/hillside-hermitage-archive/20210324%20-%20201hh%20-%20QA%20-%20On%20peripheral%20awareness%2C%20uprooting%20of%20anger%2C%20dealing%20with%20displeasure.mp3)
+[20210324 - 201hh - QA - On peripheral awareness, uprooting of anger, dealing with displeasure.mp3](https://archive.org/download/hillside-hermitage-archive/20210324%20-%20201hh%20-%20QA%20-%20On%20peripheral%20awareness%2C%20uprooting%20of%20anger%2C%20dealing%20with%20displeasure.mp3)
 
-[20210330 - 202hh - Nibbana is the ultimate uncertainty - SN 22.55 AN
-6.19 MN 137 MN 44 AN
-7.50.mp3](https://archive.org/download/hillside-hermitage-archive/20210330%20-%20202hh%20-%20Nibbana%20is%20the%20ultimate%20uncertainty%20-%20SN%2022.55%20AN%206.19%20MN%20137%20MN%2044%20AN%207.50.mp3)
+[20210330 - 202hh - Nibbana is the ultimate uncertainty - SN 22.55 AN 6.19 MN 137 MN 44 AN 7.50.mp3](https://archive.org/download/hillside-hermitage-archive/20210330%20-%20202hh%20-%20Nibbana%20is%20the%20ultimate%20uncertainty%20-%20SN%2022.55%20AN%206.19%20MN%20137%20MN%2044%20AN%207.50.mp3)
 
 [20210406 - 203hh - The truth about the five hindrances - AN 9.64 AN
 3.63 MN 75 MN 39 SN
@@ -798,9 +758,7 @@ displeasure.mp3](https://archive.org/download/hillside-hermitage-archive/2021032
 [20210424 - 205hh - Jhana is a lifestyle - MN
 107.mp3](https://archive.org/download/hillside-hermitage-archive/20210424%20-%20205hh%20-%20Jhana%20is%20a%20lifestyle%20-%20MN%20107.mp3)
 
-[20210501 - 206hh - Pleasure of non-activity - Thag 19.1 AN 3.68 SN 9.10
-SN 21.4 SN
-35.240.mp3](https://archive.org/download/hillside-hermitage-archive/20210501%20-%20206hh%20-%20Pleasure%20of%20non-activity%20-%20Thag%2019.1%20AN%203.68%20SN%209.10%20SN%2021.4%20SN%2035.240.mp3)
+[20210501 - 206hh - Pleasure of non-activity - Thag 19.1 AN 3.68 SN 9.10 SN 21.4 SN 35.240.mp3](https://archive.org/download/hillside-hermitage-archive/20210501%20-%20206hh%20-%20Pleasure%20of%20non-activity%20-%20Thag%2019.1%20AN%203.68%20SN%209.10%20SN%2021.4%20SN%2035.240.mp3)
 
 [20210513 - 207hh - The danger contemplation - SN 35.244 MN
 25.mp3](https://archive.org/download/hillside-hermitage-archive/20210513%20-%20207hh%20-%20The%20danger%20contemplation%20-%20SN%2035.244%20MN%2025.mp3)
@@ -826,9 +784,7 @@ happy.mp3](https://archive.org/download/hillside-hermitage-archive/20210627%20-%
 [20210708 - 214hh - QA - On jhana anxiety
 precepts.mp3](https://archive.org/download/hillside-hermitage-archive/20210708%20-%20214hh%20-%20QA%20-%20On%20jhana%20anxiety%20precepts.mp3)
 
-[20210714 - 215hh - Mindfulness of breathing and calming of aversion -
-SN 54.6 MN
-62.mp3](https://archive.org/download/hillside-hermitage-archive/20210714%20-%20215hh%20-%20Mindfulness%20of%20breathing%20and%20calming%20of%20aversion%20-%20SN%2054.6%20MN%2062.mp3)
+[20210714 - 215hh - Mindfulness of breathing and calming of aversion - SN 54.6 MN 62.mp3](https://archive.org/download/hillside-hermitage-archive/20210714%20-%20215hh%20-%20Mindfulness%20of%20breathing%20and%20calming%20of%20aversion%20-%20SN%2054.6%20MN%2062.mp3)
 
 [20210719 - 216hh - Jhana is
 virtue.mp3](https://archive.org/download/hillside-hermitage-archive/20210719%20-%20216hh%20-%20Jhana%20is%20virtue.mp3)
@@ -839,9 +795,7 @@ samadhi.mp3](https://archive.org/download/hillside-hermitage-archive/20210723%20
 [20210729 - 218hh - When metta isnt
 working.mp3](https://archive.org/download/hillside-hermitage-archive/20210729%20-%20218hh%20-%20When%20metta%20isnt%20working.mp3)
 
-[20210803 - 219hh - QA - On persistence failure inner critic and sense
-of
-urgency.mp3](https://archive.org/download/hillside-hermitage-archive/20210803%20-%20219hh%20-%20QA%20-%20On%20persistence%20failure%20inner%20critic%20and%20sense%20of%20urgency.mp3)
+[20210803 - 219hh - QA - On persistence failure inner critic and sense of urgency.mp3](https://archive.org/download/hillside-hermitage-archive/20210803%20-%20219hh%20-%20QA%20-%20On%20persistence%20failure%20inner%20critic%20and%20sense%20of%20urgency.mp3)
 
 [20210807 - 220hh - The pressure of
 sensuality.mp3](https://archive.org/download/hillside-hermitage-archive/20210807%20-%20220hh%20-%20The%20pressure%20of%20sensuality.mp3)
@@ -849,9 +803,7 @@ sensuality.mp3](https://archive.org/download/hillside-hermitage-archive/20210807
 [20210811 - 221hh - Accomplished in
 virtue.mp3](https://archive.org/download/hillside-hermitage-archive/20210811%20-%20221hh%20-%20Accomplished%20in%20virtue.mp3)
 
-[20210815 - 222hh - Putting the body first - MN 1 SN 35.197 Thag 6.9 SN
-35.12 SN
-35.108.mp3](https://archive.org/download/hillside-hermitage-archive/20210815%20-%20222hh%20-%20Putting%20the%20body%20first%20-%20MN%201%20SN%2035.197%20Thag%206.9%20SN%2035.12%20SN%2035.108.mp3)
+[20210815 - 222hh - Putting the body first - MN 1 SN 35.197 Thag 6.9 SN 35.12 SN 35.108.mp3](https://archive.org/download/hillside-hermitage-archive/20210815%20-%20222hh%20-%20Putting%20the%20body%20first%20-%20MN%201%20SN%2035.197%20Thag%206.9%20SN%2035.12%20SN%2035.108.mp3)
 
 [20210823 - 223hh - Practice of
 generosity.mp3](https://archive.org/download/hillside-hermitage-archive/20210823%20-%20223hh%20-%20Practice%20of%20generosity.mp3)
@@ -922,9 +874,7 @@ Slovenia.mp3](https://archive.org/download/hillside-hermitage-archive/20211130%2
 [20211205 - 244hh - Is belief in rebirth necessary - MN
 60.mp3](https://archive.org/download/hillside-hermitage-archive/20211205%20-%20244hh%20-%20Is%20belief%20in%20rebirth%20necessary%20-%20MN%2060.mp3)
 
-[20211209 - 245hh - QA - On meditation right view other teachers
-peripheral
-awareness.mp3](https://archive.org/download/hillside-hermitage-archive/20211209%20-%20245hh%20-%20QA%20-%20On%20meditation%20right%20view%20other%20teachers%20peripheral%20awareness.mp3)
+[20211209 - 245hh - QA - On meditation right view other teachers peripheral awareness.mp3](https://archive.org/download/hillside-hermitage-archive/20211209%20-%20245hh%20-%20QA%20-%20On%20meditation%20right%20view%20other%20teachers%20peripheral%20awareness.mp3)
 
 [20211216 - 246hh - Seeing your own mind - AN 6.68 SN
 47.8.mp3](https://archive.org/download/hillside-hermitage-archive/20211216%20-%20246hh%20-%20Seeing%20your%20own%20mind%20-%20AN%206.68%20SN%2047.8.mp3)
