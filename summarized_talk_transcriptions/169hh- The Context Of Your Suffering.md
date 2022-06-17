@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 169hh- The Context Of Your Suffering
 ------------------------------------
 
@@ -131,3 +137,9 @@ context of anicca.
 
 How can you discern/develop/realize such a context? The only method is
 learning what the context is and then making an effort to discern it.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
