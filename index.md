@@ -6,6 +6,6 @@ Essays and dhamma talk transcriptions by Ajahn Nyanamoli Thero on various topics
 [Summarized Talk Transcriptions](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
 
 Sources:
-https://www.hillsidehermitage.org/
-https://www.youtube.com/channel/UCKejmWAt_kNpRMq5gQEGAqw
-https://t.me/HillsideHermitage
+* https://www.hillsidehermitage.org/
+* https://www.youtube.com/channel/UCKejmWAt_kNpRMq5gQEGAqw
+* https://t.me/HillsideHermitage
