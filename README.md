@@ -1,4 +1,10 @@
-This document is to explain the changes made to the audio archives of talks made available by Hillside Hermitage at
+This repository is not affiliated with Hillside Hermitage. I appreaciate the teachings of Ajahn Nyanamoli Thero, and have collected and orginized this archive for my own use. It has been made public with assumption others may appeciate the archive as well.
+
+Much thanks to Ajahn Nyanamoli Thero and Bhante Thaniyo Thero for their generosity. Anumodana!
+
+-----
+
+Below is a description of the changes made to the audio archives of dhamma talks made available by Hillside Hermitage at
 https://drive.google.com/drive/folders/14bZ-9tSiSY8LdZFFbcP0rR-eEMOUC3tg and
 https://www.hillsidehermitage.org/teachings/dhamma-talks/, retrieved 28-09-2020. The archive was expanded as
 episode releases were made on Telegram https://t.me/HillsideHermitage.
@@ -32,3 +38,9 @@ The errors found in the original archive of talks are:
   Double numbered
   * 80hh- The island of safety & 80hh- GUIDED CONTEMPLATION - Anger
   * 131hh- Tranquil Energy & 131hh- Even Being a Layman Does Not Justify Your Sensuality
+
+-----
+
+Books, essays, and summarized transcriptions have been added to the archive when released by Hillside Hermitage on https://www.hillsidehermitage.org or https://t.me/HillsideHermitage.
+
+
