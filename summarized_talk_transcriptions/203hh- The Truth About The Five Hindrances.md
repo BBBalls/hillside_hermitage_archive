@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 203hh- The Truth About The Five Hindrances
 ------------------------------------------
 
@@ -298,3 +304,9 @@ Seeing the danger in 'delighting in the prospect of pleasure', that
 insight is not painful, it\'s neutral. Getting pleasure or not is on the
 level of pain, but seeing the danger before you engage in pleasure is
 not painful, it\'s eye-opening.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
