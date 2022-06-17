@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 199hh- The Uprooting Of Your Suffering
 --------------------------------------
 
@@ -208,3 +214,9 @@ remain throughout. By not giving into the pressure, you get to outline
 what the actual problem is, which is your liability to future pressure
 and discomfort, and you can only see that by not trying to manage the
 pressure to get rid of the pressure.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
