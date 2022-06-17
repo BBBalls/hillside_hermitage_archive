@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 150hh- Valuing Sense Pleasures Makes You An Addict
 --------------------------------------------------
 
@@ -185,3 +191,9 @@ there is still a lot more to be done in order to uproot the value
 sensuality. So yes, you can replace your addiction with precepts or
 something else that is on the side of wholesome. But don\'t entertain
 the notion that you are free from addiction.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
