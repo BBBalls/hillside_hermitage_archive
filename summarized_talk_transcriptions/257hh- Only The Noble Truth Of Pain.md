@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 257hh- Only The Noble Truth Of Pain
 -----------------------------------
 
@@ -366,3 +372,9 @@ by it, it is no longer felt.
 
 > -- [AN
 > 9.34](https://www.accesstoinsight.org/tipitaka/an/an09/an09.034.than.html)
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
