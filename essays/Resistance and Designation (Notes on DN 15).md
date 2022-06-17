@@ -1,5 +1,13 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
+
 Resistance and Designation (Notes on DN 15)
 -------------------------------------------
+
+by Ajahn Nyanamoli Thero
 
 > *Nāmarūpapaccayā phasso'ti iti kho panetaṃ vuttaṃ, tadānanda,
 > imināpetaṃ pariyāyena veditabbaṃ, yathā nāmarūpapaccayā phasso. Yehi,
@@ -201,3 +209,9 @@ or *inconceivable*,[^12] one simply *understands*[^13]: *there is* matter,
 [^13]: "...consciousness is to be understood".-MN 43.
 
 [^14]: Simultaneous, superimposed, utterly indifferent to each other.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
