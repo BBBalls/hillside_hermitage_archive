@@ -162,22 +162,7 @@ regard 'birth' as his and by doing so remove himself from the domain of
 ageing-and-death, sorrow, lamentation, pain, grief and despair. One can
 escape.
 
-[^1]: Cf. Maurice Merleau-Ponty, in his Phenomenology of Perception, (Routledge Classics, 2007, p. 82): I detach myself from my experience and pass to the idea. Like the object, the idea purports to be the same for everybody, valid in all times and places, and the individuation of an
-object in an objective point of time and space finally appears as the
-expression of a universal positing power. I am no longer concerned with
-my body, nor with time, nor with the world, as I experience them in
-antepredicative knowledge, in the inner communion that I have with them.
-I now refer to my body only as a idea, to the universe as idea, to the
-idea of space and the idea of time. Thus 'objective' thought (in
-Kierkegaard's sense) is formed -- being that of common sense and of
-science -- which finally causes us to lose contact with perceptual
-experience, of which it is nevertheless the outcome and the natural sequel. The whole life of consciousness is characterized by the tendency
-to posit objects, since it is consciousness, that is to say
-self-knowledge, only in so far as it takes hold of itself and draws
-itself together in an identifiable object. And yet the absolute positing
-of a single object is the death of consciousness, since it congeals the
-whole of existence, as a crystal placed in a solution suddenly
-crystallizes it.
+[^1]: Cf. Maurice Merleau-Ponty, in his Phenomenology of Perception, (Routledge Classics, 2007, p. 82): I detach myself from my experience and pass to the idea. Like the object, the idea purports to be the same for everybody, valid in all times and places, and the individuation of an object in an objective point of time and space finally appears as the expression of a universal positing power. I am no longer concerned with my body, nor with time, nor with the world, as I experience them in antepredicative knowledge, in the inner communion that I have with them. I now refer to my body only as a idea, to the universe as idea, to the idea of space and the idea of time. Thus 'objective' thought (in Kierkegaard's sense) is formed -- being that of common sense and of science -- which finally causes us to lose contact with perceptual experience, of which it is nevertheless the outcome and the natural sequel. The whole life of consciousness is characterized by the tendency to posit objects, since it is consciousness, that is to say self-knowledge, only in so far as it takes hold of itself and draws itself together in an identifiable object. And yet the absolute positing of a single object is the death of consciousness, since it congeals the whole of existence, as a crystal placed in a solution suddenly crystallizes it.
 
 [^2]: Time, as a phenomena in one's experience, is regarded as more primordial (read -- 'permanent'), than the experience of things. The things seem to come and go, while the sense of time stays.
 
