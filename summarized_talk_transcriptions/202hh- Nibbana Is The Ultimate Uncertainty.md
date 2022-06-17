@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 202hh- Nibbana Is The Ultimate Uncertainty
 ------------------------------------------
 
@@ -253,3 +259,9 @@ The necessary *samadhi* will be born from the work of your sila, sense
 restraint, abandoning the joys and griefs, and your cultivation of the
 context of uncertainty. In that way, you will force your mind to
 compose, which will have to result in clear seeing.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
