@@ -1,4 +1,4 @@
-<iframe src="https://archive.org/embed/hillside-hermitage-archive&playlist=1&autoplay=1" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/hillside-hermitage-archive&playlist=1&autoplay=1" width="500" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [All audio files (9+ GB zip archive)](https://archive.org/compress/hillside-hermitage-archive/formats=VBR%20MP3&file=/hillside-hermitage-archive.zip)
 
