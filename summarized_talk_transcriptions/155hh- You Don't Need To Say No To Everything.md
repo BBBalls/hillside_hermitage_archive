@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 155hh- You Don\'t Need To Say No To Everything
 ----------------------------------------------
 
@@ -187,3 +193,9 @@ intent.
 > contentment, effacement, easy support, and arousal of energy.
 > Therefore, monks, be my heirs in Dhamma, not my heirs in material
 > things."
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
