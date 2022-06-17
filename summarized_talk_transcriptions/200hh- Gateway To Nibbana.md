@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 200hh- Gateway To Nibbana
 -------------------------
 
@@ -107,3 +113,9 @@ choice, and if you cultivate the right choices sufficiently enough you
 will get to understand and uproot the nature of lust, aversion and
 delusion, you will fully discern the gateway and be unable to lose sight
 of it.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
