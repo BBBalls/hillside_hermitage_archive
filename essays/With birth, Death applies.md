@@ -1,4 +1,12 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
+
 ## With birth, Death applies
+
+by Ajahn Nyanamoli Thero
 
 1\. We are born. We come into this world through our birth. As we shall
 see in the following paragraphs, there are many ways that one *can*
@@ -188,3 +196,9 @@ crystallizes it.
 [^9]: We are not interested in the conclusions (or lack of them, as Ven. Ñāṇavīra would say) they drew from the method itself.
 
 [^10]: Cf. Ñāṇavīra Thera, op. cit., NP., para. 9 & 10. This 'somehow' is important to note. If a puthujjana, who is not satisfied with the idea of birth being something which occurred in his past, admits that there has to be some other way in which 'birth' can be present, and if he admits that he doesn't see that way, he might make the effort to find it out, and than eventually see it.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
