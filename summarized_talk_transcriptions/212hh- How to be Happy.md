@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 212hh- How to be Happy
 ----------------------
 
@@ -94,3 +100,9 @@ the effort that you put into withstanding the pressure of your sense's
 desires, learning how to draw a line, learning how to say no, then
 enduring it and growing out of it. Happiness comes from taming your
 mind, from freeing it of defilement.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
