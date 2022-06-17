@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 215hh- Mindfulness Of Breathing And Calming Of The Aversion
 -----------------------------------------------------------
 
@@ -152,3 +158,9 @@ anything, it would just get more agitated.
 organs, you can\'t just give them what they want and you certainly
 won\'t calm them down by beating and starving them either. You need to
 give them the right kind of food when needed and not too much.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
