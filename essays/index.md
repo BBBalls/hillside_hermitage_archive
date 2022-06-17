@@ -1,3 +1,5 @@
+By Ajahn Nyanamoli Thero:
+
 [Feelings are Suffering](Feelings are Suffering)\
 [Existence Means Control](Existence Means Control)\
 [With birth, Death applies](With birth, Death applies)\
@@ -13,3 +15,9 @@
 [Intentions Behind One’s Actions](Intentions Behind One’s Actions)\
 [The Necessity of Celibacy](The Necessity of Celibacy)\
 [Peripheral Awareness](Peripheral Awareness)
+
+By Thaniyo Thero:
+
+[Meaning Of The Heart](Meaning Of The Heart)
+
+[home](/hillside_hermitage_archive/)
