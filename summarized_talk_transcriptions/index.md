@@ -40,4 +40,4 @@
 [236hh- Desire To End Desire](/hillside_hermitage_archive/summarized_talk_transcriptions/236hh- Desire To End Desire)\
 [247hh- Discerning The Body For Uprooting Of Sensuality](/hillside_hermitage_archive/summarized_talk_transcriptions/247hh- Discerning The Body For Uprooting Of Sensuality)\
 [257hh- Only The Noble Truth Of Pain](/hillside_hermitage_archive/summarized_talk_transcriptions/257hh- Only The Noble Truth Of Pain)\
-[258hh- Simile of The Son’s Flesh](/hillside_hermitage_archive/summarized_talk_transcriptions/258hh- Simile of The Son’s Flesh)\
+[258hh- Simile of The Son’s Flesh](/hillside_hermitage_archive/summarized_talk_transcriptions/258hh- Simile of The Son’s Flesh)
