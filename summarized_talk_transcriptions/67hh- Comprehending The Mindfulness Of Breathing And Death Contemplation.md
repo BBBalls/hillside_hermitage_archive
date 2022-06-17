@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 67hh- Comprehending The Mindfulness Of Breathing And Death Contemplation
 ------------------------------------------------------------------------
 
@@ -691,3 +697,9 @@ that I cannot take it for granted. That's it. What is the condition for
 ignorance? It's ignoring, basically. You stop ignoring, you stop
 conditioning your ignorance. Stop ignoring certain universal truths,
 that's it.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
