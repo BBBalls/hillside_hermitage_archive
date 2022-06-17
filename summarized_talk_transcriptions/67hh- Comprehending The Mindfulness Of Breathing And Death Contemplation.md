@@ -1,7 +1,7 @@
 67hh- Comprehending The Mindfulness Of Breathing And Death Contemplation
 ------------------------------------------------------------------------
 
-### I. Mindfulness of Breathing {#i.-mindfulness-of-breathing .sigil_not_in_toc}
+### I. Mindfulness of Breathing
 
 **Ven. Thaniyo:** I wanted to ask about mindfulness of breathing, and
 how that should be done. You can read the sutta over and over again and
@@ -428,7 +428,7 @@ Delving with the knife, self-questioning, self-interrogation---all the
 things the Buddha talks about in the suttas---that's what results in
 knowledge.
 
-### II. Death Contemplation {#ii.-death-contemplation .sigil_not_in_toc}
+### II. Death Contemplation
 
 **Ven. Thaniyo:** What about watching someone die?
 
