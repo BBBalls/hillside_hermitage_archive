@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
+
 ## Meaning Of The Heart
 
 By Thaniyo Thero
@@ -101,3 +107,9 @@ Take, again the example of a computer game, where you're playing a character. Th
 Therefore, this sense of self, being second to the situation as a whole, being *dependent upon* an assumption of ownership in regard to this situation as a whole, is *unownable*. It is dependently manifested, not self-manifested . It depends on there being a situation as a whole, operating, on its own. My self, then, is not my own because the things which my self depends on for its existence, *cannot* be my own.
 
 Sense the rhythm of the heart throughout your day, tune into its meaning of *anicca-dukkha-anatta*, and let your *Self* fall apart.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
