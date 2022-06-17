@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 258hh- Simile of The Son's Flesh
 --------------------------------
 
@@ -527,3 +533,9 @@ the context.
 **Nm:** If you fully developed the context of dispassion in regard to
 anything that can be cognized, there will be no more passion. In the
 cognised there will be just the cognised.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
