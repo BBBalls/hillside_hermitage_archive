@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 205hh- Jhana Is A Lifestyle
 ---------------------------
 
@@ -452,3 +458,9 @@ about jhana, that is jhana. You don\'t have to worry about a technique,
 which incidentally you will not find in the suttas. The closest thing to
 a method is what we have just been describing, the gradual training -
 *Sekha Paṭipadā*.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
