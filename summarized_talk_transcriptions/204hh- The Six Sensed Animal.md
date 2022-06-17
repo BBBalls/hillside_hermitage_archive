@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 204hh- The Six Sensed Animal
 ----------------------------
 
@@ -225,3 +231,9 @@ If the senses are used to running wild, they will be pulling a lot in
 the beginning, that\'s what an untrained animal does but if you can
 maintain the right perspective regarding this creature, you will tame
 its senses and abide in jhana.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
