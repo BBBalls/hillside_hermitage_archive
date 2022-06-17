@@ -3,6 +3,7 @@
 [28hh- Sense Of Shame And Fear Of Wrongdoing](/hillside_hermitage_archive/summarized_talk_transcriptions/28hh- Sense Of Shame And Fear Of Wrongdoing)\
 [29hh- What Is Wisdom?](/hillside_hermitage_archive/summarized_talk_transcriptions/29hh- What Is Wisdom?)\
 [30hh- Four Noble Truths](/hillside_hermitage_archive/summarized_talk_transcriptions/30hh- Four Noble Truths)\
+[On Nanavira Thera's Notes on Dhamma - "Anicca"](/hillside_hermitage_archive/summarized_talk_transcriptions/On Nanavira Thera's Notes on Dhamma - "Anicca")\
 [41hh- Contemplation and Awareness](/hillside_hermitage_archive/summarized_talk_transcriptions/41hh- Contemplation and Awareness)\
 [51hh- Guided Contemplation - At The Old Guards Cave](/hillside_hermitage_archive/summarized_talk_transcriptions/51hh- Guided Contemplation - At The Old Guards Cave)\
 [54hh- Not Wanting the Wanting](/hillside_hermitage_archive/summarized_talk_transcriptions/54hh- Not Wanting the Wanting)\
@@ -40,4 +41,3 @@
 [247hh- Discerning The Body For Uprooting Of Sensuality](/hillside_hermitage_archive/summarized_talk_transcriptions/247hh- Discerning The Body For Uprooting Of Sensuality)\
 [257hh- Only The Noble Truth Of Pain](/hillside_hermitage_archive/summarized_talk_transcriptions/257hh- Only The Noble Truth Of Pain)\
 [258hh- Simile of The Son’s Flesh](/hillside_hermitage_archive/summarized_talk_transcriptions/258hh- Simile of The Son’s Flesh)\
-[On Nanavira Thera's Notes on Dhamma - "Anicca"](/hillside_hermitage_archive/summarized_talk_transcriptions/On Nanavira Thera's Notes on Dhamma - "Anicca")
