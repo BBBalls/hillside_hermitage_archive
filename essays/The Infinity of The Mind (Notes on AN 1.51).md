@@ -96,8 +96,7 @@ that the *arahant's* mind is *immeasurable.*[^8] His *citta* has been developed 
 
 [^6]: Cf. MN 44.
 
-[^7]: The reader might notice that Ñāṇavīra Thera in 'Fundamental Structure' (op.cit. p. 107) refers to the endurance of a thing as 'eternal'. This structural 'eternity' is what is meant here by 'infinity'. It is just how one decides to designate these terms. If we were to choose the term 'eternal' to describe the property of the structure, we would additionally have to qualify it by saying: "A thing endures for ever. A thing is eternal... until it ceases." I, personally, prefer 'infinite' so that the distinction between the inherent nature of the arisen experience (infinity) becomes apparent from the puthujjana's
-appropriation of it (eternity).
+[^7]: The reader might notice that Ñāṇavīra Thera in 'Fundamental Structure' (op.cit. p. 107) refers to the endurance of a thing as 'eternal'. This structural 'eternity' is what is meant here by 'infinity'. It is just how one decides to designate these terms. If we were to choose the term 'eternal' to describe the property of the structure, we would additionally have to qualify it by saying: "A thing endures for ever. A thing is eternal... until it ceases." I, personally, prefer 'infinite' so that the distinction between the inherent nature of the arisen experience (infinity) becomes apparent from the puthujjana's appropriation of it (eternity).
 
 [^8]: Cf. AN 3.115 & SN 35.202.
 
