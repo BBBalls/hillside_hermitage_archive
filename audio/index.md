@@ -949,8 +949,8 @@ desires.mp3](https://archive.org/download/hillside-hermitage-archive/20220526%20
 [20220601 - 268hh - Dont go by majority and tradition - AN
 3.65.mp3](https://archive.org/download/hillside-hermitage-archive/20220601%20-%20268hh%20-%20Dont%20go%20by%20majority%20and%20tradition%20-%20AN%203.65.mp3)
 
-[20220607- 269hh - Jhana comes only after renunciation - MN
-19.mp3](https://archive.org/download/hillside-hermitage-archive/20220607-%20269hh%20-%20Jhana%20comes%20only%20after%20renunciation%20-%20MN%2019.mp3)
+[20220607 - 269hh - Jhana comes only after renunciation - MN
+19.mp3](https://archive.org/download/hillside-hermitage-archive/20220607%20-%20269hh%20-%20Jhana%20comes%20only%20after%20renunciation%20-%20MN%2019.mp3)
 
 [20220613 - 270hh - Metta in brief - SN
 20.4.mp3](https://archive.org/download/hillside-hermitage-archive/20220613%20-%20270hh%20-%20Metta%20in%20brief%20-%20SN%2020.4.mp3)
