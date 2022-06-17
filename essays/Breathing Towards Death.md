@@ -1,5 +1,10 @@
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
 
 ## Breathing Towards Death
+
+by Ajahn Nyanamoli Thero
 
 Practising the mindfulness of breathing correctly, means practising the mindfulness of death correctly.
 
@@ -18,3 +23,9 @@ Correctly discerning this, results in the *right* dispassion. And that means hav
 The reason why this is very important to see is that many people use a mere pleasure that they derive from meditation as a criterion for their progress. But, pleasure is secondary, and is not something an unawakened being should use to judge things against. Pleasure is not the measure of success, it's the unshakeable composure of peace in the face of death, that is. Thus, one's meditation of breath should establish itself upon mindfulness of the impermanence as described above. It should not become something agreeable that one uses for not dealing with the world.
 
 A dying man can only rely upon his wisdom, if he developed it. Wisdom is not dependent upon any phenomenon originated upon six senses. It is developed on the basis of the *discernment* of the same. That's why when one's senses start to wither and die, the knowledge of their nature remains unaffected. When there is no wisdom, there will be despair, in the face of death.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
