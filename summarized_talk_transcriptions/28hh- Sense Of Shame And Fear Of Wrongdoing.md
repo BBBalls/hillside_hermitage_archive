@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 28hh- Sense Of Shame And Fear Of Wrongdoing
 -------------------------------------------
 
@@ -107,3 +113,9 @@ restraining prevents it, it doesn't mean it's gonna make things easier,
 but it will be more peaceful later on. The mind grows from it and until
 then, it's gonna reveal the underlying pain beneath the desire and lack
 of restraint.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
