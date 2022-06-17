@@ -176,6 +176,8 @@ mind.mp3](https://archive.org/download/hillside-hermitage-archive/20180610%20-%2
 [20180614 - 07hh - THE UNMISTAKEN WAY - Part 1 - Sense restraint - AN
 3.16.mp3](https://archive.org/download/hillside-hermitage-archive/20180614%20-%2007hh%20-%20THE%20UNMISTAKEN%20WAY%20-%20Part%201%20-%20Sense%20restraint%20-%20AN%203.16.mp3)
 
+[ 20180618 - 10hh - No one wants sensuality.mp3](https://archive.org/download/hillside-hermitage-archive/Summarized%20Transcriptions/20180618%20-%2010hh%20-%20No%20one%20wants%20sensuality.mp3)
+
 [20180624 - 08hh - THE UNMISTAKEN WAY - Part 2 - Intent on wakefulness -
 AN
 3.16.mp3](https://archive.org/download/hillside-hermitage-archive/20180624%20-%2008hh%20-%20THE%20UNMISTAKEN%20WAY%20-%20Part%202%20-%20Intent%20on%20wakefulness%20-%20AN%203.16.mp3)
