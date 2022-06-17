@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 173hh- Dukkha in Anicca, Anatta in Dukkha
 -----------------------------------------
 
@@ -210,3 +216,9 @@ and consciousness. When those things change, you are thus affected.
 Removal of the conceivings on the other hand, means that whatever
 happens with the things you used to conceive will not affect you
 anymore. You will no longer be \"measured\" by it.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
