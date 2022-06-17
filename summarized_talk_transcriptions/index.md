@@ -1,4 +1,4 @@
-[05hh- Purpose Of The Precepts](/hillside_hermitage_archive/summarized_talk_transcriptions/05hh- Purpose Of The Precepts)\
+[05hh- Purpose Of The Precepts](05hh- Purpose Of The Precepts)\
 [10hh- No One Wants Sensuality](/hillside_hermitage_archive/summarized_talk_transcriptions/10hh- No One Wants Sensuality)\
 [28hh- Sense Of Shame And Fear Of Wrongdoing](/hillside_hermitage_archive/summarized_talk_transcriptions/28hh- Sense Of Shame And Fear Of Wrongdoing)\
 [29hh- What Is Wisdom](/hillside_hermitage_archive/summarized_talk_transcriptions/29hh- What Is Wisdom?)\
