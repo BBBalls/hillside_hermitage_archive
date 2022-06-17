@@ -3,7 +3,7 @@
 [28hh- Sense Of Shame And Fear Of Wrongdoing](/hillside_hermitage_archive/summarized_talk_transcriptions/28hh- Sense Of Shame And Fear Of Wrongdoing)\
 [29hh- What Is Wisdom?](29hh- What Is Wisdom)\
 [30hh- Four Noble Truths](/hillside_hermitage_archive/summarized_talk_transcriptions/30hh- Four Noble Truths)\
-[On Nanavira Thera's Notes on Dhamma - "Anicca"](On Nanavira Theras Notes on Dhamma Anicca)\
+
 [41hh- Contemplation and Awareness](/hillside_hermitage_archive/summarized_talk_transcriptions/41hh- Contemplation and Awareness)\
 [51hh- Guided Contemplation - At The Old Guards Cave](/hillside_hermitage_archive/summarized_talk_transcriptions/51hh- Guided Contemplation - At The Old Guards Cave)\
 [54hh- Not Wanting the Wanting](/hillside_hermitage_archive/summarized_talk_transcriptions/54hh- Not Wanting the Wanting)\
@@ -30,7 +30,7 @@
 [204hh- The Six Sensed Animal](/hillside_hermitage_archive/summarized_talk_transcriptions/204hh- The Six Sensed Animal)\
 [205hh- Jhana Is A Lifestyle](/hillside_hermitage_archive/summarized_talk_transcriptions/205hh- Jhana Is A Lifestyle)\
 [206hh- The Pleasure of Non-Activity](/hillside_hermitage_archive/summarized_talk_transcriptions/206hh- The Pleasure of Non-Activity)\
-[209hh- The Simile of the Wet Sticks](209hh- The Simile of the Wet Sticks)\
+
 [210hh- How To Let Go](/hillside_hermitage_archive/summarized_talk_transcriptions/210hh- How To Let Go)\
 [212hh- How to be Happy](/hillside_hermitage_archive/summarized_talk_transcriptions/212hh- How to be Happy)\
 [215hh- Mindfulness Of Breathing And Calming Of The Aversion](/hillside_hermitage_archive/summarized_talk_transcriptions/215hh- Mindfulness Of Breathing And Calming Of The Aversion)\
