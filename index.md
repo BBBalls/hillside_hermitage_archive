@@ -11,6 +11,6 @@ Sources:
 * [https://t.me/HillsideHermitage](https://t.me/HillsideHermitage)
 * [https://drive.google.com/drive/folders/14bZ-9tSiSY8LdZFFbcP0rR-eEMOUC3tg](https://drive.google.com/drive/folders/14bZ-9tSiSY8LdZFFbcP0rR-eEMOUC3tg)
 
-This site is not affilitated with Hillside Hermitage. It is an orginized aggregationof known materials freely distrubuted by Hillside Hermitage.
+This site is not affilitated with Hillside Hermitage. It is an orginized aggregation of known materials freely distrubuted by Hillside Hermitage.
 
 Much thanks to Ajahn Nyanamoli Thero and Bhante Thaniyo Thero for their generosity. Anumodana!
