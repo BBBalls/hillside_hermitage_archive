@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 223hh- Practice Of Generosity
 -----------------------------
 
@@ -246,4 +252,8 @@ constricted stinginess.
 
 > -- [AN 3.53](https://www.dhammatalks.org/suttas/AN/AN3_53.html)
 
-.
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
