@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 183hh- Becoming An Immovable Object
 -----------------------------------
 
@@ -273,3 +279,9 @@ allowing thoughts/ state of mind to endure, if they are pleasant, then
 the endurance will be manifested through you NOT acting towards that
 pleasure, and if it is unpleasant, the endurance will be manifest
 through you NOT trying to get rid of it. That's the middle way.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
