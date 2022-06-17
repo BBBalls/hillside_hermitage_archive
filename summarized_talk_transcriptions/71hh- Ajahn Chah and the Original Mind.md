@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 71hh- Ajahn Chah and the Original Mind
 --------------------------------------
 
@@ -449,3 +455,9 @@ good feelings because ownership and pleasure go hand in hand. That's why
 you want to undermine that pleasure, not by trying to get rid of it, but
 seeing that it cannot actually be yours---it hasn't come from you.
 That's how you also undermine the ownership.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
