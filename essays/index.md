@@ -1,4 +1,4 @@
-[Feelings are Suffering](hillside_hermitage_archive/essays/Feelings are Suffering)\
+[Feelings are Suffering](Feelings are Suffering)\
 [Existence Means Control](hillside_hermitage_archive/essays/Existence Means Control)\
 [With birth, Death applies](hillside_hermitage_archive/essays/With birth, Death applies)\
 [Appearance and Existence](hillside_hermitage_archive/essays/Appearance and Existence)\
