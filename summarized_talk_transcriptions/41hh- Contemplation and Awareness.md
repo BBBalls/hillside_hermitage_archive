@@ -1,7 +1,7 @@
 41hh- Contemplation and Awareness
 ---------------------------------
 
-### Discerning the background {#discerning-the-background .sigil_not_in_toc}
+### Discerning the background
 
 **Thaniyo:** In terms of contemplating the 32 parts of the body, how do
 you do that correctly? You actually cannot see your brain, your lungs,
@@ -348,8 +348,7 @@ you could establish the same principle as we just did---of dispassion,
 relinquishment, non-control, not-self---by seeing the background of your
 breath. Or you can think: "Why don't I refine it further and start
 seeing the background of the actual act of breathing?" And that's how
-the [Ānāpānasati Sutta (MN
-118)](https://www.dhammatalks.org/suttas/MN/MN118.html) goes where it
+the [Ānāpānasati Sutta (MN 118)](https://www.dhammatalks.org/suttas/MN/MN118.html) goes where it
 says: "Knowingly he breathes in, knowingly he breathes out." And you
 see, actually it is not like: "I'm breathing in, I'm breathing in, I'm
 breathing in" while inhaling and then, "now I'm breathing out, breathing
@@ -441,7 +440,7 @@ sense of self. You can't step outside of yourself or the five
 aggregates, but you can certainly stop misconceiving them, and that can
 be done only from the inside.
 
-### On sensuality {#on-sensuality .sigil_not_in_toc}
+### On sensuality
 
 **Thaniyo:** There is a Sutta from AN 4:181: "How is a bhikkhu a
 long-distance shooter? Any kind of form whatsoever, past, future,
