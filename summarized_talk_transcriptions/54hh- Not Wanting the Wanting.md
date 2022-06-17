@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 54hh- Not Wanting the Wanting
 -----------------------------
 
@@ -202,3 +208,9 @@ develop the impenetrable in regard to that domain, that's the pleasure
 of jhānas. Welcoming the possibility of sensuality in the future will
 keep sensuality pressuring you. Reaching the state of freedom from
 sensuality depends on your power of conviction.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
