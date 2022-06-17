@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 83hh- Don't Be Faithful to Ignorance
 ------------------------------------
 
@@ -699,3 +705,9 @@ resisting, which means you stop suffering. That's it.
 you---that belongs to Māra. If you stop taking it as yours, that's
 it---you cannot be affected by anything then, no matter how
 disagreeable.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
