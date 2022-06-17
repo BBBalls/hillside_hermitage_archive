@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
+
 Determining Determinations
 --------------------------
 
@@ -128,3 +134,9 @@ there.[↩︎](#fnref5){.footnote-back}
 [^12]: If one thinks "there is that because of which intentions are there, which is inaccessible to those intentions", that thought 'stands for' that because of which intentions are there, and through that thought one assumes access to that inaccessible-inaccessible exists. If one knows that regardless of what a thought or intention stand for, it can never "step outside" of its nature-one can only think one's thoughts (perception perceived) or intend one's intentions, not that because of which that thought/intention are there-one ceases to assume that which that intention stands for, because of which intention is there. Thus, intention remains, while "attempts to access" fade away, since one sees them as pointless and loses interest in them. When those "attempts" are thoroughly subdued, 'the assumption' of that which was assumed "accessible" (through those very attempts) disappears too, never to return.
 
 [^13]: The only reason why assumption can be made redundant, is because it was redundant in the first place. Not knowing that it was redundant, makes it necessary, until it ceases to be so. And the reason why assumption presents itself as necessary is because it assumes that which is necessary in one's experience, namely-the five aggregates. Thus, the five aggregates, which are necessary in one's experience, come to exist, through the assuming of them as that which is necessary in one's experience. But since they are necessary in one's experience, assuming them as necessary in one's experience is not necessary. But until one knows that, that assumption will exist.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
