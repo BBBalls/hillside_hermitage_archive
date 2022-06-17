@@ -1,7 +1,7 @@
 70hh- The Stream Entry of Ajahn Chah
 ------------------------------------
 
-### On Views {#on-views .sigil_not_in_toc}
+### On Views
 
 > "The practice of Dhamma goes against our habits, the truth goes
 > against our desires, so there is difficulty in the practice. Some
@@ -204,7 +204,7 @@ are aiming for and content with anything lower than the Right view, you
 can expect a result even lower than that. You should really be aiming
 for higher, so that at least you might get the Right view as a result.
 
-### "Mundane" Right View {#mundane-right-view .sigil_not_in_toc}
+### "Mundane" Right View
 
 > "Therein, bhikkhus, right view comes first. And how does right view
 > come first? One understands wrong view as wrong view and right view as
@@ -502,7 +502,7 @@ free from any burden, duty, and no reason to do anything anymore. But
 you will not arrive at that through blindly adhering to the dependence
 on needing something to do.
 
-### Sīlabbataparāmāsa {#sīlabbataparāmāsa .sigil_not_in_toc}
+### Sīlabbataparāmāsa
 
 That is what *sīlabbataparāmāsa* means -- not rites and rituals, or
 things that are very obviously ridiculous when it comes to practice.
@@ -662,7 +662,7 @@ Having spent thousands of hours in meditation and so on, it becomes
 practically impossible to admit that it *might* have been a waste of
 time. Admitting it would equate to breakdown.
 
-### Sakkāyadiṭṭhi {#sakkāyadiṭṭhi .sigil_not_in_toc}
+### Sakkāyadiṭṭhi
 
 **Q:** *So we have that first fetter,* sakkāyadiṭṭhi *(Person-view,
 personality view) -- It is removed for a sotāpanna, but it seems that
