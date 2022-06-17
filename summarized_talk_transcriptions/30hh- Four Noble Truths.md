@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 30hh- Four Noble Truths
 -----------------------
 
@@ -286,3 +292,9 @@ virtue and a meditation technique cannot replace that. If you are
 restrained in virtue, you don\'t need a meditation technique, because
 your intentions will be clear enough for you to then start the work of
 bringing about the end of craving by no longer giving in to it.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
