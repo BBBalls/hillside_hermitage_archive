@@ -47,7 +47,7 @@ but you have surmounted them. Just because you don\'t have any issues
 currently arising doesn\'t mean that you are entering the jhana, No,
 that\'s still well in the domain of the hindrances.
 
-### Liability To Being Hindered {#liability-to-being-hindered .sigil_not_in_toc}
+### Liability To Being Hindered 
 
 One way to surmount the domain of the hindrances would be to reflect:
 "Is there arisen lust in me or can non-arisen lust arise?". You have to
@@ -94,7 +94,7 @@ At Venāgapura, AN 3.63:
 > celestial high and luxurious bed that at present I can gain at will,
 > without trouble or difficulty."
 
-### The Five Hindrances Are One In Unwholesomeness. {#the-five-hindrances-are-one-in-unwholesomeness. .sigil_not_in_toc}
+### The Five Hindrances Are One In Unwholesomeness. 
 
 The first step to getting secluded is to see the hindrances for what
 they are, not just managing occasional flurries of worry, irritation,
@@ -126,7 +126,7 @@ gateway we speak about, that you willingly turn a blind eye to. To the
 extent, you can ignore the gateway to that extent the hindrances will
 find a way to get in.
 
-### The Chief Hindrance And The Foremost Danger. {#the-chief-hindrance-and-the-foremost-danger. .sigil_not_in_toc}
+### The Chief Hindrance And The Foremost Danger. 
 
 What is the chief hindrance on account of which people let the other
 four hindrances in? It's sensuality, and not seeing the danger in
@@ -210,7 +210,7 @@ sensuality, because if they do see the connection, then that great
 danger will become apparent. The only reason a person keeps engaging in
 sensuality is that they do not see the danger of it.
 
-### It\'s Entirely Up To You. {#its-entirely-up-to-you. .sigil_not_in_toc}
+### It\'s Entirely Up To You. 
 
 Mahā Assapura Sutta , MN 39:
 
