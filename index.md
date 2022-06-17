@@ -4,7 +4,7 @@ Essays and dhamma talk transcriptions by Ajahn Nyanamoli Thero on various topics
 [Books](/hillside_hermitage_archive/books/index)\
 [Essays](/hillside_hermitage_archive/essays/index)\
 [Summarized Talk Transcriptions](/hillside_hermitage_archive/summarized_talk_transcriptions/index)\
-[Supplemental PDFs](/hillside_hermitage_archive/supplemental_pdf/index)\
+[Supplemental PDFs](/hillside_hermitage_archive/supplemental_pdf/index)
 
 Sources:
 * [https://www.hillsidehermitage.org/](https://www.hillsidehermitage.org/)
