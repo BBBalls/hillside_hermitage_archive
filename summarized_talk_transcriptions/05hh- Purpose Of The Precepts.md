@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 05hh- Purpose Of The Precepts
 -----------------------------
 
@@ -167,3 +173,9 @@ Simile](hhttps://www.accesstoinsight.org/tipitaka/mn/mn.066.than.html):
 > abandon it. They\'re rude to me and to the monks keen on training. For
 > them that\'s a strong snare, a thick snare, a heavy snare, an
 > unrotting snare, and a thick yoke\...\"
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
