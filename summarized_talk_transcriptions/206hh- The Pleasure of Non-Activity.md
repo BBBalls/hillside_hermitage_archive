@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 206hh- The Pleasure of Non-Activity
 -----------------------------------
 
@@ -544,3 +550,9 @@ pleasurable from that higher stance. You realise that\'s the true
 pleasure, pleasure which is not underlied by craving for more. That type
 of pleasure is not unwholesome, it\'s safe and you are mindful in it, so
 it\'s a win-win.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
