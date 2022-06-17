@@ -37,7 +37,7 @@ Your life is dependent on that heart. You can pay attention to what you are doin
 
 You could also try and pay attention to the beating heart directly, but still try to discern its meaning peripherally, in the background. Meaning of non-ownership and inaccessibility. You can also discern in the background the rest of your body, your mood, thoughts, intentions, desires, and notice just how dependent it all is on this heart here beating that I am attending to, and just how dependent this heart here is on those things working well for it to be. Let the meaning of that reveal itself, i.e notice what that situation of “yourlife actions being determined by this living, fleshy organ” means. Start to discern the dangerous position that you are in. In other words, discern the *paticcasamuppada* principle - with my heart beating, my life is; when there is my life, there is my heart beating…….
 
-. **“Bhikkhus, do you see: ‘This’?”—“Yes, venerable sir.”—“Bhikkhus, do you see: ‘This manifests with that as a nutriment’?”—“Yes, venerable sir.”—“Bhikkhus, do you see: ‘With the cessation of that nutriment, what has come to be is subject to cessation’?”—“Yes, venerable sir.”**
+> **“Bhikkhus, do you see: ‘This’?”—“Yes, venerable sir.”—“Bhikkhus, do you see: ‘This manifests with that as a nutriment’?”—“Yes, venerable sir.”—“Bhikkhus, do you see: ‘With the cessation of that nutriment, what has come to be is subject to cessation’?”—“Yes, venerable sir.”**
 
 > -- [MN 38](https://suttacentral.net/mn38)
 
