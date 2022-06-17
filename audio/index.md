@@ -1,6 +1,6 @@
-<iframe src="https://archive.org/embed/hillside-hermitage-archive" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>\
+<iframe src="https://archive.org/embed/hillside-hermitage-archive" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-[All audio files (9+ GB zip archive)](https://archive.org/compress/hillside-hermitage-archive/formats=VBR%20MP3&file=/hillside-hermitage-archive.zip)\
+[All audio files (9+ GB zip archive)](https://archive.org/compress/hillside-hermitage-archive/formats=VBR%20MP3&file=/hillside-hermitage-archive.zip)
 
 Right Click and "Save Link As' to save individual audio files locally.
 
