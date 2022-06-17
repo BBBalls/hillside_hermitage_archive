@@ -1,4 +1,4 @@
-[[HOME]](/) [[ESSAYS]](/essays/)
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
 
 ## Appearance and Existence
 
@@ -97,4 +97,4 @@ Thus this inquiry has passed 'through' the *puthujjana*'s 'being', which must no
 
 [^24]: "Craving, however, is a gratuitous (though beginningless) parasite on the intentional structure described here, and its necessity is not to be deduced from the necessity of intention in all experience. Intention does not imply craving---a hard thing to understand!"---NoD, CETANĀ.
 
-[[HOME]](/) [[ESSAYS]](/essays/)
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
