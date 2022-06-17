@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 51hh- Guided Contemplation - At The Old Guards Cave
 ---------------------------------------------------
 
@@ -247,3 +253,9 @@ there will be no problem left for you to deal with, because you have
 surmounted, let go of, extinguished the basis of all problems. You don't
 go around dealing with every single problem individually. You just
 uproot the necessary basis for all problems.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
