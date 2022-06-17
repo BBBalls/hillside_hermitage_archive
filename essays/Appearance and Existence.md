@@ -1,4 +1,8 @@
+[[HOME]](/hillside_hermitage_archive/) [[ESSAYS]](/hillside_hermitage_archive/essays/)
+
 ## Appearance and Existence
+
+by Ajahn Nyanamoli Thero
 
 For a *puthujjana* the world exists. He can perceive things in that world, see them appear and disappear, he can see them changing. A *puthujjana* can also affect his surroundings and modify things according to own preferences, pursue the desirable experiences and avoid the undesirable ones---the *puthujjana* is *involved*. This 'involvement' with things represents the very core of the *puthujjana*'s 'experience as a whole'. Most people spend the majority of their lives obliviously absorbed in it, taking the course of 'involvement' for
 granted.[^1]
@@ -93,4 +97,4 @@ Thus this inquiry has passed 'through' the *puthujjana*'s 'being', which must no
 
 [^24]: "Craving, however, is a gratuitous (though beginningless) parasite on the intentional structure described here, and its necessity is not to be deduced from the necessity of intention in all experience. Intention does not imply craving---a hard thing to understand!"---NoD, CETANĀ.
 
-[home](/hillside_hermitage_archive/) [essays](/hillside_hermitage_archive/essays/)
+[[HOME]](/hillside_hermitage_archive/) [[ESSAYS]](/hillside_hermitage_archive/essays/)
