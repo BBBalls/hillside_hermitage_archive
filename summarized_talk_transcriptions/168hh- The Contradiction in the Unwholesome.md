@@ -4,7 +4,7 @@
 **Nm:** Unwholesome things are unwholesome because in themselves they
 contain a contradiction or a discrepancy.
 
-### Killing {#killing .sigil_not_in_toc}
+### Killing
 
 **Q:** You can see the same thread of contradiction running through
 every unwholesome action. Take killing, for example, one takes away the
@@ -62,8 +62,7 @@ an abstract view, which can correspond to the practical application to
 some extent. Some people can have an accurate abstract view but haven\'t
 truly understood the nature of wholesome as wholesome.
 
-### Stealing {#stealing .sigil_not_in_toc}
-
+### Stealing 
 **Q:** If we can just go to the next precept, which is to refrain from
 \"taking that which is not given\". How is stealing unwholesome?
 
@@ -80,7 +79,7 @@ these things are unwholesome. If you choose to act with intention of ill
 will, desire, carelessness, means you\'re accepting that contradicting
 value.
 
-### Sexual Misconduct {#sexual-misconduct .sigil_not_in_toc}
+### Sexual Misconduct 
 
 **Q:** The next precept of refraining from sexual misconduct or having
 sexual relations with people you shouldn\'t e.g another\'s wife or
@@ -160,7 +159,7 @@ pick up the bait, and then INDIRECTLY you will no longer be
 appropriating the sense organs as yours. (You cannot directly let go of
 sense organs.)
 
-### Lying {#lying .sigil_not_in_toc}
+### Lying 
 
 **Q:** The next precept is refraining from misrepresenting the truth.
 
@@ -212,7 +211,7 @@ Solitude starts revealing the main motivation for all your various
 engagements, which is to cover up your underlying anxiety on account of
 your fundamentally uncertain existence.
 
-### Intoxication {#intoxication .sigil_not_in_toc}
+### Intoxication 
 
 **Q:** The fifth precept, refraining from intoxicants, is unwholesome
 because it\'s the basis for carelessness, it\'s the covering up of any
