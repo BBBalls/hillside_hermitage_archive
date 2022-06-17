@@ -1,3 +1,11 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index)
+
+---
+
+# Essays
+
 By Ajahn Nyanamoli Thero:
 
 [Feelings are Suffering](Feelings are Suffering)\
@@ -20,4 +28,8 @@ By Thaniyo Thero:
 
 [Meaning Of The Heart](Meaning Of The Heart)
 
-[home](/hillside_hermitage_archive/)
+---
+
+[[HOME]](/hillside_hermitage_archive/index)
+
+---
