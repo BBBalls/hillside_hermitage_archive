@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 41hh- Contemplation and Awareness
 ---------------------------------
 
@@ -731,3 +737,9 @@ seeing the extent of sensuality.
 background of sensuality. Discerning gradually the significance of it.
 Taking responsibility for the choice. That's another approach to the
 same thing.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
