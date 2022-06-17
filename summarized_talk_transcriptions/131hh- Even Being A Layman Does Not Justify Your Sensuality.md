@@ -1,7 +1,7 @@
 131hh- Even Being A Layman Does Not Justify Your Sensuality
 -----------------------------------------------------------
 
-### The practice starts by learning what the Buddha taught. {#the-practice-starts-by-learning-what-the-buddha-taught. .sigil_not_in_toc}
+### The practice starts by learning what the Buddha taught.
 
 For a person who is interested in following the Buddha's instruction, it
 is important to start reading the discourses that contain that
@@ -32,7 +32,7 @@ the external statement and the particular lifestyle, but in terms of
 practice, the important distinction is between living involved with
 sensuality, and living without it.
 
-### Lay life does not equal sensual life. {#lay-life-does-not-equal-sensual-life. .sigil_not_in_toc}
+### Lay life does not equal sensual life. 
 
 Usually, it is true, a layperson is a person who lives with sensuality;
 and monks are those practicing restraint. \[However 'being a layperson'
@@ -61,7 +61,7 @@ sensuality internally on the level of the mind, so although they are not
 engaging in sensual activity with their body, they remain very much
 within the sensual domain.
 
-### Possibility of lay Dhamma practice does not mean possibility of sensual practice {#possibility-of-lay-dhamma-practice-does-not-mean-possibility-of-sensual-practice .sigil_not_in_toc}
+### Possibility of lay Dhamma practice does not mean possibility of sensual practice 
 
 There are discourses in which laypeople understood the Dhamma. However,
 it is very important to see that they certainly did not understand the
@@ -82,7 +82,7 @@ idea that"I am fine in whatever environment I am in, and sensuality is
 not a problem for me," is entirely wrong thinking according to the
 principles of Dhamma. Sensuality is always a problem.
 
-### The decision to remain as a layperson is already a serious compromise {#the-decision-to-remain-as-a-layperson-is-already-a-serious-compromise .sigil_not_in_toc}
+### The decision to remain as a layperson is already a serious compromise 
 
 Another point to consider is that even the decision to remain as a
 layperson is already not something to be taken lightly. If you want to
@@ -108,7 +108,7 @@ people's lives, they did not take their duty towards family as an excuse
 to also live a sensual life. They would continue to practice \[sense
 restraint\], as laypeople.
 
-### Mountain sutta {#mountain-sutta .sigil_not_in_toc}
+### Mountain sutta 
 
 > "...Aggivessana, it's as if there were a great mountain and two
 > companions would go to that mountain. On arrival, one of the
@@ -177,7 +177,7 @@ engage with whatever comes my way down here at the bottom," that is a
 whole other layer of sensuality and self-deception, on top of a decision
 that is already a compromise.
 
-### What is the degree of sense restraint that is the necessary basis for the practice? {#what-is-the-degree-of-sense-restraint-that-is-the-necessary-basis-for-the-practice .sigil_not_in_toc}
+### What is the degree of sense restraint that is the necessary basis for the practice? 
 
 The practice starts by learning \[what the practice is\]. This has to
 involve realising that there is no possibility for understanding
