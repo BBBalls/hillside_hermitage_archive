@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 ## On Nanavira Thera\'s *Notes on Dhamma* - \"Anicca\"
 
 **Q:** This is in regards to Ven. Nanavira\'s, shorter notes on ​anicca​
@@ -106,3 +112,9 @@ That\'s the basis of any choices you can make. The possibilities that
 are implied in the given experience as a whole, are within that
 experience as a whole. And in return, they actually determined that
 experience as a whole for how you know it.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
