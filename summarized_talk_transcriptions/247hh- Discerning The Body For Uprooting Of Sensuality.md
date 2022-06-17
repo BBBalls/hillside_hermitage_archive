@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 247hh- Discerning The Body For Uprooting Of Sensuality
 ------------------------------------------------------
 
@@ -180,3 +186,9 @@ then no room for lust to breed and expand
 > comprehend conceit, you will live at peace." 
 
 > -- [SN 8.4](https://suttacentral.net/sn8.4)
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
