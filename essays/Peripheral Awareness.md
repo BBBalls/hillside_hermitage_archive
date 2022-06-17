@@ -1,4 +1,12 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
+
 ## Peripheral Awareness
+
+by Ajahn Nyanamoli Thero
 
 Mindfulness done correctly is when the mind is _anchored_ in something. That something must be a thing that is not directly attended to, but instead, has to be a _reference point_ to the attended thing (hence we call it “anchor”). If a thing is not directly attended to but there, we call that thing to be a “background”. It’s a background to a thing we attend (which makes that thing a “foreground”). This is the basic principle of mindfulness, on which we can expand here below.
 
@@ -49,3 +57,9 @@ The choice behind one’s actions is a general _unity_, a _context_ of one’s a
 [^6]: Sensuality is _always_ concerned with the particular content of the experience. Particular _sight_, _sound_, _smell_, _taste_, _touch_. Thus, mindfulness of the peripheral domain to the particular foreground, can result in overcoming it.
 
 [^7]: Hence the fully developed knowledge that came from the Right View, results in freeing an individual from his actions (_kamma_). Full understanding of the nature of the “choice” as “peripheral”, removes the gratuitous _assumption_ (_upadana_) of necessity of the “Chooser” i.e. the Self. Understanding the choice or intentional intention (_cetana_) frees oneself from choosing (i.e. acting).
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
+
+---
