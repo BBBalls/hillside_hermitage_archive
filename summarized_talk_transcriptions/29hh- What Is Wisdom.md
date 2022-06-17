@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 29hh- What Is Wisdom?
 ---------------------
 
@@ -49,3 +55,9 @@ that\'s another way you can describe wisdom - it\'s the height of your
 perspective. The higher the wisdom, the less of an emotional involvement
 with things you have, which means that the ultimate wisdom is the
 complete surmounting and detachment from feelings and suffering.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
