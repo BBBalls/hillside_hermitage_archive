@@ -92,3 +92,5 @@ Thus this inquiry has passed 'through' the *puthujjana*'s 'being', which must no
 [^23]: He assumes: "It is the same; it is different; it is both-the-same-and-different; it is neither-the-same-nor-different."
 
 [^24]: "Craving, however, is a gratuitous (though beginningless) parasite on the intentional structure described here, and its necessity is not to be deduced from the necessity of intention in all experience. Intention does not imply craving---a hard thing to understand!"---NoD, CETANĀ.
+
+[home](/hillside_hermitage_archive/) [essays](/hillside_hermitage_archive/essays/)
