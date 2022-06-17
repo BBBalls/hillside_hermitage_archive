@@ -116,10 +116,7 @@ exist.***[^11] [^12] [^13]
 
 [^4]: Cf. Khanda Saṃyutta viii,7.
 
-[^5]:
-And not that because of which feeling, perception and cognizance are
-there.[↩︎](#fnref5){.footnote-back}
-:::
+[^5]: And not that because of which feeling, perception and cognizance are there.
 
 [^6]: "There is, monks, (a) non-born, non-become, non-made, non determined. If, monks, there were not that non-born, non-become, non-made, non-determined, an escape from (the) born, become, made, determined would not be discernible. But, because there is (a) non-born, non-become, non-made, non-determined escape from (the) born, become, made, determined is discernible."---Nibbāna Sutta, Ud. 8/3. the structure of the experience fundamentally be appropriated, freedom from the appropriation is possible.
 
