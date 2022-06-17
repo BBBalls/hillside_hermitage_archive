@@ -60,7 +60,7 @@ You don\'t have to fabricate that truth, you just need to find it and
 remember it, and that\'s actually why you can sustain mindfulness on it
 because it\'s always true.
 
-### Uncertainty Is Always In The Background. {#uncertainty-is-always-in-the-background. .sigil_not_in_toc}
+### Uncertainty Is Always In The Background.
 
 If you want to contemplate the phenomenon of *Nibbana* even as a
 *puthujjana*, then contemplate uncertainty, as in, start feeling it,
@@ -85,7 +85,7 @@ will feel like anxiety but for the trained mind that got used to it,
 recognized, and understood uncertainty, such a mind will be at peace,
 because the anxious aspect of uncertainty is due to ignorance of it.
 
-### Enduring A Feeling Is Unavoidable {#enduring-a-feeling-is-unavoidable .sigil_not_in_toc}
+### Enduring A Feeling Is Unavoidable
 
 All you need to do is start practicing sense restraint and that will
 enable you to 'endure feelings' which is not optional, the only optional
@@ -113,7 +113,7 @@ you will have to endure it. So that\'s why the WAY of endurance that you
 choose is important. Will it be the way of welcoming, resisting,
 denying, or the middle way, the way of not acting out of craving?
 
-### The Undetermined Feeling {#the-undetermined-feeling .sigil_not_in_toc}
+### The Undetermined Feeling
 
 When one KNOWS a neutral feeling, it is then recognized as superior to a
 pleasant feeling, because pleasure pressures you to get more and pain
@@ -151,7 +151,7 @@ seeing the characteristics of uncertainty, and if you develop in that
 way, you will force your mind to become dispassionate, and that\'s when
 the mind starts seeing clearly when the clouds of passion disappear.
 
-### The Context Of The Uncertain Body {#the-context-of-the-uncertain-body .sigil_not_in_toc}
+### The Context Of The Uncertain Body
 
 *Sabbe Sankhara Anicca*- all determinations are uncertain. If
 determinations are uncertain then what is to be said about the things
@@ -212,7 +212,7 @@ developed you will not suffer much on account of that anxiety, however,
 it\'s still the same route that you have to go down if you want to
 develop Nibbana.
 
-### The One And Only Path {#the-one-and-only-path .sigil_not_in_toc}
+### The One And Only Path
 
 Vitthara Sutta (AN 4.162):
 
