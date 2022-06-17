@@ -1,3 +1,9 @@
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
+
 168hh- The Contradiction in the Unwholesome
 -------------------------------------------
 
@@ -259,3 +265,9 @@ maintaining a clear, dispassionate, mindful perspective. Thinking that
 you can is the result of your intoxication with the sensual world.
 Thinking that you are seeing clearly while you are intoxicated is a
 contradiction.
+
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
+
+---
