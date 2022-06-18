@@ -1,5 +1,3 @@
----
-
 [[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
 
 ---
@@ -141,5 +139,3 @@ learning what the context is and then making an effort to discern it.
 ---
 
 [[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
-
----
