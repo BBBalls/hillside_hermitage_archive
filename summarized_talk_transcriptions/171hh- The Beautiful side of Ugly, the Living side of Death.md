@@ -1,5 +1,3 @@
----
-
 [[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
 
 ---
@@ -311,5 +309,3 @@ with food.
 ---
 
 [[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
-
----
