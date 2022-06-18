@@ -14,7 +14,7 @@ To use M3U playlists, download the [audio archive](https://archive.org/compress/
 <iframe src="https://archive.org/embed/on-nanavira-thera-notes-on-dhamma&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 **Suffering and the End of Suffering** [M3U playlist](/hillside_hermitage_archive/playlists/Suffering_and_the_End_of_Suffering_archive_playlist.m3u)
-<iframe src="https://archive.org/embed/sufering-and-the-end-of-suffering&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/suffering-and-the-end-of-suffering&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ---
 
