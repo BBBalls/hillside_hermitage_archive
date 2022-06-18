@@ -1,5 +1,3 @@
----
-
 [[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
 
 ---
@@ -104,5 +102,3 @@ Thus this inquiry has passed 'through' the *puthujjana*'s 'being', which must no
 ---
 
 [[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
----
