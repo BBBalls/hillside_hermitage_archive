@@ -11,6 +11,10 @@ To use M3U playlists, download the [audio archive](https://archive.org/compress/
 **Hillside Hermitage Discussions Podcast** [M3U playlist](/hillside_hermitage_archive/playlists/Discussions_from_a_Mountain_Top_archive_playlist.m3u)
 <iframe src="https://archive.org/embed/discussions-from-a-mountain-top&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+
+**Abandoning the Hindrances** [M3U playlist](/hillside_hermitage_archive/playlists/Abandoning_the_Hindrances_archive_playlist.m3u)
+<iframe src="https://archive.org/embed/abandoning-the-hindrances&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ---
 
 [[HOME]](/hillside_hermitage_archive/index) [[AUDIO]](/hillside_hermitage_archive/audio/index)
