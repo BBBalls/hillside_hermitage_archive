@@ -1,5 +1,3 @@
----
-
 [[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
 
 ---
@@ -30,5 +28,3 @@ On the other hand, if the Self would see that, despite all of the proof, its mas
 ---
 
 [[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
----
