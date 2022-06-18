@@ -1,5 +1,3 @@
----
-
 [[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
 
 ---
@@ -177,5 +175,3 @@ Simile](hhttps://www.accesstoinsight.org/tipitaka/mn/mn.066.than.html):
 ---
 
 [[HOME]](/hillside_hermitage_archive/index) [[TRANSCRIPTIONS]](/hillside_hermitage_archive/summarized_talk_transcriptions/index)
-
----
