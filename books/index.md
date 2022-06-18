@@ -1,5 +1,3 @@
----
-
 [[HOME]](/hillside_hermitage_archive/index)
 
 ---
@@ -13,5 +11,3 @@ Collected Essays & Summarized Talk Transcriptions of Hillside Hermitage [[EPUB]]
 ---
 
 [[HOME]](/hillside_hermitage_archive/index)
-
----
