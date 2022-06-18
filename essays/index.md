@@ -1,5 +1,3 @@
----
-
 [[HOME]](/hillside_hermitage_archive/index)
 
 ---
@@ -31,5 +29,3 @@ By Thaniyo Thero:
 ---
 
 [[HOME]](/hillside_hermitage_archive/index)
-
----
