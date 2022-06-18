@@ -1,5 +1,3 @@
----
-
 [[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
 
 ---
@@ -138,5 +136,3 @@ To conclude, it is worth mentioning that this whole situation would be much clea
 ---
 
 [[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
----
