@@ -1,10 +1,16 @@
+[[HOME]](/hillside_hermitage_archive/index) [[AUDIO]](/hillside_hermitage_archive/audio/index)
+
+---
+
 To use M3U playlists, download the [audio archive](https://archive.org/compress/hillside-hermitage-archive/formats=VBR%20MP3&file=/hillside-hermitage-archive.zip) and the desired M3U playlists. After extracting the archive, place the M3U playlist files in the same directory as the audio files. Open the M3U playlist file with an audio player.
 
-**Nanavira Thera Series**
+**Nanavira Thera Series** [M3U playlist](/hillside_hermitage_archive/playlists/Nanavira_Thera_Series_archive_playlist.m3u)
 <iframe src="https://archive.org/embed/on-nanavira-thera-notes-on-dhamma&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-[M3U playlist](/hillside_hermitage_archive/playlists/Nanavira_Thera_Series_archive_playlist.m3u)
 
-**Hillside Hermitage Discussions Podcast**
+
+**Hillside Hermitage Discussions Podcast** [M3U playlist](/hillside_hermitage_archive/playlists/Discussions_from_a_Mountain_Top_archive_playlist.m3u)
 <iframe src="https://archive.org/embed/discussions-from-a-mountain-top&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-[M3U playlist](/hillside_hermitage_archive/playlists/Discussions_from_a_Mountain_Top_archive_playlist.m3u)
 
+---
+
+[[HOME]](/hillside_hermitage_archive/index) [[AUDIO]](/hillside_hermitage_archive/audio/index)
