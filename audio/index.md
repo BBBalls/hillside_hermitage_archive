@@ -4,7 +4,7 @@
 
 <iframe src="https://archive.org/embed/hillside-hermitage-archive&playlist=1" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-[Playlists](/hillside_hermitage_archive/playlists/index)
+[**Playlists**](/hillside_hermitage_archive/playlists/index)
 
 [All audio files (9+ GB zip archive)](https://archive.org/compress/hillside-hermitage-archive/formats=VBR%20MP3&file=/hillside-hermitage-archive.zip)
 
