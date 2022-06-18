@@ -2,7 +2,7 @@
 
 ---
 
-<iframe src="https://archive.org/embed/hillside-hermitage-archive&playlist=1" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/hillside-hermitage-archive&playlist=1" width="700" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [**Playlists**](/hillside_hermitage_archive/playlists/index)
 
