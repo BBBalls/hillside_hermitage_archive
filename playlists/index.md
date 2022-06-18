@@ -1,5 +1,5 @@
-[Nanavira Thera Series](https://github.com/BBBalls/hillside_hermitage_archive/blob/main/playlists/nanavira_thera_series_playlist.htm)
+[Nanavira Thera Series:](/hillside_hermitage_archive/playlists/nanavira_thera_series_playlist.htm)
 
-<iframe src="https://github.com/BBBalls/hillside_hermitage_archive/blob/main/playlists/nanavira_thera_series_playlist.htm&playlist=1" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="/hillside_hermitage_archive/playlists/nanavira_thera_series_playlist.htm&playlist=1" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <iframe width="500"  height="300"  frameborder="0" allowfullscreen src="https://archive.org/download/hillside-hermitage-archive/nanavira_thera_series_playlist.htm"></iframe>
