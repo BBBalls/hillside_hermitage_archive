@@ -1,5 +1,3 @@
----
-
 [[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
 
 ---
@@ -61,5 +59,3 @@ The choice behind one’s actions is a general _unity_, a _context_ of one’s a
 ---
 
 [[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
----
