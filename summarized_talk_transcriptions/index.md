@@ -1,5 +1,3 @@
----
-
 [[HOME]](/hillside_hermitage_archive/index)
 
 ---
@@ -51,5 +49,3 @@
 ---
 
 [[HOME]](/hillside_hermitage_archive/index)
-
----
