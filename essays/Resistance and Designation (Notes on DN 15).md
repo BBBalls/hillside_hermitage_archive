@@ -1,8 +1,6 @@
------
-
 [[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
 
------
+---
 
 Resistance and Designation (Notes on DN 15)
 -------------------------------------------
@@ -213,5 +211,3 @@ or *inconceivable*,[^12] one simply *understands*[^13]: *there is* matter,
 ---
 
 [[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
----
