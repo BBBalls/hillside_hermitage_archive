@@ -2,15 +2,15 @@
 
 ---
 
-<iframe src="https://archive.org/embed/hillside-hermitage-archive&playlist=1" width="700" height="400" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/hillside-hermitage-audio-archive&playlist=1" width="700" height="400" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [**Playlists**](/hillside_hermitage_archive/playlists/index)
 
-[All audio files (9+ GB zip archive)](https://archive.org/compress/hillside-hermitage-archive/formats=VBR%20MP3&file=/hillside-hermitage-archive.zip)
+[All audio files (9+ GB zip archive)](https://archive.org/compress/hillside-hermitage-audio-archive/formats=VBR%20MP3&file=/hillside-hermitage-archive.zip)
 
 Right Click and "Save Link As' to save individual audio files locally.
 
-[20150310 - a1hh - Mindfulness.mp3](https://archive.orghttps://archive.org/download/hillside-hermitage-archive/20150310%20-%20a1hh%20-%20Mindfulness.mp3)
+[20150310 - a1hh - Mindfulness.mp3](https://archive.org/download/hillside-hermitage-audio-archive/20150310%20-%20a1hh%20-%20Mindfulness.mp3)
 
 [20150717 - a22hh - Some questions on anapanasati.mp3](https://archive.org/download/hillside-hermitage-archive/20150717%20-%20a22hh%20-%20Some%20questions%20on%20anapanasati.mp3)
 
