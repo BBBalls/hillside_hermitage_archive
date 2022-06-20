@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+#layout: home
 #permalink: /home/
 
 ---
@@ -12,7 +12,7 @@ This is an archive of dhamma talk recordings, summarized transcriptions, and ess
 [Audio](/hillside_hermitage_archive/audio/index)\
 [Books](/hillside_hermitage_archive/books/index)\
 [Essays](/hillside_hermitage_archive/essays/index)\
-[Summarized Talk Transcriptions](/hillside_hermitage_archive/transcriptions/index)\
+[Summarized Talk Transcriptions](/hillside_hermitage_archive/transcriptions/index)
 
 Sources:
 * [Official Website of Hillside Hermitage](https://www.hillsidehermitage.org/)
