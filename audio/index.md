@@ -1,6 +1,7 @@
 ---
-layout: page
+
 title: Audio
+
 ---
 
 ## [Supplemental PDFs](/hillside_hermitage_archive/supplemental_pdf/index)
