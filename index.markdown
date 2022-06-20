@@ -1,12 +1,3 @@
-#---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-#layout: home
-#permalink: /home/
-#
-#---
-
 This is an archive of dhamma talk recordings, summarized transcriptions, and essays by Ajahn Nyanamoli Thero on various topics of Buddhist meditation practice based on early suttas, mindfulness and right view.
 
 [Audio](/hillside_hermitage_archive/audio/index)\
