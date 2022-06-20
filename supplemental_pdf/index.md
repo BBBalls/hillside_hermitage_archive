@@ -1,5 +1,5 @@
 ---
-title: Supplemental_pdf
+title: Supplemental PDFs
 ---
 
 [20181204 - 39hh - ON SUTTAS - Mindfulness of the Body - Part 1 & 2.pdf](20181204 - 39hh - ON SUTTAS - Mindfulness of the Body - Part 1 & 2.pdf)\
