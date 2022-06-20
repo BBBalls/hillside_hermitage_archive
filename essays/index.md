@@ -4,8 +4,6 @@ title:  Essays
 
 ---
 
-# Essays
-
 By Ajahn Nyanamoli Thero:
 
 [Feelings are Suffering](Feelings are Suffering)\
