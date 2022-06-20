@@ -1,7 +1,7 @@
 ---
-layout: page
+
 title: About
-permalink: /about/
+
 ---
 
 Hillside Hermitage is a group of monks following the Early Buddhist Suttas. They live independently, apart from the mainstream traditions. The Hermitage was established by Ajahn Nyanamoli Thero who has received his Upasampada ordination in the Thai Forest Meditation Tradition and been living the monastic life since 2005.
