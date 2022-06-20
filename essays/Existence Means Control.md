@@ -1,6 +1,7 @@
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
 ---
+layout: page
+---
+
 
 ## Existence Means Control
 
@@ -25,6 +26,4 @@ On the other hand, if the Self would see that, despite all of the proof, its mas
 
 [^3]: For a puthujjana it is not enough to see this once. It is only with the repetition of this insight (achieved through effort), that the habitual view of control will disappear, and be replaced (gradually too) with the view of an inherent lack of control -- the view of impermanence. When it is seen that impermanence underlies every project of the Self, the Self ceases to be Self, since without its mastery, selfhood cannot stand. (Cf. Ñāṇavīra Thera, Notes on Dhamma, PARAMATTHA SACCA, para. 6)
 
----
 
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)

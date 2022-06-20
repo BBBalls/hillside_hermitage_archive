@@ -1,6 +1,7 @@
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
 ---
+layout: page
+---
+
 
 Determining Determinations
 --------------------------
@@ -132,6 +133,4 @@ exist.***[^11] [^12] [^13]
 
 [^13]: The only reason why assumption can be made redundant, is because it was redundant in the first place. Not knowing that it was redundant, makes it necessary, until it ceases to be so. And the reason why assumption presents itself as necessary is because it assumes that which is necessary in one's experience, namely-the five aggregates. Thus, the five aggregates, which are necessary in one's experience, come to exist, through the assuming of them as that which is necessary in one's experience. But since they are necessary in one's experience, assuming them as necessary in one's experience is not necessary. But until one knows that, that assumption will exist.
 
----
 
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)

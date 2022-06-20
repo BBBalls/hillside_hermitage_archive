@@ -1,6 +1,7 @@
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
 ---
+layout: page
+---
+
 
 ## The Necessity of Celibacy
 
@@ -60,6 +61,4 @@ Giving in to the pressure, distracts one from seeing what is it that pressures h
 
 If one contemplates the necessity of the living healthy body for _any_ sensual engagements (fleeting or otherwise), it can be discerned that even the pleasures that one can gain from it _belong_ to the actual _sense organs_. As in: pleasures are inseparable and inconceivable without them. Thus, if one wants to overcome the entire domain of sensuality, one can do so by overcoming the _ownership_ of the sense organs (or the _body_ as a whole). And extinguishing of the ownership, i.e. the necessary condition of sensuality, is done by understanding that it was impossible to own the body in the first place. If that were not so, then one’s desires would _already_ be all satisfied (i.e. there would be no desires to begin with). Alternatively, one can contemplate that if one were the true master and owner of one’s own body, that body would not be a _subject_ to illness, aging and death. It would not be _liable_ to accidents, elements, circumstances, etc. This kind of understanding can only be properly developed on the basis of restraint and celibacy. And once it is developed, then the restraint will become a normal mode of behaviour. It will not be a way of “resistance” to the sensual pull any more, because there will be no more senses that can pull one. Senses and their respective desires are a problem only when they are “mine”.
 
----
 
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)

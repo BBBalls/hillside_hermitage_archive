@@ -1,6 +1,7 @@
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
 ---
+layout: page
+---
+
 
 ## Intentions Behind One’s Actions
 
@@ -32,6 +33,4 @@ It should be clear by now that the self-honesty or transparency is not an option
 
 It is also then when the full weight of the Buddha’s “beings are owners of one’s actions” saying, is truly felt.
 
----
 
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)

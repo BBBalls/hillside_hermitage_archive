@@ -1,6 +1,7 @@
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
 ---
+layout: page
+---
+
 
 ## Papañca-Saññā-Sankhā
 
@@ -133,6 +134,4 @@ To conclude, it is worth mentioning that this whole situation would be much clea
 
 [^9]: Compare Ven. Sāriputta's answer to Ven. Udāyi when the later asked him what is there that is pleasant when there is nothing felt \[in nibbāna\]---"Just this is pleasant, friend, that herein there is nothing felt", AN iv,414.
 
----
 
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)

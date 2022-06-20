@@ -1,5 +1,5 @@
-[[HOME]](/hillside_hermitage_archive/index)
-
+---
+layout: page
 ---
 
 [20181204 - 39hh - ON SUTTAS - Mindfulness of the Body - Part 1 & 2.pdf](20181204 - 39hh - ON SUTTAS - Mindfulness of the Body - Part 1 & 2.pdf)\
@@ -13,7 +13,3 @@
 [20200721 - 166hh - How to overcome things that bother you - Thag 16.5.PDF](20200721 - 166hh - How to overcome things that bother you - Thag 16.5.PDF)\
 [20201027 - 180hh - ON SUTTAS - Right way of striving - Anguttara Nikaya 4 excerpts.pdf](20201027 - 180hh - ON SUTTAS - Right way of striving - Anguttara Nikaya 4 excerpts.pdf)\
 [20210223 - 198hh - In the seen just the seen - Thag 16.5.pdf](20210223 - 198hh - In the seen just the seen - Thag 16.5.pdf)
-
----
-
-[[HOME]](/hillside_hermitage_archive/index)

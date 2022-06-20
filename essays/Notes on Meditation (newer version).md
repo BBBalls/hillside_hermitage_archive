@@ -1,6 +1,7 @@
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
 ---
+layout: page
+---
+
 
 ## Notes on Meditaion
 
@@ -115,6 +116,4 @@ Not Perceiving the Feeling (Meanings, p. 39 and p.43).
 	
 	>-- AN 9:36
 
----
 
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)

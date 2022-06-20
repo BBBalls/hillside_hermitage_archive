@@ -1,6 +1,7 @@
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
 ---
+layout: page
+---
+
 
 ## The Infinity of The Mind (Notes on AN 1.51) 
 
@@ -102,6 +103,4 @@ that the *arahant's* mind is *immeasurable.*[^8] His *citta* has been developed 
 
 [^10]: For these very reasons the Buddha was able to "rediscover" the path which lay there. For more cf. SN 12.65.
 
----
 
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)

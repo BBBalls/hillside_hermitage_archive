@@ -1,6 +1,7 @@
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
 ---
+layout: page
+---
+
 
 ## Meaning Of The Heart
 
@@ -106,6 +107,4 @@ Therefore, this sense of self, being second to the situation as a whole, being *
 
 Sense the rhythm of the heart throughout your day, tune into its meaning of *anicca-dukkha-anatta*, and let your *Self* fall apart.
 
----
 
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)

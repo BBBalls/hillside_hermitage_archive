@@ -1,6 +1,7 @@
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
 ---
+layout: page
+---
+
 
 ## With birth, Death applies
 
@@ -180,6 +181,4 @@ escape.
 
 [^10]: Cf. Ñāṇavīra Thera, op. cit., NP., para. 9 & 10. This 'somehow' is important to note. If a puthujjana, who is not satisfied with the idea of birth being something which occurred in his past, admits that there has to be some other way in which 'birth' can be present, and if he admits that he doesn't see that way, he might make the effort to find it out, and than eventually see it.
 
----
 
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)

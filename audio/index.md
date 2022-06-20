@@ -1,12 +1,15 @@
-[[HOME]](/hillside_hermitage_archive/index)
-
 ---
+layout: page
+title: Audio
+---
+
+## [Supplemental PDFs](/hillside_hermitage_archive/supplemental_pdf/index)
+
+## [Playlists](/hillside_hermitage_archive/playlists/index)
 
 <iframe src="https://archive.org/embed/hillside-hermitage-audio-archive&playlist=1" width="700" height="400" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-[**Playlists**](/hillside_hermitage_archive/playlists/index)
-
-[All audio files (9+ GB zip archive)](https://archive.org/compress/hillside-hermitage-audio-archive/formats=VBR%20MP3&file=/hillside-hermitage-audio-archive.zip)
+### [All audio files (9+ GB zip archive)](https://archive.org/compress/hillside-hermitage-audio-archive/formats=VBR%20MP3&file=/hillside-hermitage-audio-archive.zip)
 
 Right Click and "Save Link As' to save individual audio files locally.
 
@@ -967,6 +970,3 @@ desires.mp3](https://archive.org/download/hillside-hermitage-audio-archive/20220
 [20220613 - 270hh - Metta in brief - SN
 20.4.mp3](https://archive.org/download/hillside-hermitage-audio-archive/20220613%20-%20270hh%20-%20Metta%20in%20brief%20-%20SN%2020.4.mp3)
 
----
-
-[[HOME]](/hillside_hermitage_archive/index)

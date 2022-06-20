@@ -1,6 +1,7 @@
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
 ---
+layout: page
+---
+
 
 ## Peripheral Awareness
 
@@ -56,6 +57,4 @@ The choice behind one’s actions is a general _unity_, a _context_ of one’s a
 
 [^7]: Hence the fully developed knowledge that came from the Right View, results in freeing an individual from his actions (_kamma_). Full understanding of the nature of the “choice” as “peripheral”, removes the gratuitous _assumption_ (_upadana_) of necessity of the “Chooser” i.e. the Self. Understanding the choice or intentional intention (_cetana_) frees oneself from choosing (i.e. acting).
 
----
 
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)

@@ -1,6 +1,7 @@
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
 ---
+layout: page
+---
+
 
 ## Hierarchy of Awareness
 
@@ -35,6 +36,4 @@ Thus, Self is the reason for the existence of Self, i.e. both reflexion and imme
 [^9]: View originating from the Self.
 [^10]: Only an _arahat_ is completely free from this pressing nature of experience. The case with other _sekhā_ is that ‘pressure’ varies in degrees.
 
----
 
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)

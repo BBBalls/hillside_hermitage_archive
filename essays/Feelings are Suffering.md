@@ -1,6 +1,7 @@
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
 ---
+layout: page
+---
+
 
 ## Feelings are Suffering
 
@@ -31,6 +32,4 @@ and unpleasant when not-known \[as such\]"**
 
 So, to summarize, one's experience of pain is *not* the reason for one's suffering. It is rather the presence of craving, in one's experience, that suffering *is there*. As long as this remains the case, one will be a "victim" of one's own feelings, be they pleasant, unpleasant or neutral.
 
----
 
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)

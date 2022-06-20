@@ -1,5 +1,6 @@
-[[HOME]](/hillside_hermitage_archive/index)
-
+---
+layout: page
+title:  Essays
 ---
 
 # Essays
@@ -25,7 +26,3 @@ By Ajahn Nyanamoli Thero:
 By Thaniyo Thero:
 
 [Meaning Of The Heart](Meaning Of The Heart)
-
----
-
-[[HOME]](/hillside_hermitage_archive/index)

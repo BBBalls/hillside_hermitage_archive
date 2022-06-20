@@ -1,6 +1,7 @@
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
 ---
+layout: page
+---
+
 
 Not Perceiving the Feeling (Notes on MN 43)
 -------------------------------------------
@@ -154,6 +155,4 @@ again.
 
 [^16]: Matter matters, feeling feels, perception perceives, determinations determine, consciousness cognizes.
 
----
 
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)

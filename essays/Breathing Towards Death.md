@@ -1,6 +1,7 @@
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)
-
 ---
+layout: page
+---
+
 
 ## Breathing Towards Death
 
@@ -24,6 +25,4 @@ The reason why this is very important to see is that many people use a mere plea
 
 A dying man can only rely upon his wisdom, if he developed it. Wisdom is not dependent upon any phenomenon originated upon six senses. It is developed on the basis of the *discernment* of the same. That's why when one's senses start to wither and die, the knowledge of their nature remains unaffected. When there is no wisdom, there will be despair, in the face of death.
 
----
 
-[[HOME]](/hillside_hermitage_archive/index) [[ESSAYS]](/hillside_hermitage_archive/essays/index)

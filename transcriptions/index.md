@@ -1,5 +1,6 @@
-[[HOME]](/hillside_hermitage_archive/index)
-
+---
+layout: page
+title:  Summarized Transcriptions
 ---
 
 [05hh- Purpose Of The Precepts](05hh- Purpose Of The Precepts)\
@@ -45,7 +46,3 @@
 [247hh- Discerning The Body For Uprooting Of Sensuality](247hh- Discerning The Body For Uprooting Of Sensuality)\
 [257hh- Only The Noble Truth Of Pain](257hh- Only The Noble Truth Of Pain)\
 [258hh- Simile of The Son’s Flesh](258hh- Simile of The Son’s Flesh)
-
----
-
-[[HOME]](/hillside_hermitage_archive/index)
