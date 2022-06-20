@@ -26,7 +26,7 @@ url: "https://bbballs.github.io" # the base hostname & protocol for your site, e
 github_username:  BBBalls
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
 
 # Exclude from processing.
 # The following items will not be processed, by default.
