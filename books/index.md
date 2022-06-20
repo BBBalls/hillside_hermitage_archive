@@ -1,6 +1,7 @@
 ---
-layout: page
+
 title: Books
+
 ---
 
 Meanings: Essays and Letters on Dhamma by Ajahn Nyanamoli Thero [[EPUB]](Meanings - Bhikkhu Ninoslav Nanamoli.epub) [[PDF]](Meanings - Ajahn Nyanamoli Thero.pdf)
