@@ -20,7 +20,7 @@
 
 #title: Hillside Hermitage Archive
 #description: >- # this means to ignore newlines until "baseurl:"
-  An archive of dhamma talk recordings, summarized transcriptions, and essays by Ajahn Nyanamoli Thero on various topics of Buddhist meditation practice based on early suttas, mindfulness and right view.
+  #An archive of dhamma talk recordings, summarized transcriptions, and essays by Ajahn Nyanamoli Thero on various topics of Buddhist meditation practice based on early suttas, mindfulness and right view.
 #baseurl: "/hillside_hermitage_archive" # the subpath of your site, e.g. /blog
 #url: "https://bbballs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  BBBalls
