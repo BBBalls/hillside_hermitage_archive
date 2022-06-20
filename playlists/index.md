@@ -1,5 +1,7 @@
 ---
-layout: page
+
+title: Playlists
+
 ---
 
 To use M3U playlists, download the [audio archive](https://archive.org/compress/hillside-hermitage-archive/formats=VBR%20MP3&file=/hillside-hermitage-archive.zip) and the desired M3U playlists. After extracting the archive, place the M3U playlist files in the same directory as the audio files. Open the M3U playlist file with an audio player.
