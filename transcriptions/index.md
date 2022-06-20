@@ -1,6 +1,7 @@
 ---
-layout: page
+
 title:  Summarized Transcriptions
+
 ---
 
 [05hh- Purpose Of The Precepts](05hh- Purpose Of The Precepts)\
