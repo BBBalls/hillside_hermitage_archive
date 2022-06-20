@@ -1,8 +1,3 @@
----
-layout: page
----
-
-
 ## Appearance and Existence
 
 by Ajahn Nyanamoli Thero
