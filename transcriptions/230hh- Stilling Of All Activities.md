@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  230hh- Stilling Of All Activities
+author: Ajahn Nyanamoli Thero
+date: 2022-02-11
+layout: post
 ---
-
-
-230hh- Stilling Of All Activities
----------------------------------
 
 > \"Then the Venerable Ānanda approached the Blessed One, paid homage to
 > him, sat down to one side,and said to him:

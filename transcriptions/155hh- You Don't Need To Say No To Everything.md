@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  155hh- You Don't Need To Say No To Everything
+author: Ajahn Nyanamoli Thero
+date: 2021-05-20
+layout: post
 ---
-
-
-155hh- You Don\'t Need To Say No To Everything
-----------------------------------------------
 
 **Nm:** What needs to be restrained? Do you say no to everything, to
 whatever your eye wants to see or whatever your nose wants to smell? How

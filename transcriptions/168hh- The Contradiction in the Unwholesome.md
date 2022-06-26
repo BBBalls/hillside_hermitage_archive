@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  168hh- The Contradiction in the Unwholesome
+author: Ajahn Nyanamoli Thero
+date: 2021-06-17
+layout: post
 ---
-
-
-168hh- The Contradiction in the Unwholesome
--------------------------------------------
 
 **Nm:** Unwholesome things are unwholesome because in themselves they
 contain a contradiction or a discrepancy.

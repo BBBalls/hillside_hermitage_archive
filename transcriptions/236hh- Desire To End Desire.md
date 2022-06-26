@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  236hh- Desire To End Desire
+author: Ajahn Nyanamoli Thero
+date: 2022-04-06
+layout: post
 ---
-
-
-236hh- Desire To End Desire
----------------------------
 
 > \"And what, monks, is the right effort? (1) There is the case where a
 > monk generates desire, endeavors, activates persistence, upholds &

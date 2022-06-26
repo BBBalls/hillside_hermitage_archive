@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  257hh- Only The Noble Truth Of Pain
+author: Ajahn Nyanamoli Thero
+date: 2022-02-23
+layout: post
 ---
-
-
-257hh- Only The Noble Truth Of Pain
------------------------------------
 
 **Q:** The four noble truths, you\'re saying, are four aspects to one
 insight.

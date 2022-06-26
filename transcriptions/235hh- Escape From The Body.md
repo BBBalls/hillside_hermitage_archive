@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  235hh- Escape From The Body
+author: Ajahn Nyanamoli Thero
+date: 2022-06-14
+layout: post
 ---
-
-
-235hh- Escape From The Body
----------------------------
 
 <u>**Right order, and non-delight in masculinity/femininity**</u>
 

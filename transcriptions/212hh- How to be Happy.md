@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  212hh- How to be Happy
+author: Ajahn Nyanamoli Thero
+date: 2022-04-29
+layout: post
 ---
-
-
-212hh- How to be Happy
-----------------------
 
 The first thing you have to answer is what happiness is for you? Most
 people generally go through life without even knowing what they want,

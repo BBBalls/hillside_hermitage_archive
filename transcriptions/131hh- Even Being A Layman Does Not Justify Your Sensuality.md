@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  131hh- Even Being A Layman Does Not Justify Your Sensuality
+author: Ajahn Nyanamoli Thero
+date: 2022-05-04
+layout: post
 ---
-
-
-131hh- Even Being A Layman Does Not Justify Your Sensuality
------------------------------------------------------------
 
 ### The practice starts by learning what the Buddha taught.
 

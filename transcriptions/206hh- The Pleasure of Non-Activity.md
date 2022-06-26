@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  206hh- The Pleasure of Non-Activity
+author: Ajahn Nyanamoli Thero
+date: 2022-01-21
+layout: post
 ---
-
-
-206hh- The Pleasure of Non-Activity
------------------------------------
 
 [Theragatha 19.1 -Talaputta](https://suttacentral.net/thag19.1):
 

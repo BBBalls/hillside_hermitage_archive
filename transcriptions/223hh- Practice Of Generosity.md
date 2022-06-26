@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  223hh- Practice Of Generosity
+author: Ajahn Nyanamoli Thero
+date: 2022-03-22
+layout: post
 ---
-
-
-223hh- Practice Of Generosity
------------------------------
 
 **Q:** Is generosity beneficial?
 

@@ -1,11 +1,12 @@
 ---
-layout: page
+title: Papañca-Saññā-Sankhā
+author: Ajahn Nyanamoli Thero
+layout: post
 ---
 
-
-## Papañca-Saññā-Sankhā
-
 by Ajahn Nyanamoli Thero
+
+---
 
 This compound has represented, to paraphrase John D. Ireland from his
 Udāna translation notes, a stumbling block which even the ancient
@@ -24,7 +25,7 @@ in detail with any other different interpretations of this compound. I
 am aware that Ven. Ñāṇananda in his "Concept and Reality in Early
 Buddhist Thought" addresses this topic to a certain degree and also that
 Ven. Bhikkhu Bodhi based his views of the term upon this
-interpretation[^1] but I, myself, have never actually read Ven.
+interpretation[\[1\]](#n1){:#ref1} but I, myself, have never actually read Ven.
 Ñāṇananda's book so my view on this matter will come from perhaps, to
 some extent, a different angle.
 
@@ -36,7 +37,7 @@ the compound are defined as *saññā* (perception) and *sankhā* (sign or
 characteristic). So the above-mentioned translations would, to some
 degree, convey the nature of *papañca-saññā-sankhā* quite accurately
 and, as Ven. Bhikkhu Bodhi says in *The Middle Length Discourses of the
-Buddha[^2]* (endnote no. 229, p. 1204-5), "no rendering \[of this compound\] is utterly beyond doubt". The question which raises itself then is not how to etymologically trace the exact roots and origination of the compound, since such, a task in this case proves impossible in the absolute sense (and many seem to agree with this). Rather, it is better to focus and try to find out *within* one's own experience and practice what is implied existentially and
+Buddha[\[2\]](#n2){:#ref2}* (endnote no. 229, p. 1204-5), "no rendering \[of this compound\] is utterly beyond doubt". The question which raises itself then is not how to etymologically trace the exact roots and origination of the compound, since such, a task in this case proves impossible in the absolute sense (and many seem to agree with this). Rather, it is better to focus and try to find out *within* one's own experience and practice what is implied existentially and
 phenomenologically in the Suttas by this term.
 
 At the risk of being incomprehensible on some points, I would try to use
@@ -62,7 +63,7 @@ this, the whole perception of a thing comes to 'grow' in a course of
 time, so to speak, and though there are certainly significances which
 are *recognized* as common to all people, at a more fundamental level
 they are all *individually* acquired and carried by each of
-us[^3].
+us[\[3\]](#n3){:#ref3}.
 
 Without going into greater details let us say that in the Suttas this
 intentionality of experience is what is meant by the statement "with the
@@ -93,12 +94,12 @@ when the mind is not free from the bonds of ignorance and when it keeps
 following things in their appearance--- "...his consciousness flows
 after the sign of form \[sound, smell, tastes, touches, thoughts\], is
 tied and shackled by gratification in the sign of form, if fettered by
-the fetter of gratification..."[^4]. And surely enough it is said that the *arahant* is *nippapañca*---without diversifications, free from any attachments (*upadhi*), free from burden *accumulated* in the past.
+the fetter of gratification..."[\[4\]](#n4){:#ref4}. And surely enough it is said that the *arahant* is *nippapañca*---without diversifications, free from any attachments (*upadhi*), free from burden *accumulated* in the past.
 
 Thus, one's world (everything which appears---*nāma-rūpa*), expands.
 One's views, desires etc. expand too, yet this should not be understood
 in a momentary sense, which would suggest that they will somehow
-'shrink' afterwards[^5] by themselves. Their *intensity* or the *intensity of their presence*, once 'accumulated' i.e. came to being, is being 'assumed' or 'held' (*upādāna*) at that (new) face value. When this happens---and it happens through the repetition of \[ignorant\] actions as said above---consciousness "becomes established" upon that *degree of
+'shrink' afterwards[\[5\]](#n5){:#ref5} by themselves. Their *intensity* or the *intensity of their presence*, once 'accumulated' i.e. came to being, is being 'assumed' or 'held' (*upādāna*) at that (new) face value. When this happens---and it happens through the repetition of \[ignorant\] actions as said above---consciousness "becomes established" upon that *degree of
 presence*, which then becomes the *actual experience* of that *thing*.
 Thus, the intensity of experience, that which appears as *nāma-rūpa*
 grows (for more details see Mahānidāna Sutta, DN 15 \[ii,63\]). This
@@ -106,7 +107,7 @@ kind of pattern stretches from the most fundamental levels of our
 existence (as seen in Mūlapariyāya Sutta), up to the coarsest ones which
 we might say are, "resorting to rods and weapons, of quarrels, brawls,
 disputes, recrimination, malicious words and false
-speech[^6]...", that is *the directly painful actions
+speech[\[6\]](#n6){:#ref6}...", that is *the directly painful actions
 resulting from one's ignorance*. Thus, based on the above, *papañca*
 represents the 'diffusion' of this fundamental underlying principle with
 ignorance being *necessarily present*, and consequently
@@ -114,24 +115,24 @@ ignorance being *necessarily present*, and consequently
 and originated as a result of taking this principle of diffusion for
 granted i.e. not understanding it.
 
-To conclude, it is worth mentioning that this whole situation would be much clearer if we can bear in mind Ven. Ñāṇavīra Thera's description of the infinite hierarchy of consciousness, the different levels of generality of *nāma-rūpa*---*viññāṇa*. That is because *papañca-saññā-sankhā* is not something which appears on a voluntary level, as if one could stop it at any time; it stretches from the most general (reflexive) levels of existence[^7]. What one is responsible for, in that whole structure, is "delighting in, welcoming and holding to..." the "source through which perceptions and notions \[born of\] mental proliferation beset a man..."[^8]. Thus the hierarchy of signifying things continues to arise (cease and change-while-standing) but it no longer grows; it is "cut off at the root, made like a palm stump". Its root was ignorance in itself and with its absence everything founded upon it comes to an end---one is free. In other words the respective experiences of the *puthujjana* and *arahant* alike, share the same fundamental nature of impermanence (arising and ceasing) but the respective *intensities* of those experiences are changed; for the *arahant feeling none* of it)[^9] and for the *puthujjana* dependant on the amount of ignorance being present. More ignorance, more 'intensity', things appear as more 'pressing' and one is easily prone to giving in to desire-and-lust. The arising of things in the *puthujjana*'s mind brings diffusion of perceptions and notions which, while not understood at its roots, will in return diffuse further and further and so on. This cannot happen in the *arahant*'s mind any more. His consciousness has 'ceased' so there is nothing to follow and diversify upon this teleological characteristic of the existential structure, which will remain only until his aggregates 'break apart'.
+To conclude, it is worth mentioning that this whole situation would be much clearer if we can bear in mind Ven. Ñāṇavīra Thera's description of the infinite hierarchy of consciousness, the different levels of generality of *nāma-rūpa*---*viññāṇa*. That is because *papañca-saññā-sankhā* is not something which appears on a voluntary level, as if one could stop it at any time; it stretches from the most general (reflexive) levels of existence[\[7\]](#n7){:#ref7}. What one is responsible for, in that whole structure, is "delighting in, welcoming and holding to..." the "source through which perceptions and notions \[born of\] mental proliferation beset a man..."[\[8\]](#n8){:#ref8}. Thus the hierarchy of signifying things continues to arise (cease and change-while-standing) but it no longer grows; it is "cut off at the root, made like a palm stump". Its root was ignorance in itself and with its absence everything founded upon it comes to an end---one is free. In other words the respective experiences of the *puthujjana* and *arahant* alike, share the same fundamental nature of impermanence (arising and ceasing) but the respective *intensities* of those experiences are changed; for the *arahant feeling none* of it)[^9] and for the *puthujjana* dependant on the amount of ignorance being present. More ignorance, more 'intensity', things appear as more 'pressing' and one is easily prone to giving in to desire-and-lust. The arising of things in the *puthujjana*'s mind brings diffusion of perceptions and notions which, while not understood at its roots, will in return diffuse further and further and so on. This cannot happen in the *arahant*'s mind any more. His consciousness has 'ceased' so there is nothing to follow and diversify upon this teleological characteristic of the existential structure, which will remain only until his aggregates 'break apart'.
 
-[^1]: Which, as I will attempt to show in this essay, is over-simplified.
+1. {:#n1}: Which, as I will attempt to show in this essay, is over-simplified. [\[back\]](#ref1)
 
-[^2]: Translated by Bhikkhu Ñāṇamoli and Bhikkhu Bodhi, Wisdom Publications, Third edition 2005.
+2. {:#n2} Translated by Bhikkhu Ñāṇamoli and Bhikkhu Bodhi, Wisdom Publications, Third edition 2005. [\[back\]](#ref2)
 
-[^3]: Preferences and values being perhaps too coarse yet a good enough example of this.
+3. {:#n3} Preferences and values being perhaps too coarse yet a good enough example of this. [\[back\]](#ref3)
 
-[^4]: Uddhesavibhanga Sutta, MN 138. \[iii,225\]
+4. {:#n4}: Uddhesavibhanga Sutta, MN 138. \[iii,225\] [\[back\]](#ref4)
 
-[^5]: They would only do so in the arahant's case.
+5. {:#n5} They would only do so in the arahant's case. [\[back\]](#ref5)
 
-[^6]: Madhupiṇḍika Sutta, MN 18; translation taken from The Middle Length Discourses of the Buddha, Bhikkhu Ñāṇamoli and Bhikkhu Bodhi, Wisdom Publications, Third edition 2005, p. 202 \[i,109\].
+6. {:#n6} Madhupiṇḍika Sutta, MN 18; translation taken from The Middle Length Discourses of the Buddha, Bhikkhu Ñāṇamoli and Bhikkhu Bodhi, Wisdom Publications, Third edition 2005, p. 202 \[i,109\]. [\[back\]](#ref6)
 
-[^7]: Compare also the nature of the five hindrances. It takes the first jhāna for one to be able to suppress them, which speaks for itself, since such strength of one's concentration is enough for becoming an arahant (if there is wisdom, of course).
+7. {:#n7} Compare also the nature of the five hindrances. It takes the first jhāna for one to be able to suppress them, which speaks for itself, since such strength of one's concentration is enough for becoming an arahant (if there is wisdom, of course). [\[back\]](#ref7)
 
-[^8]: op. cit. p. 202.
+8. {:#n8} op. cit. p. 202. [\[back\]](#ref8)
 
-[^9]: Compare Ven. Sāriputta's answer to Ven. Udāyi when the later asked him what is there that is pleasant when there is nothing felt \[in nibbāna\]---"Just this is pleasant, friend, that herein there is nothing felt", AN iv,414.
+9. {:#n9} Compare Ven. Sāriputta's answer to Ven. Udāyi when the later asked him what is there that is pleasant when there is nothing felt \[in nibbāna\]---"Just this is pleasant, friend, that herein there is nothing felt", AN iv,414. [\[back\]](#ref9)
 
 

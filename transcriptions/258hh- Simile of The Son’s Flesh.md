@@ -1,10 +1,9 @@
 ---
-layout: page
+title: 258hh- Simile of The Son's Flesh
+author: Ajahn Nyanamoli Thero
+date: 2022-03-07
+layout: post
 ---
-
-
-258hh- Simile of The Son's Flesh
---------------------------------
 
 SN 12.63 Puttamansa Sutta: A Son\'s Flesh:
 

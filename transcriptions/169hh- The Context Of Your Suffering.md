@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  169hh- The Context Of Your Suffering
+author: Ajahn Nyanamoli Thero
+date: 2021-04-22
+layout: post
 ---
-
-
-169hh- The Context Of Your Suffering
-------------------------------------
 
 MN 121:
 

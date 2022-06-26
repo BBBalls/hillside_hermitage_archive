@@ -1,10 +1,9 @@
 ---
-layout: page
+title: 30hh- Four Noble Truths
+author: Ajahn Nyanamoli Thero
+date: 2022-04-12
+layout: post
 ---
-
-
-30hh- Four Noble Truths
------------------------
 
 > \"And what, bhikkhus, is the majjhima paṭipada/middle-way to which the
 > Tathāgata has fully awakened, which is useful for

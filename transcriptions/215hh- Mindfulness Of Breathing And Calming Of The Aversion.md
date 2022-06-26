@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  215hh- Mindfulness Of Breathing And Calming Of The Aversion
+author: Ajahn Nyanamoli Thero
+date: 2022-02-02
+layout: post
 ---
-
-
-215hh- Mindfulness Of Breathing And Calming Of The Aversion
------------------------------------------------------------
 
 > \"The Blessed One said, \"Monks, do you develop
 > mindfulness/recollection of in-&-out breathing?\" When this was said,
@@ -34,8 +33,7 @@ layout: page
 > \"Breathing in long, he discerns, \'I am breathing in long\'; or
 > breathing out long, he discerns, \'I am breathing out long.\'\...\" 
 
-> -- [SN
-> 54.6](https://www.accesstoinsight.org/tipitaka/sn/sn54/sn54.006.than.html)
+> -- [SN 54.6](https://www.accesstoinsight.org/tipitaka/sn/sn54/sn54.006.than.html)
 
 Some might think that what Arittha described is not correct mindfulness
 of breathing but the Buddha didn't disagree with him and then offered a

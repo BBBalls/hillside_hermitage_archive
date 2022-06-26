@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  210hh- How To Let Go
+author: Ajahn Nyanamoli Thero
+date: 2022-03-27
+layout: post
 ---
-
-
-210hh- How To Let Go
---------------------
 
 > \"Monks, whatever's not yours: Let go of it. Your letting go of it
 > will be for your long-term happiness & benefit. And what is not yours?

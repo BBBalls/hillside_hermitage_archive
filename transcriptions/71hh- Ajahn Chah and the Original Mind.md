@@ -1,10 +1,9 @@
 ---
-layout: page
+title: 71hh- Ajahn Chah and the Original Mind
+author: Ajahn Nyanamoli Thero
+date: 2022-03-03
+layout: post
 ---
-
-
-71hh- Ajahn Chah and the Original Mind
---------------------------------------
 
 **Ven. Thaniyo:** This is another talk by Ajahn Chah called "The Path to
 Peace." Now, this is just a few paragraphs from it that I found

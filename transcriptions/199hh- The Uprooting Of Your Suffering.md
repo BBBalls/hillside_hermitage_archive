@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  199hh- The Uprooting Of Your Suffering
+author: Ajahn Nyanamoli Thero
+date: 2021-03-11
+layout: post
 ---
-
-
-199hh- The Uprooting Of Your Suffering
---------------------------------------
 
 **Q:** Ajahn, you have said many times that the problem is that we are
 affected by things in the first place. In other words, it is possible

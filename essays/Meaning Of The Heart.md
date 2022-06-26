@@ -1,11 +1,12 @@
 ---
-layout: page
+title: Meaning Of The Heart
+author: Thaniyo Thero
+layout: post
 ---
 
-
-## Meaning Of The Heart
-
 By Thaniyo Thero
+
+---
 
 > **“What, friends, is the earth element? The earth element may be either internal or external. What is the internal earth element? Whatever internally, belonging to oneself, is solid, solidified, and appropriated; that is, head-hairs, body-hairs, nails, teeth, skin, flesh, sinews, bones, bone-marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, contents of the stomach, feces, or whatever else internally, belonging to oneself, is solid, solidified, and appropriated: this is called the internal earth element. Now both the internal earth element and the external earth element are simply earth element. And that should be seen as it actually is with proper wisdom thus: ‘This is not mine, this I am not, this is not my self.’ When one sees it thus as it actually is with proper wisdom, one becomes disenchanted with the earth element and makes the mind dispassionate toward the earth element.**\
 > **“Now there comes a time when the water element is disturbed and then the external earth element vanishes. When even this external earth element, great as it is, is seen to be impermanent, subject to destruction, disappearance, and changeˌ what of this body, which is appropriated by craving and lasts but a while? There can be no consideration of that as ‘I’ or ‘mine’ or ‘I am.’ “**
@@ -27,7 +28,7 @@ What you will discover is that you are “outside” of it, even though you woul
 > -- [MN 106](https://suttacentral.net/mn106)
 
 -----
-
+\
 Sense of self can only exist, if there is something being taken as self. However, if it turns out that that which one takes as self, is in fact not belonging to me, then that self has no legs to stand on, so to speak. It slowly falls apart, it fades away, because it needs *something* to assume to be itself. Something accessible, something mine. Yet there is no-thing here that we can find as such.
 
 > **“Bhikkhus, that assumption(of ownership, of self ) is neither the same as these five aggregates
@@ -37,7 +38,7 @@ assumption. But rather, the desire and lust for them, that is the assumption the
 > -- [SN 22.82](https://suttacentral.net/sn22.82)
 
 -----
-
+\
 Your life is dependent on that heart. You can pay attention to what you are doing whether walking, sitting, thinking, writing, making coffee, etc. However, at the back of your mind you should remember and keep reminding yourself of the meaning of that presently enduring heart beating in your chest. As you go about your day, as you act towards various things that occupy your attention (the foreground), remember that there in the background is a heart which is determining your activities. Once that situation becomes clearer, try to understand what it *means*.
 
 You could also try and pay attention to the beating heart directly, but still try to discern its meaning peripherally, in the background. Meaning of non-ownership and inaccessibility. You can also discern in the background the rest of your body, your mood, thoughts, intentions, desires, and notice just how dependent it all is on this heart here beating that I am attending to, and just how dependent this heart here is on those things working well for it to be. Let the meaning of that reveal itself, i.e notice what that situation of “yourlife actions being determined by this living, fleshy organ” means. Start to discern the dangerous position that you are in. In other words, discern the *paticcasamuppada* principle - with my heart beating, my life is; when there is my life, there is my heart beating…….
@@ -70,7 +71,7 @@ Breathe in long and short and so on, while at the back of your mind knowing the 
 Such contemplations into the nature of your existence and your attachments, will most likely unnerve you at first, but if you are accomplished in precepts and sense restraint, then you won't have anxiety that will overwhelm you when you repeatedly see this and not turn away from the unpleasant truth that says, “your very self is not your own”.
 
 -----
-
+\
 Pay attention to the heart again. Where does its energy come from? Do you have access to that? You can of course imagine or make up some story about where the energy or *life forc*e comes from, but that would only be done because you cannot sit with the fact that you don't know where it comes from. That uncertainty reveals the deeper meaning of your situation, which in turn makes you feel very uncomfortable, and so you try to get rid of that discomfort by telling yourself a story to make yourself feel better about your existence which is not your own.
 
 What if that *energy* stops? Then the heart will stop moving. The heart then is also not its own. It too is dependent upon that which it is not in its control. And so if I do not even have access to the heart organ in this body, what is to say about that which the heart depends on?
@@ -96,7 +97,7 @@ That energy, the activation, the life force, one could call consciousness, the a
 That *energy* which the body depends on, is itself dependent on the body being available. Neither aspect of this situation as a whole can be seen or known as independently arisen, and any independence is a complete fantasy on my part, an assumption on account of the pressuring ambiguity of my existence which is not in my control.
 
 -----
-
+\
 Take for example a computer game which can have a third person view of some character, walking in the bottom centre of the screen. That in a way, is how one should try and view one's first person viewpoint, such a viewpoint would be a right type of viewing. A way of seeing and knowing this situation that you are framed by. In life, you can see other people, over there or near you, and they are not what you think you are. They are others who are “over there”, and likewise is your body to others, the same way their bodies are to you - “an other over there”. No matter how close they appear. Your body is on the same plain of the other bodies you do not own. Your body is equally not owned by you.
 
 If I can take this body which happens to be very close to this point of view, as for me, or belonging to me, as self, I can also take other bodies and things which are a little bit further away, like cars, house, wife, child, cattle, wealth, country, and so on, i.e my sense of ownership, my self has no limits, it can take everything personally. If I can assume that a part of this nama-rupa domain, which is not-mine, as mine, then I can assume any part of that domain to be mine or for me.

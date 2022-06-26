@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  198hh- In The Seen Just The Seen
+author: Ajahn Nyanamoli Thero
+date: 2022-01-26
+layout: post
 ---
-
-
-198hh- In The Seen Just The Seen
---------------------------------
 
 > "What do you think, Māluṅkyaputta? The forms cognizable via the eye
 > that are unseen by you---that you have never before seen, that you

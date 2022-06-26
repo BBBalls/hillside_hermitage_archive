@@ -1,9 +1,9 @@
 ---
-layout: page
+title: On Nanavira Thera's *Notes on Dhamma* - "Anicca"
+author: Ajahn Nyanamoli Thero
+date: 2020-10-08
+layout: post
 ---
-
-
-## On Nanavira Thera\'s *Notes on Dhamma* - \"Anicca\"
 
 **Q:** This is in regards to Ven. Nanavira\'s, shorter notes on ​anicca​
 and the sutta quotes found there :

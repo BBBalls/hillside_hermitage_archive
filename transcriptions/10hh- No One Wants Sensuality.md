@@ -1,9 +1,9 @@
 ---
-layout: page
+title: 10hh- No One Wants Sensuality
+author: Ajahn Nyanamoli Thero
+date: 2022-02-28
+layout: post
 ---
-
-10hh- No One Wants Sensuality
------------------------------
 
 **Q:** Bhante, you once said that the only reason one gives into
 sensuality is because one doesn\'t want it. What do you mean by that?

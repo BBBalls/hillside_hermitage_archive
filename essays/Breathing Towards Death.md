@@ -1,11 +1,12 @@
 ---
-layout: page
+title: Breathing Towards Death
+author: Ajahn Nyanamoli Thero
+layout: post
 ---
 
-
-## Breathing Towards Death
-
 by Ajahn Nyanamoli Thero
+
+---
 
 Practising the mindfulness of breathing correctly, means practising the mindfulness of death correctly.
 

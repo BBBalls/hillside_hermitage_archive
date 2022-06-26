@@ -1,9 +1,9 @@
 ---
-layout: page
+title: 05hh- Purpose Of The Precepts
+author: Ajahn Nyanamoli Thero
+date: 2022-02-07
+layout: post
 ---
-
-05hh- Purpose Of The Precepts
------------------------------
 
 **Q:** What is the purpose of the precepts?
 

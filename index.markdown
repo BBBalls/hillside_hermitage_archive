@@ -1,9 +1,12 @@
-This is an archive of dhamma talk recordings, summarized transcriptions, and essays by Ajahn Nyanamoli Thero on various topics of Buddhist meditation practice based on early suttas, mindfulness and right view.
+---
+#title:
+author: BBBalls
+date: 2022-06-21
+category: home
+layout: post
+---
 
-[Audio](/hillside_hermitage_archive/audio/index)\
-[Books](/hillside_hermitage_archive/books/index)\
-[Essays](/hillside_hermitage_archive/essays/index)\
-[Summarized Talk Transcriptions](/hillside_hermitage_archive/transcriptions/index)
+This is an archive of dhamma talk recordings, summarized transcriptions, and essays by Ajahn Nyanamoli Thero on various topics of Buddhist meditation practice based on early suttas, mindfulness, and right view.
 
 Sources:
 * [Official Website of Hillside Hermitage](https://www.hillsidehermitage.org/)

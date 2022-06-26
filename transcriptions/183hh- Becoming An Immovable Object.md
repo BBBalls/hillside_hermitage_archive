@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  183hh- Becoming An Immovable Object
+author: Ajahn Nyanamoli Thero
+date: 2021-04-13
+layout: post
 ---
-
-
-183hh- Becoming An Immovable Object
------------------------------------
 
 **Q:** What is the middle way between asceticism and sensual indulgence?
 Is it the practice of enduring (neither giving into or denying)

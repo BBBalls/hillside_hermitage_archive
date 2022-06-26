@@ -1,10 +1,9 @@
 ---
-layout: page
+title: 28hh- Sense Of Shame And Fear Of Wrongdoing
+author: Ajahn Nyanamoli Thero
+date: 2022-04-11
+layout: post
 ---
-
-
-28hh- Sense Of Shame And Fear Of Wrongdoing
--------------------------------------------
 
 **Q:** Authenticity, self-honesty, sense of shame and a fear of
 wrongdoing, these are all prerequisites for developing freedom from

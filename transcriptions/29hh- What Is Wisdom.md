@@ -1,10 +1,9 @@
 ---
-layout: page
+title: 29hh- What Is Wisdom?
+author: Ajahn Nyanamoli Thero
+date: 2022-02-17
+layout: post
 ---
-
-
-29hh- What Is Wisdom?
----------------------
 
 **Q:** What is discernment or wisdom?
 

@@ -1,10 +1,9 @@
 ---
-layout: page
+title: 54hh- Not Wanting the Wanting
+author: Ajahn Nyanamoli Thero
+date: 2022-03-03
+layout: post
 ---
-
-
-54hh- Not Wanting the Wanting
------------------------------
 
 Wanting sense objects that you derive pleasure from, that is sensuality,
 it's that wanting. So, in order to abandon sensuality, you have to stop

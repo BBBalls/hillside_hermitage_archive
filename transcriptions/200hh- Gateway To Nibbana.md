@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  200hh- Gateway To Nibbana
+author: Ajahn Nyanamoli Thero
+date: 2021-03-21
+layout: post
 ---
-
-
-200hh- Gateway To Nibbana
--------------------------
 
 Often I speak about the endurance of unpleasant or pleasant feeling. So
 how would you practically do that? Or rather how would failing to endure

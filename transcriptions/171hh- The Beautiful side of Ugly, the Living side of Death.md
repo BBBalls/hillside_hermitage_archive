@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  171hh- The Beautiful side of Ugly, the Living side of Death
+author: Ajahn Nyanamoli Thero
+date: 2020-08-29
+layout: post
 ---
-
-
-171hh- The Beautiful side of Ugly, the Living side of Death
------------------------------------------------------------
 
 **Q:** AN 7.49:
 

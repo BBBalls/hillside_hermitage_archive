@@ -1,11 +1,12 @@
 ---
-layout: page
+title: Intentions Behind One’s Actions
+author: Ajahn Nyanamoli Thero
+layout: post
 ---
 
-
-## Intentions Behind One’s Actions
-
 by Ajahn Nyanamoli Thero
+
+---
 
 The Right meditation is inseparable from the Right view. That means that even if a person doesn’t have the Right view, their meditation should be concerned about getting it. To put it simply – it comes down to developing the self-transparency (or self-honesty) concerning skilful as skilful (_kusala_) and unskilful as unskilful (_akusala_). The Buddha defined the Right view in those very terms – knowing “good as good”, and “bad as bad”. The person with the Right view knows for oneself, beyond any doubt, _kusala_ as _kusala_ and _akusala_ as _akusala_. By seeing it – he recognizes it. He doesn’t need to hold or adopt any other external criteria. The clarity of his vision pertains to here and now, internally. Thus, for someone who hasn’t achieved that yet, that’s where the meditation should start. Obtaining of the Right criteria and then meditating through it. Keeping it “composed” is the definition of the Right _samadhi_.
 

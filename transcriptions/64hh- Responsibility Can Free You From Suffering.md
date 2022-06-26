@@ -1,10 +1,9 @@
 ---
-layout: page
+title: 64hh- Responsibility Can Free You From Suffering
+author: Ajahn Nyanamoli Thero
+date: 2022-04-19
+layout: post
 ---
-
-
-64hh- Responsibility Can Free You From Suffering
-------------------------------------------------
 
 The reason why understanding is hard to develop, is because in order to
 do so, one needs to know what must be understood. That might sound self

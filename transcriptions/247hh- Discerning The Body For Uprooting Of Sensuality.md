@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  247hh- Discerning The Body For Uprooting Of Sensuality
+author: Ajahn Nyanamoli Thero
+date: 2022-01-16
+layout: post
 ---
-
-
-247hh- Discerning The Body For Uprooting Of Sensuality
-------------------------------------------------------
 
 The reason why a person\'s mind would still be dependent on the pleasure
 of the senses despite knowing how little satisfaction they provide or

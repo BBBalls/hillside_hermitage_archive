@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  173hh- Dukkha in Anicca, Anatta in Dukkha
+author: Ajahn Nyanamoli Thero
+date: 2020-10-06
+layout: post
 ---
-
-
-173hh- Dukkha in Anicca, Anatta in Dukkha
------------------------------------------
 
 **Q:** AN 7.49 continued:
 

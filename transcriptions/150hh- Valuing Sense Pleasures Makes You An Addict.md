@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  150hh- Valuing Sense Pleasures Makes You An Addict
+author: Ajahn Nyanamoli Thero
+date: 2021-05-08
+layout: post
 ---
-
-
-150hh- Valuing Sense Pleasures Makes You An Addict
---------------------------------------------------
 
 **Q:** You mentioned before that a person cannot get the right view
 without first abandoning the value of sensuality, what did you mean by

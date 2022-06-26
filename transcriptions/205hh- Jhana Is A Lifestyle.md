@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  205hh- Jhana Is A Lifestyle
+author: Ajahn Nyanamoli Thero
+date: 2022-01-12
+layout: post
 ---
-
-
-205hh- Jhana Is A Lifestyle
----------------------------
 
 *"Jhana is an establishment of mind that results from your own efforts
 of purifying your lifestyle. It\'s not a magical experience that will

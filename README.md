@@ -45,4 +45,3 @@ The errors found in the original archive of talks are:
 
 Books, essays, and summarized transcriptions have been added to the archive when released by Hillside Hermitage on https://www.hillsidehermitage.org or https://t.me/HillsideHermitage.
 
-

@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  203hh- The Truth About The Five Hindrances
+author: Ajahn Nyanamoli Thero
+date: 2021-04-08
+layout: post
 ---
-
-
-203hh- The Truth About The Five Hindrances
-------------------------------------------
 
 > "Monks, there are these five hindrances. Which five? Sensual desire as
 > a hindrance, ill will as a hindrance, sloth & drowsiness as a

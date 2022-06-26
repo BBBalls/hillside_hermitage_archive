@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  83hh- Don't Be Faithful to Ignorance
+author: Ajahn Nyanamoli Thero
+date: 2022-03-03
+layout: post
 ---
-
-
-83hh- Don't Be Faithful to Ignorance
-------------------------------------
 
 **Thaniyo:** I was wondering if we could speak about lying, the
 phenomenon of lying, the choice to lie. A simple question: Is it wrong
@@ -698,7 +697,7 @@ responsibility for that suffering, in regard to the disagreeable
 feeling, you stop blaming it for that suffering---which means you stop
 resisting, which means you stop suffering. That's it.
 
-****Thaniyo:**** You stop touching it.
+**Thaniyo:** You stop touching it.
 
 **Nyanamoli:** You stop getting into the domain that doesn't belong to
 you---that belongs to Māra. If you stop taking it as yours, that's

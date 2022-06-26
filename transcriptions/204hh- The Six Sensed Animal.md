@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  204hh- The Six Sensed Animal
+author: Ajahn Nyanamoli Thero
+date: 2021-04-16
+layout: post
 ---
-
-
-204hh- The Six Sensed Animal
-----------------------------
 
 SN 35.247:
 

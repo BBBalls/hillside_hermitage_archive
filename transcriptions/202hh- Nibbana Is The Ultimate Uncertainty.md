@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  202hh- Nibbana Is The Ultimate Uncertainty
+author: Ajahn Nyanamoli Thero
+date: 2021-04-02
+layout: post
 ---
-
-
-202hh- Nibbana Is The Ultimate Uncertainty
-------------------------------------------
 
 Colloquially speaking, if something is determined it implies certainty
 and undetermined implies uncertainty. The highest undetermined thing is

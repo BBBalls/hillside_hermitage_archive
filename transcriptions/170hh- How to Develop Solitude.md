@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  170hh- How to Develop Solitude
+author: Ajahn Nyanamoli Thero
+date: 2020-08-26
+layout: post
 ---
-
-
-170hh- How to Develop Solitude
-------------------------------
 
 **Q:**​ The Buddha encourages the development of seclusion. What then is
 the best way to cultivate it?

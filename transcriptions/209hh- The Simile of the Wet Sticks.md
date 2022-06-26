@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  209hh- The Simile of the Wet Sticks
+author: Ajahn Nyanamoli Thero
+date: 2022-04-15
+layout: post
 ---
-
-
-209hh- The Simile of the Wet Sticks
------------------------------------
 
 **Q:** [MN 36 Mahāsaccaka sutta](https://suttacentral.net/mn36):
 

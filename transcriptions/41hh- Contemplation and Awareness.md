@@ -1,10 +1,9 @@
 ---
-layout: page
+title: 41hh- Contemplation and Awareness
+author: Ajahn Nyanamoli Thero
+date: 2022-03-03
+layout: post
 ---
-
-
-41hh- Contemplation and Awareness
----------------------------------
 
 ### Discerning the background
 
@@ -736,8 +735,3 @@ seeing the extent of sensuality.
 background of sensuality. Discerning gradually the significance of it.
 Taking responsibility for the choice. That's another approach to the
 same thing.
-
----
-layout: page
----
-

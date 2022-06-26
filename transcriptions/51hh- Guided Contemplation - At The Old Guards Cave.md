@@ -1,10 +1,9 @@
 ---
-layout: page
+title: 51hh- Guided Contemplation - At The Old Guards Cave
+author: Ajahn Nyanamoli Thero
+date: 2022-04-04
+layout: post
 ---
-
-
-51hh- Guided Contemplation - At The Old Guards Cave
----------------------------------------------------
 
 Meditation/*Bhāvanā*, the mental development that the Buddha taught, is
 about the cultivation of understanding or wisdom. A practitioner,

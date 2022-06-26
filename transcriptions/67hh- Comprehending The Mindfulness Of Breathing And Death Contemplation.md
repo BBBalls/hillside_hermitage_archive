@@ -1,10 +1,9 @@
 ---
-layout: page
+title: 67hh- Comprehending The Mindfulness Of Breathing And Death Contemplation
+author: Ajahn Nyanamoli Thero
+date: 2022-03-03
+layout: post
 ---
-
-
-67hh- Comprehending The Mindfulness Of Breathing And Death Contemplation
-------------------------------------------------------------------------
 
 ### I. Mindfulness of Breathing
 

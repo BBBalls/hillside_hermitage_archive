@@ -1,10 +1,9 @@
 ---
-layout: page
+title: 70hh- The Stream Entry of Ajahn Chah
+author: Ajahn Nyanamoli Thero
+date: 2022-06-02
+layout: post
 ---
-
-
-70hh- The Stream Entry of Ajahn Chah
-------------------------------------
 
 ### On Views
 

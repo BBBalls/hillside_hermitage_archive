@@ -1,10 +1,9 @@
 ---
-layout: page
+title:  185hh- Samsara Is Directly Visible
+author: Ajahn Nyanamoli Thero
+date: 2021-01-06
+layout: post
 ---
-
-
-185hh- Samsara Is Directly Visible
-----------------------------------
 
 Ask yourself can you stop your feelings? Can you stop your form/rupa
 from deteriorating? Can you prevent perceptions from besetting you? Can
