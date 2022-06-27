@@ -6,15 +6,14 @@ category: Transcriptions
 layout: post
 ---
 
-![cover](/hillside_hermitage_archive/images/Dhamma Within Reacher cover.jpg)
-
-# DHAMMA WITHIN REACH
-
 by
 
-AJAHN NYANAMOLI THERO
+Ajahn Nyanamoli Thero
+
+![cover](/hillside_hermitage_archive/images/Dhamma Within Reacher cover.jpg)
 
 ***
+
 
 I delight not in life, I delight not in death.  
 I await my time like a hireling his wage.  
