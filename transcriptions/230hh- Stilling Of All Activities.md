@@ -5,6 +5,8 @@ date: 2022-02-11
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210924 - 230hh - Stilling of all activities.pdf) [[external link]](https://drive.google.com/file/d/1UxN7ove4Va2U0HYOsC1A9Fgzid0VokXR/view)
+
 > \"Then the Venerable Ānanda approached the Blessed One, paid homage to
 > him, sat down to one side,and said to him:
 >

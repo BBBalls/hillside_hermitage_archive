@@ -5,6 +5,8 @@ date: 2022-04-04
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20190107 - 51hh - GUIDED CONTEMPLATION - At the old guards cave.pdf) [[external link]](https://drive.google.com/file/d/1T4RcRuXQOuuypQPYZIa-OJf4nI4FIqem/view)
+
 Meditation/*Bhāvanā*, the mental development that the Buddha taught, is
 about the cultivation of understanding or wisdom. A practitioner,
 therefore, should not be looking for some kind of special novelty

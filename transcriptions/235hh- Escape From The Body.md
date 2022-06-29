@@ -5,6 +5,8 @@ date: 2022-06-14
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20211026 - 235hh - Escape from the body.pdf) [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/235hh-Escape-from-the-body-1.pdf)
+
 <u>**Right order, and non-delight in masculinity/femininity**</u>
 
 > "Bhikkhus, I will teach you a Dhamma exposition on union and

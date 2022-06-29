@@ -6,6 +6,8 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
+[[source]](https://www.hillsidehermitage.org/appearance-and-existence/)
+
 ---
 
 For a *puthujjana* the world exists. He can perceive things in that world, see them appear and disappear, he can see them changing. A *puthujjana* can also affect his surroundings and modify things according to own preferences, pursue the desirable experiences and avoid the undesirable ones---the *puthujjana* is *involved*. This 'involvement' with things represents the very core of the *puthujjana*'s 'experience as a whole'. Most people spend the majority of their lives obliviously absorbed in it, taking the course of 'involvement' for

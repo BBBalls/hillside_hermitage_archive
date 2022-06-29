@@ -5,6 +5,8 @@ date: 2020-10-06
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200908 - 173hh - Developing the right kind of perceptions - Part 2 - Dukkha in anicca anatta in dukkha.pdf) [[external link]](https://t.me/HillsideHermitage/40)
+
 **Q:** AN 7.49 continued:
 
 > 4-\...When a Bhikkhu becomes accustomed to the perception of

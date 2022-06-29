@@ -6,6 +6,8 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
+[[source]](https://www.hillsidehermitage.org/the-necessity-of-celibacy/)
+
 ---
 
 Practice of celibacy is always beneficial. Even for a lay person, who is not necessarily Buddhist or familiar with the Dhamma. The obvious reason for its benefits is the inevitable increase of the mental strength that comes with the restraint. This restraint is _intentional_ and aims at a very powerful desire that otherwise shapes and controls one’s whole life. Sensuality/sexuality is something that heavily contributes towards defining one’s actions and choices. It is something that has at least some influence in virtually all of them.

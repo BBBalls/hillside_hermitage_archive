@@ -5,6 +5,8 @@ date: 2022-03-03
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/7 Transcripts & Essays Not In The Books.pdf) [external link](https://drive.google.com/file/d/1Xv0tWqyrw9XD_M7hxeUBsoP7qiXUbXDi/view)
+
 ### I. Mindfulness of Breathing
 
 **Ven. Thaniyo:** I wanted to ask about mindfulness of breathing, and

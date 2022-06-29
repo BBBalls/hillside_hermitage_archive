@@ -5,6 +5,8 @@ date: 2022-04-06
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20211104 - 236hh - Desire to end desire.pdf) [[external link](https://drive.google.com/file/d/1OT4x-lWcx7wBMaeeXBkixt16nPaNhhkP/view)
+
 > \"And what, monks, is the right effort? (1) There is the case where a
 > monk generates desire, endeavors, activates persistence, upholds &
 > exerts his intent for the sake of the [non-arising of evil, unskillful

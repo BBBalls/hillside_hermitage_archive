@@ -6,6 +6,8 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
+[[source]](https://pathpress.files.wordpress.com/2014/06/nanamoli_meanings.pdf)
+
 ---
 
 The fundamental nature of our experience can be described as a hierarchy, which Ven. Ñāṇavīra tried to explain in his FUNDAMENTAL STRUCTURE (NoD). We are what we experience, it is not possible to view (or imagine) this hierarchy from ‘outside’, independent of us, because regardless of how far one steps back, one cannot abandon the experience as such.

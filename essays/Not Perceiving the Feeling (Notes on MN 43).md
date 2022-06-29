@@ -6,6 +6,8 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
+[[source]](https://www.hillsidehermitage.org/not-perceiving-the-feeling-notes-on-mn-43/)
+
 ---
 
 > Friend, feeling and perception and consciousness-these things are

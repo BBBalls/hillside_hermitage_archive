@@ -5,6 +5,8 @@ date: 2022-03-03
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/7 Transcripts & Essays Not In The Books.pdf) [external link](https://drive.google.com/file/d/1Xv0tWqyrw9XD_M7hxeUBsoP7qiXUbXDi/view)
+
 ### Discerning the background
 
 **Thaniyo:** In terms of contemplating the 32 parts of the body, how do

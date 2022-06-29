@@ -5,6 +5,8 @@ date: 2022-02-02
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210714 - 215hh - Mindfulness of breathing and calming of aversion - SN 54.6 MN 62.pdf) [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/215hh-Mindfulness-Of-Breathing-And-Calming-Of-The-Aversion-.pdf)
+
 > \"The Blessed One said, \"Monks, do you develop
 > mindfulness/recollection of in-&-out breathing?\" When this was said,
 > Ven. Arittha replied to the Blessed One, \"I develop mindfulness of

@@ -6,6 +6,8 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
+[[source]](https://www.hillsidehermitage.org/determining-determinations/)
+
 ***
 
 1\. Feeling, perception and consciousness are always there

@@ -6,6 +6,8 @@ layout: post
 
 By Thaniyo Thero
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/Meaning Of The Heart by Thaniyo Thero.pdf) [[external link]](https://t.me/HillsideHermitage/170)
+
 ---
 
 > **“What, friends, is the earth element? The earth element may be either internal or external. What is the internal earth element? Whatever internally, belonging to oneself, is solid, solidified, and appropriated; that is, head-hairs, body-hairs, nails, teeth, skin, flesh, sinews, bones, bone-marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, contents of the stomach, feces, or whatever else internally, belonging to oneself, is solid, solidified, and appropriated: this is called the internal earth element. Now both the internal earth element and the external earth element are simply earth element. And that should be seen as it actually is with proper wisdom thus: ‘This is not mine, this I am not, this is not my self.’ When one sees it thus as it actually is with proper wisdom, one becomes disenchanted with the earth element and makes the mind dispassionate toward the earth element.**\

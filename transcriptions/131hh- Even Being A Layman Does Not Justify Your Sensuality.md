@@ -5,6 +5,8 @@ date: 2022-05-04
 layout: post
 ---
 
+[[source pdf](/hillside_hermitage_archive/source_pdfs/20191216 - 131hh - Even being a layman does not justify your sensuality_v2.pdf) [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/131hh_Even_Being_A_Layman_Does_Not_Justify_Your_Sensuality_1.pdf)
+
 ### The practice starts by learning what the Buddha taught.
 
 For a person who is interested in following the Buddha's instruction, it

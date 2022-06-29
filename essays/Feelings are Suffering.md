@@ -6,6 +6,8 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
+[[source]](https://www.hillsidehermitage.org/feelings-are-suffering/)
+
 ---  
 
 How should one free oneself from suffering?

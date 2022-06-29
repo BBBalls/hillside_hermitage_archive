@@ -6,6 +6,8 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
+[[source]](https://www.hillsidehermitage.org/papanca-sanna-sankha/)
+
 ---
 
 This compound has represented, to paraphrase John D. Ireland from his

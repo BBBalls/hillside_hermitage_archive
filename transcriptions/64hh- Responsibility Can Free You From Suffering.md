@@ -5,6 +5,8 @@ date: 2022-04-19
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20190404 - 64hh - Responsibility can free you from suffering.pdf) [[external link](https://drive.google.com/file/d/1cf42HxjL0lAQZU4bqBK9ubnyBUmYY3S7/view)
+
 The reason why understanding is hard to develop, is because in order to
 do so, one needs to know what must be understood. That might sound self
 explanatory, but the point is, understanding takes repetition. One needs

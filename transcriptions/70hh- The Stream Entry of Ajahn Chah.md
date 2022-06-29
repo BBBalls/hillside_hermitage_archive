@@ -5,6 +5,8 @@ date: 2022-06-02
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20190328 - 70hh - The stream-entry of Ajahn Chah.pdf) [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/70hh-The-Stream-Entry-of-Ajahn-Chah-1.pdf)
+
 ### On Views
 
 > "The practice of Dhamma goes against our habits, the truth goes

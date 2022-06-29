@@ -6,6 +6,8 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/7 Transcripts & Essays Not In The Books.pdf) [[external link]](https://drive.google.com/file/d/1Xv0tWqyrw9XD_M7hxeUBsoP7qiXUbXDi/view)
+
 ---
 
 >**1. Mindfulness of breathing, bhikkhus, developed and repeatedly practised, is of great fruit, of great benefit; mindfulness of breathing, bhikkhus, developed and repeatedly practised, perfects the four foundations of mindfulness; the four foundations of mindfulness, developed and repeatedly practised, perfect the seven enlightenment factors; the seven enlightenment factors, developed and repeatedly practised, perfect knowledge and freedom...**

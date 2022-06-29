@@ -5,6 +5,8 @@ date: 2020-08-29
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200825 - 171hh - Developing the right kind of perceptions - Part 1 - Beautiful side of ugly living side of death.pdf) [[external link]](https://t.me/HillsideHermitage/31)
+
 **Q:** AN 7.49:
 
 > Bhikkhus, these seven perceptions, when developed and frequently

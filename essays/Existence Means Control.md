@@ -6,6 +6,8 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
+[[source]](https://www.hillsidehermitage.org/existence-means-control/)
+
 ---
 
 In order for something to exist (*bhava*), in order for it to be, in a full and appropriated sense, that thing has to be given first, in the form of an experience as a whole. When I say 'given', this should be understood in the sense that we can only "find" things as already being there, in the world. (Cf. Sartre's statement in *Being & Nothingness* that every thing comes *with* past). The fact is that things can only be found when they are attended to and this means that -- fundamentally speaking -- they are *beyond* one's control[\[1\]](#n1){:#ref1}: one is not their *creator*. Thus, one's experience as a whole *cannot* be controlled; the most a person can do is to modify an already given state of affairs, on a more particular level.

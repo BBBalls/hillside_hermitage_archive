@@ -6,6 +6,8 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
+[[source]](https://www.hillsidehermitage.org/breathing-towards-death/)
+
 ---
 
 Practising the mindfulness of breathing correctly, means practising the mindfulness of death correctly.

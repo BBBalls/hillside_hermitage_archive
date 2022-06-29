@@ -5,6 +5,8 @@ date: 2022-04-11
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180702 - 28hh - Sense of shame and fear of wrongdoing.pdf) [[external link]](https://drive.google.com/file/d/1TFZ2S1dcs_-ehaRyZcmXQLYdRU8YlLDl/view)
+
 **Q:** Authenticity, self-honesty, sense of shame and a fear of
 wrongdoing, these are all prerequisites for developing freedom from
 suffering, but what about guilt?

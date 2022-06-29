@@ -5,6 +5,8 @@ date: 2021-04-22
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200811 - 169hh - Context of your suffering.pdf) [[external link]](https://t.me/HillsideHermitage/79)
+
 MN 121:
 
 > \"His mind enters into that perception of forest and acquires

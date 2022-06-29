@@ -5,6 +5,8 @@ date: 2021-05-08
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200425 - 150hh - Sense pleasures make you an addict.pdf) [[external link]](https://t.me/HillsideHermitage/82)
+
 **Q:** You mentioned before that a person cannot get the right view
 without first abandoning the value of sensuality, what did you mean by
 that?

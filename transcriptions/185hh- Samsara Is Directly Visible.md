@@ -5,6 +5,8 @@ date: 2021-01-06
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20201201 - 185hh - GUIDED CONTEMPLATION - Samsara is directly visible.pdf) [[external link]](https://drive.google.com/file/d/1VCXXqOVgZ42EC0NwC_V4DGf3rSBUsR8e/view)
+
 Ask yourself can you stop your feelings? Can you stop your form/rupa
 from deteriorating? Can you prevent perceptions from besetting you? Can
 you not choose?

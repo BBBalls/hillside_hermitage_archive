@@ -5,6 +5,8 @@ date: 2022-02-17
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180525 - 29hh - What is wisdom.pdf) [[external link]](https://drive.google.com/file/d/1Ur646WQQ1j4_b2mhr0EHUtVxaeof8LIM/view)
+
 **Q:** What is discernment or wisdom?
 
 **Nm:** It\'s knowing the Nature of things, knowing things in their

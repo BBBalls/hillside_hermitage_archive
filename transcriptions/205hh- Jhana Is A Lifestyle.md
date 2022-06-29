@@ -5,6 +5,8 @@ date: 2022-01-12
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210424 - 205hh - Jhana is a lifestyle - MN 107.pdf) [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/205hh-Jhana-Is-A-Lifestyle.pdf)
+
 *"Jhana is an establishment of mind that results from your own efforts
 of purifying your lifestyle. It\'s not a magical experience that will
 purify your life for you. Jhana is one of the last positive symptoms of

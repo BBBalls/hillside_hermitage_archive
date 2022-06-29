@@ -6,6 +6,8 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
+[[source]](https://www.hillsidehermitage.org/resistance-and-designation-notes-on-dn-15/)
+
 ---
 
 > *Nāmarūpapaccayā phasso'ti iti kho panetaṃ vuttaṃ, tadānanda,

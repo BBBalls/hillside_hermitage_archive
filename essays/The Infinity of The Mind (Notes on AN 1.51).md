@@ -6,6 +6,8 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
+[[source]](https://www.hillsidehermitage.org/the-infinity-of-the-mind-notes-on-an-1-51/)
+
 ***
 
 >*Pabhassaramidaṃ, bhikkhave, cittaṃ. Tañca kho āgantukehi upakkilesehi

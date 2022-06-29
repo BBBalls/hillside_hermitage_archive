@@ -5,6 +5,8 @@ date: 2021-04-16
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210414 - 204hh - The Six Sensed Animal - SN 35.247 MN 19 MN 20.pdf) [[external link]](https://t.me/HillsideHermitage/77)
+
 SN 35.247:
 
 > \"\...Suppose, bhikkhus, a man would catch six animals---with

@@ -5,6 +5,8 @@ date: 2021-04-02
 layout: post
 ---
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210330 - 202hh - Nibbana is the ultimate uncertainty.pdf) [[external link]](https://t.me/HillsideHermitage/72)
+
 Colloquially speaking, if something is determined it implies certainty
 and undetermined implies uncertainty. The highest undetermined thing is
 *Nibbana*, the phenomenon of *asankhata dhamma*. So from the point of

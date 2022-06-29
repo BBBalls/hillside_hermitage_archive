@@ -6,6 +6,8 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
+[[source]](https://www.hillsidehermitage.org/peripheral-awareness/)
+
 ---
 
 Mindfulness done correctly is when the mind is _anchored_ in something. That something must be a thing that is not directly attended to, but instead, has to be a _reference point_ to the attended thing (hence we call it “anchor”). If a thing is not directly attended to but there, we call that thing to be a “background”. It’s a background to a thing we attend (which makes that thing a “foreground”). This is the basic principle of mindfulness, on which we can expand here below.
