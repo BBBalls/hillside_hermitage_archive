@@ -5,7 +5,7 @@ date: 2021-06-17
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200804 - 168hh - Looking for a bigger picture importance of precepts.pdf) [[external link]](https://t.me/HillsideHermitage/88)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200804 - 168hh - Looking for a bigger picture importance of precepts.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/88)
 
 **Nm:** Unwholesome things are unwholesome because in themselves they
 contain a contradiction or a discrepancy.

@@ -5,7 +5,7 @@ date: 2021-04-08
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210330 - 202hh - Nibbana is the ultimate uncertainty.pdf) [[external link]](https://t.me/HillsideHermitage/74)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210330 - 202hh - Nibbana is the ultimate uncertainty.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/74)
 
 > "Monks, there are these five hindrances. Which five? Sensual desire as
 > a hindrance, ill will as a hindrance, sloth & drowsiness as a

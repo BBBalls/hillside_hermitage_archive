@@ -5,7 +5,7 @@ date: 2022-04-15
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210607 - 209hh - The simile of the wet sticks -  MN 36.pdf) [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/209hh-The-Simile-of-the-Wet-Sticks-.pdf)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210607 - 209hh - The simile of the wet sticks -  MN 36.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/209hh-The-Simile-of-the-Wet-Sticks-.pdf)
 
 **Q:** [MN 36 Mahāsaccaka sutta](https://suttacentral.net/mn36):
 

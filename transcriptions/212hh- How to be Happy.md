@@ -5,7 +5,7 @@ date: 2022-04-29
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210627 - 212hh - How to be happy.pdf) [[external link]](https://drive.google.com/file/d/1uvch94Hi0sTe6R4T6Ma4miYwSmJd3wFN/view)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210627 - 212hh - How to be happy.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1uvch94Hi0sTe6R4T6Ma4miYwSmJd3wFN/view)
 
 The first thing you have to answer is what happiness is for you? Most
 people generally go through life without even knowing what they want,

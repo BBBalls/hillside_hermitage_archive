@@ -5,7 +5,7 @@ date: 2021-05-20
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200516 - 155hh - You dont need to say no to everything.pdf) [[external link]](https://t.me/HillsideHermitage/84)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200516 - 155hh - You dont need to say no to everything.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/84)
 
 **Nm:** What needs to be restrained? Do you say no to everything, to
 whatever your eye wants to see or whatever your nose wants to smell? How

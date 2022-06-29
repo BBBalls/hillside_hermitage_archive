@@ -5,7 +5,7 @@ date: 2021-04-13
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20201117 - 183hh - Becoming an immovable object.pdf) [[external link]](https://t.me/HillsideHermitage/76)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20201117 - 183hh - Becoming an immovable object.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/76)
 
 **Q:** What is the middle way between asceticism and sensual indulgence?
 Is it the practice of enduring (neither giving into or denying)

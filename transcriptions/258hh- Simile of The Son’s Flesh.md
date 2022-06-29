@@ -5,7 +5,7 @@ date: 2022-03-07
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20220304 - 258hh - Simile of the sons flesh - SN 12.63 SN 56.35.pdf) [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/258hh-Simile-of-The-Sons-Flesh-.pdf)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20220304 - 258hh - Simile of the sons flesh - SN 12.63 SN 56.35.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/258hh-Simile-of-The-Sons-Flesh-.pdf)
 
 SN 12.63 Puttamansa Sutta: A Son\'s Flesh:
 

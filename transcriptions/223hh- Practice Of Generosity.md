@@ -5,7 +5,7 @@ date: 2022-03-22
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210823 - 223hh - Practice of generosity.pdf) [[external link]](https://drive.google.com/file/d/1mvkqv0mSdX2AN954E8M2IvypZFW2TYt6/view)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210823 - 223hh - Practice of generosity.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1mvkqv0mSdX2AN954E8M2IvypZFW2TYt6/view)
 
 **Q:** Is generosity beneficial?
 

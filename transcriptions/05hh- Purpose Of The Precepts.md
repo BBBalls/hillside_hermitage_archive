@@ -5,7 +5,7 @@ date: 2022-02-07
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180403 - 05hh - Purpose of rules and precepts.pdf) [[external source]](https://drive.google.com/file/d/1UycAN8kiawOedEQpWNb_fhfUofPN9ZFh/view)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180403 - 05hh - Purpose of rules and precepts.pdf){:target="blank"} [[external source]](https://drive.google.com/file/d/1UycAN8kiawOedEQpWNb_fhfUofPN9ZFh/view)
 
 **Q:** What is the purpose of the precepts?
 

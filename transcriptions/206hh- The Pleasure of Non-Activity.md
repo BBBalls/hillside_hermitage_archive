@@ -5,7 +5,7 @@ date: 2022-01-21
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210501 - 206hh - Pleasure of non-activity - Thag 19.1 AN 3.68 SN 9.10 SN 21.4 SN 35.240.pdf) [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/206hh-The-Pleasure-of-Non-Activity-.pdf)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210501 - 206hh - Pleasure of non-activity - Thag 19.1 AN 3.68 SN 9.10 SN 21.4 SN 35.240.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/206hh-The-Pleasure-of-Non-Activity-.pdf)
 
 [Theragatha 19.1 -Talaputta](https://suttacentral.net/thag19.1):
 
