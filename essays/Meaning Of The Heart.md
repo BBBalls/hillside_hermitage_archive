@@ -6,7 +6,7 @@ layout: post
 
 By Thaniyo Thero
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/Meaning Of The Heart by Thaniyo Thero.pdf) [[external link]](https://t.me/HillsideHermitage/170)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/Meaning Of The Heart by Thaniyo Thero.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/170){:target="blank"}
 
 ---
 

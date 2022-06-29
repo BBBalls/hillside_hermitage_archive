@@ -5,7 +5,7 @@ date: 2020-08-26
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200818 - 170hh - QA - How to develop the attitude of solitude.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/30)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200818 - 170hh - QA - How to develop the attitude of solitude.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/30){:target="blank"}
 
 **Q:**​ The Buddha encourages the development of seclusion. What then is
 the best way to cultivate it?

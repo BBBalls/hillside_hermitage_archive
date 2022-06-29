@@ -5,7 +5,7 @@ date: 2022-02-23
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20220222 - 257hh - Only the noble truth of pain - SN 56.11.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/257hh-Only-The-Noble-Truth-Of-Pain.pdf)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20220222 - 257hh - Only the noble truth of pain - SN 56.11.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/257hh-Only-The-Noble-Truth-Of-Pain.pdf){:target="blank"}
 
 **Q:** The four noble truths, you\'re saying, are four aspects to one
 insight.

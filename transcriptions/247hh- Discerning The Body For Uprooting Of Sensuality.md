@@ -5,7 +5,7 @@ date: 2022-01-16
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20211222 - 247hh - Discerning the body for uprooting of sensuality.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1V8F961LHdQA-TvSAbdN1H0v3kPUTPbvb/view)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20211222 - 247hh - Discerning the body for uprooting of sensuality.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1V8F961LHdQA-TvSAbdN1H0v3kPUTPbvb/view){:target="blank"}
 
 The reason why a person\'s mind would still be dependent on the pleasure
 of the senses despite knowing how little satisfaction they provide or

@@ -6,7 +6,7 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
-[[source]](https://www.hillsidehermitage.org/not-perceiving-the-feeling-notes-on-mn-43/)
+[[source]](https://www.hillsidehermitage.org/not-perceiving-the-feeling-notes-on-mn-43/){:target="blank"}
 
 ---
 

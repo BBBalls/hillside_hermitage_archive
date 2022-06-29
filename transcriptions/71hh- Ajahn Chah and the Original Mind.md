@@ -5,7 +5,7 @@ date: 2022-03-03
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/7 Transcripts & Essays Not In The Books.pdf){:target="blank"} [external link](https://drive.google.com/file/d/1Xv0tWqyrw9XD_M7hxeUBsoP7qiXUbXDi/view)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/7 Transcripts & Essays Not In The Books.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1Xv0tWqyrw9XD_M7hxeUBsoP7qiXUbXDi/view){:target="blank"}
 
 **Ven. Thaniyo:** This is another talk by Ajahn Chah called "The Path to
 Peace." Now, this is just a few paragraphs from it that I found

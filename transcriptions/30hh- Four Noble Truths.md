@@ -5,7 +5,7 @@ date: 2022-04-12
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180807 - 30hh - The four noble truths.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/30hh-The-Four-Noble-Truths.pdf)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180807 - 30hh - The four noble truths.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/30hh-The-Four-Noble-Truths.pdf){:target="blank"}
 
 > \"And what, bhikkhus, is the majjhima paṭipada/middle-way to which the
 > Tathāgata has fully awakened, which is useful for

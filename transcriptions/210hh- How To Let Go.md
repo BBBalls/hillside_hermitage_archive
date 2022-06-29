@@ -5,7 +5,7 @@ date: 2022-03-27
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210614 - 210hh - How to let go.pdf){:target="blank"} [[external link](https://drive.google.com/file/d/11K-RCLXMsbnJys1lfI0S7nCfWgLy2tm8/view)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210614 - 210hh - How to let go.pdf){:target="blank"} [[external link](https://drive.google.com/file/d/11K-RCLXMsbnJys1lfI0S7nCfWgLy2tm8/view){:target="blank"}
 
 > \"Monks, whatever's not yours: Let go of it. Your letting go of it
 > will be for your long-term happiness & benefit. And what is not yours?

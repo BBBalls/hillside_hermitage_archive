@@ -6,7 +6,7 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
-[[source]](https://www.hillsidehermitage.org/the-infinity-of-the-mind-notes-on-an-1-51/)
+[[source]](https://www.hillsidehermitage.org/the-infinity-of-the-mind-notes-on-an-1-51/){:target="blank"}
 
 ***
 

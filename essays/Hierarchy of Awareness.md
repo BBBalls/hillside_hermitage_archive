@@ -6,7 +6,7 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
-[[source]](https://pathpress.files.wordpress.com/2014/06/nanamoli_meanings.pdf)
+[[source]](https://pathpress.files.wordpress.com/2014/06/nanamoli_meanings.pdf){:target="blank"}
 
 ---
 

@@ -6,7 +6,7 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
-[[source]](https://www.hillsidehermitage.org/appearance-and-existence/)
+[[source]](https://www.hillsidehermitage.org/appearance-and-existence/){:target="blank"}
 
 ---
 

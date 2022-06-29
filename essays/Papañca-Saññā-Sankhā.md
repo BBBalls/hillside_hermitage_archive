@@ -6,7 +6,7 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
-[[source]](https://www.hillsidehermitage.org/papanca-sanna-sankha/)
+[[source]](https://www.hillsidehermitage.org/papanca-sanna-sankha/){:target="blank"}
 
 ---
 

@@ -6,7 +6,7 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
-[[source]](https://www.hillsidehermitage.org/feelings-are-suffering/)
+[[source]](https://www.hillsidehermitage.org/feelings-are-suffering/){:target="blank"}
 
 ---  
 

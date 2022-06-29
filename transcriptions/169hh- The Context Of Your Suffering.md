@@ -5,7 +5,7 @@ date: 2021-04-22
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200811 - 169hh - Context of your suffering.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/79)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200811 - 169hh - Context of your suffering.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/79){:target="blank"}
 
 MN 121:
 

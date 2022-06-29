@@ -6,7 +6,7 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
-[[source]](https://www.hillsidehermitage.org/the-necessity-of-celibacy/)
+[[source]](https://www.hillsidehermitage.org/the-necessity-of-celibacy/){:target="blank"}
 
 ---
 

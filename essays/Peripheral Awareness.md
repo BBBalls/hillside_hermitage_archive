@@ -6,7 +6,7 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
-[[source]](https://www.hillsidehermitage.org/peripheral-awareness/)
+[[source]](https://www.hillsidehermitage.org/peripheral-awareness/){:target="blank"}
 
 ---
 

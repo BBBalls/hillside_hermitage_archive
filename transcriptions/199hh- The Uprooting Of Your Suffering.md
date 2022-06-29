@@ -5,7 +5,7 @@ date: 2021-03-11
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210304 - 199hh - The uprooting of your suffering.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/68)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210304 - 199hh - The uprooting of your suffering.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/68){:target="blank"}
 
 **Q:** Ajahn, you have said many times that the problem is that we are
 affected by things in the first place. In other words, it is possible

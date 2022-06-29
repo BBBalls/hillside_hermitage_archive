@@ -5,7 +5,7 @@ date: 2020-08-29
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200825 - 171hh - Developing the right kind of perceptions - Part 1 - Beautiful side of ugly living side of death.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/31)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200825 - 171hh - Developing the right kind of perceptions - Part 1 - Beautiful side of ugly living side of death.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/31){:target="blank"}
 
 **Q:** AN 7.49:
 

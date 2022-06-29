@@ -5,7 +5,7 @@ date: 2021-03-21
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210316 - 200hh - Gateway to nibbana.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/70)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210316 - 200hh - Gateway to nibbana.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/70){:target="blank"}
 
 Often I speak about the endurance of unpleasant or pleasant feeling. So
 how would you practically do that? Or rather how would failing to endure

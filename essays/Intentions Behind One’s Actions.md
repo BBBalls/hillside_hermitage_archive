@@ -6,7 +6,7 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
-[[source]](https://www.hillsidehermitage.org/intentions-behind-ones-actions/)
+[[source]](https://www.hillsidehermitage.org/intentions-behind-ones-actions/){:target="blank"}
 
 ---
 

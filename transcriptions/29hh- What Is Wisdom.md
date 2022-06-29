@@ -5,7 +5,7 @@ date: 2022-02-17
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180525 - 29hh - What is wisdom.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1Ur646WQQ1j4_b2mhr0EHUtVxaeof8LIM/view)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180525 - 29hh - What is wisdom.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1Ur646WQQ1j4_b2mhr0EHUtVxaeof8LIM/view){:target="blank"}
 
 **Q:** What is discernment or wisdom?
 

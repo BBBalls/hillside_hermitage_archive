@@ -5,7 +5,7 @@ date: 2022-02-28
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180618 - 10hh - No one wants sensuality.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1Uy19K_Uk0h2OTTw4SWdlTxkH85pEXvDj/view)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180618 - 10hh - No one wants sensuality.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1Uy19K_Uk0h2OTTw4SWdlTxkH85pEXvDj/view){:target="blank"}
 
 **Q:** Bhante, you once said that the only reason one gives into
 sensuality is because one doesn\'t want it. What do you mean by that?

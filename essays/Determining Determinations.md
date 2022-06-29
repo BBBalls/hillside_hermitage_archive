@@ -6,7 +6,7 @@ layout: post
 
 by Ajahn Nyanamoli Thero
 
-[[source]](https://www.hillsidehermitage.org/determining-determinations/)
+[[source]](https://www.hillsidehermitage.org/determining-determinations/){:target="blank"}
 
 ***
 

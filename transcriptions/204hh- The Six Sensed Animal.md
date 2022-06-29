@@ -5,7 +5,7 @@ date: 2021-04-16
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210414 - 204hh - The Six Sensed Animal - SN 35.247 MN 19 MN 20.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/77)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210414 - 204hh - The Six Sensed Animal - SN 35.247 MN 19 MN 20.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/77){:target="blank"}
 
 SN 35.247:
 

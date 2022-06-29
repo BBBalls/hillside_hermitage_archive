@@ -5,7 +5,7 @@ date: 2022-01-26
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210223 - 198hh - In the seen just the seen - Thag 16.5.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1V4b4F9c8KWnbjSkdam3dzkNEoDrk_8RU/view)
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210223 - 198hh - In the seen just the seen - Thag 16.5.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1V4b4F9c8KWnbjSkdam3dzkNEoDrk_8RU/view){:target="blank"}
 
 > "What do you think, Māluṅkyaputta? The forms cognizable via the eye
 > that are unseen by you---that you have never before seen, that you
