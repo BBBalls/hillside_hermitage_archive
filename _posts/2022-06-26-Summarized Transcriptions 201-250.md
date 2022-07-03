@@ -8,6 +8,10 @@ layout: post
 
 ## 202hh- Nibbana Is The Ultimate Uncertainty
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210330 - 202hh - Nibbana is the ultimate uncertainty.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/72){:target="blank"}
+
+***
+
 Colloquially speaking, if something is determined it implies certainty
 and undetermined implies uncertainty. The highest undetermined thing is
 *Nibbana*, the phenomenon of *asankhata dhamma*. So from the point of
@@ -262,6 +266,10 @@ context of uncertainty. In that way, you will force your mind to
 compose, which will have to result in clear seeing.
 
 ## 203hh- The Truth About The Five Hindrances
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210330 - 202hh - Nibbana is the ultimate uncertainty.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/74){:target="blank"}
+
+***
 
 > "Monks, there are these five hindrances. Which five? Sensual desire as
 > a hindrance, ill will as a hindrance, sloth & drowsiness as a
@@ -563,6 +571,10 @@ not painful, it\'s eye-opening.
 
 ## 204hh- The Six Sensed Animal
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210414 - 204hh - The Six Sensed Animal - SN 35.247 MN 19 MN 20.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/77){:target="blank"}
+
+***
+
 SN 35.247:
 
 > \"\...Suppose, bhikkhus, a man would catch six animals---with
@@ -789,6 +801,10 @@ maintain the right perspective regarding this creature, you will tame
 its senses and abide in jhana.
 
 ## 205hh- Jhana Is A Lifestyle
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210424 - 205hh - Jhana is a lifestyle - MN 107.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/205hh-Jhana-Is-A-Lifestyle.pdf){:target="blank"}
+
+***
 
 *"Jhana is an establishment of mind that results from your own efforts
 of purifying your lifestyle. It\'s not a magical experience that will
@@ -1243,6 +1259,10 @@ a method is what we have just been describing, the gradual training -
 *Sekha Paṭipadā*.
 
 ## 206hh- The Pleasure of Non-Activity
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210501 - 206hh - Pleasure of non-activity - Thag 19.1 AN 3.68 SN 9.10 SN 21.4 SN 35.240.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/206hh-The-Pleasure-of-Non-Activity-.pdf){:target="blank"}
+
+***
 
 [Theragatha 19.1 -Talaputta](https://suttacentral.net/thag19.1):
 
@@ -1790,6 +1810,10 @@ it\'s a win-win.
 
 ## 209hh- The Simile of the Wet Sticks
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210607 - 209hh - The simile of the wet sticks -  MN 36.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/209hh-The-Simile-of-the-Wet-Sticks-.pdf){:target="blank"}
+
+***
+
 **Q:** [MN 36 Mahāsaccaka sutta](https://suttacentral.net/mn36):
 
 > "Thus have I heard. On one occasion the Blessed One was living at
@@ -1870,8 +1894,7 @@ it\'s a win-win.
 > mind, listen and attend closely to what I shall say."---"Yes, sir,"
 > Saccaka the Nigaṇṭha's son replied. The Blessed One said this:
 >
-> [Undeveloped in Body and Undeveloped in
-> Mind]{.underline}[:]{style="font-weight: normal;"}\
+> <u>Undeveloped in Body and Undeveloped in Mind</u>:\
 > "How, Aggivessana, is one undeveloped in body and undeveloped in mind?
 > Here, Aggivessana, pleasant feeling arises in an untaught ordinary
 > person. Touched by that pleasant feeling, he lusts after pleasure and
@@ -1888,8 +1911,7 @@ it\'s a win-win.
 > is not developed, is thus undeveloped in body because mind is not
 > developed, is thus undeveloped in body and undeveloped in mind.
 >
-> [Developed in Body and Developed in
-> Mind]{.underline}[:]{style="font-weight: normal;"}\
+> <u>Developed in Body and Developed in Mind</u>:\
 > "And how, Aggivessana, is one developed in body and developed in mind?
 > Here, Aggivessana, pleasant feeling arises in a well-taught noble
 > disciple. Touched by that pleasant feeling, he does not lust after
@@ -1933,8 +1955,7 @@ it\'s a win-win.
 > enlightenment, [MN 26](https://suttacentral.net/mn26))...And I sat
 > down there thinking: 'This will serve for striving.'
 >
-> [Simile of the wet
-> sticks]{.underline}[:]{style="font-weight: normal;"}\
+> <u>Simile of the wet sticks</u>:\
 > 1- "Now these three similes occurred to me spontaneously, never heard
 > before. Suppose there were a wet sappy piece of wood lying in water,
 > and a man came with an upper fire-stick, thinking: 'I shall light a
@@ -2003,8 +2024,7 @@ it\'s a win-win.
 > spontaneously, never heard before. These are the three similes that
 > occurred to me spontaneously, never heard before.
 >
-> [Description of extreme ascetic
-> practices]{.underline}[:]{style="font-weight: normal;"}\
+> <u>Description of extreme ascetic practices</u>:\
 > "I thought: 'Suppose, with my teeth clenched and my tongue pressed
 > against the roof of my mouth, I beat down, constrain, and crush mind
 > with mind.' So, with my teeth clenched and my tongue pressed against
@@ -2089,8 +2109,7 @@ it\'s a win-win.
 > any superhuman states, any distinction in knowledge and vision worthy
 > of the noble ones. Could there be another path to enlightenment?'
 >
-> [Recollection of First
-> Jhana]{.underline}[:]{style="font-weight: normal;"}\
+> <u>Recollection of First Jhana</u>:\
 > "I considered: 'I recall that when my father the Sakyan was occupied,
 > while I was sitting in the cool shade of a rose-apple tree, quite
 > secluded from sensual pleasures, secluded from unwholesome states, I
@@ -2179,7 +2198,7 @@ it\'s a win-win.
 > ardent, and resolute. But such pleasant feeling that arose in me did
 > not invade my mind and remain.
 >
-> [Teaching Dhamma]{.underline}[:]{style="font-weight: normal;"}\
+> <u>Teaching Dhamma</u>:\
 > "Aggivessana, I recall teaching the Dhamma to an assembly of many
 > hundreds, and even then each person thinks of me: 'The contemplative
 > Gotama is teaching the Dhamma especially for me.' But it should not be
@@ -2189,8 +2208,8 @@ it\'s a win-win.
 > on that same sign of composure as before, in which I constantly
 > abide."
 >
-> [Questioned about abiding in
-> delusion]{.underline}[:]{style="font-weight: normal;"}\
+> <u>Questioned about abiding in
+> delusion</u>:\
 > "This is a matter about which Master Gotama can be trusted, as an
 > accomplished and fully enlightened one should be. But does Master
 > Gotama recall sleeping during the day?"
@@ -2505,6 +2524,10 @@ matter whether you are a monk or not, the sticks still need to be dry.
 
 ## 210hh- How To Let Go
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210614 - 210hh - How to let go.pdf){:target="blank"} [[external link](https://drive.google.com/file/d/11K-RCLXMsbnJys1lfI0S7nCfWgLy2tm8/view){:target="blank"}
+
+***
+
 > \"Monks, whatever's not yours: Let go of it. Your letting go of it
 > will be for your long-term happiness & benefit. And what is not yours?
 >
@@ -2799,6 +2822,10 @@ and death.
 
 ## 212hh- How to be Happy
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210627 - 212hh - How to be happy.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1uvch94Hi0sTe6R4T6Ma4miYwSmJd3wFN/view){:target="blank"}
+
+***
+
 The first thing you have to answer is what happiness is for you? Most
 people generally go through life without even knowing what they want,
 just following things that make them feel good, and avoiding things that
@@ -2894,6 +2921,10 @@ enduring it and growing out of it. Happiness comes from taming your
 mind, from freeing it of defilement.
 
 ## 215hh- Mindfulness Of Breathing And Calming Of The Aversion
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210714 - 215hh - Mindfulness of breathing and calming of aversion - SN 54.6 MN 62.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/215hh-Mindfulness-Of-Breathing-And-Calming-Of-The-Aversion-.pdf){:target="blank"}
+
+***
 
 > \"The Blessed One said, \"Monks, do you develop
 > mindfulness/recollection of in-&-out breathing?\" When this was said,
@@ -3047,6 +3078,10 @@ won\'t calm them down by beating and starving them either. You need to
 give them the right kind of food when needed and not too much.
 
 ## 223hh- Practice Of Generosity
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210823 - 223hh - Practice of generosity.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1mvkqv0mSdX2AN954E8M2IvypZFW2TYt6/view){:target="blank"}
+
+***
 
 **Q:** Is generosity beneficial?
 
@@ -3295,6 +3330,10 @@ constricted stinginess.
 
 ## 230hh- Stilling Of All Activities
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210924 - 230hh - Stilling of all activities.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1UxN7ove4Va2U0HYOsC1A9Fgzid0VokXR/view){:target="blank"}
+
+***
+
 > \"Then the Venerable Ānanda approached the Blessed One, paid homage to
 > him, sat down to one side,and said to him:
 >
@@ -3397,6 +3436,10 @@ significances/things.
 
 ## 235hh- Escape From The Body
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20211026 - 235hh - Escape from the body.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/235hh-Escape-from-the-body-1.pdf){:target="blank"}
+
+***
+
 <u>**Right order, and non-delight in masculinity/femininity**</u>
 
 > "Bhikkhus, I will teach you a Dhamma exposition on union and
@@ -3498,8 +3541,7 @@ is no abandoning of masculinity or femininity.
 > regard to the signless, give up the underlying tendency to conceit;
 > and when you comprehend conceit, you will live at peace."
 
-> [SN
-> 8.4](https://suttacentral.net/sn8.4/en/sujato?layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)
+> [SN 8.4](https://suttacentral.net/sn8.4/en/sujato?layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)
 
 **Nm:** Perversion of the order, means literally, putting that which is
 second as first.
@@ -3546,8 +3588,7 @@ within this body as the Buddha would say:
 > the world, the cessation of the world, and the path of practice
 > leading to the cessation of the world."
 
-> -- [AN
-> 4.45](https://suttacentral.net/an4.45/en/thanissaro?reference=none&highlight=false)
+> -- [AN 4.45](https://suttacentral.net/an4.45/en/thanissaro?reference=none&highlight=false)
 
 When you actually take that in a realistic sense it is quite frightening
 for a mind that is not developed, for a mind that is still dependent on
@@ -3690,8 +3731,7 @@ first step of patiently enduring it, not trying to get rid of it.
 > Nibbana is the ultimate, say the Buddhas.\
 > No true renunciate is violent or hostile to an other"
 
-> -- [Dhp
-> 184](https://suttacentral.net/dhp179-196/en/sujato?layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)
+> -- [Dhp 184](https://suttacentral.net/dhp179-196/en/sujato?layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)
 
 **Q:** Again, you have the underlying tendency towards lust, whereas
 lust is not exactly active now but one can still see that one is liable
@@ -3932,6 +3972,10 @@ problems just falls away, and it's a magical experience."
 
 ## 236hh- Desire To End Desire
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20211104 - 236hh - Desire to end desire.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1OT4x-lWcx7wBMaeeXBkixt16nPaNhhkP/view){:target="blank"}
+
+***
+
 > \"And what, monks, is the right effort? (1) There is the case where a
 > monk generates desire, endeavors, activates persistence, upholds &
 > exerts his intent for the sake of the [non-arising of evil, unskillful
@@ -3947,8 +3991,7 @@ problems just falls away, and it's a magical experience."
 > qualities]{.underline} that have arisen: This, monks, is called right
 > effort.\"
 
-> -- [SN
-> 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)
+> -- [SN 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)
 
 **Q:** What is the difference between desire- *chanda* and craving-
 *tanha*?
@@ -4049,8 +4092,7 @@ rightly, can result in freedom from desire all together, freedom from
 > Magni cent, Master Ānanda!... From today let Master Ānanda remember me
 > as a lay follower who has gone for refuge for life.\"
 
-> -- [SN
-> 51.15](https://www.accesstoinsight.org/tipitaka/sn/sn51/sn51.015.than.html)
+> -- [SN 51.15](https://www.accesstoinsight.org/tipitaka/sn/sn51/sn51.015.than.html)
 
 Abandoning unskilful desire is not a matter of choice, it\'s a matter of
 directing it towards a certain kind of behaviour, that kind being the
@@ -4097,8 +4139,7 @@ fully understood.
 > what he has practiced, he would understand sensuality: That is
 > possible.\"
 
-> -- [MN
-> 13](https://www.accesstoinsight.org/tipitaka/mn/mn.013.than.html)
+> -- [MN 13](https://www.accesstoinsight.org/tipitaka/mn/mn.013.than.html)
 
 It\'s not that an *anagami* or an *arahant* have no concept anymore of
 what physical pleasure would feel like, it\'s that they have no interest
@@ -4338,6 +4379,10 @@ Craving:
 > -- [AN 10.62](https://suttacentral.net/an10.62)
 
 ## 247hh- Discerning The Body For Uprooting Of Sensuality
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20211222 - 247hh - Discerning the body for uprooting of sensuality.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1V8F961LHdQA-TvSAbdN1H0v3kPUTPbvb/view){:target="blank"}
+
+***
 
 The reason why a person\'s mind would still be dependent on the pleasure
 of the senses despite knowing how little satisfaction they provide or

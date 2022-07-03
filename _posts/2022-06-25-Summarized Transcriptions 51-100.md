@@ -8,6 +8,10 @@ layout: post
 
 ## 51hh- Guided Contemplation - At The Old Guards Cave
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20190107 - 51hh - GUIDED CONTEMPLATION - At the old guards cave.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1T4RcRuXQOuuypQPYZIa-OJf4nI4FIqem/view){:target="blank"}
+
+***
+
 Meditation/*Bhāvanā*, the mental development that the Buddha taught, is
 about the cultivation of understanding or wisdom. A practitioner,
 therefore, should not be looking for some kind of special novelty
@@ -257,6 +261,10 @@ uproot the necessary basis for all problems.
 
 ## 54hh- Not Wanting the Wanting
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/7 Transcripts & Essays Not In The Books.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1Xv0tWqyrw9XD_M7hxeUBsoP7qiXUbXDi/view){:target="blank"}
+
+***
+
 Wanting sense objects that you derive pleasure from, that is sensuality,
 it's that wanting. So, in order to abandon sensuality, you have to stop
 being concerned with the objects that you want and start developing 'not
@@ -460,6 +468,10 @@ keep sensuality pressuring you. Reaching the state of freedom from
 sensuality depends on your power of conviction.
 
 ## 64hh- Responsibility Can Free You From Suffering
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20190404 - 64hh - Responsibility can free you from suffering.pdf){:target="blank"} [[external link](https://drive.google.com/file/d/1cf42HxjL0lAQZU4bqBK9ubnyBUmYY3S7/view){:target="blank"}
+
+***
 
 The reason why understanding is hard to develop, is because in order to
 do so, one needs to know what must be understood. That might sound self
@@ -840,6 +852,10 @@ discern the nature of the presently enduring feeling, then you will be
 unable to crave it.
 
 ## 67hh- Comprehending The Mindfulness Of Breathing And Death Contemplation
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/7 Transcripts & Essays Not In The Books.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1Xv0tWqyrw9XD_M7hxeUBsoP7qiXUbXDi/view){:target="blank"}
+
+***
 
 ### I. Mindfulness of Breathing
 
@@ -1533,6 +1549,10 @@ conditioning your ignorance. Stop ignoring certain universal truths,
 that's it.
 
 ## 70hh- The Stream Entry of Ajahn Chah
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20190328 - 70hh - The stream-entry of Ajahn Chah.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/70hh-The-Stream-Entry-of-Ajahn-Chah-1.pdf){:target="blank"}
+
+***
 
 ### On Views
 
@@ -2408,6 +2428,10 @@ encouraging a sense of urgency in them.
 
 ## 71hh- Ajahn Chah and the Original Mind
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/7 Transcripts & Essays Not In The Books.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1Xv0tWqyrw9XD_M7hxeUBsoP7qiXUbXDi/view){:target="blank"}
+
+***
+
 **Ven. Thaniyo:** This is another talk by Ajahn Chah called "The Path to
 Peace." Now, this is just a few paragraphs from it that I found
 interesting. In this talk, Ajahn Chah gives a complete outline of the
@@ -2858,6 +2882,10 @@ seeing that it cannot actually be yours---it hasn't come from you.
 That's how you also undermine the ownership.
 
 ## 83hh- Don't Be Faithful to Ignorance
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/7 Transcripts & Essays Not In The Books.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1Xv0tWqyrw9XD_M7hxeUBsoP7qiXUbXDi/view){:target="blank"}
+
+***
 
 **Thaniyo:** I was wondering if we could speak about lying, the
 phenomenon of lying, the choice to lie. A simple question: Is it wrong

@@ -8,6 +8,10 @@ layout: post
 
 ## 257hh- Only The Noble Truth Of Pain
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20220222 - 257hh - Only the noble truth of pain - SN 56.11.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/257hh-Only-The-Noble-Truth-Of-Pain.pdf){:target="blank"}
+
+***
+
 **Q:** The four noble truths, you\'re saying, are four aspects to one
 insight.
 
@@ -250,8 +254,7 @@ neither-agreeable-or-disagreeable.
 > suffering' ... 'This is the practice that leads to the cessation of
 > suffering\...'. 
 
-> -- [AN
-> 3.61](https://www.accesstoinsight.org/tipitaka/an/an03/an03.061.than.html)
+> -- [AN 3.61](https://www.accesstoinsight.org/tipitaka/an/an03/an03.061.than.html)
 
 **Q:** 
 
@@ -371,10 +374,13 @@ by it, it is no longer felt.
 > \"Just that is the pleasure here, my friend: where there is nothing
 > felt...\"
 
-> -- [AN
-> 9.34](https://www.accesstoinsight.org/tipitaka/an/an09/an09.034.than.html)
+> -- [AN 9.34](https://www.accesstoinsight.org/tipitaka/an/an09/an09.034.than.html)
 
 ## 258hh- Simile of The Son's Flesh
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20220304 - 258hh - Simile of the sons flesh - SN 12.63 SN 56.35.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/258hh-Simile-of-The-Sons-Flesh-.pdf){:target="blank"}
+
+***
 
 SN 12.63 Puttamansa Sutta: A Son\'s Flesh:
 

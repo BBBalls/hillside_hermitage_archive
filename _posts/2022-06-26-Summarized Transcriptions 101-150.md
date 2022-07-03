@@ -8,6 +8,10 @@ layout: post
 
 ## 131hh- Even Being A Layman Does Not Justify Your Sensuality
 
+[[source pdf](/hillside_hermitage_archive/source_pdfs/20191216 - 131hh - Even being a layman does not justify your sensuality_v2.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/131hh_Even_Being_A_Layman_Does_Not_Justify_Your_Sensuality_1.pdf){:target="blank"}
+
+***
+
 ### The practice starts by learning what the Buddha taught.
 
 For a person who is interested in following the Buddha's instruction, it
@@ -498,6 +502,10 @@ better place.
 > with what the Buddha said.
 
 ## 150hh- Valuing Sense Pleasures Makes You An Addict
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200425 - 150hh - Sense pleasures make you an addict.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/82){:target="blank"}
+
+***
 
 **Q:** You mentioned before that a person cannot get the right view
 without first abandoning the value of sensuality, what did you mean by

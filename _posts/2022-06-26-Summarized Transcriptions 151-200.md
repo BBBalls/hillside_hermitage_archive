@@ -8,6 +8,10 @@ layout: post
 
 ## 155hh- You Don't Need To Say No To Everything
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200516 - 155hh - You dont need to say no to everything.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/84){:target="blank"}
+
+***
+
 **Nm:** What needs to be restrained? Do you say no to everything, to
 whatever your eye wants to see or whatever your nose wants to smell? How
 would you know what to say no to?
@@ -196,6 +200,10 @@ intent.
 > things."
 
 ## 168hh- The Contradiction in the Unwholesome
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200804 - 168hh - Looking for a bigger picture importance of precepts.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/88){:target="blank"}
+
+***
 
 **Nm:** Unwholesome things are unwholesome because in themselves they
 contain a contradiction or a discrepancy.
@@ -458,6 +466,10 @@ contradiction.
 
 ## 169hh- The Context Of Your Suffering
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200811 - 169hh - Context of your suffering.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/79){:target="blank"}
+
+***
+
 MN 121:
 
 > \"His mind enters into that perception of forest and acquires
@@ -590,6 +602,10 @@ How can you discern/develop/realize such a context? The only method is
 learning what the context is and then making an effort to discern it.
 
 ## 170hh- How to Develop Solitude
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200818 - 170hh - QA - How to develop the attitude of solitude.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/30){:target="blank"}
+
+***
 
 **Q:**​ The Buddha encourages the development of seclusion. What then is
 the best way to cultivate it?
@@ -757,6 +773,10 @@ in the first place and instead should develop more of that weakness
 because that\'s truly the strength you seek.
 
 ## 171hh- The Beautiful side of Ugly, the Living side of Death
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200825 - 171hh - Developing the right kind of perceptions - Part 1 - Beautiful side of ugly living side of death.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/31){:target="blank"}
+
+***
 
 **Q:** AN 7.49:
 
@@ -1061,6 +1081,10 @@ with food.
 
 ## 173hh- Dukkha in Anicca, Anatta in Dukkha
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20200908 - 173hh - Developing the right kind of perceptions - Part 2 - Dukkha in anicca anatta in dukkha.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/40){:target="blank"}
+
+***
+
 **Q:** AN 7.49 continued:
 
 > 4-\...When a Bhikkhu becomes accustomed to the perception of
@@ -1272,6 +1296,10 @@ happens with the things you used to conceive will not affect you
 anymore. You will no longer be \"measured\" by it.
 
 ## 183hh- Becoming An Immovable Object
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20201117 - 183hh - Becoming an immovable object.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/76){:target="blank"}
+
+***
 
 **Q:** What is the middle way between asceticism and sensual indulgence?
 Is it the practice of enduring (neither giving into or denying)
@@ -1548,6 +1576,10 @@ through you NOT trying to get rid of it. That's the middle way.
 
 ## 185hh- Samsara Is Directly Visible
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20201201 - 185hh - GUIDED CONTEMPLATION - Samsara is directly visible.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1VCXXqOVgZ42EC0NwC_V4DGf3rSBUsR8e/view){:target="blank"}
+
+***
+
 Ask yourself can you stop your feelings? Can you stop your form/rupa
 from deteriorating? Can you prevent perceptions from besetting you? Can
 you not choose?
@@ -1780,6 +1812,10 @@ in samsara is, the repetition of habits without knowing that you are
 repeating the same old habits.
 
 ## 198hh- In The Seen Just The Seen
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210223 - 198hh - In the seen just the seen - Thag 16.5.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1V4b4F9c8KWnbjSkdam3dzkNEoDrk_8RU/view){:target="blank"}
+
+***
 
 > "What do you think, Māluṅkyaputta? The forms cognizable via the eye
 > that are unseen by you---that you have never before seen, that you
@@ -2069,6 +2105,10 @@ prioritises the context not the content of his experience.
 
 ## 199hh- The Uprooting Of Your Suffering
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210304 - 199hh - The uprooting of your suffering.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/68){:target="blank"}
+
+***
+
 **Q:** Ajahn, you have said many times that the problem is that we are
 affected by things in the first place. In other words, it is possible
 for us to suffer, to get angry, lustful, confused and so forth. Thus the
@@ -2278,6 +2318,10 @@ and discomfort, and you can only see that by not trying to manage the
 pressure to get rid of the pressure.
 
 ## 200hh- Gateway To Nibbana
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210316 - 200hh - Gateway to nibbana.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/70){:target="blank"}
+
+***
 
 Often I speak about the endurance of unpleasant or pleasant feeling. So
 how would you practically do that? Or rather how would failing to endure

@@ -8,6 +8,10 @@ layout: post
 
 ## 05hh- Purpose Of The Precepts
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180403 - 05hh - Purpose of rules and precepts.pdf){:target="blank"} [[external source]](https://drive.google.com/file/d/1UycAN8kiawOedEQpWNb_fhfUofPN9ZFh/view){:target="blank"}
+
+***
+
 **Q:** What is the purpose of the precepts?
 
 **Nm:** The purpose is for developing strength of mind and the first
@@ -177,6 +181,10 @@ Simile](hhttps://www.accesstoinsight.org/tipitaka/mn/mn.066.than.html):
 
 ## 10hh- No One Wants Sensuality
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180618 - 10hh - No one wants sensuality.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1Uy19K_Uk0h2OTTw4SWdlTxkH85pEXvDj/view){:target="blank"}
+
+***
+
 **Q:** Bhante, you once said that the only reason one gives into
 sensuality is because one doesn\'t want it. What do you mean by that?
 
@@ -287,6 +295,10 @@ no longer escape what they have been running away from.
 
 ## 28hh- Sense Of Shame And Fear Of Wrongdoing
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180702 - 28hh - Sense of shame and fear of wrongdoing.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1TFZ2S1dcs_-ehaRyZcmXQLYdRU8YlLDl/view){:target="blank"}
+
+***
+
 **Q:** Authenticity, self-honesty, sense of shame and a fear of
 wrongdoing, these are all prerequisites for developing freedom from
 suffering, but what about guilt?
@@ -314,8 +326,7 @@ would be as wild as the animal realm.
 > is recognition of 'mother,' 'mother's sister,' 'uncle's wife,'
 > 'teacher's wife,' & 'wife of those who deserve respect.'"
 
-> -- [AN
-> 2.9](https://www.accesstoinsight.org/tipitaka/an/an02/an02.009.than.html)
+> -- [AN 2.9](https://www.accesstoinsight.org/tipitaka/an/an02/an02.009.than.html)
 
 **Q:** Human beings have an inherent sense of shame. You can sense when
 you're doing something wrong.
@@ -396,6 +407,10 @@ of restraint.
 
 ## 29hh- What Is Wisdom?
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180525 - 29hh - What is wisdom.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1Ur646WQQ1j4_b2mhr0EHUtVxaeof8LIM/view){:target="blank"}
+
+***
+
 **Q:** What is discernment or wisdom?
 
 **Nm:** It\'s knowing the Nature of things, knowing things in their
@@ -446,6 +461,10 @@ with things you have, which means that the ultimate wisdom is the
 complete surmounting and detachment from feelings and suffering.
 
 ## 30hh- Four Noble Truths
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20180807 - 30hh - The four noble truths.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/30hh-The-Four-Noble-Truths.pdf){:target="blank"}
+
+***
 
 > \"And what, bhikkhus, is the majjhima paṭipada/middle-way to which the
 > Tathāgata has fully awakened, which is useful for
@@ -735,6 +754,10 @@ bringing about the end of craving by no longer giving in to it.
 
 ## On Nanavira Thera's *Notes on Dhamma* - "Anicca"
 
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20181022 - On Nanavira Thera - Notes on Dhamma - Part 6 - Anicca.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/41){:target="blank"}
+
+***
+
 **Q:** This is in regards to Ven. Nanavira\'s, shorter notes on ​anicca​
 and the sutta quotes found there :
 
@@ -845,6 +868,10 @@ experience as a whole for how you know it.
 
 
 ## 41hh- Contemplation and Awareness
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/7 Transcripts & Essays Not In The Books.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1Xv0tWqyrw9XD_M7hxeUBsoP7qiXUbXDi/view){:target="blank"}
+
+***
 
 ### Discerning the background
 

@@ -1,5 +1,5 @@
 ---
-title: On Nanavira Thera's *Notes on Dhamma* - "Anicca"
+title: On Nanavira Thera's Notes on Dhamma - "Anicca"
 author: Ajahn Nyanamoli Thero
 date: 2020-10-08
 layout: post

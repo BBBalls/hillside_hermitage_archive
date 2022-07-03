@@ -87,8 +87,7 @@ layout: post
 > mind, listen and attend closely to what I shall say."---"Yes, sir,"
 > Saccaka the Nigaṇṭha's son replied. The Blessed One said this:
 >
-> [Undeveloped in Body and Undeveloped in
-> Mind]{.underline}[:]{style="font-weight: normal;"}\
+> <u>Undeveloped in Body and Undeveloped in Mind</u>:\
 > "How, Aggivessana, is one undeveloped in body and undeveloped in mind?
 > Here, Aggivessana, pleasant feeling arises in an untaught ordinary
 > person. Touched by that pleasant feeling, he lusts after pleasure and
@@ -105,8 +104,7 @@ layout: post
 > is not developed, is thus undeveloped in body because mind is not
 > developed, is thus undeveloped in body and undeveloped in mind.
 >
-> [Developed in Body and Developed in
-> Mind]{.underline}[:]{style="font-weight: normal;"}\
+> <u>Developed in Body and Developed in Mind</u>:\
 > "And how, Aggivessana, is one developed in body and developed in mind?
 > Here, Aggivessana, pleasant feeling arises in a well-taught noble
 > disciple. Touched by that pleasant feeling, he does not lust after
@@ -150,8 +148,7 @@ layout: post
 > enlightenment, [MN 26](https://suttacentral.net/mn26))...And I sat
 > down there thinking: 'This will serve for striving.'
 >
-> [Simile of the wet
-> sticks]{.underline}[:]{style="font-weight: normal;"}\
+> <u>Simile of the wet sticks</u>:\
 > 1- "Now these three similes occurred to me spontaneously, never heard
 > before. Suppose there were a wet sappy piece of wood lying in water,
 > and a man came with an upper fire-stick, thinking: 'I shall light a
@@ -220,8 +217,7 @@ layout: post
 > spontaneously, never heard before. These are the three similes that
 > occurred to me spontaneously, never heard before.
 >
-> [Description of extreme ascetic
-> practices]{.underline}[:]{style="font-weight: normal;"}\
+> <u>Description of extreme ascetic practices</u>:\
 > "I thought: 'Suppose, with my teeth clenched and my tongue pressed
 > against the roof of my mouth, I beat down, constrain, and crush mind
 > with mind.' So, with my teeth clenched and my tongue pressed against
@@ -306,8 +302,7 @@ layout: post
 > any superhuman states, any distinction in knowledge and vision worthy
 > of the noble ones. Could there be another path to enlightenment?'
 >
-> [Recollection of First
-> Jhana]{.underline}[:]{style="font-weight: normal;"}\
+> <u>Recollection of First Jhana</u>:\
 > "I considered: 'I recall that when my father the Sakyan was occupied,
 > while I was sitting in the cool shade of a rose-apple tree, quite
 > secluded from sensual pleasures, secluded from unwholesome states, I
@@ -396,7 +391,7 @@ layout: post
 > ardent, and resolute. But such pleasant feeling that arose in me did
 > not invade my mind and remain.
 >
-> [Teaching Dhamma]{.underline}[:]{style="font-weight: normal;"}\
+> <u>Teaching Dhamma</u>:\
 > "Aggivessana, I recall teaching the Dhamma to an assembly of many
 > hundreds, and even then each person thinks of me: 'The contemplative
 > Gotama is teaching the Dhamma especially for me.' But it should not be
@@ -406,8 +401,8 @@ layout: post
 > on that same sign of composure as before, in which I constantly
 > abide."
 >
-> [Questioned about abiding in
-> delusion]{.underline}[:]{style="font-weight: normal;"}\
+> <u>Questioned about abiding in
+> delusion</u>:\
 > "This is a matter about which Master Gotama can be trusted, as an
 > accomplished and fully enlightened one should be. But does Master
 > Gotama recall sleeping during the day?"
@@ -719,5 +714,3 @@ sensuality is not a problem, if you think sensuality is not "your"
 problem, if you think because you're not a monk you don't need to
 address this. Well, if you want to practice the Dhamma, it doesn't
 matter whether you are a monk or not, the sticks still need to be dry.
-
-

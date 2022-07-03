@@ -22,8 +22,7 @@ layout: post
 > qualities]{.underline} that have arisen: This, monks, is called right
 > effort.\"
 
-> -- [SN
-> 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)
+> -- [SN 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)
 
 **Q:** What is the difference between desire- *chanda* and craving-
 *tanha*?
