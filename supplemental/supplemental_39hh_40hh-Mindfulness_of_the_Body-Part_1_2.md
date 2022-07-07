@@ -1,8 +1,9 @@
 ## _kāyagatā sati_
 ### Mindfulness of the body
 
-**1. DN 34**|
-|---|---|
+|---
+| **1. DN 34**
+|:-|:-
 |  “katamo eko dhammo bhāvetabbo?\
 kāyagatāsati sātasahagatā.\
 ayaṃ eko dhammo bhāvetabbo. | “Which one thing should be developed?\
