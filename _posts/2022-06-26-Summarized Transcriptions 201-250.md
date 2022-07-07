@@ -2524,7 +2524,7 @@ matter whether you are a monk or not, the sticks still need to be dry.
 
 ## 210hh- How To Let Go
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210614 - 210hh - How to let go.pdf){:target="blank"} [[external link](https://drive.google.com/file/d/11K-RCLXMsbnJys1lfI0S7nCfWgLy2tm8/view){:target="blank"}
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20210614 - 210hh - How to let go.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/11K-RCLXMsbnJys1lfI0S7nCfWgLy2tm8/view){:target="blank"}
 
 ***
 

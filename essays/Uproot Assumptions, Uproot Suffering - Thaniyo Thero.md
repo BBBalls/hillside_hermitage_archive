@@ -7,12 +7,12 @@ layout: post
 
 By Thaniyo Thero
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/Uproot Assumptions, Uproot Suffering_Thaniyo.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/197){:target="blank"}
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/Uproot Assumptions, Uproot Suffering_Thaniyo.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/07/Uproot-Assumptions-Uproot-Suffering_Thaniyo.pdf){:target="blank"}
 
 ---
 
 
->“And what is ‘assumption’? There are these four kinds of assumptions. The assumption of sensual pleasures, the assumption of views, the assumption regarding the adherence to precepts and duties _(i.e, practices thought to be able to cure or free you from suffering but only manage it)_, and the assumption of self-identity. This is called assumption.”
+>__“And what is ‘assumption’? There are these four kinds of assumptions. The assumption of sensual pleasures, the assumption of views, the assumption regarding the adherence to precepts and duties__ _(i.e, practices thought to be able to cure or free you from suffering but only manage it)___, and the assumption of self-identity. This is called assumption.__”
 
 >-- SN 12.2
 

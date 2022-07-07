@@ -8,7 +8,7 @@ layout: post
 
 ## 131hh- Even Being A Layman Does Not Justify Your Sensuality
 
-[[source pdf](/hillside_hermitage_archive/source_pdfs/20191216 - 131hh - Even being a layman does not justify your sensuality_v2.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/131hh_Even_Being_A_Layman_Does_Not_Justify_Your_Sensuality_1.pdf){:target="blank"}
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20191216 - 131hh - Even being a layman does not justify your sensuality_v2.pdf){:target="blank"} [[external link]](https://www.hillsidehermitage.org/wp-content/uploads/2022/06/131hh_Even_Being_A_Layman_Does_Not_Justify_Your_Sensuality_1.pdf){:target="blank"}
 
 ***
 

@@ -469,7 +469,7 @@ sensuality depends on your power of conviction.
 
 ## 64hh- Responsibility Can Free You From Suffering
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20190404 - 64hh - Responsibility can free you from suffering.pdf){:target="blank"} [[external link](https://drive.google.com/file/d/1cf42HxjL0lAQZU4bqBK9ubnyBUmYY3S7/view){:target="blank"}
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/20190404 - 64hh - Responsibility can free you from suffering.pdf){:target="blank"} [[external link]](https://drive.google.com/file/d/1cf42HxjL0lAQZU4bqBK9ubnyBUmYY3S7/view){:target="blank"}
 
 ***
 
