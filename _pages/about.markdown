@@ -6,9 +6,11 @@ category: page
 layout: post
 ---
 
-Hillside Hermitage is a group of monks following the Early Buddhist Suttas. They live independently, apart from the mainstream traditions. The Hermitage was established by Ajahn Nyanamoli Thero who has received his Upasampada ordination in the Thai Forest Meditation Tradition and been living the monastic life since 2005.
+__Hillside Hermitage__ was first built in the hills of central Sri Lanka, and is now relocated to the mountain forests of Slovenia. It is a registered charity which supports a _group of solitary monastics_ spread out across Europe, and who are following the Early Buddhist Suttas and Ajahn Nyanamoli’s teachings. They live independently, apart from the mainstream traditions. 
 
-The following pages contain Ajahn Nyanamoli Thero’s Teachings, namely the Dhamma talks, and writings on meditation and various practical aspects of the Buddha’s Teaching.
+The original hermitage and now the Association was founded by _Ajahn Nyanamoli Thero_ who has received his Upasampada ordination in the Thai Forest Meditation Tradition and has been living the monastic life since 2005.
+
+The following pages contain the teachings of Ajahn Nyanamoli and his _disciples_, namely the Dhamma talks, writings and YouTube videos, on meditation and various practical aspects of the Buddha’s Teaching.
 
 ---
 
