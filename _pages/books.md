@@ -11,7 +11,9 @@ layout: post
 *Essays and Letters on Dhamma*\
 by Ajahn Nyanamoli Thero\
 ![Meanings](/hillside_hermitage_archive/images/meanings.jpg)\
-[[EPUB]](/hillside_hermitage_archive/books/Meanings - Bhikkhu Ninoslav Nanamoli.epub){:target="blank"} [[PDF]](/hillside_hermitage_archive/books/Meanings - Ajahn Nyanamoli Thero.pdf){:target="blank"}
+[[EPUB]](/hillside_hermitage_archive/books/Meanings - Bhikkhu Ninoslav Nanamoli.epub){:target="blank"}
+[[MOBI]](/hillside_hermitage_archive/books/Meanings - Bhikkhu Ninoslav Nanamoli.mobi){:target="blank"}
+[[PDF]](/hillside_hermitage_archive/books/Meanings - Ajahn Nyanamoli Thero.pdf){:target="blank"}
 <br>
 <br>
 
