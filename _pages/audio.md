@@ -21,7 +21,7 @@ To use M3U playlists, download the [audio archive](https://archive.org/compress/
 [M3U playlist](/hillside_hermitage_archive/audio/Abandoning_the_Hindrances_archive_playlist.m3u){:target="blank"}
 <iframe src="https://archive.org/embed/abandoning-the-hindrances&playlist=1&list_height=150" width="500" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-## Clarifying the Right order
+## Clarifying the Right Order
 [M3U playlist](/hillside_hermitage_archive/audio/Clarifying_the_Right_order_archive_playlist.m3u){:target="blank"}
 <iframe src="https://archive.org/embed/clarifying-the-right-order&playlist=1&list_height=150" width="500" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
