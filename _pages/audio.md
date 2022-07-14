@@ -49,11 +49,11 @@ To use M3U playlists, download the [audio archive](https://archive.org/compress/
 [M3U playlist](/hillside_hermitage_archive/audio/Importance_of_Solitude_archive_playlist.m3u){:target="blank"}
 <iframe src="https://archive.org/embed/importance-of-solitude&playlist=1&list_height=150" width="500" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-## The Jhanna Lifestyle
+## The Jhana Lifestyle
 [M3U playlist](/hillside_hermitage_archive/audio/The_Jhana_Lifestyle_archive_playlist.m3u){:target="blank"}
 <iframe src="https://archive.org/embed/the-jhana-lifestyle&playlist=1&list_height=150" width="500" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-## Jhanna Practice
+## Jhana Practice
 [M3U playlist](/hillside_hermitage_archive/audio/Jhana_Practice_archive_playlist.m3u){:target="blank"}
 <iframe src="https://archive.org/embed/on-jhana&playlist=1&list_height=150" width="500" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
