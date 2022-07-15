@@ -28,4 +28,4 @@ by Ajahn Nyanamoli\
 ### *Collected Essays & Summarized Talk Transcriptions*
 ![Collected Essays & Summarized Talk Transcriptions](/hillside_hermitage_archive/images/collected_cover.jpg)\
 [[EPUB]](/hillside_hermitage_archive/books/collected_essays_and_summarized_talk_transcriptions_of_hillside_hermitage_20220714v2.epub){:target="blank"}
-
+[[MOBI]](/hillside_hermitage_archive/books/collected_essays_and_summarized_talk_transcriptions_of_hillside_hermitage_20220714v2.mobi){:target="blank"}
