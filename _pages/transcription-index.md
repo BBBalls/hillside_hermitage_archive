@@ -15,6 +15,7 @@ layout: post
 [41hh- Contemplation and Awareness](/hillside_hermitage_archive/transcriptions/41hh- Contemplation and Awareness)\
 [51hh- Guided Contemplation - At The Old Guards Cave](/hillside_hermitage_archive/transcriptions/51hh- Guided Contemplation - At The Old Guards Cave)\
 [54hh- Not Wanting the Wanting](/hillside_hermitage_archive/transcriptions/54hh- Not Wanting the Wanting)\
+[63hh- Overcoming Anxiety](/hillside_hermitage_archive/transcriptions/63hh- Overcoming Anxiety)
 [64hh- Responsibility Can Free You From Suffering](/hillside_hermitage_archive/transcriptions/64hh- Responsibility Can Free You From Suffering)\
 [67hh- Comprehending The Mindfulness Of Breathing And Death Contemplation](/hillside_hermitage_archive/transcriptions/67hh- Comprehending The Mindfulness Of Breathing And Death Contemplation)\
 [70hh- The Stream Entry of Ajahn Chah](/hillside_hermitage_archive/transcriptions/70hh- The Stream Entry of Ajahn Chah)\
