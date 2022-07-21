@@ -44,6 +44,7 @@ layout: post
 [212hh- How to be Happy](/hillside_hermitage_archive/transcriptions/212hh- How to be Happy)\
 [215hh- Mindfulness Of Breathing And Calming Of The Aversion](/hillside_hermitage_archive/transcriptions/215hh- Mindfulness Of Breathing And Calming Of The Aversion)\
 [223hh- Practice Of Generosity](/hillside_hermitage_archive/transcriptions/223hh- Practice Of Generosity)\
+[229hh- Calming the Pain Not Avoiding It](/hillside_hermitage_archive/transcriptions/229hh- Calming the Pain Not Avoiding It)\
 [230hh- Stilling Of All Activities](/hillside_hermitage_archive/transcriptions/230hh- Stilling Of All Activities)\
 [235hh- Escape From The Body](/hillside_hermitage_archive/transcriptions/235hh- Escape From The Body)\
 [236hh- Desire To End Desire](/hillside_hermitage_archive/transcriptions/236hh- Desire To End Desire)\

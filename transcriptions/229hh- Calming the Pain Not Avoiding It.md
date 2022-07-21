@@ -28,7 +28,7 @@ Would you consider yourself to be calming yourself down; while you are cultivati
 </blockquote>
 
 <blockquote class="reference">
->-- MN 108
+– MN 108
 </blockquote>
 
 <blockquote class="english">
@@ -37,7 +37,7 @@ pleasure.”
 </blockquote>
 
 <blockquote class="reference">
--- SN 36.6
+– SN 36.6
 </blockquote>
 
 When touched by pain, the only thing an untrained ordinary person knows is to seek pleasure. It doesn't matter whether he seeks pleasure through food, company, others - or meditation. _He seeks pleasure, because he doesn't want to deal with the pain._ That is why it is a sensual view that underlies that meditation - any meditation of that kind.
@@ -55,7 +55,7 @@ It is a pleasure that you cannot crave for more of, because it didn't come in th
 </blockquote>
 
 <blockquote class="reference">
--- MN 139
+– MN 139
 </blockquote>
 
 What is truly disturbing is that movement of the mind - and you _seeking pleasure_ is just another movement. Another expectation, another anticipation, whether you get it or not doesn't matter - you are still relying on the perpetual movement of the mind, to remain floating. That is not peaceful or calming, even if you get all the pleasure you want in the world. So the true _samatha_, then is calming of those movements and those activities, or _sankharas_, intentions of the mind - calming that, within whatever you are intending towards, or against.
@@ -105,7 +105,7 @@ addiction: [your mind is] an addict who has been depending on the senses for aeo
 </blockquote>
 
 <blockquote class="reference">
--- MN 107
+– MN 107
 </blockquote>
 
 **Ajahn Nyanamoli:** That's the 'technique.' The technique of basically overcoming _the_ addiction of the addictions - i.e. the addiction of the senses - without replacements. People can often replace it, committing to something else, even more activity, work, perpetual distraction, company - which would keep the mind away from actually seeking sense pleasures on a course level, but without uprooting anything. It is just like a heroin addict finding something else to keep his mind addicted to, which is not dealing with it. The moment those activities become unavailable, the resting place of his mind is where his addiction still is, so he will go back to that which he hasn't uprooted.
@@ -122,7 +122,7 @@ When this was said, Ven. Arittha replied to the Blessed One, "I develop mindfuln
 </blockquote>
 
 <blockquote class="reference">
--- SN 54.6
+– SN 54.6
 </blockquote>
 
 [There is no specific instruction that can be given on how to do this, because] that would become another activity you will now _do_. The only way to do it is to endure it, and through that endurance, when you have no room to move left, right, forward or backward, you will find the way to calm yourself - BY not moving left, right, forward or backward.
@@ -140,7 +140,7 @@ That is why from the point of view of developing your mind, it is actually bette
 </blockquote>
 
 <blockquote class="reference">
--- Mn150
+– MN 150
 </blockquote>
 
 It means that five precepts are now the basis of your sense restraint and confinement, which is very easy, not even really confining - but they must be taken in the ultimate sense. Then, if on top of that you want to sometimes keep the eight precepts, good; but then if you don't keep the eight precepts there is no falling lower than the five precepts, that is your basis. And that must remain your basis.
