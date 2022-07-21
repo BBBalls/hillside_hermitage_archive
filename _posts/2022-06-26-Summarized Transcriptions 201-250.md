@@ -3357,8 +3357,7 @@ Would you consider yourself to be calming yourself down; while you are cultivati
 </blockquote>
 
 <blockquote class="english">
-“When he harbors aversion toward painful feeling, the underlying tendency to aversion toward painful feeling lies behind this. Being contacted by a painful feeling, he seeks delight in sensual pleasure. For what reason? Because the untrained ordinary person does not know of any escape from painful feeling other than sensual
-pleasure.”
+“When he harbors aversion toward painful feeling, the underlying tendency to aversion toward painful feeling lies behind this. Being contacted by a painful feeling, he seeks delight in sensual pleasure. For what reason? Because the untrained ordinary person does not know of any escape from painful feeling other than sensual pleasure.”
 </blockquote>
 
 <blockquote class="reference">
@@ -3390,8 +3389,7 @@ _Patient endurance is the supreme austerity_ (Dhp 184)**
 
 In order to calm your intentions on the mental level, you need to have calmed your body and speech, restrained it sufficiently long beforehand. THEN you can actually start calming that movement, the movement of the mind - but not at the expense of what is agitating you, that remains; that actually serves almost as a criteria for whether you are calm now, or not. It's easy to be calm when there is nothing bothering you. But the very reason people don't want to live in seclusion, not partake in company, and guard the sense doors - is that it is very disturbing.
 
-That is why the gradual training is about _building that up_, because that is the most disturbing thing. When you start saying no to desiring sense pleasures and guarding the sense doors, avoiding company, it is very disturbing for the mind that depends on those movements, engagements and activities. Solitude, seclusion, withdrawal from the senses, confinement - it basically feels like dying. It is the withdrawal of a heavy
-addiction: [your mind is] an addict who has been depending on the senses for aeons, not only this life. If you think cigarettes are hard to give up, or heroin, try giving up the entire domain of pleasure dependent on the senses and existence in general.
+That is why the gradual training is about _building that up_, because that is the most disturbing thing. When you start saying no to desiring sense pleasures and guarding the sense doors, avoiding company, it is very disturbing for the mind that depends on those movements, engagements and activities. Solitude, seclusion, withdrawal from the senses, confinement - it basically feels like dying. It is the withdrawal of a heavy addiction: [your mind is] an addict who has been depending on the senses for aeons, not only this life. If you think cigarettes are hard to give up, or heroin, try giving up the entire domain of pleasure dependent on the senses and existence in general.
 
 **Q:** _Even on that small scale in terms of little things like addiction to smoking, you can get a glimpse of the relief that comes from not being agitated anymore by that particular craving._
 
@@ -3400,32 +3398,32 @@ addiction: [your mind is] an addict who has been depending on the senses for aeo
 **MN 107 - The Discourse to Ganaka-Moggallana:**
 
 <blockquote class="english">
-“...When the Tathāgata gets a person fit to be tamed, he first trains him thus:\
-
-‘(1)Come, bhikkhu. Be virtuous. Dwell restrained in accordance with the Pāṭimokkha, consummate in your behavior & sphere of activity. Train yourself, having undertaken the training rules, seeing danger in the slightest faults.’\
-
-“When the monk is virtuous… seeing danger in the slightest faults, the Tathāgata then trains him further:\
-
-‘(2)Come, monk. Be one who is guarded in the doors of your sense faculties. On seeing a form with the eye, don’t grasp at any signs and features (significance) by which—if you were to dwell without restraint over the faculty of the eye—evil, unskillful qualities such as greed or distress might assail you. Practice for its restraint. Protect the faculty of the eye. Attain restraint with regard to the faculty of the eye. On hearing a sound with the ear.… On smelling an aroma with the nose.… On tasting a flavor with the tongue.… On touching a tactile sensation with the body.… On cognizing an idea with the intellect, don’t grasp at any signs and features by which—if you were to dwell without restraint over the faculty of the intellect—evil, unskillful qualities such as greed or distress might assail you. Practice for its restraint. Protect the faculty of the intellect. Attain restraint with regard to the faculty of the intellect.’\
-
-“When the monk is one who is guarded in the doors of his sense faculties… the Tathāgata then trains him further:\
-
-‘(3)Come, monk. Be one who eats for the right reasons. With a correct perspective (yonisomanasikara), take your food not playfully, nor for intoxication, nor for putting on bulk, nor for beautification, but simply for the survival and continuance of this body, for ending its afflictions, for the support of the holy life, thinking, “I will destroy old feelings & not create new feelings. Thus I will maintain myself, be blameless, and live in comfort.”’ “When the monk is one who eats for the right reasons… the Tathāgata then trains him further:\
-
-‘(4)Come, monk. Be one who is devoted to wakefulness. During the day, sitting & walking back & forth, cleanse your mind of any obstructive states. During the first watch of the night, sitting & walking back & forth, cleanse your mind of any obstructive states. During the second watch of the night, reclining on your right side, take up the lion’s posture, one foot placed on top of the other, mindful, alert, with your mind set on getting up [either as soon as you awaken or at a particular time]. During the last watch of the night, sitting & walking back & forth, cleanse your mind of any obstructive states.’\
-
-“When the monk is one who is devoted to wakefulness/vigilance… the Tathāgata then trains him further:\
-
-‘(5)Come, monk. Be one who is possessed of mindfulness & awareness. When going forward & returning, make yourself aware. When looking toward & looking away.… When bending & extending your limbs.… When carrying your outer cloak, upper robe, & bowl.… When eating, drinking, chewing, & tasting.… When urinating & defecating.… When walking, standing, sitting, falling asleep, waking up, talking, & remaining silent, make yourself aware.’\
-
-“When the monk is one who is possessed of mindfulness & awareness… The Tathāgata then trains him further:\
-
-‘(6)Come, monk. Seek out a secluded dwelling: a wilderness, the shade of a tree, a mountain, a glen, a hillside cave, a charnel ground, a forest grove, the open air, a heap of straw.’\
-
-“He seeks out a secluded dwelling: a wilderness, the shade of a tree, a mountain, a glen, a hillside cave, a charnel ground, a forest grove, the open air, a heap of straw. After his meal, returning from his alms round, he sits down, crosses his legs, holds his body upright, and brings mindfulness to the fore.\
-
-“(7)Abandoning covetousness with regard to the world, he dwells with an awareness devoid of covetousness. He cleanses his mind of covetousness. Abandoning ill will & anger, he dwells with an awareness devoid of ill will, sympathetic to the welfare of all living beings. He cleanses his mind of ill will & anger. Abandoning sloth & drowsiness, he dwells with an awareness devoid of sloth & drowsiness, mindful, alert, percipient of light. He cleanses his mind of sloth & drowsiness. Abandoning restlessness & anxiety, he dwells undisturbed, his mind inwardly stilled. He cleanses his mind of restlessness & anxiety. Abandoning uncertainty, he dwells having crossed over uncertainty, with no perplexity with regard to skillful qualities. He cleanses his mind of uncertainty.\
-
+“...When the Tathāgata gets a person fit to be tamed, he first trains him thus:<br/>
+<br/>
+‘(1)Come, bhikkhu. Be virtuous. Dwell restrained in accordance with the Pāṭimokkha, consummate in your behavior & sphere of activity. Train yourself, having undertaken the training rules, seeing danger in the slightest faults.’<br/>
+<br/>
+“When the monk is virtuous… seeing danger in the slightest faults, the Tathāgata then trains him further:<br/>
+<br/>
+‘(2)Come, monk. Be one who is guarded in the doors of your sense faculties. On seeing a form with the eye, don’t grasp at any signs and features (significance) by which—if you were to dwell without restraint over the faculty of the eye—evil, unskillful qualities such as greed or distress might assail you. Practice for its restraint. Protect the faculty of the eye. Attain restraint with regard to the faculty of the eye. On hearing a sound with the ear.… On smelling an aroma with the nose.… On tasting a flavor with the tongue.… On touching a tactile sensation with the body.… On cognizing an idea with the intellect, don’t grasp at any signs and features by which—if you were to dwell without restraint over the faculty of the intellect—evil, unskillful qualities such as greed or distress might assail you. Practice for its restraint. Protect the faculty of the intellect. Attain restraint with regard to the faculty of the intellect.’<br/>
+<br/>
+“When the monk is one who is guarded in the doors of his sense faculties… the Tathāgata then trains him further:<br/>
+<br/>
+‘(3)Come, monk. Be one who eats for the right reasons. With a correct perspective (yonisomanasikara), take your food not playfully, nor for intoxication, nor for putting on bulk, nor for beautification, but simply for the survival and continuance of this body, for ending its afflictions, for the support of the holy life, thinking, “I will destroy old feelings & not create new feelings. Thus I will maintain myself, be blameless, and live in comfort.”’ “When the monk is one who eats for the right reasons… the Tathāgata then trains him further:<br/>
+<br/>
+‘(4)Come, monk. Be one who is devoted to wakefulness. During the day, sitting & walking back & forth, cleanse your mind of any obstructive states. During the first watch of the night, sitting & walking back & forth, cleanse your mind of any obstructive states. During the second watch of the night, reclining on your right side, take up the lion’s posture, one foot placed on top of the other, mindful, alert, with your mind set on getting up [either as soon as you awaken or at a particular time]. During the last watch of the night, sitting & walking back & forth, cleanse your mind of any obstructive states.’<br/>
+<br/>
+“When the monk is one who is devoted to wakefulness/vigilance… the Tathāgata then trains him further:<br/>
+<br/>
+‘(5)Come, monk. Be one who is possessed of mindfulness & awareness. When going forward & returning, make yourself aware. When looking toward & looking away.… When bending & extending your limbs.… When carrying your outer cloak, upper robe, & bowl.… When eating, drinking, chewing, & tasting.… When urinating & defecating.… When walking, standing, sitting, falling asleep, waking up, talking, & remaining silent, make yourself aware.’<br/>
+<br/>
+“When the monk is one who is possessed of mindfulness & awareness… The Tathāgata then trains him further:<br/>
+<br/>
+‘(6)Come, monk. Seek out a secluded dwelling: a wilderness, the shade of a tree, a mountain, a glen, a hillside cave, a charnel ground, a forest grove, the open air, a heap of straw.’<br/>
+<br/>
+“He seeks out a secluded dwelling: a wilderness, the shade of a tree, a mountain, a glen, a hillside cave, a charnel ground, a forest grove, the open air, a heap of straw. After his meal, returning from his alms round, he sits down, crosses his legs, holds his body upright, and brings mindfulness to the fore.<br/>
+<br/>
+“(7)Abandoning covetousness with regard to the world, he dwells with an awareness devoid of covetousness. He cleanses his mind of covetousness. Abandoning ill will & anger, he dwells with an awareness devoid of ill will, sympathetic to the welfare of all living beings. He cleanses his mind of ill will & anger. Abandoning sloth & drowsiness, he dwells with an awareness devoid of sloth & drowsiness, mindful, alert, percipient of light. He cleanses his mind of sloth & drowsiness. Abandoning restlessness & anxiety, he dwells undisturbed, his mind inwardly stilled. He cleanses his mind of restlessness & anxiety. Abandoning uncertainty, he dwells having crossed over uncertainty, with no perplexity with regard to skillful qualities. He cleanses his mind of uncertainty.<br/>
+<br/>
 “(8)Having abandoned these five hindrances—imperfections of awareness that weaken discernment—then, quite secluded from sense desire, secluded from unskillful things, he enters & remains in the first jhāna: joy & pleasure born of seclusion, accompanied by thought & evaluation… the second jhāna...the third jhāna, the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain.”
 </blockquote>
 
@@ -3439,10 +3437,10 @@ So that is what ‘meditation’ is - once you have sufficiently, wholesomely di
 
 <blockquote class="english">
 “The Blessed One said, "Monks, do you develop mindfulness of in-&-out breathing?"
-When this was said, Ven. Arittha replied to the Blessed One, "I develop mindfulness of in-&-out breathing, lord."\
-
-"But how do you develop mindfulness of in-&-out breathing, Arittha?"\
-
+When this was said, Ven. Arittha replied to the Blessed One, "I develop mindfulness of in-&-out breathing, lord."<br/>
+<br/>
+"But how do you develop mindfulness of in-&-out breathing, Arittha?"<br/>
+<br/>
 "Having abandoned sensual desire for past sensual pleasures, lord, having done away with sensual desire for future sensual pleasures, and having thoroughly subdued perceptions of irritation with regard to internal & external events, I breathe in mindfully and breathe out mindfully." 
 </blockquote>
 
@@ -3477,21 +3475,21 @@ Through that, because now that's something you must protect, you're forced to be
 **MN 125 - Taming the wild elephant simile:**
 
 <blockquote class="english">
-“Suppose, Aggivessana, that a king addresses his woodsman, ‘Come, my good woodsman. Mount a royal elephant, enter the woods, and when you find a wilderness elephant, bind it by the neck to the royal elephant.’\
-
+“Suppose, Aggivessana, that a king addresses his woodsman, ‘Come, my good woodsman. Mount a royal elephant, enter the woods, and when you find a wilderness elephant, bind it by the neck to the royal elephant.’<br/>
+<br/>
 “Responding, ‘Yes, your majesty,’ the woodsman mounts a royal elephant, enters the woods and, finding a wilderness elephant, binds it by the neck to the royal elephant. Then the royal elephant leads it out into the open air. It’s to this extent that the wilderness elephant has come into the open air, for wilderness elephants long for
-the woods. “Then the woodsman informs the king, ‘Your majesty, the wilderness elephant has come into the open air.’\
-
-“The king then addresses his elephant tamer, ‘Come, my good elephant tamer. Tame the wilderness elephant. Break it of its wilderness habits, its wilderness memories and intentions, its distraction, fatigue, and fever over leaving the wilderness. Make it enjoy the town and teach it habits congenial to human beings.’\
-
-“Responding, ‘Yes, your majesty,’ the elephant tamer then plants a large post in the ground and binds the wilderness elephant to it by the neck in order to break it of its wilderness habits, its wilderness memories and resolves, its distraction, fatigue, and fever over leaving the wilderness, to make it delight in the town and to teach it habits congenial to human beings.\
-
+the woods. “Then the woodsman informs the king, ‘Your majesty, the wilderness elephant has come into the open air.’<br/>
+<br/>
+“The king then addresses his elephant tamer, ‘Come, my good elephant tamer. Tame the wilderness elephant. Break it of its wilderness habits, its wilderness memories and intentions, its distraction, fatigue, and fever over leaving the wilderness. Make it enjoy the town and teach it habits congenial to human beings.’<br/>
+<br/>
+“Responding, ‘Yes, your majesty,’ the elephant tamer then plants a large post in the ground and binds the wilderness elephant to it by the neck in order to break it of its wilderness habits, its wilderness memories and resolves, its distraction, fatigue, and fever over leaving the wilderness, to make it delight in the town and to teach it habits congenial to human beings.<br/>
+<br/>
 “The elephant tamer then speaks to the wilderness elephant words that are soothing, pleasing to the ear, affectionate, that go to the heart, that are polite, appealing and pleasing to people at large. When the wilderness elephant is spoken to with words that are soothing, pleasing to the ear, affectionate, that go to the heart, that are
-polite, appealing & pleasing to people at large, it listens, lends ear, and exerts its mind to understand. The elephant tamer then further rewards it with grass, fodder, and water. When the wilderness elephant accepts the elephant tamer’s grass, fodder, and water, that’s when the elephant tamer knows, ‘Now the wilderness elephant will live!’\
-
+polite, appealing & pleasing to people at large, it listens, lends ear, and exerts its mind to understand. The elephant tamer then further rewards it with grass, fodder, and water. When the wilderness elephant accepts the elephant tamer’s grass, fodder, and water, that’s when the elephant tamer knows, ‘Now the wilderness elephant will live!’<br/>
+<br/>
 “Then the elephant tamer makes the wilderness elephant perform further tasks: ‘Pick this up, sir. Put this down, sir.’ When the wilderness elephant obeys the elephant tamer’s instructions to pick up and put down as it is told, the elephant tamer makes it perform further tasks: ‘Go forward. Go back.’ When the wilderness elephant obeys
-the elephant tamer’s instructions to go forward and go back as it is told, the elephant tamer makes it perform further tasks: ‘Get up. Lie down.’\
-
+the elephant tamer’s instructions to go forward and go back as it is told, the elephant tamer makes it perform further tasks: ‘Get up. Lie down.’<br/>
+<br/>
 “When the wilderness elephant obeys the elephant tamer’s instructions to get up and lie down as it is told, the elephant tamer makes it perform a further task called immovability. The elephant tamer ties a giant shield to its trunk. A man with a lance in his hand sits on its neck. Men with lances in their hands stand surrounding it
 on all sides, while the elephant tamer, with a long lance pole in his hand, stands in front of it. As it is made to perform the task of immovability, it doesn’t move its forefeet or its hind feet, it doesn’t move its forequarters or its hindquarters, it doesn’t move its head, it doesn’t move its ears, it doesn’t move its tusks, it doesn’t move its
 tail, it doesn’t move its trunk. It is a royal elephant that endures attacks from spears, swords, arrows, and axes; and resounding beats of drums, cymbals, conchs, and tom-toms. Rid of all faults and defects, purged of flaws, it is worthy of the king….”
@@ -3512,14 +3510,14 @@ Would the leper who is free from his condition, even consider burning himself wi
 
 <blockquote class="english">
 “Suppose, Māgandiya, there was a leper with sores and blisters on his limbs, being devoured by worms, scratching the scabs off the openings of his wounds with his nails, cauterising his body over a burning charcoal pit. Then his friends and companions, his kinsmen and relatives, brought a physician to treat him. The physician would make medicine for him, and by means of that medicine the man would be cured of his leprosy and would become well and happy, independent, master of himself, able to go where he likes. Then two strong men would seize him by both arms and drag him towards a burning charcoal pit. What do you think,
-Māgandiya? Would that man twist his body this way and that?”\
-
-“Yes, Master Gotama. Why is that? Because that fire is indeed painful to touch, hot, and scorching.”\
-
-“What do you think, Māgandiya? Is it only now that that fire is painful to touch, hot, and scorching, or previously too was that fire painful to touch, hot, and scorching?”\
-
-“Master Gotama, that fire is now painful to touch, hot, and scorching, and previously too that fire was painful to touch, hot, and scorching. For when that man was a leper with sores and blisters on his limbs, being devoured by worms, scratching the scabs off the openings of his wounds with his nails, his faculties were impaired; thus, though the fire was actually painful to touch, he acquired a mistaken perception of it as pleasant.”\
-
+Māgandiya? Would that man twist his body this way and that?”<br/>
+<br/>
+“Yes, Master Gotama. Why is that? Because that fire is indeed painful to touch, hot, and scorching.”<br/>
+<br/>
+“What do you think, Māgandiya? Is it only now that that fire is painful to touch, hot, and scorching, or previously too was that fire painful to touch, hot, and scorching?”<br/>
+<br/>
+“Master Gotama, that fire is now painful to touch, hot, and scorching, and previously too that fire was painful to touch, hot, and scorching. For when that man was a leper with sores and blisters on his limbs, being devoured by worms, scratching the scabs off the openings of his wounds with his nails, his faculties were impaired; thus, though the fire was actually painful to touch, he acquired a mistaken perception of it as pleasant.”<br/>
+<br/>
 “So too, Māgandiya, in the past sensual pleasures were painful to touch, hot, and scorching; in the future sensual pleasures will be painful to touch, hot, and scorching; and now at present sensual pleasures are painful to touch, hot, and scorching. But these beings who are not free from lust for sensual pleasures, who are devoured by craving for sensual pleasures, who burn with fever for sensual pleasures, have faculties that are impaired; thus, though sensual pleasures are actually painful to touch, they acquire a mistaken perception of them as pleasant.”
 </blockquote>
 
