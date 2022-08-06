@@ -62,7 +62,7 @@ To use M3U playlists, download the [audio archive](https://archive.org/compress/
 <iframe src="https://archive.org/embed/meditation-and-composure&playlist=1&list_height=150" width="500" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## Mindfulness of Breathing
-[M3u playlist](/hillside_hermitage_archive/audio/Mindfulness_of_Breathing_archive_playlist.m3u){:target="blank"}
+[M3U playlist](/hillside_hermitage_archive/audio/Mindfulness_of_Breathing_archive_playlist.m3u){:target="blank"}
 <iframe src="https://archive.org/embed/mindfulness-of-breathing&playlist=1&list_height=150" width="500" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## Nanavira Thera's Notes on Dhamma Series
