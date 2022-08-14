@@ -100,7 +100,7 @@ That energy, the activation, the life force, one could call consciousness, the a
 That *energy* which the body depends on, is itself dependent on the body being available. Neither aspect of this situation as a whole can be seen or known as independently arisen, and any independence is a complete fantasy on my part, an assumption on account of the pressuring ambiguity of my existence which is not in my control.
 
 -----
-\
+
 Take for example a computer game which can have a third person view of some character, walking in the bottom centre of the screen. That in a way, is how one should try and view one's first person viewpoint, such a viewpoint would be a right type of viewing. A way of seeing and knowing this situation that you are framed by. In life, you can see other people, over there or near you, and they are not what you think you are. They are others who are “over there”, and likewise is your body to others, the same way their bodies are to you - “an other over there”. No matter how close they appear. Your body is on the same plain of the other bodies you do not own. Your body is equally not owned by you.
 
 If I can take this body which happens to be very close to this point of view, as for me, or belonging to me, as self, I can also take other bodies and things which are a little bit further away, like cars, house, wife, child, cattle, wealth, country, and so on, i.e my sense of ownership, my self has no limits, it can take everything personally. If I can assume that a part of this nama-rupa domain, which is not-mine, as mine, then I can assume any part of that domain to be mine or for me.
