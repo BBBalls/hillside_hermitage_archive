@@ -27,5 +27,5 @@ By Ajahn Nyanamoli Thero:
 By Thaniyo Thero:
 
 [Meaning Of The Heart](/hillside_hermitage_archive/essays/Meaning Of The Heart)\
-[Uproot Assumptions, Uproot Suffering](/hillside_hermitage_archive/essays/Uproot Assumptions, Uproot Suffering - Thaniyo Thero)
+[Uproot Assumptions, Uproot Suffering](/hillside_hermitage_archive/essays/Uproot Assumptions, Uproot Suffering - Thaniyo Thero)\
 [Making Peace With Feeling](/hillside_hermitage_archive/essays/Making Peace With Feeling)

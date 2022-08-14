@@ -6,14 +6,15 @@ layout: post
 ---
 
 <style>
-.pali {
-  margin-left: 2em;
+.pali2 {
     font-size: 0.8em;
     }
 blockquote {
     font-size: 1.1em;
     }
 </style>
+
+[[source pdf]](/hillside_hermitage_archive/source_pdfs/Making Peace With Feeling - Thaniyo Thero.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/212){:target="blank"}
 
 By making peace with what is felt, one is developing _metta_ or non-ill will. By that I mean, no longer interfering with what is felt, by no longer trying to change it, but by withstanding it, by not craving it, by fully comprehending it.
 
@@ -51,50 +52,50 @@ The more you let go of your craving regarding a feeling the less it will affect 
 
 <blockquote>
 “This is what is to be done by those who are skilled in goodness, and who fully understand the path of peace.<br/>
-<em class="pali">"Karaṇīyamatthakusalena, Yanta santaṁ padaṁ abhisamecca;</em><br/>
+<em class="pali2">"Karaṇīyamatthakusalena, Yanta santaṁ padaṁ abhisamecca;</em><br/>
 They are competent and honorable, possessing integrity, well-spoken, gentle, and not conceited;<br/>
-<em class="pali">Sakko ujū ca suhujū ca, Sūvaco cassa mudu anatimānī.</em><br/>
+<em class="pali2">Sakko ujū ca suhujū ca, Sūvaco cassa mudu anatimānī.</em><br/>
 Contented and easy to support, unbusied, frugal in their ways,<br/>
-<em class="pali">Santussako ca subharo ca, Appakicco ca sallahukavutti;</em><br/>
+<em class="pali2">Santussako ca subharo ca, Appakicco ca sallahukavutti;</em><br/>
 With peaceful faculties, clever, not intrusive or greedy amongst families.<br/>
-<em class="pali">Santindriyo ca nipako ca, Appagabbho kulesvananugiddho.</em><br/>
+<em class="pali2">Santindriyo ca nipako ca, Appagabbho kulesvananugiddho.</em><br/>
 Not doing the slightest thing that the wise would find fault with.<br/>
-<em class="pali">Na ca khuddamācare kiñci, Yena viññū pare upavadeyyuṁ;</em>
+<em class="pali2">Na ca khuddamācare kiñci, Yena viññū pare upavadeyyuṁ;</em>
 <br/>
 <br/>
 Happy and secure, May all beings be happy!<br/>
-<em class="pali">Sukhino va khemino hontu, Sabbasattā bhavantu sukhitattā.</em><br/>
+<em class="pali2">Sukhino va khemino hontu, Sabbasattā bhavantu sukhitattā.</em><br/>
 Whatever living creatures, moving or unmoving, without leaving any out, long or large, medium, short, unusually shaped, visible or invisible, living far or near, those born or to be born:<br/>
-<em class="pali">Ye keci pāṇabhūtatthi, Tasā vā thāvarā vanavasesā; Dīghā vā ye va mahantā, Majjhimā rassakā aṇukathūlā. Diṭṭhā vā ye va adiṭṭhā, Ye va dūre vasanti avidūre; Bhūtā va sambhavesī va,</em><br/>
+<em class="pali2">Ye keci pāṇabhūtatthi, Tasā vā thāvarā vanavasesā; Dīghā vā ye va mahantā, Majjhimā rassakā aṇukathūlā. Diṭṭhā vā ye va adiṭṭhā, Ye va dūre vasanti avidūre; Bhūtā va sambhavesī va,</em><br/>
 May all beings be happy!<br/>
-<em class="pali">Sabbasattā bhavantu sukhitattā.</em>
+<em class="pali2">Sabbasattā bhavantu sukhitattā.</em>
 <br/>
 <br/>
 Not acting against, nor despising anyone anywhere.<br/>
-<em class="pali">Na paro paraṁ nikubbetha, Nātimaññetha katthaci na kañci;</em><br/>
+<em class="pali2">Na paro paraṁ nikubbetha, Nātimaññetha katthaci na kañci;</em><br/>
 Even when irritated by the perception of resistance, not wishing suffering on anyone.<br/>
-<em class="pali">Byārosanā paṭighasañña, Nāññamaññassa dukkhamiccheyya.</em>
+<em class="pali2">Byārosanā paṭighasañña, Nāññamaññassa dukkhamiccheyya.</em>
 <br/>
 <br/>
 Just as a mother would protect her only beneficial child,<br/>
-<em class="pali">Mātā yathā niyaṁ puttam Āyusā ekaputtamanurakkhe;</em><br/>
+<em class="pali2">Mātā yathā niyaṁ puttam Āyusā ekaputtamanurakkhe;</em><br/>
 Likewise, all beings should develop an unrestricted mind.<br/>
-<em class="pali">Evampi sabbabhūtesu, Mānasaṁ bhāvaye aparimāṇaṁ.</em>
+<em class="pali2">Evampi sabbabhūtesu, Mānasaṁ bhāvaye aparimāṇaṁ.</em>
 <br/>
 <br/>
 Metta/Benevolent towards the whole world, develop an unrestricted mind.<br/>
-<em class="pali">Mettañca sabbalokasmi, Mānasaṁ bhāvaye aparimāṇaṁ;</em><br/>
+<em class="pali2">Mettañca sabbalokasmi, Mānasaṁ bhāvaye aparimāṇaṁ;</em><br/>
 Above, below, all-around, unconfined, friendly, and without enemies.<br/>
-<em class="pali">Uddhaṁ adho ca tiriyañca, Asambādhaṁ averamasapattaṁ.</em>
+<em class="pali2">Uddhaṁ adho ca tiriyañca, Asambādhaṁ averamasapattaṁ.</em>
 <br/>
 <br/>
 Whether standing, walking, sitting, or lying down, not becoming weary,<br/>
-<em class="pali">Tiṭṭhaṁ caraṁ nisinno va, Sayāno yāvatāssa vitamiddho;</em><br/>
+<em class="pali2">Tiṭṭhaṁ caraṁ nisinno va, Sayāno yāvatāssa vitamiddho;</em><br/>
 Always remember this; for this, is the dwelling of the gods.<br/>
-<em class="pali">Etaṁ satiṁ adhiṭṭheyya, Brahmametaṁ vihāramidhamāhu.</em><br/>
+<em class="pali2">Etaṁ satiṁ adhiṭṭheyya, Brahmametaṁ vihāramidhamāhu.</em><br/>
 <br/>
 Attained to view, accomplished in insight and virtue,<br/>
-<em class="pali">Diṭṭhiñca anupaggamma, Sīlavā dassanena sampanno;</em><br/>
+<em class="pali2">Diṭṭhiñca anupaggamma, Sīlavā dassanena sampanno;</em><br/>
 Liberated by the destruction of sensual desire, they are never again conceived in a womb.”<br/>
-<em class="pali">Kāmesu vinaya gedhaṁ, Na hi jātuggabbhaseyya punaretī”ti.</em>
+<em class="pali2">Kāmesu vinaya gedhaṁ, Na hi jātuggabbhaseyya punaretī”ti.</em>
 </blockquote>
