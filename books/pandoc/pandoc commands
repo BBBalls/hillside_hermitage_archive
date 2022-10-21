@@ -1,0 +1,2 @@
+#epub output
+pandoc -f markdown -t epub3 --epub-chapter-level=3 --metadata-file metadata.yaml --epub-embed-font="NotoSerif-*.ttf" --epub-embed-font="NotoSans-*.ttf" --template="template.xml" --file-scope -o ../HH_collected_essays_and_transcriptions.epub

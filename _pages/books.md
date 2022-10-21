@@ -31,6 +31,6 @@ by Ajahn Nyanamoli\
 
 ### *Collected Essays & Summarized Talk Transcriptions*
 ![Collected Essays & Summarized Talk Transcriptions](/hillside_hermitage_archive/images/cover_2_collected_essays_and_transcriptions_HH_small.jpg)\
-[[EPUB]](/hillside_hermitage_archive/books/collected_essays_and_summarized_talk_transcriptions_of_hillside_hermitage_20220822.epub){:target="blank"}
-[[AZW3]](/hillside_hermitage_archive/books/collected_essays_and_summarized_talk_transcriptions_of_hillside_hermitage_20220822.azw3){:target="blank"}
-[[MOBI]](/hillside_hermitage_archive/books/collected_essays_and_summarized_talk_transcriptions_of_hillside_hermitage_20220822.mobi){:target="blank"}
+[[EPUB]](/hillside_hermitage_archive/books/HH_collected_essays_and_transcriptions.epub){:target="blank"}
+[[AZW3]](/hillside_hermitage_archive/books/HH_collected_essays_and_transcriptions.azw3){:target="blank"}
+[[MOBI]](/hillside_hermitage_archive/books/HH_collected_essays_and_transcriptions.mobi){:target="blank"}
