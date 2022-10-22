@@ -12,7 +12,7 @@ layout: post
 
 [Path Press: an existential approach to the Buddha's teaching](https://pathpress.org/)
 
-- A blog that has related post and article.
+- A blog that has related posts and articles.
 
 [Path Press Publications: an existential approach to the Buddha's teaching](https://www.pathpresspublications.com/en/page/home)
 
