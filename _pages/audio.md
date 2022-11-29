@@ -21,6 +21,10 @@ To use M3U playlists, download the [audio archive](https://archive.org/compress/
 [M3U playlist](/hillside_hermitage_archive/audio/Abandoning_the_Hindrances_archive_playlist.m3u){:target="blank"}
 <iframe src="https://archive.org/embed/abandoning-the-hindrances&playlist=1&list_height=150" width="500" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+## ANATTA - non-ownership
+[M3U playlist](/hillside_hermitage_archive/audio/ANATTA_ -_non-ownership_archive_playlist.m3u){:target="blank"}
+<iframe src="https://archive.org/embed/anatta-non-ownership&playlist=1&list_height=150" width="500" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ## Clarifying the Right Order
 [M3U playlist](/hillside_hermitage_archive/audio/Clarifying_the_Right_order_archive_playlist.m3u){:target="blank"}
 <iframe src="https://archive.org/embed/clarifying-the-right-order&playlist=1&list_height=150" width="500" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -88,3 +92,7 @@ To use M3U playlists, download the [audio archive](https://archive.org/compress/
 ## Taking Responsibility for Your Dukkha
 [M3U playlist](/hillside_hermitage_archive/audio/Taking_Responsibility_for_Your_Dukkha_archive_playlist.m3u){:target="blank"}
 <iframe src="https://archive.org/embed/taking-responsibility-for-your-dukkha&playlist=1&list_height=150" width="500" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## Taming the Senses
+[M3U playlist](/hillside_hermitage_archive/audio/Taming_the_Senses_archive_playlist.m3u){:target="blank"}
+<iframe src="https://archive.org/embed/taming-the-senses&playlist=1&list_height=150" width="500" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
