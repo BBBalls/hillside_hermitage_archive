@@ -15,6 +15,7 @@ layout: post
 [41hh- Contemplation and Awareness](/hillside_hermitage_archive/transcriptions/03.01.0041_transcript_Contemplation and Awareness.html)\
 [51hh- Guided Contemplation - At The Old Guards Cave](/hillside_hermitage_archive/transcriptions/03.01.0051_transcript_Guided Contemplation-At The Old Guards Cave.html)\
 [54hh- Not Wanting the Wanting](/hillside_hermitage_archive/transcriptions/03.01.0054_transcript_Not Wanting the Wanting.html)\
+[62hh- It's Not The Pain That Makes You Suffer](/hillside_hermitage_archive/transcriptions/03.01.0062_transcript_It's Not The Pain That Makes You Suffer.html)\
 [63hh- Overcoming Anxiety](/hillside_hermitage_archive/transcriptions/03.01.0063_transcript_Overcoming Anxiety.html)\
 [64hh- Responsibility Can Free You From Suffering](/hillside_hermitage_archive/transcriptions/03.01.0064_transcript_Responsibility Can Free You From Suffering.html)\
 [67hh- Comprehending The Mindfulness Of Breathing And Death Contemplation](/hillside_hermitage_archive/transcriptions/03.01.0067_transcript_Comprehending The Mindfulness Of Breathing And Death Contemplation.html)\
