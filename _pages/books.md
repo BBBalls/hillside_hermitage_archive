@@ -32,7 +32,7 @@ by Ajahn Nyanamoli Thero\
 ### *The Only Way to Jhāna*
 *Meditation according to the early Suttas*\
 by Ajahn Nyanamoli Thero\
-![The Only Way to Jhāna](/hillside_hermitage_archive/images/Only_Way_To_Jhana_Nyanamoli_Thero_cover_small.jpg)
+![The Only Way to Jhāna](/hillside_hermitage_archive/images/Only_Way_To_Jhana_Nyanamoli_Thero_cover_small.jpg)\
 [[EPUB]](/hillside_hermitage_archive/books/Only_Way_To_Jhana_Nyanamoli_Thero.epub){:target="blank"}
 [[AZW3]](/hillside_hermitage_archive/books/Only_Way_To_Jhana_Nyanamoli_Thero.azw3){:target="blank"}
 [[MOBI]](/hillside_hermitage_archive/books/Only_Way_To_Jhana_Nyanamoli_Thero.mobi){:target="blank"}
