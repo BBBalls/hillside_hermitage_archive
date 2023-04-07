@@ -30,6 +30,7 @@ layout: post
 [170hh- How to Develop Solitude](/hillside_hermitage_archive/transcriptions/03.01.0170_transcript_How to Develop Solitude.html)\
 [171hh- The Beautiful side of Ugly, the Living side of Death](/hillside_hermitage_archive/transcriptions/03.01.0171_transcript_The Beautiful side of Ugly the Living side of Death.html)\
 [173hh- Dukkha in Anicca, Anatta in Dukkha](/hillside_hermitage_archive/transcriptions/03.01.0173_transcript_Dukkha in Anicca Anatta in Dukkha.html)\
+[175hh- Let Only Bones and Sinews Remain](/hillside_hermitage_archive/transcriptions/03.01.0175_transcript_Let Only Bones And Sinews Remain.html)\
 [183hh- Becoming An Immovable Object](/hillside_hermitage_archive/transcriptions/03.01.0183_transcript_Becoming An Immovable Object.html)\
 [185hh- Samsara Is Directly Visible](/hillside_hermitage_archive/transcriptions/03.01.0185_transcript_Samsara Is Directly Visible.html)\
 [198hh- In The Seen Just The Seen](/hillside_hermitage_archive/transcriptions/03.01.0198_transcript_In The Seen Just The Seen.html)\
@@ -50,6 +51,8 @@ layout: post
 [235hh- Escape From The Body](/hillside_hermitage_archive/transcriptions/03.01.0235_transcript_Escape From The Body.html)\
 [236hh- Desire To End Desire](/hillside_hermitage_archive/transcriptions/03.01.0236_transcript_Desire To End Desire.html)\
 [247hh- Discerning The Body For Uprooting Of Sensuality](/hillside_hermitage_archive/transcriptions/03.01.0247_transcript_Discerning The Body For Uprooting Of Sensuality.html)\
+[265hh- Seven Factors of Enlightenment](/hillside_hermitage_archive/transcriptions/03.01.0256_transcript_Seven Factors of Enlightenment.html)\
 [257hh- Only The Noble Truth Of Pain](/hillside_hermitage_archive/transcriptions/03.01.0257_transcript_Only The Noble Truth Of Pain.html)\
 [258hh- Simile of The Son’s Flesh](/hillside_hermitage_archive/transcriptions/03.01.0258_transcript_Simile of The Sons Flesh.html)\
+[284hh- The Meaning of Right Samadhi](/hillside_hermitage_archive/transcriptions/03.01.0284_transcript_The Meaning of Right Samadhi.html)\
 [287hh- How To Abandon Self View](/hillside_hermitage_archive/transcriptions/03.01.0287_transcript_How To Abandon Self View.html)

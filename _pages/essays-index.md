@@ -28,4 +28,10 @@ By Thaniyo Thero:
 
 [Meaning Of The Heart](/hillside_hermitage_archive/essays/02.02.0001_Thaniyo_essay1_Meaning_of_the_Heart.html)\
 [Uproot Assumptions, Uproot Suffering](/hillside_hermitage_archive/essays/02.02.0002_Thaniyo_essay2_Uproot_Assumptions_Uproot_Suffering.html)\
-[Making Peace With Feeling](/hillside_hermitage_archive/essays/02.02.0003_Thaniyo_essay3_Making_Peace_With_Feeling.html)
+[Making Peace With Feeling](/hillside_hermitage_archive/essays/02.02.0003_Thaniyo_essay3_Making_Peace_With_Feeling.html)\
+[Going Through Dukkha](/hillside_hermitage_archive/essays/02.02.0004_Thaniyo_essay4_Going_Through_Dukkha.html)
+
+By Sister Medhini:
+
+[Living Under an Authority](/hillside_hermitage_archive/essays/02.03.0001_Medhini_essay1_Living_Under_an_Authority.html)
+
