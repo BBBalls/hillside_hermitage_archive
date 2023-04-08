@@ -55,4 +55,5 @@ layout: post
 [257hh- Only The Noble Truth Of Pain](/hillside_hermitage_archive/transcriptions/03.01.0257_transcript_Only The Noble Truth Of Pain.html)\
 [258hh- Simile of The Son’s Flesh](/hillside_hermitage_archive/transcriptions/03.01.0258_transcript_Simile of The Sons Flesh.html)\
 [284hh- The Meaning of Right Samadhi](/hillside_hermitage_archive/transcriptions/03.01.0284_transcript_The Meaning of Right Samadhi.html)\
-[287hh- How To Abandon Self View](/hillside_hermitage_archive/transcriptions/03.01.0287_transcript_How To Abandon Self View.html)
+[287hh- How To Abandon Self View](/hillside_hermitage_archive/transcriptions/03.01.0287_transcript_How To Abandon Self View.html)\
+[296hh- Undermining the Sense of Self](/hillside_hermitage_archive/transcriptions/03.01.0296_transcript_Undermining the Sense of Self.html)
