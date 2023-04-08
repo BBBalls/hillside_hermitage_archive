@@ -8,7 +8,7 @@ layout: post
 
 <div id="transcript_seven-factors-of-enlightenment.md">
 
-## Seven Factors of Enlightenment
+## 256hh- Seven Factors of Enlightenment
 
 Sīlasutta SN 46.3:
 
