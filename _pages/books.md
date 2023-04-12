@@ -11,10 +11,10 @@ layout: post
 *Essays and Letters on Dhamma*\
 by Ajahn Nyanamoli Thero\
 ![Meanings](/hillside_hermitage_archive/images/meanings_small.jpg)\
-[[EPUB]](/hillside_hermitage_archive/books/'Meanings - Bhikkhu Ninoslav Nanamoli.epub')
-[[AZW3]](/hillside_hermitage_archive/books/'Meanings - Bhikkhu Ninoslav Nanamoli.azw3')
-[[MOBI]](/hillside_hermitage_archive/books/'Meanings - Bhikkhu Ninoslav Nanamoli.mobi')
-[[PDF]](/hillside_hermitage_archive/books/'Meanings - Bhikkhu Ninoslav Nanamoli.pdf')
+[[EPUB]](/hillside_hermitage_archive/books/Meanings-Bhikkhu_Ninoslav_Nanamoli.epub)
+[[AZW3]](/hillside_hermitage_archive/books/Meanings-Bhikkhu_Ninoslav_Nanamoli.azw3)
+[[MOBI]](/hillside_hermitage_archive/books/Meanings-Bhikkhu_Ninoslav_Nanamoli.mobi)
+[[PDF]](/hillside_hermitage_archive/books/Meanings-Bhikkhu_Ninoslav_Nanamoli.pdf)
 <br>
 <br>
 
@@ -22,10 +22,10 @@ by Ajahn Nyanamoli Thero\
 *A Guide to Edurance, Patience and Wisdom*\
 by Ajahn Nyanamoli Thero\
 ![Dhamma Within Reach](/hillside_hermitage_archive/images/dhamma_within_reach_small.jpg)\
-[[EPUB]](/hillside_hermitage_archive/books/'Dhamma Within Reach - Ajahn Nyanamoli Thero.epub')
-[[AZW3]](/hillside_hermitage_archive/books/'Dhamma Within Reach - Ajahn Nyanamoli Thero.azw3')
-[[MOBI]](/hillside_hermitage_archive/books/'Dhamma Within Reach - Ajahn Nyanamoli Thero.mobi')
-[[PDF]](/hillside_hermitage_archive/books/'Dhamma Within Reach - Ajahn Nyanamoli Thero.pdf')
+[[EPUB]](/hillside_hermitage_archive/books/Dhamma_Within_Reach-Ajahn_Nyanamoli_Thero.epub)
+[[AZW3]](/hillside_hermitage_archive/books/Dhamma_Within_Reach-Ajahn_Nyanamoli_Thero.azw3)
+[[MOBI]](/hillside_hermitage_archive/books/Dhamma_Within_Reach-Ajahn_Nyanamoli_Thero.mobi)
+[[PDF]](/hillside_hermitage_archive/books/Dhamma_Within_Reach-Ajahn_Nyanamoli_Thero.pdf)
 <br>
 <br>
 
