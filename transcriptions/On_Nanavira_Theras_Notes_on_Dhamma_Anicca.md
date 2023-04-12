@@ -5,8 +5,6 @@ date: 2020-10-08
 layout: post
 ---
 
-[[source pdf]](/hillside_hermitage_archive/source_pdfs/20181022 - On Nanavira Thera - Notes on Dhamma - Part 6 - Anicca.pdf){:target="blank"} [[external link]](https://t.me/HillsideHermitage/41){:target="blank"}
-
 **Q:** This is in regards to Ven. Nanavira\'s, shorter notes on ​anicca​
 and the sutta quotes found there :
 
