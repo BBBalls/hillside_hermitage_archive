@@ -1514,9 +1514,9 @@ unable to crave it.
 
 <div id="transcript_comprehending-the-mindfulness-of-breathing-and-death-contemplation.md">
 
-## 67hh- Comprehending The Mindfulness Of Breathing And Death
+## 67hh- Comprehending The Mindfulness Of Breathing And Death Contemplation
 
-Contemplation \#### I. Mindfulness of Breathing
+#### I. Mindfulness of Breathing
 
 **Ven. Thaniyo:** I wanted to ask about mindfulness of breathing, and
 how that should be done. You can read the sutta over and over again and
