@@ -10,7 +10,7 @@ by
 
 Ajahn Nyanamoli Thero
 
-![cover](/hillside_hermitage_archive/images/Dhamma Within Reacher cover.jpg)
+![cover](/hillside_hermitage_archive/images/Dhamma_Within_Reacher_cover.jpg)
 
 ***
 
@@ -896,4 +896,4 @@ Do it or not, it’s your choice, but if you cultivate the right choices suffici
 
 ***
 
-![backcover](/hillside_hermitage_archive/images/Dhamma Within Reacher backcover.jpg)
+![backcover](/hillside_hermitage_archive/images/Dhamma_Within_Reacher_backcover.jpg)
