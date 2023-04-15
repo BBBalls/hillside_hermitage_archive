@@ -41,6 +41,7 @@ layout: post
 [204hh- The Six Sensed Animal](/hillside_hermitage_archive/transcriptions/03.01.0204_transcript_The_Six_Sensed_Animal.html)\
 [205hh- Jhana Is A Lifestyle](/hillside_hermitage_archive/transcriptions/03.01.0205_transcript_Jhana_Is_A_Lifestyle.html)\
 [206hh- The Pleasure of Non-Activity](/hillside_hermitage_archive/transcriptions/03.01.0206_transcript_The_Pleasure_of_Non-Activity.html)\
+[207hh- The Danger Contemplation](/hillside_hermitage_archive/transcriptions/03.01.0207_transcript_The_Danger_Contemplation.html)\
 [209hh- The Simile of the Wet Sticks](/hillside_hermitage_archive/transcriptions/03.01.0209_transcript_The_Simile_of_the_Wet_Sticks.html)\
 [210hh- How To Let Go](/hillside_hermitage_archive/transcriptions/03.01.0210_transcript_How_To_Let_Go.html)\
 [212hh- How to be Happy](/hillside_hermitage_archive/transcriptions/03.01.0212_transcript_How_to_be_Happy.html)\
