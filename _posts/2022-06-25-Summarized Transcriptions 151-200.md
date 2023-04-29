@@ -6,7 +6,7 @@ category: Transcriptions
 layout: post
 ---
 
-<div id="transcript_you-dont-need-to-say-no-to-everything.md">
+<div id="transcript_you_dont_need_to_say_no_to_everything.md">
 
 ## 155hh- You Don’t Need To Say No To Everything
 
@@ -45,16 +45,16 @@ Lust, aversion, and distraction are not IN things that you are doing.
 They are in your motivations that make you act for those reasons. And
 that’s what the Buddha said :
 
-<div class="english">
+<div lang="en">
 
 > “Thought and lust are a man’s sensuality,\\ Not the various things in
 > the world;\\ Thought and lust are a man’s sensuality,\\ The various
 > things just stand there in the world;\\ But the wise get rid of desire
-> therein.” 
+> therein.”
+>
+> — <cite>AN 6.63</cite>
 
 </div>
-
-> – AN 6.63
 
 If you want to uproot lust, aversion and delusion, it’s not simply by
 doing this and abstaining from that, it’s by knowing your intentions
@@ -168,9 +168,10 @@ asceticism\*, even if in itself it does not necessarily result in
 wisdom. Just don’t become neurotic and say no to everything. Because
 that means that you’ll lose context and won’t be aware of your intent.
 
-\* [MN 3 - Dhammadayada sutta](https://suttacentral.net/mn3):
+\* <cite>[MN 3 - Dhammadayada
+sutta](https://suttacentral.net/mn3)</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “…Now, monks, suppose that I had eaten, refused more food, had my
 > fill, finished, had enough, had what I needed, and some alms-food was
@@ -204,14 +205,14 @@ that means that you’ll lose context and won’t be aware of your intent.
 
 </div>
 
-<div id="transcript_the-contradiction-in-the-unwholesome.md">
+<div id="transcript_the_contradiction_in_the_unwholesome.md">
 
 ## 168hh- The Contradiction in the Unwholesome
 
 **Nm:** Unwholesome things are unwholesome because in themselves they
 contain a contradiction or a discrepancy.
 
-#### Killing
+<u>**Killing**</u>
 
 **Q:** You can see the same thread of contradiction running through
 every unwholesome action. Take killing, for example, one takes away the
@@ -269,7 +270,7 @@ an abstract view, which can correspond to the practical application to
 some extent. Some people can have an accurate abstract view but haven’t
 truly understood the nature of wholesome as wholesome.
 
-#### Stealing
+<u>**Stealing**</u>
 
 **Q:** If we can just go to the next precept, which is to refrain from
 “taking that which is not given”. How is stealing unwholesome?
@@ -287,7 +288,7 @@ these things are unwholesome. If you choose to act with intention of ill
 will, desire, carelessness, means you’re accepting that contradicting
 value.
 
-#### Sexual Misconduct
+<u>**Sexual Misconduct**</u>
 
 **Q:** The next precept of refraining from sexual misconduct or having
 sexual relations with people you shouldn’t e.g another’s wife or
@@ -366,7 +367,7 @@ pick up the bait, and then INDIRECTLY you will no longer be
 appropriating the sense organs as yours. (You cannot directly let go of
 sense organs.)
 
-#### Lying
+<u>**Lying**</u>
 
 **Q:** The next precept is refraining from misrepresenting the truth.
 
@@ -407,7 +408,8 @@ games? It will be impossible for you to do that. Because suddenly the
 sense of urgency is back, and the only reason a sense of urgency can be
 restored is because it’s always there implicitly. That thread of anxiety
 that you can never completely cover-up is for everyone what human
-existence is. Only the *Arahant* is completely free from it.
+existence is. Only the <span lang="pi">*Arahant*</span> is completely
+free from it.
 
 When you are young, healthy, and have all the senses working, it feels
 like there’s no problem. As I said, just do a little experiment, close
@@ -418,7 +420,7 @@ Solitude starts revealing the main motivation for all your various
 engagements, which is to cover up your underlying anxiety on account of
 your fundamentally uncertain existence.
 
-#### Intoxication
+<u>**Intoxication**</u>
 
 **Q:** The fifth precept, refraining from intoxicants, is unwholesome
 because it’s the basis for carelessness, it’s the covering up of any
@@ -469,13 +471,13 @@ contradiction.
 
 </div>
 
-<div id="transcript_the-context-of-your-suffering.md">
+<div id="transcript_the_context_of_your_suffering.md">
 
 ## 169hh- The Context Of Your Suffering
 
-MN 121:
+<cite>MN 121</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “His mind enters into that perception of forest and acquires
 > confidence, steadiness, and inclines towards it. He understands thus:
@@ -597,18 +599,18 @@ that can come through the senses.
 
 So, for example, if you truly understood the fundamental context of
 anicca, regarding everything that has a nature to manifest that’s
-*sotapatti*, which is the understanding that “whatever has the context
-of arising, because of that, has the context of cessation”, and the
-context of non-ownership, non-appropriation, indifference, dispassion,
-all these other contexts come from that realized/developed fundamental
-context of anicca.
+<span lang="pi">*sotapatti*</span>, which is the understanding that
+“whatever has the context of arising, because of that, has the context
+of cessation”, and the context of non-ownership, non-appropriation,
+indifference, dispassion, all these other contexts come from that
+realized/developed fundamental context of anicca.
 
 How can you discern/develop/realize such a context? The only method is
 learning what the context is and then making an effort to discern it.
 
 </div>
 
-<div id="transcript_how-to-develop-solitude.md">
+<div id="transcript_how_to_develop_solitude.md">
 
 ## 170hh- How to Develop Solitude
 
@@ -645,11 +647,11 @@ feeling.
 me. In as much as my feeling is inherently accessible to anybody other
 than me. As I mentioned before, solitude is not optional, existence is
 not optional. Existence is solitary and that’s why if somebody wants to
-overcome and undo *Bhava*- the existence, you need to start recognizing
-the inherent principles of it. So for as long as you don’t leave the
-group, how can you develop solitude? How can you see through it? How can
-you discern that neutral feeling that the Buddha praises, for which
-solitude is required?
+overcome and undo <span lang="pi">*Bhava*</span>- the existence, you
+need to start recognizing the inherent principles of it. So for as long
+as you don’t leave the group, how can you develop solitude? How can you
+see through it? How can you discern that neutral feeling that the Buddha
+praises, for which solitude is required?
 
 Most people who are not used to solitude, when they are left alone,
 boredom is the first result. Which is a lot more problematic than one
@@ -673,8 +675,9 @@ should make myself ready because what do I think death is? Is it any
 different from cessation or cancellation of all my means of escape from
 myself, cancellation of sensuality, cancellation of company,
 cancellation of all my distractions?!”. That’s why death is the ultimate
-terror for an ordinary person (*putthujana*) who is fundamentally,
-existentially dependent upon others, upon sensuality, upon distraction.
+terror for an ordinary person (<span lang="pi">*putthujana*</span>) who
+is fundamentally, existentially dependent upon others, upon sensuality,
+upon distraction.
 
 Some people use examples of others who jumped into solitude and lost
 their mind, as proof that solitude is unhealthy. Well, that’s just
@@ -719,9 +722,9 @@ or superior to you, then go and learn from them, instead of associating
 with somebody who you can’t learn anything from, even on the pretext of
 Dhamma.
 
-**Q:** It says in Samyutta Nikaya 45.2:
+**Q:** It says in <cite>Samyutta Nikaya 45.2</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “Venerable Ananda approaches the Buddha and says:\\”Venerable sir,
 > this is half of the holy life, that is, good friendship, good
@@ -757,10 +760,11 @@ Dhamma.
 </div>
 
 **Nm:** As you can see, the Buddha describes what he means by
-“*kalyāṇamitta*” (good friend), which is not someone who is just nice to
-you but someone who assists you in the cultivation of the Noble
-eightfold path, even if you haven’t met them, just as we haven’t met the
-Buddha, yet our entire holy life is determined by him.
+“<span lang="pi">*kalyāṇamitta*</span>” (good friend), which is not
+someone who is just nice to you but someone who assists you in the
+cultivation of the Noble eightfold path, even if you haven’t met them,
+just as we haven’t met the Buddha, yet our entire holy life is
+determined by him.
 
 Even though ‘friendship’ with a Noble one is essential (even just to the
 extent of hearing their Teaching second hand), still solitude plays a
@@ -781,13 +785,13 @@ because that’s truly the strength you seek.
 
 </div>
 
-<div id="transcript_the-beautiful-side-of-ugly-the-living-side-of-death.md">
+<div id="transcript_the_beautiful_side_of_ugly_the_living_side_of_death.md">
 
 ## 171hh- The Beautiful side of Ugly, the Living side of Death
 
-**Q:** AN 7.49:
+**Q:** <cite>AN 7.49</cite>:
 
-<div class="english">
+<div lang="en">
 
 > Bhikkhus, these seven perceptions, when developed and frequently
 > practised, are of great fruit and great benefit. They are included in
@@ -841,8 +845,8 @@ because that’s truly the strength you seek.
 
 </div>
 
-The term “*paṭikūla*” is usually translated as ‘repulsive’ but it’s
-literally the ‘other/opposite side’.
+The term “<span lang="pi">*paṭikūla*</span>” is usually translated as
+‘repulsive’ but it’s literally the ‘other/opposite side’.
 
 **Nm:** It’s the side that is simultaneously there with the beautiful.
 And in order to discern it, you need to see through the beauty that is
@@ -850,17 +854,17 @@ present. The opposite side of beauty cannot be found somewhere else.
 Like, two sides of a coin, you don’t seek a second coin to see the other
 side of this coin. It’s the same coin but now you need to see the
 opposite side, the one you’re not looking at. And the reason why that’s
-so important is that the most common way people practice *asubha* is as
-a response to the beautiful, as in, they want to get rid of the
-beautiful and replace it with the ugly. Which means you see those things
-as separate from each other. You’re not seeing the ugly within that
-beautiful, which is how you would cancel(undermine) the attraction to
-the beautiful, by seeing the opposite side of it (within it). But
-instead, you’re just trying to get rid of the beautiful because it
-bothers you and replace it with ugly because that supposedly does not
-bother you or it shouldn’t bother you as much if you want to practice
-restraint. But in reality, what you’re doing, is just acting on account
-of how you feel.
+so important is that the most common way people practice
+<span lang="pi">*asubha*</span> is as a response to the beautiful, as
+in, they want to get rid of the beautiful and replace it with the ugly.
+Which means you see those things as separate from each other. You’re not
+seeing the ugly within that beautiful, which is how you would
+cancel(undermine) the attraction to the beautiful, by seeing the
+opposite side of it (within it). But instead, you’re just trying to get
+rid of the beautiful because it bothers you and replace it with ugly
+because that supposedly does not bother you or it shouldn’t bother you
+as much if you want to practice restraint. But in reality, what you’re
+doing, is just acting on account of how you feel.
 
 So the beauty is there bothering you and you just want to be free from
 bother, which is fine. But how do you go about it? You go about blaming
@@ -880,17 +884,18 @@ things, to corpses and so on. Because they were wrongly attending.
 
 The right attention it’s how you attend those things, within them. So
 while beautiful is present, you have a chance to discern correctly,
-‘*yonisomanasikara*’, to attend correctly, to attend to the opposite
-side that’s there implicitly. Which is why freedom from the side that is
-beautiful is possible. You don’t have to do anything in response to it,
-you just need to see through it. And that’s why, if you actually develop
-that ‘*patikulamanasikara*’, it then doesn’t matter, what type of
-beautiful perception you encounter, later on, the mind remains equally
-developed in regard to it, the mind sees through it, because it has seen
-through its nature which is universal. And when you see through the
-nature of beauty, as inseparable from ugly, then you realize that the
-beautiful is just less ugly, not as ugly, but still ugly. Which means it
-starts serving as a basis for dispassion.
+‘<span lang="pi">*yonisomanasikara*</span>’, to attend correctly, to
+attend to the opposite side that’s there implicitly. Which is why
+freedom from the side that is beautiful is possible. You don’t have to
+do anything in response to it, you just need to see through it. And
+that’s why, if you actually develop that
+‘<span lang="pi">*patikulamanasikara*</span>’, it then doesn’t matter,
+what type of beautiful perception you encounter, later on, the mind
+remains equally developed in regard to it, the mind sees through it,
+because it has seen through its nature which is universal. And when you
+see through the nature of beauty, as inseparable from ugly, then you
+realize that the beautiful is just less ugly, not as ugly, but still
+ugly. Which means it starts serving as a basis for dispassion.
 
 **Q:** So how do you cultivate the perception of ugly or these other
 perceptions that the Buddha has encouraged? How would you establish your
@@ -934,7 +939,8 @@ then I claimed to be fully free from sensual desires”.
 
 So within the beautiful, the opposite side of the beautiful is the
 danger defined by that beautiful. The danger is the attraction to the
-beautiful which is based upon the *asubha*/ the ugly.
+beautiful which is based upon the <span lang="pi">*asubha*</span>/the
+ugly.
 
 The development of that perception of danger means the discernment of
 the implicit characteristics of what you are attending. The chief of
@@ -945,7 +951,7 @@ have uncovered.
 
 **Q:** The sutta continues:
 
-<div class="english">
+<div lang="en">
 
 > “2-… When a Bhikkhu becomes accustomed to the perception of death,
 > their mind draws back from attachment to life, and either upekkha or
@@ -956,8 +962,8 @@ have uncovered.
 
 **Nm:** The perception of death is the counterpart of this life here,
 you can’t just get rid of life in order to see what death is, which is
-how people usually practice, *asubha*, get rid of the subha and then
-replace it with *asubha*.
+how people usually practice, <span lang="pi">*asubha*</span>, get rid of
+the subha and then replace it with <span lang="pi">*asubha*</span>.
 
 So ‘the other side’ means that it’s there simultaneously present at the
 same time within whatever you’re attending. Death is simultaneously
@@ -1030,7 +1036,7 @@ basis for death to apply to you any longer.
 
 **Q:** The sutta continues:
 
-<div class="english">
+<div lang="en">
 
 > “3-…When a Bhikkhu becomes accustomed to the perception of the other
 > side(patikula) of food/eating, their mind draws back from craving for
@@ -1065,9 +1071,9 @@ matter how agreeable or disagreeable the eating is, it’s still within
 the unpleasant fact of hunger. So when the hunger disappears, you stop
 eating.
 
-**Q:** In the Dhammapada verse 203:
+**Q:** In the <cite>Dhammapada verse 203</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “Hunger is the foremost illness; Determinations are the foremost
 > dis-ease. For one knowing this, as it really is; Nibbana is the
@@ -1102,13 +1108,13 @@ with food.
 
 </div>
 
-<div id="transcript_dukkha-in-anicca-anatta-in-dukkha.md">
+<div id="transcript_dukkha_in_anicca_anatta_in_dukkha.md">
 
 ## 173hh- Dukkha in Anicca, Anatta in Dukkha
 
-**Q:** AN 7.49 continued:
+**Q:** <cite>AN 7.49</cite> continued:
 
-<div class="english">
+<div lang="en">
 
 > 4-…When a Bhikkhu becomes accustomed to the perception of non-delight
 > in regard to the whole world, their mind draws back from the various
@@ -1164,7 +1170,7 @@ you wouldn’t care what you’re eating, good or bad, because however you
 eat, you eat for the right reasons, And that’s what the Buddha said in
 MN 77, in regards to eating:
 
-<div class="english">
+<div lang="en">
 
 > “Suppose, Udāyī, my disciples were to respect me because I eat little.
 > Well, there are disciples of mine who eat a cupful of food, or half a
@@ -1199,7 +1205,7 @@ and how apparent perception of danger in delight is.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “5-…When a Bhikkhu becomes accustomed to the perception of Anicca,
 > their mind draws back from acquisitions, honours, and fame, and either
@@ -1264,8 +1270,9 @@ whether you want to or not, ‘being subject to change’ is implicit.
 That’s what a thing is.
 
 If you cultivate that perception of anicca, sustain it, maintain it in
-its being (*Bhavana*), it would result in complete fading away of all
-the acquisitions, dependence on honours, fame, notions of conceit.
+its being (<span lang="pi">*Bhavana*</span>), it would result in
+complete fading away of all the acquisitions, dependence on honours,
+fame, notions of conceit.
 
 **Q:** The mind will also not be upset by criticism.
 
@@ -1295,7 +1302,7 @@ rectify the world and make sure that everybody knows the truth etc.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > 6-…When a Bhikkhu becomes accustomed to the perception of DUKKHA in
 > ANICCA, an acute perception of fear/danger becomes settled in him
@@ -1316,7 +1323,7 @@ urgency’ will develop.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > 7-…When a Bhikkhu becomes accustomed to the perception of non-self in
 > what is Dukkha, his mind is devoid of I-making, mine-making, and
@@ -1336,11 +1343,11 @@ anymore. You will no longer be “measured” by it.
 
 </div>
 
-<div id="transcript_let-only-bones-and-sinews-remain.md">
+<div id="transcript_let_only_bones_and_sinews_remain.md">
 
 ## 175hh- Let Only Bone and Sinews Remain
 
-<div class="english">
+<div lang="en">
 
 > Bhikkhus, I have known two qualities through experience: discontent
 > concerning beneficial qualities and diligence.
@@ -1352,10 +1359,10 @@ anymore. You will no longer be “measured” by it.
 >
 > Through such vigilance, awakening and unexcelled freedom from bondage
 > was attained.
+>
+> — <cite>AN 2.5</cite>
 
 </div>
-
-> —AN 2.5
 
 **Ajahn Nyanamoli**: To make the right effort, you must know what the
 right effort is. A common interpretation of that passage is that it
@@ -1436,21 +1443,21 @@ enlightenment, hoping that it will happen to you while bypassing all the
 steps in between. The development of Awakening just doesn’t work like
 that.
 
-<div class="english">
+<div lang="en">
 
-If a bhikkhu should wish: ‘May I, with the destruction of three fetters,
-become a stream-enterer, no longer subject to bad destinations, bound
-for freedom, headed for enlightenment,’ let him fulfill the precepts, be
-devoted to unity of mind, not neglect jhana, be possessed of insight,
-and dwell in empty huts……. It was regarding this that it was said:
-’Bhikkhus, dwell possessed of virtue, possessed of the Pātimokkha,
-restrained with the restraint of the Pātimokkha, perfect in conduct and
-resort, seeing fear in the slightest fault, train by undertaking the
-training precepts.
+> If a bhikkhu should wish: ‘May I, with the destruction of three
+> fetters, become a stream-enterer, no longer subject to bad
+> destinations, bound for freedom, headed for enlightenment,’ let him
+> fulfill the precepts, be devoted to unity of mind, not neglect jhana,
+> be possessed of insight, and dwell in empty huts… It was regarding
+> this that it was said: ’Bhikkhus, dwell possessed of virtue, possessed
+> of the Pātimokkha, restrained with the restraint of the Pātimokkha,
+> perfect in conduct and resort, seeing fear in the slightest fault,
+> train by undertaking the training precepts.
+>
+> — <cite>MN 6</cite>
 
 </div>
-
-> —MN 6
 
 **Q**: The first Sutta says: *I have known two qualities through
 experience: discontent concerning beneficial qualities and diligence.*
@@ -1465,7 +1472,7 @@ right thing and have some faith, contentment will arise. And then it
 will be effortless. Tireless energy will arise as a consequence of that
 right discernment.
 
-<div class="english">
+<div lang="en">
 
 > Bhikkhus, for a faithful disciple who is intent on fathoming the
 > Teacher’s instruction, it is natural that he conducts himself thus:
@@ -1484,14 +1491,14 @@ right discernment.
 > For a faithful disciple who is intent on fathoming the Teacher’s
 > instruction, one of two fruits may be expected: either final knowledge
 > here and now or, if there is a trace of assumptions left, non-return.
+>
+> — <cite>MN 70</cite>
 
 </div>
 
-> —MN 70
-
 </div>
 
-<div id="transcript_becoming-an-immovable-object.md">
+<div id="transcript_becoming_an_immovable_object.md">
 
 ## 183hh- Becoming An Immovable Object
 
@@ -1506,17 +1513,17 @@ minds, sensuality would be the acting out of thoughts immediately
 without reflection, without sense restraint, or any consideration.
 That’s pretty much what defines sensuality.
 
-<div class="english">
+<div lang="en">
 
 > “Thought and lust are a man’s sensuality,  
 > Not the various things in the world;  
 > Thought and lust are a man’s sensuality,  
 > The various things just stand there in the world;  
 > But the wise get rid of desire therein.”
+>
+> — <cite>AN 6.63</cite>
 
 </div>
-
-> – AN 6.63
 
 The nature of thought (mind state) might be sensual, but when it’s
 paired with acceptance, welcoming, and delight in it, there’s immediate
@@ -1608,28 +1615,30 @@ attempts to wiggle out of it.
 
 Allowing thoughts to endure without acting out of them, would be the
 beginning of the middle way. Also, that’s exactly what grasping the
-‘signs of the mind’- *cittanimitta* means in the suttas. Grasping the
-sign of your mind for what it is, its nature, the way it endures. The
-reason why people cannot grasp the *cittanimitta*, the prerequisite for
-the right view, is because they either act toward or deny their mind. So
-you’re either under-doing the restraint or over-doing the restraint, but
-you are not doing the restraint properly either way.
+‘signs of the mind’- <span lang="pi">*cittanimitta*</span> means in the
+suttas. Grasping the sign of your mind for what it is, its nature, the
+way it endures. The reason why people cannot grasp the
+<span lang="pi">*cittanimitta*</span>, the prerequisite for the right
+view, is because they either act toward or deny their mind. So you’re
+either under-doing the restraint or over-doing the restraint, but you
+are not doing the restraint properly either way.
 
 **Q:** When you are watching the breath and a lustful thought arises,
 some tend to think ‘I must get rid of this’ therefore I must just watch
 my breath so that I don’t have lustful thoughts, and if I can keep
 watching my breath I will never have lustful thoughts again.
 
-**Nm:** That’s like the deer herd that ran on top of the mountain (Mn
-25). They are not experiencing any temptation from the bait, for some
-time, but they are not growing wisdom regarding overcoming the bait
-altogether, which means when their food on the mountain runs out, or
-when you can’t sustain watching your breath 24/7, something will have to
-pull you out one way or another, and then you are back to where you were
-before, because no wisdom was developed, which would have created an
-elevated ground for you to be on. When the suitable environment, which
-was allowing you to not engage with the bait disappears, you get trapped
-once again because your freedom from the bait was only circumstantial.
+**Nm:** That’s like the deer herd that ran on top of the mountain
+(<cite>Mn 25</cite>). They are not experiencing any temptation from the
+bait, for some time, but they are not growing wisdom regarding
+overcoming the bait altogether, which means when their food on the
+mountain runs out, or when you can’t sustain watching your breath 24/7,
+something will have to pull you out one way or another, and then you are
+back to where you were before, because no wisdom was developed, which
+would have created an elevated ground for you to be on. When the
+suitable environment, which was allowing you to not engage with the bait
+disappears, you get trapped once again because your freedom from the
+bait was only circumstantial.
 
 By the way, there is no problem if you have lustful thoughts when you
 are breathing and you attend to the breath. You can do that because it
@@ -1750,10 +1759,10 @@ be denying those thoughts, that represent the state of mind behind them,
 you will not be able to endure it because your view is to not endure it.
 Or if you have a state of mind that you habitually act out of, again
 it’s because you cannot endure it. Even if you cannot attend properly in
-that peripheral manner to your state of mind (*yonisomanasikara*), the
-only way that you would be able to do so is if you start enduring
-whatever emotional mood you are in, not acting out of it and not trying
-to get rid of it.
+that peripheral manner to your state of mind
+(<span lang="pi">*yonisomanasikara*</span>), the only way that you would
+be able to do so is if you start enduring whatever emotional mood you
+are in, not acting out of it and not trying to get rid of it.
 
 Sensuality is bad, so don’t act out of it, but that doesn’t mean that
 you try and remove the thoughts that are there, because that means
@@ -1772,7 +1781,7 @@ through you NOT trying to get rid of it. That’s the middle way.
 
 </div>
 
-<div id="transcript_samsara-is-directly-visible.md">
+<div id="transcript_samsara_is_directly_visible.md">
 
 ## 185hh- Samsara Is Directly Visible
 
@@ -1789,7 +1798,7 @@ life, and an in-between place which is just me passing through from one
 life to another. However, you are not being reborn, it’s more like you
 ‘still are’ just here and there continuously on and on.
 
-<div class="english">
+<div lang="en">
 
 > “Again, Udāyi, I have declared this method to my disciples. Fallen to
 > this method my disciples could recollect the various manifold previous
@@ -1812,12 +1821,12 @@ life to another. However, you are not being reborn, it’s more like you
 > silence thus. From that village, I came back to my village. In the
 > same manner, I have declared the method to my disciples fallen to
 > which, my disciples could recollect the various manifold births such
-> as one birth, two births----Thus recollect the various manifold
-> previous births…”
+> as one birth, two births—Thus recollect the various manifold previous
+> births…”
+>
+> — <cite>MN 77</cite>
 
 </div>
-
-> – MN 77
 
 You are here now and then you are somewhere else without these memories
 and recognitions, but similar aggregates and point of view, it’s just a
@@ -1872,7 +1881,7 @@ consciousness, there is nothing outside of that. Samsara is the
 aggregates which are bound with ignorance which keeps being repeated
 until you make the effort to uproot that ignorance.
 
-<div class="english">
+<div lang="en">
 
 > “…When recollecting thus, bhikkhus: ‘I had such a form in the past,’
 > it is just a form that one recollects. When recollecting: ‘I had such
@@ -1882,10 +1891,10 @@ until you make the effort to uproot that ignorance.
 > determinations in the past,’ it is just determinations that one
 > recollects. When recollecting: ‘I had such consciousness in the past,’
 > it is just consciousness that one recollects…”
+>
+> — <cite>SN 22.79</cite>
 
 </div>
-
-> – SN 22.79
 
 **Q:** The content of one’s experience changes but the general nature
 remains the same?
@@ -2017,11 +2026,11 @@ repeating the same old habits.
 
 </div>
 
-<div id="transcript_in-the-seen-just-the-seen.md">
+<div id="transcript_in_the_seen_just_the_seen.md">
 
 ## 198hh- In The Seen Just The Seen
 
-<div class="english">
+<div lang="en">
 
 > “What do you think, Māluṅkyaputta? The forms cognizable via the eye
 > that are unseen by you—that you have never before seen, that you don’t
@@ -2063,10 +2072,10 @@ repeating the same old habits.
 > like this, while practicing, feeling is exhausted, not accumulated. He
 > lives like this, recollected. Diminishing suffering in this way,
 > Nibbana is said to be nearby.”
+>
+> — <cite>SN 35.95</cite>
 
 </div>
-
-> – SN 35.95
 
 Can you have lust for things that you haven’t seen before? That’s
 inconceivable because ‘having seen something’ is a prerequisite for
@@ -2159,7 +2168,7 @@ seen there will just be the seen, there will be no avoiding it or trying
 to prolong it, because in the seen there is now no more perversion of
 the context of the seen.
 
-<div class="english">
+<div lang="en">
 
 > “…That is how you should train yourself. When for you there will be
 > only the seen in reference to the seen, only the heard in reference to
@@ -2209,9 +2218,9 @@ time you engaged with the object of the senses you do so with ignorance,
 without the right context, without maintaining the recognition that they
 are vulnerable throughout the beginning, middle and end, it doesn’t
 matter what point you engage with things, they remain in their nature,
-at their core *anicca.*
+at their core <span lang="pi">*anicca*</span>.
 
-<div class="english">
+<div lang="en">
 
 > “…When there is no you in connection with that, there is no you there.
 > When there is no you there, you are neither here nor yonder nor
@@ -2231,12 +2240,12 @@ experiencing very painful mental states. Equally, if you are not able to
 give in to that anxiety and be overwhelmed by it and refuse to engage
 with the sense objects to the same extent, then you are diminishing that
 gratuitously proliferated being in that world of sense objects, and you
-can do so by maintaining the *anicca* context of things you want to
-engage with.
+can do so by maintaining the <span lang="pi">*anicca*</span> context of
+things you want to engage with.
 
 After the Buddha gives those instructions, Malunkaputta says:
 
-<div class="english">
+<div lang="en">
 
 > “I understand in detail what was stated briefly by the Blessed one.
 > Having seen a sight, (Having heard a sound, smelled a smell, tasted a
@@ -2254,7 +2263,7 @@ never see things but to never lose the context - the recognition of the
 right order. If there is lust, that means that there is the absence of
 context.
 
-<div class="english">
+<div lang="en">
 
 > “He experiences an impassioned mind and he keeps holding (assuming)….”
 
@@ -2262,7 +2271,7 @@ context.
 
 He is assuming it in the wrong order.
 
-<div class="english">
+<div lang="en">
 
 > “For him, with the arising of sights, various feelings increase. For
 > him, the mind is spoiled by desire and irritation. Accumulating
@@ -2286,7 +2295,7 @@ yourself from it and if you overflow that being of sensuality, you will
 not have means to get yourself out of it anymore. You became too
 dependent.
 
-<div class="english">
+<div lang="en">
 
 > “…Accumulating suffering in this way, Nibbana is said to be far away…”
 
@@ -2320,7 +2329,7 @@ room when it was barely cluttered, then because of that procrastinating,
 you will have 100 times more things to clean up,…good luck starting
 then.
 
-<div class="english">
+<div lang="en">
 
 > “He is not impassioned by sights (sounds,smells,tastes,touches, or
 > phenomena…).Having seen a sight he is recollected. He experiences a
@@ -2336,7 +2345,7 @@ prioritises the context not the content of his experience.
 
 </div>
 
-<div id="transcript_the-uprooting-of-your-suffering.md">
+<div id="transcript_the_uprooting_of_your_suffering.md">
 
 ## 199hh- The Uprooting Of Your Suffering
 
@@ -2549,7 +2558,7 @@ pressure to get rid of the pressure.
 
 </div>
 
-<div id="transcript_gateway-to-nibbana.md">
+<div id="transcript_gateway_to_nibbana.md">
 
 ## 200hh- Gateway To Nibbana
 

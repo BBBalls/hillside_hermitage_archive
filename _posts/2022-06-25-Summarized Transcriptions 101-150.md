@@ -6,11 +6,11 @@ category: Transcriptions
 layout: post
 ---
 
-<div id="transcript_even-being-a-layman-does-not-justify-your-sensuality.md">
+<div id="transcript_even_being_a_layman_does_not_justify_your_sensuality.md">
 
 ## 131hh- Even Being A Layman Does Not Justify Your Sensuality
 
-#### The practice starts by learning what the Buddha taught.
+<u>**The practice starts by learning what the Buddha taught.**</u>
 
 For a person who is interested in following the Buddha’s instruction, it
 is important to start reading the discourses that contain that
@@ -41,7 +41,7 @@ the external statement and the particular lifestyle, but in terms of
 practice, the important distinction is between living involved with
 sensuality, and living without it.
 
-#### Lay life does not equal sensual life.
+<u>**Lay life does not equal sensual life.**</u>
 
 Usually, it is true, a layperson is a person who lives with sensuality;
 and monks are those practicing restraint. \[However ‘being a layperson’
@@ -70,7 +70,8 @@ sensuality internally on the level of the mind, so although they are not
 engaging in sensual activity with their body, they remain very much
 within the sensual domain.
 
-#### Possibility of lay Dhamma practice does not mean possibility of sensual practice
+<u>**Possibility of lay Dhamma practice does not mean possibility of
+sensual practice**</u>
 
 There are discourses in which laypeople understood the Dhamma. However,
 it is very important to see that they certainly did not understand the
@@ -91,7 +92,8 @@ idea that”I am fine in whatever environment I am in, and sensuality is
 not a problem for me,” is entirely wrong thinking according to the
 principles of Dhamma. Sensuality is always a problem.
 
-#### The decision to remain as a layperson is already a serious compromise
+<u>**The decision to remain as a layperson is already a serious
+compromise**</u>
 
 Another point to consider is that even the decision to remain as a
 layperson is already not something to be taken lightly. If you want to
@@ -117,9 +119,9 @@ people’s lives, they did not take their duty towards family as an excuse
 to also live a sensual life. They would continue to practice \[sense
 restraint\], as laypeople.
 
-#### Mountain sutta
+<u>**Mountain sutta**</u>
 
-<div class="english">
+<div lang="en">
 
 > “…Aggivessana, it’s as if there were a great mountain and two
 > companions would go to that mountain. On arrival, one of the
@@ -161,10 +163,10 @@ restraint\], as laypeople.
 > for sensuality, to know or see or realize that which is to be known
 > through renunciation, seen through renunciation, attained through
 > renunciation, realized through renunciation: That’s impossible. …”
+>
+> — <cite>[MN 125](https://suttacentral.net/mn125)</cite>
 
 </div>
-
-> – [MN 125](https://suttacentral.net/mn125)
 
 So the point to recognise is that your criteria for what is right and
 possible are not necessarily correct from the point of view that you
@@ -190,7 +192,8 @@ engage with whatever comes my way down here at the bottom,” that is a
 whole other layer of sensuality and self-deception, on top of a decision
 that is already a compromise.
 
-#### What is the degree of sense restraint that is the necessary basis for the practice?
+<u>**What is the degree of sense restraint that is the necessary basis
+for the practice?**</u>
 
 The practice starts by learning \[what the practice is\]. This has to
 involve realising that there is no possibility for understanding
@@ -223,9 +226,9 @@ better place.
 
 ------------------------------------------------------------------------
 
-[MN 81: With Ghaṭikāra](https://suttacentral.net/mn81)
+<cite>[MN 81: With Ghaṭikāra](https://suttacentral.net/mn81)</cite>
 
-<div class="english">
+<div lang="en">
 
 > “So I have heard. At one time the Buddha was wandering in the land of
 > the Kosalans together with a large Saṅgha of mendicants. Then the
@@ -509,7 +512,7 @@ better place.
 
 </div>
 
-<div id="transcript_valuing-sense-pleasures-makes-you-an-addict.md">
+<div id="transcript_valuing_sense_pleasures_makes_you_an_addict.md">
 
 ## 150hh- Valuing Sense Pleasures Makes You An Addict
 

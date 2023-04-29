@@ -6,7 +6,7 @@ category: Transcriptions
 layout: post
 ---
 
-<div id="transcript_purpose-of-the-precepts.md">
+<div id="transcript_purpose_of_the_precepts.md">
 
 ## 05hh- Purpose Of The Precepts
 
@@ -109,10 +109,10 @@ you want but if you don’t have the correct seeds and if you don’t put
 the work in maintaining the soil, they are not going to grow. The soil
 will not do the work for you, it’s just the soil..
 
-[MN 66 - The
-QuailSimile](hhttps://www.accesstoinsight.org/tipitaka/mn/mn.066.than.html):
+<cite>[MN 66 - The
+QuailSimile](hhttps://www.accesstoinsight.org/tipitaka/mn/mn.066.than.html)</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “…Then in the late afternoon, Udāyī came out of solitude and went to
 > the Buddha. He bowed, sat down to one side, and said to him:
@@ -182,7 +182,7 @@ QuailSimile](hhttps://www.accesstoinsight.org/tipitaka/mn/mn.066.than.html):
 
 </div>
 
-<div id="transcript_no-one-wants-sensuality.md">
+<div id="transcript_no_one_wants_sensuality.md">
 
 ## 10hh- No One Wants Sensuality
 
@@ -296,7 +296,7 @@ no longer escape what they have been running away from.
 
 </div>
 
-<div id="transcript_sense-of-shame-and-fear-of-wrongdoing.md">
+<div id="transcript_sense_of_shame_and_fear_of_wrongdoing.md">
 
 ## 28hh- Sense Of Shame And Fear Of Wrongdoing
 
@@ -317,6 +317,8 @@ world”. As the Buddha said, if there were no sense of shame, sons would
 be sleeping with mothers and sisters, and fathers with daughters, it
 would be as wild as the animal realm.
 
+<div lang="en">
+
 > “Monks, these two bright qualities guard the world. Which two? Sense
 > of shame and fear of wrongdoing. If these two bright qualities did not
 > guard the world, there would be no recognition of ‘mother’ here, no
@@ -326,9 +328,11 @@ would be as wild as the animal realm.
 > jackals. But because these two bright qualities guard the world, there
 > is recognition of ‘mother,’ ‘mother’s sister,’ ‘uncle’s wife,’
 > ‘teacher’s wife,’ & ‘wife of those who deserve respect.’”
+>
+> — <cite>[AN
+> 2.9](https://www.accesstoinsight.org/tipitaka/an/an02/an02.009.than.html)</cite>
 
-> – [AN
-> 2.9](https://www.accesstoinsight.org/tipitaka/an/an02/an02.009.than.html)
+</div>
 
 **Q:** Human beings have an inherent sense of shame. You can sense when
 you’re doing something wrong.
@@ -409,7 +413,7 @@ of restraint.
 
 </div>
 
-<div id="transcript_what-is-wisdom.md">
+<div id="transcript_what_is_wisdom.md">
 
 ## 29hh- What Is Wisdom?
 
@@ -432,43 +436,46 @@ calming of your mind, or not giving into craving and desires- the
 
 **Nm:** Things differ in their particular nature, but universally, they
 share the same Nature. For example, the Nature of all
-*sankharas*/determinations is *anicca*/subject to change and
-*dukkha*/unsatisfactory, and the Nature of all *dhammas*/things, is
-*anatta*/they cannot be owned, they cannot be yours, they don’t belong
-to you, they are there and you can use them,but you’re making a grave
-error in maintaining your assumption of ownership in regard to them.
-That’s the root of all the problems. It’s not the usage of things, it’s
-the assumption of ownership that you maintain on that mental level.
-That’s the Nature you want to be concerned about. As in, you can
-investigate other natures, but that’s all relative, you want to come to
-the root, the ‘Nature of all things’, which is impermanence,
+<span lang="pi">*sankharas*</span>/determinations is
+<span lang="pi">*anicca*</span>/subject to change and
+<span lang="pi">*dukkha*</span>/unsatisfactory, and the Nature of all
+<span lang="pi">*dhammas*</span>/things, is
+<span lang="pi">*anatta*</span>/they cannot be owned, they cannot be
+yours, they don’t belong to you, they are there and you can use them,but
+you’re making a grave error in maintaining your assumption of ownership
+in regard to them. That’s the root of all the problems. It’s not the
+usage of things, it’s the assumption of ownership that you maintain on
+that mental level. That’s the Nature you want to be concerned about. As
+in, you can investigate other natures, but that’s all relative, you want
+to come to the root, the ‘Nature of all things’, which is impermanence,
 unsatisfactory, and cannot be yours. That’s all that really matters.
 
 Noble wisdom or discernment takes you beyond things, you’re no longer
 affected by them. You cannot be accessed by them. Why? Because you have
 removed that assumption of ownership which was based on
-*avijja*/ignorance. If you fully understand that things are not yours,
-you will no longer be emotionally affected by what happens to them. That
-is wisdom. That is elevation of the mind, which means a greater
-perspective on things. All the decisions that intelligent and
-non-intelligent people make in their life, is based upon the height or
-degree of their perspective. The greater the perspective, the wiser they
-become. They might not necessarily be ultimately wise and know the way
-out of suffering, but they’re certainly wiser in relation to those who
-have no perspective, who are just like animals, slaves to their senses
-and sense desires, overwhelmed and absorbed into sensual perceptions. So
-that’s another way you can describe wisdom - itthe height of your
-perspective. The higher the wisdom, the less of an emotional involvement
-with things you have, which means that the ultimate wisdom is the
-complete surmounting and detachment from feelings and suffering.
+<span lang="pi">*avijja*</span>/ignorance. If you fully understand that
+things are not yours, you will no longer be emotionally affected by what
+happens to them. That is wisdom. That is elevation of the mind, which
+means a greater perspective on things. All the decisions that
+intelligent and non-intelligent people make in their life, is based upon
+the height or degree of their perspective. The greater the perspective,
+the wiser they become. They might not necessarily be ultimately wise and
+know the way out of suffering, but they’re certainly wiser in relation
+to those who have no perspective, who are just like animals, slaves to
+their senses and sense desires, overwhelmed and absorbed into sensual
+perceptions. So that’s another way you can describe wisdom - itthe
+height of your perspective. The higher the wisdom, the less of an
+emotional involvement with things you have, which means that the
+ultimate wisdom is the complete surmounting and detachment from feelings
+and suffering.
 
 </div>
 
-<div id="transcript_four-noble-truths.md">
+<div id="transcript_four_noble_truths.md">
 
 ## 30hh- Four Noble Truths
 
-<div class="english">
+<div lang="en">
 
 > “And what, bhikkhus, is the majjhima paṭipada/middle-way to which the
 > Tathāgata has fully awakened, which is useful for
@@ -523,10 +530,10 @@ complete surmounting and detachment from feelings and suffering.
 > 6-sammā·vāyāma/right effort,  
 > 7-sammā·sati/ right recollection,  
 > 8-sammā·samādhi/ right composure.”
+>
+> — <cite>[SN 56.11](https://suttacentral.net/sn56.11)</cite>
 
 </div>
-
-> – [SN 56.11](https://suttacentral.net/sn56.11)
 
 **Q:** Ajahn, can you describe the Four Noble Truths - suffering, the
 origin, the cessation and the path to cessation?
@@ -561,7 +568,7 @@ yourself, “Oh, I cannot suffer amidst things that used to make me
 suffer, the mind cannot suffer now because there is no more craving in
 regard to those things.”
 
-<div class="english">
+<div lang="en">
 
 > “He whom life no longer torments, who does not grieve at death, If
 > that immovable one is one who has seen the state of peace, in the
@@ -570,10 +577,10 @@ regard to those things.”
 > For the monk who has cut off craving for being, whose mind is at
 > peace, Having totally destroyed the perpetuation of birth, for him
 > there is no more being.”
+>
+> — <cite>[Udāna 4.9](https://suttacentral.net/ud4.9)</cite>
 
 </div>
-
-> – [Udāna 4.9](https://suttacentral.net/ud4.9)
 
 **Q:** How to abandon craving?
 
@@ -630,10 +637,11 @@ it’s a subtle inclination. Thoughts in themselves are already
 intentional. It’s subtle and in order to reach that subtle level, sense
 restraint and virtue, moderation in eating and mindfulness is absolutely
 necessary. Paired with the right instruction, and the right way of
-looking (*yonisomanasikara*), that’s where the practice is. Without the
-right instruction, it’s just restraint, which is good, but it doesn’t
-lead you to any knowledge. With the right instruction and that way of
-living (which brings about a greater perspective), that’s all you need.
+looking (<span lang="pi">*yonisomanasikara*</span>), that’s where the
+practice is. Without the right instruction, it’s just restraint, which
+is good, but it doesn’t lead you to any knowledge. With the right
+instruction and that way of living (which brings about a greater
+perspective), that’s all you need.
 
 Sometimes people might think, “Restraint is not the Dhamma”. That’s
 true, and then they would think, “Okay, well, now I got the Dhamma. So
@@ -667,7 +675,8 @@ inclinations towards distraction, delusion, indolence, laziness, mental
 heedlessness.
 
 If you don’t incline towards a present feeling, in any of those three
-ways, you will no longer be feeding *taṇhā*/craving.
+ways, you will no longer be feeding
+<span lang="pi">*taṇhā*</span>/craving.
 
 **Q:** One should then be aware of feelings?
 
@@ -715,10 +724,11 @@ not seeing that, no amount of engaging in sense perceptions, will reveal
 its nature. Otherwise the Buddha would have given such a method and
 described it in the Suttas. When they did ask him about a direct method,
 he said, a young man develops faith and goes forth, leaving his
-household life, he lives restrained by the rules of *patimokkha*,
-practices sense restraint, sees the danger in the slightest fault,
-moderate in eating and devoted to wakefulness, mindful and aware,
-dispelling the hindrances, and practicing jhana.
+household life, he lives restrained by the rules of
+<span lang="pi">*patimokkha*</span>, practices sense restraint, sees the
+danger in the slightest fault, moderate in eating and devoted to
+wakefulness, mindful and aware, dispelling the hindrances, and
+practicing jhana.
 
 I remember the first time I read that as a layman, I was also looking
 for a method. And I thought, “Well, this instruction is just too
@@ -764,11 +774,11 @@ bringing about the end of craving by no longer giving in to it.
 
 </div>
 
-<div id="transcript_contemplation-and-awareness.md">
+<div id="transcript_contemplation_and_awareness.md">
 
 ## 41hh- Contemplation and Awareness
 
-#### Discerning the background
+<u>**Discerning the background**</u>
 
 **Thaniyo:** In terms of contemplating the 32 parts of the body, how do
 you do that correctly? You actually cannot see your brain, your lungs,
@@ -1080,7 +1090,7 @@ else. But on other days it might be necessary. Either way, you’re
 developing the same principle.
 
 **Thaniyo:** So, to know that you’re developing correctly—when you’ve
-actually got somewhere in development— is the sign of dispassion always
+actually got somewhere in development—is the sign of dispassion always
 there?
 
 **Nyanamoli:** If the mind is properly established… Why? Because again
@@ -1111,14 +1121,14 @@ you could establish the same principle as we just did—of dispassion,
 relinquishment, non-control, not-self—by seeing the background of your
 breath. Or you can think: “Why don’t I refine it further and start
 seeing the background of the actual act of breathing?” And that’s how
-the [Ānāpānasati Sutta (MN
-118)](https://www.dhammatalks.org/suttas/MN/MN118.html) goes where it
-says: “Knowingly he breathes in, knowingly he breathes out.” And you
-see, actually it is not like: “I’m breathing in, I’m breathing in, I’m
-breathing in” while inhaling and then, “now I’m breathing out, breathing
-out, breathing out” while exhaling. That is not how it is said there!
-But rather, he’s breathing in, breathing out, and he knows it, which
-means now he’s discerning an even more general background to that,
+the <cite>[Ānāpānasati Sutta (MN
+118)](https://www.dhammatalks.org/suttas/MN/MN118.html)</cite> goes
+where it says: “Knowingly he breathes in, knowingly he breathes out.”
+And you see, actually it is not like: “I’m breathing in, I’m breathing
+in, I’m breathing in” while inhaling and then, “now I’m breathing out,
+breathing out, breathing out” while exhaling. That is not how it is said
+there! But rather, he’s breathing in, breathing out, and he knows it,
+which means now he’s discerning an even more general background to that,
 because that’s what’s in front of him. He puts his mindfulness to the
 fore, as the sutta says. No matter what he thinks, what matters is
 knowing the background of that doing. That’s how you establish
@@ -1150,7 +1160,7 @@ background, but you’re actively looking away from it, while you’re
 actively trying to focus on what’s in front of you.
 
 **Thaniyo:** So, what about this example of when you learn something
-like 2 + 2 equals 4. You know that now, so every time you look at 2 + 2—
+like 2 + 2 equals 4. You know that now, so every time you look at 2 + 2…
 
 **Nyanamoli:** The knowledge is there. Imagine the same principle
 applied to the universal nature of experience. Whenever you look at
@@ -1203,12 +1213,12 @@ sense of self. You can’t step outside of yourself or the five
 aggregates, but you can certainly stop misconceiving them, and that can
 be done only from the inside.
 
-#### On sensuality
+<u>**On sensuality**</u>
 
-**Thaniyo:** There is a Sutta from AN 4:181: “How is a bhikkhu a
-long-distance shooter? Any kind of form whatsoever, past, future,
-present, whatever—a bhikkhu sees all form as it really is with correct
-wisdom.”
+**Thaniyo:** There is a Sutta from <cite>AN 4:181</cite>: “How is a
+bhikkhu a long-distance shooter? Any kind of form whatsoever, past,
+future, present, whatever—a bhikkhu sees all form as it really is with
+correct wisdom.”
 
 **Nyanamoli:** Yes, so shooting the peripheral discernment. For example,
 within the significance of the heart you can discern even further: what

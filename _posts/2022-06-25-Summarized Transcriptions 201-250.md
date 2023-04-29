@@ -12,23 +12,26 @@ layout: post
 
 Colloquially speaking, if something is determined it implies certainty
 and undetermined implies uncertainty. The highest undetermined thing is
-*Nibbana*, the phenomenon of *asankhata dhamma*. So from the point of
-view of an ignorant *putthujjana’s* mind which depends on certainty, on
-*nicca*, on permanence, on taking things personally, *Nibbana* is the
-ultimate uncertainty, the most frightening thing. However, uncertainty
-is frightening only if you still take certainty for granted and ‘put it
+<span lang="pi">*Nibbana*</span>, the phenomenon of
+<span lang="pi">*asankhata dhamma*</span>. So from the point of view of
+an ignorant <span lang="pi">*putthujjana’s*</span> mind which depends on
+certainty, on <span lang="pi">*nicca*</span>, on permanence, on taking
+things personally, <span lang="pi">*Nibbana*</span> is the ultimate
+uncertainty, the most frightening thing. However, uncertainty is
+frightening only if you still take certainty for granted and ‘put it
 first’ (i.e you see it in the wrong order, rather than seeing that
 certainty is sought after only because of the basis of uncertainty which
 is first), you think that things are nicca and only occasionally
-*anicca* without realizing that they are always *anicca*.
+<span lang="pi">*anicca*</span> without realizing that they are always
+<span lang="pi">*anicca*</span>.
 
 Sometimes when people understood the Nibbana that the Buddha taught,
 they would become distraught, overcome with fear, because for them, that
 Nibbana meant death or that which would destroy them.
 
-Alagaddūpama Sutta (MN 22):
+<cite>Alagaddūpama Sutta (MN 22)</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “Venerable sir, can there be agitation about what is non-existent
 > internally?”
@@ -56,18 +59,19 @@ sense restraint, and then if you want a contemplation theme that will
 approximate Nibbana, you can use the phenomenon of uncertainty. Examples
 of such contemplations can be found in the suttas:
 
-Udāna Sutta (SN 22:55), and in Āneñja-sappāya Sutta (MN 106):
+<cite>Udāna Sutta (SN 22:55)</cite>, and in <cite>Āneñja-sappāya Sutta
+(MN 106)</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “It might not be, and it might not be mine. It will not be, and it
 > will not be mine. I am giving up what exists, what has come to be.”
 
 </div>
 
-Maraṇassati Sutta (AN 6:19):
+<cite>Maraṇassati Sutta (AN 6:19)</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “Therefore you should train yourselves: ‘We will dwell heedfully. We
 > will develop mindfulness of death acutely for the sake of ending the
@@ -81,32 +85,35 @@ You don’t have to fabricate that truth, you just need to find it and
 remember it, and that’s actually why you can sustain mindfulness on it
 because it’s always true.
 
-#### Uncertainty Is Always In The Background.
+<u>**Uncertainty Is Always In The Background.**</u>
 
-If you want to contemplate the phenomenon of *Nibbana* even as a
-*puthujjana*, then contemplate uncertainty, as in, start feeling it,
-contemplate that ‘your self is fully caged within Uncertainty’ (which is
-the ‘right order of appearance). The tendency for many people who try to
-practice *anicca*, is that they try to determine the uncertainty in
-things ’over there’, which means you are then just determining that
-which is undetermined. So when people go around saying that “everything
-out there is impermanent”, that is true, but that’s not the *anicca*
-which matters. *Anicca* that matters is on the level of your existence,
-and if you understood it, you wouldn’t be able to just say that your
-body is *anicca* and still be equally as ignorant and passionate as
-before. If you see that your body, your existence is uncertain, you will
-feel the threat of that fact. That’s why *sila* needs to be established
+If you want to contemplate the phenomenon of
+<span lang="pi">*Nibbana*</span> even as a
+<span lang="pi">*puthujjana*</span>, then contemplate uncertainty, as
+in, start feeling it, contemplate that ‘your self is fully caged within
+Uncertainty’ (which is the ‘right order of appearance). The tendency for
+many people who try to practice <span lang="pi">*anicca*</span>, is that
+they try to determine the uncertainty in things ’over there’, which
+means you are then just determining that which is undetermined. So when
+people go around saying that “everything out there is impermanent”, that
+is true, but that’s not the <span lang="pi">*anicca*</span> which
+matters. <span lang="pi">*Anicca*</span> that matters is on the level of
+your existence, and if you understood it, you wouldn’t be able to just
+say that your body is <span lang="pi">*anicca*</span> and still be
+equally as ignorant and passionate as before. If you see that your body,
+your existence is uncertain, you will feel the threat of that fact.
+That’s why <span lang="pi">*sila*</span> needs to be established
 beforehand because most minds would not be able to bear the recognition
-of what *Nibbana* is. If the mind is strong enough on account of virtue,
-it will not get distraught in the face of that fundamental uncertain
-nature.
+of what <span lang="pi">*Nibbana*</span> is. If the mind is strong
+enough on account of virtue, it will not get distraught in the face of
+that fundamental uncertain nature.
 
 Everyone can feel that uncertainty, however, for an untrained mind it
 will feel like anxiety but for the trained mind that got used to it,
 recognized, and understood uncertainty, such a mind will be at peace,
 because the anxious aspect of uncertainty is due to ignorance of it.
 
-#### Enduring A Feeling Is Unavoidable
+<u>**Enduring A Feeling Is Unavoidable**</u>
 
 All you need to do is start practicing sense restraint and that will
 enable you to ‘endure feelings’ which is not optional, the only optional
@@ -116,9 +123,9 @@ on having to endure those feelings. But if you practice sense restraint
 and endure it on those terms, you still have to endure it, but the
 benefit is that it can result in wisdom. That’s why the Buddha said:
 
-Salayatana-vibhanga Sutta (MN 137):
+<cite>Salayatana-vibhanga Sutta (MN 137)</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “By depending & relying on the six kinds of renunciation joys, abandon
 > & transcend the six kinds of household joys. Such is their abandoning,
@@ -138,7 +145,7 @@ have to endure it. So that’s why the WAY of endurance that you choose is
 important. Will it be the way of welcoming, resisting, denying, or the
 middle way, the way of not acting out of craving?
 
-#### The Undetermined Feeling
+<u>**The Undetermined Feeling**</u>
 
 When one KNOWS a neutral feeling, it is then recognized as superior to a
 pleasant feeling, because pleasure pressures you to get more and pain
@@ -148,9 +155,9 @@ feeling. The only problem with a neutral feeling is when you do NOT KNOW
 it. It’s your ignorance of the neutral feeling that then pressures you
 toward distraction and delusion:
 
-Cūḷa Vedalla Sutta (MN 44):
+<cite>Cūḷa Vedalla Sutta (MN 44)</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “Pleasant feeling is pleasant when it remains and painful when it
 > perishes. Painful feeling is painful when it remains and pleasant when
@@ -180,30 +187,31 @@ seeing the characteristics of uncertainty, and if you develop in that
 way, you will force your mind to become dispassionate, and that’s when
 the mind starts seeing clearly when the clouds of passion disappear.
 
-#### The Context Of The Uncertain Body
+<u>**The Context Of The Uncertain Body**</u>
 
-*Sabbe Sankhara Anicca*- all determinations are uncertain. If
-determinations are uncertain then what is to be said about the things
-that the determinations determine. They are even more uncertain. So,
-*sabbe SANKHARA anicca, sabbe SANKHARA dukkha*, all determinations are
-uncertain and unsatisfactory, thus sabbe DHAMMA anatta - everything that
-is determined cannot be owned.
+<span lang="pi">*Sabbe Sankhara Anicca*</span>- all determinations are
+uncertain. If determinations are uncertain then what is to be said about
+the things that the determinations determine. They are even more
+uncertain. So, <span lang="pi">*sabbe SANKHARA anicca, sabbe SANKHARA
+dukkha*</span>, all determinations are uncertain and unsatisfactory,
+thus sabbe DHAMMA anatta - everything that is determined cannot be
+owned.
 
-Practically speaking, determinations (*sankhara*) are things that are
-the basis for your ownership. For example, let’s say you are attached to
-your house and family, the joy that you get on account of those things
-is determined by having the house and family. You can then say, if you
-are attached to your family, the presence of both yours and their bodies
-are now the basis for the entire emotional relationship that you have
-with your family, all the joys and griefs. Those emotional experiences
-would not be there if the body was not there, so the fundamental
-determination is the body. That’s why if one maintains the context of
-the body as the necessary basis for any experience in your life, with
-the recognition of Uncertainty of that determination/ that context, then
-whatever you experience based on that uncertain, unstable bodily
-context, is unownable. So your family will still be there and perceived
-but now the emotional basis for your ownership is gone because it’s seen
-based on uncertainty.
+Practically speaking, determinations (<span lang="pi">*sankhara*</span>)
+are things that are the basis for your ownership. For example, let’s say
+you are attached to your house and family, the joy that you get on
+account of those things is determined by having the house and family.
+You can then say, if you are attached to your family, the presence of
+both yours and their bodies are now the basis for the entire emotional
+relationship that you have with your family, all the joys and griefs.
+Those emotional experiences would not be there if the body was not
+there, so the fundamental determination is the body. That’s why if one
+maintains the context of the body as the necessary basis for any
+experience in your life, with the recognition of Uncertainty of that
+determination/ that context, then whatever you experience based on that
+uncertain, unstable bodily context, is unownable. So your family will
+still be there and perceived but now the emotional basis for your
+ownership is gone because it’s seen based on uncertainty.
 
 It takes a lot of training to develop that level of clarity regarding
 the context of the body as a determination for everything. Most people
@@ -215,9 +223,9 @@ matter what comes their way, they wouldn’t get emotionally upset because
 they cannot forget the container of uncertainty in which this is all
 happening. A great example of this is found in:
 
-Nandamātar Sutta (AN 7.50):
+<cite>Nandamātar Sutta (AN 7.50)</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “I don’t have only that amazing & astounding quality, venerable sir. I
 > have another amazing & astounding quality. I had an only son: Nanda,
@@ -245,11 +253,11 @@ developed you will not suffer much on account of that anxiety, however,
 it’s still the same route that you have to go down if you want to
 develop Nibbana.
 
-#### The One And Only Path
+<u>**The One And Only Path**</u>
 
-Vitthara Sutta (AN 4.162):
+<cite>Vitthara Sutta (AN 4.162)</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “Monks, there are these four modes of practice. Which four? Painful
 > practice with slow understanding, painful practice with quick
@@ -266,30 +274,33 @@ peaceful or blissful your meditation session was until the bell rang,
 it’s measured by how much you don’t move in the face of uncertainty,
 sensuality, pain, misfortune, etc. How much is your mind scraping at the
 walls to outrun the pain, or how much is it like a mountain that cannot
-be moved? Being immovable is *samadhi*. The beginning of the right
-*samadhi* is not being moved by the five hindrances or by the joys and
-griefs regarding the world. If you develop that, it’s the *samadhi* of
-*jhana*.
+be moved? Being immovable is <span lang="pi">*samadhi*</span>. The
+beginning of the right <span lang="pi">*samadhi*</span> is not being
+moved by the five hindrances or by the joys and griefs regarding the
+world. If you develop that, it’s the <span lang="pi">*samadhi*</span> of
+<span lang="pi">*jhana*</span>.
 
 Most people hope that if they do some technique of watching the breath
-and so on, they will get into *jhana* and then they will not be bothered
-by the hindrances or moved by the joys and griefs of the world, but as
-you can see, you have to do the work of not moving on account of the
-joys, griefs, and hindrances first and then the result will be the
-pleasure of the seclusion, which is where *jhana* is. The measure of
-samadhi is the immovability regarding any pressure whether positive or
-negative, but it’s usually negative.
+and so on, they will get into <span lang="pi">*jhana*</span> and then
+they will not be bothered by the hindrances or moved by the joys and
+griefs of the world, but as you can see, you have to do the work of not
+moving on account of the joys, griefs, and hindrances first and then the
+result will be the pleasure of the seclusion, which is where
+<span lang="pi">*jhana*</span> is. The measure of samadhi is the
+immovability regarding any pressure whether positive or negative, but
+it’s usually negative.
 
 If you have no sila, you have no samadhi and will be completely
-overwhelmed if you understand what *Nibbana* is. The Buddha’s teaching
-will terrify you, because from the *putthajjanas* point of view, “it is
-the death of me” and it is. If you invest the effort in sila, through
-such endurance you will be developing *samadhi*.
+overwhelmed if you understand what <span lang="pi">*Nibbana*</span> is.
+The Buddha’s teaching will terrify you, because from the
+<span lang="pi">*putthajjanas*</span> point of view, “it is the death of
+me” and it is. If you invest the effort in sila, through such endurance
+you will be developing <span lang="pi">*samadhi*</span>.
 
-The necessary *samadhi* will be born from the work of your sila, sense
-restraint, abandoning the joys and griefs, and your cultivation of the
-context of uncertainty. In that way, you will force your mind to
-compose, which will have to result in clear seeing.
+The necessary <span lang="pi">*samadhi*</span> will be born from the
+work of your sila, sense restraint, abandoning the joys and griefs, and
+your cultivation of the context of uncertainty. In that way, you will
+force your mind to compose, which will have to result in clear seeing.
 
 </div>
 
@@ -297,16 +308,16 @@ compose, which will have to result in clear seeing.
 
 ## 203hh- The Truth About The Five Hindrances
 
-<div class="english">
+<div lang="en">
 
 > “Monks, there are these five hindrances. Which five? Sensual desire as
 > a hindrance, ill will as a hindrance, sloth & drowsiness as a
 > hindrance, restlessness & anxiety as a hindrance, and doubt as a
 > hindrance. These are the five hindrances.”
+>
+> — <cite>AN 9.64</cite>
 
 </div>
-
-> – AN 9.64
 
 The first thing to do is to clear up what the hindrances are not. They
 are not things that arise occasionally in you and they are not only
@@ -347,7 +358,7 @@ but you have surmounted them. Just because you don’t have any issues
 currently arising doesn’t mean that you are entering the jhana, No,
 that’s still well in the domain of the hindrances.
 
-#### Liability To Being Hindered
+<u>**Liability To Being Hindered**</u>
 
 One way to surmount the domain of the hindrances would be to reflect:
 “Is there arisen lust in me or can non-arisen lust arise?”. You have to
@@ -372,9 +383,9 @@ hindrances. The only time you won’t be within them is in the first
 jhana, that is why the one who surmounts them abides in the joy of
 seclusion from unwholesome states.
 
-At Venāgapura, AN 3.63:
+At <cite>Venāgapura, AN 3.63</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “…But, Master Gotama, what is the celestial high and luxurious bed
 > that at present you gain at will, without trouble or difficulty?”
@@ -398,7 +409,7 @@ At Venāgapura, AN 3.63:
 
 </div>
 
-#### The Five Hindrances Are One In Unwholesomeness.
+<u>**The Five Hindrances Are One In Unwholesomeness.**</u>
 
 The first step to getting secluded is to see the hindrances for what
 they are, not just managing occasional flurries of worry, irritation,
@@ -430,7 +441,7 @@ gateway we speak about, that you willingly turn a blind eye to. To the
 extent, you can ignore the gateway to that extent the hindrances will
 find a way to get in.
 
-#### The Chief Hindrance And The Foremost Danger.
+<u>**The Chief Hindrance And The Foremost Danger.**</u>
 
 What is the chief hindrance on account of which people let the other
 four hindrances in? It’s sensuality, and not seeing the danger in
@@ -453,9 +464,9 @@ dangerous.(In other words, there are drawbacks of sensuality but that
 which makes you liable to the drawbacks is your desire and lust, which
 is the main danger.)
 
-Magandiya Sutta, MN 75:
+<cite>Magandiya Sutta, MN 75</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “Magandiya, suppose that there was a leper covered with sores and
 > infections, devoured by worms, picking the scabs off the openings of
@@ -485,11 +496,11 @@ Magandiya Sutta, MN 75:
 > painful to the touch, very hot & scorching; sensual pleasures in the
 > future will be painful to the touch, very hot & scorching; sensual
 > pleasures at present are painful to the touch, very hot & scorching;
-> but when beings are not free from passion for sensual pleasures —
-> devoured by sensual craving, burning with sensual fever — their
-> faculties are impaired, which is why, even though sensual pleasures
-> are actually painful to the touch, they have the skewed perception of
-> ‘pleasant’…”
+> but when beings are not free from passion for sensual
+> pleasures—devoured by sensual craving, burning with sensual
+> fever—their faculties are impaired, which is why, even though sensual
+> pleasures are actually painful to the touch, they have the skewed
+> perception of ‘pleasant’…”
 
 </div>
 
@@ -498,19 +509,21 @@ weight of the danger(drawbacks) that is hidden in that welcoming, you
 will then realize that no amount of sensuality is worth accepting for
 that risk, and therefore the danger becomes apparent.
 
-Theragatha, 5.1 Rājadatta:
+<cite>Theragatha, 5.1 Rājadatta</cite>:
 
-<div class="english">
+<div lang="en">
 
-> “I, a monk, went to a charnel ground, And saw a woman left there,\\
-> Discarded in a cemetery, Full of worms that devoured her.\\ Some men
-> were disgusted, Seeing her dead and rotten;\\ But sexual desire arose
-> in me, I was as if blind to her oozing body.\\ Quicker than the
-> boiling of rice, I left that place,\\ Mindful and aware, I sat down to
-> one side.\\ Then the realization, Came upon me—\\ *The danger became
-> apparent*, And I was firmly repulsed.\\ Then my mind was liberated—
-> See the excellence of the Dhamma!\\ I’ve attained the three
-> knowledges, And fulfilled the Buddha’s instructions.”
+> “I, a monk, went to a charnel ground, And saw a woman left there,  
+> Discarded in a cemetery, Full of worms that devoured her.  
+> Some men were disgusted, Seeing her dead and rotten;  
+> But sexual desire arose in me, I was as if blind to her oozing body.  
+> Quicker than the boiling of rice, I left that place,  
+> Mindful and aware, I sat down to one side.  
+> Then the realization, Came upon me—
+>
+> **The danger became apparent**, And I was firmly repulsed. Then my
+> mind was liberated—See the excellence of the Dhamma! I’ve attained the
+> three knowledges, And fulfilled the Buddha’s instructions.”
 
 </div>
 
@@ -520,11 +533,11 @@ sensuality, because if they do see the connection, then that great
 danger will become apparent. The only reason a person keeps engaging in
 sensuality is that they do not see the danger of it.
 
-#### It’s Entirely Up To You.
+<u>**It’s Entirely Up To You.**</u>
 
-Mahā Assapura Sutta , MN 39:
+<cite>Mahā Assapura Sutta , MN 39</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “…when these five hindrances are unabandoned in himself, a bhikkhu
 > sees them respectively as a debt, a disease, a prison, slavery, and a
@@ -558,9 +571,9 @@ For the uprooting of the domain of the five hindrances, you need to see
 the implicit danger waiting before you even engage, not while you’re
 engaging or afterward when you feel bad.
 
-Sammasa Sutta, SN 12.66:
+<cite>Sammasa Sutta, SN 12.66</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “…Whatever ascetics and brahmins at present regard that in the world
 > with a pleasant and agreeable nature as permanent, as happiness, as
@@ -623,9 +636,9 @@ not painful, it’s eye-opening.
 
 ## 204hh- The Six Sensed Animal
 
-SN 35.247:
+<cite>SN 35.247</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “…Suppose, bhikkhus, a man would catch six animals—with different
 > domains and different feeding grounds—and tie them by a strong rope.
@@ -654,7 +667,7 @@ SN 35.247:
 
 </div>
 
-#### The Right Perspective Regarding The Body.
+<u>**The Right Perspective Regarding The Body.**</u>
 
 Can you have restraint of the six senses without the right context or
 perspective? No, because lack of perspective means that you are already
@@ -721,7 +734,7 @@ your particular practice, but what happens when you stop? Are you still
 liable to passion? Because if there was any understanding developed, it
 would remain even when you are not focussing on the body.
 
-#### Identifying With The Senses.
+<u>**Identifying With The Senses.**</u>
 
 Regarding sense restraint, the problem is not that the senses/animals
 want to go and feed in these different domains, the problem is that you
@@ -776,9 +789,9 @@ better to restrain that sense so that you can abide in non-agitation, as
 opposed to having to spend a lot of effort having to calm the animal
 down and so on.
 
-MN 19:
+<cite>MN 19</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “…Just as in the last month of the rainy season, in the autumn, when
 > the crops thicken, a cowherd would guard his cows by constantly
@@ -817,9 +830,9 @@ on account of your carelessness, but still, it’s better to not give in
 to them but instead restrains them forcefully, as the Buddha would say
 “crush mind with mind”:
 
-MN 20:
+<cite>MN 20</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “…If, while he is giving attention to stilling the thought-sankhara of
 > those thoughts, there still arise in him evil unwholesome thoughts
@@ -870,9 +883,9 @@ of purifying your lifestyle. It’s not a magical experience that will
 purify your life for you. Jhana is one of the last positive symptoms of
 you healing the wounds of lust, hatred and ignorance.”*
 
-MN 107 - The Discourse to Ganaka-Moggallana:
+<cite>MN 107 - The Discourse to Ganaka-Moggallana</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “…When the Tathāgata gets a person fit to be tamed, he first trains
 > him thus: ‘(1)Come, bhikkhu. Be virtuous. Dwell restrained in
@@ -1075,7 +1088,7 @@ through it. Not change the beautiful and the ugly, it’s still the same
 beautiful significances, but through them you see the ugly, you see the
 danger.
 
-<div class="english">
+<div lang="en">
 
 > “…And how, Ānanda, is one a noble one developing the faculties? Here,
 > Ānanda, in a bhikkhu having seen a form with the eye, there arises
@@ -1092,10 +1105,10 @@ danger.
 > wish: ‘May I, getting rid of both what is repulsive and what is
 > unrepulsive, remain equanimous, mindful and aware’, he remains there
 > equanimous, mindful and aware…”
+>
+> — <cite>MN 152</cite>
 
 </div>
-
-> – MN 152
 
 **Q:** Do not grasp the sign of beauty…
 
@@ -1133,7 +1146,7 @@ because it results in dispassion.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “When the monk is one who is guarded in the doors of his sense
 > faculties… the Tathāgata then trains him further: ’(3)Come, monk. Be
@@ -1173,7 +1186,7 @@ just to remove the hunger, you will get to see what a burden and a chore
 eating is. If you sustain that correct context then all the previous
 wrong reasons will disappear.
 
-<div class="english">
+<div lang="en">
 
 > “…Just as, Ānanda, a strong man would let two or three drops of water
 > fall onto an iron pan heated all day: slow, Ānanda, would be the
@@ -1184,12 +1197,11 @@ wrong reasons will disappear.
 > ceases, and upekkhā is established: this is called, Ānanda, the
 > unsurpassed development of the faculties in a noble one’s vinaya, as
 > regards to mental phenomena cognizable by the mind. Such, Ānanda, is
-> the unsurpassed development of the faculties in a noble one’s
-> vinaya….:
+> the unsurpassed development of the faculties in a noble one’s vinaya…”
+>
+> — <cite>MN 152</cite>
 
 </div>
-
-> – MN 152
 
 You don’t have to try and micro-manage your meals because trying to
 control those external circumstances won’t uproot your greed because it
@@ -1199,7 +1211,7 @@ diminish.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “When the monk is one who is moderate in eating… the Tathāgata then
 > trains him further: ‘(4)Come, monk. Be one who is devoted to
@@ -1248,7 +1260,7 @@ That’s why sila and celibacy is not optional if you want to practice.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “When the monk is one who is devoted to wakefulness… the Tathāgata
 > then trains him further: ’(5)Come, monk. Be one who is possessed of
@@ -1285,7 +1297,7 @@ know it. That’s the principle of cittanimtta.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “When the monk is one who is possessed of mindfulness & awareness… the
 > Tathāgata then trains him further: ’(6)Come, monk. Seek out a secluded
@@ -1338,7 +1350,7 @@ If you withdraw yourself from the unwholesome, you don’t have to worry
 about jhana, that is jhana. You don’t have to worry about a technique,
 which incidentally you will not find in the suttas. The closest thing to
 a method is what we have just been describing, the gradual training -
-*Sekha Paṭipadā*.
+<span lang="pi">*Sekha Paṭipadā*</span>.
 
 </div>
 
@@ -1346,9 +1358,10 @@ a method is what we have just been describing, the gradual training -
 
 ## 206hh- The Pleasure of Non-Activity
 
-[Theragatha 19.1 - Talaputta](https://suttacentral.net/thag19.1):
+<cite>[Theragatha 19.1 -
+Talaputta](https://suttacentral.net/thag19.1)</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “Oh, when will I stay in a mountain cave,  
 > alone, with no companion,  
@@ -1455,7 +1468,7 @@ unruly mind that is trying to harass me with these thoughts.”
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “…The Blessed One said,”Monks, if you are asked by wanderers of other
 > sects, ‘Friends, there are these three qualities. Which three? Lust,
@@ -1465,10 +1478,10 @@ unruly mind that is trying to harass me with these thoughts.”
 > those wanderers of other sects in this way: ’Friends, Lust carries
 > little blame and is slow to fade. Aversion carries great blame and is
 > quick to fade. Delusion carries great blame and is slow to fade…”
+>
+> — [AN 3.68](https://suttacentral.net/an3.68)
 
 </div>
-
-> —[AN 3.68](https://suttacentral.net/an3.68)
 
 **Nm:** Delusion is not a missing piece of information, it’s an
 existential attitude that you have towards your senses. That’s why I
@@ -1515,9 +1528,10 @@ that’s a gratuitous dependency that you have been cultivating because
 you didn’t know any better and for as long you don’t know any better you
 will be cultivating it.
 
-**Q:** [SN 9.10 Sajjhāya Sutta](https://suttacentral.net/sn9.10):
+**Q:** <cite>[SN 9.10 Sajjhāya
+Sutta](https://suttacentral.net/sn9.10)</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “On one occasion a certain bhikkhu was dwelling among the Kosalans in
 > a certain woodland thicket. Now on that occasion that bhikkhu had been
@@ -1633,7 +1647,7 @@ will be agreeable, will be felt pleasantly from the point of view of
 being so withdrawn, and that’s why the Buddha encouraged the venerable
 Anuruddha to develop jhana:
 
-<div class="english">
+<div lang="en">
 
 > “…Now, when you think these eight thoughts of a great person and
 > become a person who can attain at will, without trouble or difficulty,
@@ -1665,10 +1679,10 @@ Anuruddha to develop jhana:
 > fresh butter, oil, honey, and molasses sugar. As you live contented,
 > it will serve for your delight, for a comfortable abiding, for
 > non-agitation, & for reaching Nibbana…”
+>
+> — <cite>[AN 8.30](https://suttacentral.net/an8.30)</cite>
 
 </div>
-
-> —[AN 8.30](https://suttacentral.net/an8.30)
 
 You don’t need to fear enjoying rough robes and thinking that it is
 sensuality. Only a person who is not free from sensuality would use that
@@ -1676,7 +1690,7 @@ as a reference and think everything is sensuality because that’s the
 only reference they have. Even the Buddha himself initially thought that
 the pleasure of withdrawal is unwholesome:
 
-<div class="english">
+<div lang="en">
 
 > “I (the Buddha) thought: ‘I recall once, when my father the Sakyan was
 > working, and I was sitting in the cool shade of a rose-apple tree,
@@ -1690,10 +1704,10 @@ the pleasure of withdrawal is unwholesome:
 > afraid of that pleasure that has nothing to do with sensuality,
 > nothing to do with unskillful qualities, but that pleasure is not easy
 > to achieve with a body so extremely emaciated…”
+>
+> — [MN 36](https://suttacentral.net/mn36)</cite>
 
 </div>
-
-> —[MN 36](https://suttacentral.net/mn36)
 
 If you are enjoying living in the jungle wearing rough robes and
 enduring insects, if you find that agreeable, you don’t need to fear
@@ -1706,7 +1720,7 @@ mind can reestablish itself as fully withdrawn and independent of any
 sense at any time, then how could it be bothered by anything that comes
 through any sense?
 
-<div class="english">
+<div lang="en">
 
 > “Then Venerable Mahākassapa went up to the Buddha, bowed, and sat down
 > to one side. The Buddha said to him:”You’re old now, Kassapa. Those
@@ -1737,10 +1751,10 @@ through any sense?
 > the people, for the benefit, welfare, and happiness of gods and
 > humans. So Kassapa, wear worn-out hempen rag robes, walk for alms, and
 > stay in the wilderness.”
+>
+> — <cite>[SN 16.5](https://suttacentral.net/sn16.5)</cite>
 
 </div>
-
-> —[SN 16.5](https://suttacentral.net/sn16.5)
 
 The relativity of hardship and endurance is determined by how much your
 mind is withdrawn from these things or not and that’s why it’s not
@@ -1770,7 +1784,7 @@ he can become an Arahant in this life, but some get distracted with work
 talk and sleep which becomes an obstruction to their own progress.
 That’s why the Buddha admonished some of his ariyan disciples:
 
-<div class="english">
+<div lang="en">
 
 > “…Now on that occasion the venerable Ānanda, along with many bhikkhus,
 > were busy making robes at Ghāṭā the Sakyan’s dwelling. Then, when it
@@ -1801,7 +1815,7 @@ That’s why the Buddha admonished some of his ariyan disciples:
 
 </div>
 
-> —[MN 122](https://suttacentral.net/mn122)
+> — <cite>[MN 122](https://suttacentral.net/mn122)</cite>
 
 The amount of work that they were engaged with was obviously not
 necessary and the Buddha rebuked them even though that work was not
@@ -1820,7 +1834,7 @@ the Dhamma.
 **Nm:** Well it’s the effort in protecting the mind of non-activity, as
 it is praised in the suttas:
 
-<div class="english">
+<div lang="en">
 
 > “…then the Blessed One addressed a certain bhikkhu thus:”Come,
 > bhikkhu, tell that bhikkhu in my name that the Teacher calls him.”
@@ -1848,10 +1862,10 @@ it is praised in the suttas:
 > knowledge, in this very life enters and dwells in that unsurpassed
 > goal of the holy life for the sake of which clansmen rightly go forth
 > from the household life into homelessness.”
+>
+> — <cite>[SN 21.4](https://suttacentral.net/sn21.4)</cite>
 
 </div>
-
-> —[SN 21.4](https://suttacentral.net/sn21.4)
 
 That pleasant abiding here and now paired with your right view is
 basically jhana that leads you to nibbana. But as I said many times,
@@ -1863,7 +1877,8 @@ and not whether you are motionless or moving about. You might jump to
 the conclusion that non-activity means being motionless for 3 hours,
 refusing to move because that will be a distraction from non-activity.
 No, non-activity means non-distraction (\*devoted to
-vigilance/watchfulness/non-distraction - *jagariyam-anuyoga*).
+vigilance/watchfulness/non-distraction -
+<span lang="pi">*jagariyam-anuyoga*</span>).
 
 Just sit in your room and you will see in just a short time the mind
 will present you with something to do. If you are relishing that offer,
@@ -1922,7 +1937,7 @@ it’s a win-win.
 
 ## 207hh- The Danger Contemplation
 
-<div class="english">
+<div lang="en">
 
 > And how, bhikkhus, are sensual pleasures seen by a bhikkhu in such a
 > way that as he looks at them sensual desire, sensual affection,
@@ -1951,10 +1966,10 @@ it’s a win-win.
 > whatever in the world has a pleasing and agreeable nature is called a
 > thorn in the Noble One’s Discipline. Having understood this thus as ‘a
 > thorn’, one should understand restraint and non-restraint.
+>
+> — <cite>SN 35.244</cite>
 
 </div>
-
-> —SN 35.244
 
 **Ajahn Nyanamoli:** In the context of the Noble Ones’ discipline, where
 one possesses the Right view and has comprehended the Four Noble Truths,
@@ -1992,30 +2007,31 @@ comes to eating, one should be attentive to how they perceive the food
 and ensure that they do not lose their understanding of sensuality as
 something perilous.
 
-Q: Why am I unable to see the inherent danger in sensuality, even though
-it is a fact? What is preventing me from recognizing the danger that is
-present?
+**Q:** Why am I unable to see the inherent danger in sensuality, even
+though it is a fact? What is preventing me from recognizing the danger
+that is present?
 
-Nm: Although you can state that sensuality is dangerous, if you still
-have passion towards it, then you have not truly understood its danger.
-The measure of your understanding is whether or not you are
+**Nm:** Although you can state that sensuality is dangerous, if you
+still have passion towards it, then you have not truly understood its
+danger. The measure of your understanding is whether or not you are
 dispassionate in the face of sensuality. So, simply stating abstract
 facts about the danger of sensuality is not enough, as it does not
 reflect your actual experience. Don’t confuse abstract ideas for true
 understanding. For example, simply acknowledging the “fact” of
 impermanence of everything does not necessarily mean that you have any
-*understanding* of it. To truly understand *anicca*, you must develop it
-to the point of becoming a Sotapanna. Engaging with sensuality multiple
-times a day, whether it be relishing, welcoming, planning, or worrying
-about it, is a clear symptom of not having understood the danger of
-sensuality. Thus, instead of taking it as a fact, contemplate the danger
-repeatedly for as long as it takes for the context of its danger to
-become established. And then protect the context by avoiding
-carelessness and indulging in sensual thoughts.
+*understanding* of it. To truly understand
+<span lang="pi">*anicca*</span>, you must develop it to the point of
+becoming a Sotapanna. Engaging with sensuality multiple times a day,
+whether it be relishing, welcoming, planning, or worrying about it, is a
+clear symptom of not having understood the danger of sensuality. Thus,
+instead of taking it as a fact, contemplate the danger repeatedly for as
+long as it takes for the context of its danger to become established.
+And then protect the context by avoiding carelessness and indulging in
+sensual thoughts.
 
-Q: How can one identify or become aware of the danger?
+**Q:** How can one identify or become aware of the danger?
 
-Nm: Some individuals recognize the danger of excessive indulgence in
+**Nm:** Some individuals recognize the danger of excessive indulgence in
 sensuality. They observe the discontent that arises from indulgence,
 which is why many turn to religion, spirituality, and meditation. The
 dissatisfaction is clear, and many people can perceive it. However, how
@@ -2049,9 +2065,9 @@ comprehend and avoid the danger of sensuality. The mere provision of
 information without personal reflection and effort will not lead to
 understanding and seeing of the danger.
 
-Q: This is the simile of the deer herd that you often refer to:
+**Q:** This is the simile of the deer herd that you often refer to:
 
-<div class="english">
+<div lang="en">
 
 > Bhikkhus, a deer-trapper does not lay down bait for a deer herd
 > intending thus: ‘May the deer herd enjoy this bait that I have laid
@@ -2061,19 +2077,20 @@ Q: This is the simile of the deer herd that you often refer to:
 > have laid down; by so doing they will become intoxicated; when they
 > are intoxicated, they will fall into negligence; when they are
 > negligent, I can do with them as I like on account of this bait.
+>
+> — <cite>MN 25</cite>
 
 </div>
 
-> —MN 25
+**Nm:** It cannot be denied that there is a pleasant quality to
+indulging in the bait. However, it’s a trap. If one truly comprehends
+this danger, the superficial allure of the bait will lose its power to
+arouse desire.
 
-Nm: It cannot be denied that there is a pleasant quality to indulging in
-the bait. However, it’s a trap. If one truly comprehends this danger,
-the superficial allure of the bait will lose its power to arouse desire.
+**Q:** The bait is not intended for our well-being. The traps are not
+set for our benefit.
 
-Q: The bait is not intended for our well-being. The traps are not set
-for our benefit.
-
-Nm: As previously mentioned, it can be difficult to recognize the
+**Nm:** As previously mentioned, it can be difficult to recognize the
 potential danger within sensuality when it presents itself in a
 beautiful and enticing manner. Our automatic response is to view it as
 friendly, non- threatening, and harmless. However, it’s essential to
@@ -2094,9 +2111,9 @@ require the loss of self-awareness, or induce lust in your mind.
 Sensuality is deceptive and not what it appears to be. This is why the
 Buddha often compared it to a trap.
 
-Q:
+**Q:**
 
-<div class="english">
+<div lang="en">
 
 > “Now the deer of the first herd ate food unwarily by going right in
 > amongst the bait that the deer- trapper had laid down; by so doing
@@ -2107,13 +2124,13 @@ Q:
 
 </div>
 
-Nm: They act impulsively and indulge in their desires, without any
+**Nm:** They act impulsively and indulge in their desires, without any
 consideration for the consequences or impact on themselves or others.
 This is common behaviour.
 
-Q:
+**Q:**
 
-<div class="english">
+<div lang="en">
 
 > “Now the deer of a second herd reckoned thus: ‘The deer of that first
 > herd, by acting as they did without precaution, failed to get free
@@ -2133,8 +2150,8 @@ Q:
 
 </div>
 
-Nm: This second type of individuals, even without the guidance of the
-Buddha’s teaching, can still experience the dissatisfaction and
+**Nm:** This second type of individuals, even without the guidance of
+the Buddha’s teaching, can still experience the dissatisfaction and
 suffering caused by sensual desires and have enough intelligence to
 recognize it. One doesn’t need to be a Buddhist to understand that these
 desires are temporary, can only be appeased but never satisfied and they
@@ -2184,9 +2201,9 @@ surrounds them. An Arahant or Tathagata who has removed desire and lust
 from their thoughts can still perceive beautiful objects without being
 driven by lust.
 
-Q:
+**Q:**
 
-<div class="english">
+<div lang="en">
 
 > “Now the deer of a third herd reckoned thus: ‘The deer of that first
 > herd, by acting as they did without precaution, failed to get free
@@ -2213,18 +2230,18 @@ Q:
 
 </div>
 
-Nm: This third deer herd is just like contemplatives who have renounced
-indulgence in external sense objects and extreme ascetic practices but
-have not abandoned their internal thirst for pleasure: they act under
-the pressure of their views in which they find pleasure. Although they
-may physically restrain themselves from indulging in sensual pleasures,
-they still mentally entertain the same value of pleasing objects and
-thirst for them. They may plan how to avoid displeasing sights, sounds,
-smells, tastes, and touches, build their own little palace, and avoid
-experiencing any hardship or elements. All of these thoughts and actions
-show that they are still concerned about catering to their senses for
-pleasure. Therefore, Mara, the trapper, may still catch them because
-they left all the footprints around the bait.
+**Nm:** This third deer herd is just like contemplatives who have
+renounced indulgence in external sense objects and extreme ascetic
+practices but have not abandoned their internal thirst for pleasure:
+they act under the pressure of their views in which they find pleasure.
+Although they may physically restrain themselves from indulging in
+sensual pleasures, they still mentally entertain the same value of
+pleasing objects and thirst for them. They may plan how to avoid
+displeasing sights, sounds, smells, tastes, and touches, build their own
+little palace, and avoid experiencing any hardship or elements. All of
+these thoughts and actions show that they are still concerned about
+catering to their senses for pleasure. Therefore, Mara, the trapper, may
+still catch them because they left all the footprints around the bait.
 
 The Buddha compares this to holding views or opinions that one feels
 blindly justified about. Views can be anything from how monks should
@@ -2263,9 +2280,9 @@ Buddha had views and opinions on many things, but he did not have
 passion underlying any of them. This is what we can strive for as well -
 to have views and opinions but not be moved by them emotionally.
 
-Q:
+**Q:**
 
-<div class="english">
+<div lang="en">
 
 > “Now the deer of a fourth herd reckoned thus: ‘The deer of that first
 > herd, by acting as they did without precaution, failed to get free
@@ -2301,11 +2318,11 @@ Q:
 
 </div>
 
-Nm: Individuals who are like the fourth type of deer herd do not accept
-any external justification for their standpoints, which allows them to
-become both externally and internally calmed. They do not act out of
-craving and instead develop jhana, which is a place where Mara cannot
-find them.
+**Nm:** Individuals who are like the fourth type of deer herd do not
+accept any external justification for their standpoints, which allows
+them to become both externally and internally calmed. They do not act
+out of craving and instead develop jhana, which is a place where Mara
+cannot find them.
 
 </div>
 
@@ -2313,9 +2330,10 @@ find them.
 
 ## 209hh- The Simile of the Wet Sticks
 
-**Q:** [MN 36 Mahāsaccaka sutta](https://suttacentral.net/mn36):
+**Q:** <cite>[MN 36 Mahāsaccaka
+sutta](https://suttacentral.net/mn36)</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “Thus have I heard. On one occasion the Blessed One was living at
 > Vesālī in the Great Wood in the Hall with the Peaked Roof. Now on that
@@ -2395,39 +2413,38 @@ find them.
 > mind, listen and attend closely to what I shall say.”—“Yes, sir,”
 > Saccaka the Nigaṇṭha’s son replied. The Blessed One said this:
 >
-> <u>Undeveloped in Body and Undeveloped in Mind</u>:\\ “How,
-> Aggivessana, is one undeveloped in body and undeveloped in mind? Here,
-> Aggivessana, pleasant feeling arises in an untaught ordinary person.
-> Touched by that pleasant feeling, he lusts after pleasure and
-> continues to lust after pleasure. That pleasant feeling of his ceases.
-> With the cessation of the pleasant feeling, painful feeling arises.
-> Touched by that painful feeling, he sorrows, grieves, and laments, he
-> weeps beating his breast and becomes distraught. When that pleasant
-> feeling has arisen in him, it invades his mind and remains because
-> body is not developed. And when that painful feeling has arisen in
-> him, it invades his mind and remains because the mind is not
-> developed. Anyone in whom, in this double manner, arisen pleasant
-> feeling invades his mind and remains because body is not developed,
-> and arisen painful feeling invades his mind and remains because mind
-> is not developed, is thus undeveloped in body because mind is not
-> developed, is thus undeveloped in body and undeveloped in mind.
+> <u>Undeveloped in Body and Undeveloped in Mind</u>: “How, Aggivessana,
+> is one undeveloped in body and undeveloped in mind? Here, Aggivessana,
+> pleasant feeling arises in an untaught ordinary person. Touched by
+> that pleasant feeling, he lusts after pleasure and continues to lust
+> after pleasure. That pleasant feeling of his ceases. With the
+> cessation of the pleasant feeling, painful feeling arises. Touched by
+> that painful feeling, he sorrows, grieves, and laments, he weeps
+> beating his breast and becomes distraught. When that pleasant feeling
+> has arisen in him, it invades his mind and remains because body is not
+> developed. And when that painful feeling has arisen in him, it invades
+> his mind and remains because the mind is not developed. Anyone in
+> whom, in this double manner, arisen pleasant feeling invades his mind
+> and remains because body is not developed, and arisen painful feeling
+> invades his mind and remains because mind is not developed, is thus
+> undeveloped in body because mind is not developed, is thus undeveloped
+> in body and undeveloped in mind.
 >
-> <u>Developed in Body and Developed in Mind</u>:\\ “And how,
-> Aggivessana, is one developed in body and developed in mind? Here,
-> Aggivessana, pleasant feeling arises in a well-taught noble disciple.
-> Touched by that pleasant feeling, he does not lust after pleasure or
-> continue to lust after pleasure. That pleasant feeling of his ceases.
-> With the cessation of the pleasant feeling, painful feeling arises.
-> Touched by that painful feeling, he does not sorrow, grieve, and
-> lament, he does not weep beating his breast and become distraught.
-> When that pleasant feeling has arisen in him, it does not invade his
-> mind and remain because body is developed. And when that painful
+> <u>Developed in Body and Developed in Mind</u>: “And how, Aggivessana,
+> is one developed in body and developed in mind? Here, Aggivessana,
+> pleasant feeling arises in a well-taught noble disciple. Touched by
+> that pleasant feeling, he does not lust after pleasure or continue to
+> lust after pleasure. That pleasant feeling of his ceases. With the
+> cessation of the pleasant feeling, painful feeling arises. Touched by
+> that painful feeling, he does not sorrow, grieve, and lament, he does
+> not weep beating his breast and become distraught. When that pleasant
 > feeling has arisen in him, it does not invade his mind and remain
-> because mind is developed. Anyone in whom, in this double manner,
-> arisen pleasant feeling does not invade his mind and remain because
-> body is developed, and arisen painful feeling does not invade his mind
-> and remain because mind is developed, is thus developed in body and
-> developed in mind.”
+> because body is developed. And when that painful feeling has arisen in
+> him, it does not invade his mind and remain because mind is developed.
+> Anyone in whom, in this double manner, arisen pleasant feeling does
+> not invade his mind and remain because body is developed, and arisen
+> painful feeling does not invade his mind and remain because mind is
+> developed, is thus developed in body and developed in mind.”
 >
 > “I have confidence in Master Gotama thus: ‘Master Gotama is developed
 > in body and developed in mind.’”
@@ -2453,12 +2470,13 @@ find them.
 >
 > “Later, while still young, a black-haired young man endowed with the
 > blessing of youth, in the prime of life…(going forth and seeking
-> enlightenment, [MN 26](https://suttacentral.net/mn26))…And I sat down
-> there thinking: ‘This will serve for striving.’
+> enlightenment, <cite>[MN
+> 26](https://suttacentral.net/mn26)</cite>)…And I sat down there
+> thinking: ‘This will serve for striving.’
 >
-> <u>Simile of the wet sticks</u>:\\ 1- “Now these three similes
-> occurred to me spontaneously, never heard before. Suppose there were a
-> wet sappy piece of wood lying in water, and a man came with an upper
+> <u>Simile of the wet sticks</u>: 1- “Now these three similes occurred
+> to me spontaneously, never heard before. Suppose there were a wet
+> sappy piece of wood lying in water, and a man came with an upper
 > fire-stick, thinking: ‘I shall light a fire, I shall produce heat.’
 > What do you think, Aggivessana? Could the man light a fire and produce
 > heat by taking the upper fire-stick and rubbing it against the wet
@@ -2525,20 +2543,20 @@ find them.
 > spontaneously, never heard before. These are the three similes that
 > occurred to me spontaneously, never heard before.
 >
-> <u>Description of extreme ascetic practices</u>:\\ “I thought:
-> ‘Suppose, with my teeth clenched and my tongue pressed against the
-> roof of my mouth, I beat down, constrain, and crush mind with mind.’
-> So, with my teeth clenched and my tongue pressed against the roof of
-> my mouth, I beat down, constrained, and crushed mind with mind. While
-> I did so, sweat ran from my armpits. Just as a strong man might seize
-> a weaker man by the head or shoulders and beat him down, constrain
-> him, and crush him, so too, with my teeth clenched and my tongue
-> pressed against the roof of my mouth, I beat down, constrained, and
-> crushed mind with mind, and sweat ran from my armpits. But although
-> tireless energy was aroused in me and unremitting mindfulness was
-> established, my body was uncalm because I was exhausted by the painful
-> striving. But such painful feeling that arose in me did not invade my
-> mind and remain.
+> <u>Description of extreme ascetic practices</u>: “I thought: ‘Suppose,
+> with my teeth clenched and my tongue pressed against the roof of my
+> mouth, I beat down, constrain, and crush mind with mind.’ So, with my
+> teeth clenched and my tongue pressed against the roof of my mouth, I
+> beat down, constrained, and crushed mind with mind. While I did so,
+> sweat ran from my armpits. Just as a strong man might seize a weaker
+> man by the head or shoulders and beat him down, constrain him, and
+> crush him, so too, with my teeth clenched and my tongue pressed
+> against the roof of my mouth, I beat down, constrained, and crushed
+> mind with mind, and sweat ran from my armpits. But although tireless
+> energy was aroused in me and unremitting mindfulness was established,
+> my body was uncalm because I was exhausted by the painful striving.
+> But such painful feeling that arose in me did not invade my mind and
+> remain.
 >
 > “I thought: ‘Suppose I practise the breathless meditation.’ So I
 > stopped the in-breaths and out-breaths through my mouth and nose.
@@ -2610,14 +2628,14 @@ find them.
 > any superhuman states, any distinction in knowledge and vision worthy
 > of the noble ones. Could there be another path to enlightenment?’
 >
-> <u>Recollection of First Jhana</u>:\\ “I considered: ‘I recall that
-> when my father the Sakyan was occupied, while I was sitting in the
-> cool shade of a rose-apple tree, quite secluded from sensual
-> pleasures, secluded from unwholesome states, I entered upon and abided
-> in the first jhāna, which is accompanied by applied and sustained
-> thought, with joy and pleasure born of seclusion. Could that be the
-> path to enlightenment?’ Then, following that memory, came the
-> realisation: ‘That is indeed the path to enlightenment.’
+> <u>Recollection of First Jhana</u>: “I considered: ‘I recall that when
+> my father the Sakyan was occupied, while I was sitting in the cool
+> shade of a rose-apple tree, quite secluded from sensual pleasures,
+> secluded from unwholesome states, I entered upon and abided in the
+> first jhāna, which is accompanied by applied and sustained thought,
+> with joy and pleasure born of seclusion. Could that be the path to
+> enlightenment?’ Then, following that memory, came the realisation:
+> ‘That is indeed the path to enlightenment.’
 >
 > “I thought: ‘Why am I afraid of that pleasure that has nothing to do
 > with sensual pleasures and unwholesome states?’ I thought: ‘I am not
@@ -2651,8 +2669,9 @@ find them.
 > imperfection, malleable, wieldy, steady, and attained to
 > imperturbability, I directed it to knowledge of the recollection of
 > past lives. I recollected my manifold past lives, that is, one birth,
-> two births…( as in [MN 4](https://suttacentral.net/mn4))…Thus with
-> their aspects and particulars I recollected my manifold past lives.
+> two births…( as in <cite>[MN
+> 4](https://suttacentral.net/mn4)</cite>)…Thus with their aspects and
+> particulars I recollected my manifold past lives.
 >
 > “This was the first true knowledge attained by me in the first watch
 > of the night. Ignorance was banished and true knowledge arose,
@@ -2698,16 +2717,16 @@ find them.
 > ardent, and resolute. But such pleasant feeling that arose in me did
 > not invade my mind and remain.
 >
-> <u>Teaching Dhamma</u>:\\ “Aggivessana, I recall teaching the Dhamma
-> to an assembly of many hundreds, and even then each person thinks of
-> me: ‘The contemplative Gotama is teaching the Dhamma especially for
-> me.’ But it should not be so regarded; the Tathāgata teaches the
-> Dhamma to others only to give them knowledge. When the talk is
-> finished, Aggivessana, then I steady my mind internally, quieten it,
-> bring it to singleness, and compose it on that same sign of composure
-> as before, in which I constantly abide.”
+> <u>Teaching Dhamma</u>: “Aggivessana, I recall teaching the Dhamma to
+> an assembly of many hundreds, and even then each person thinks of me:
+> ‘The contemplative Gotama is teaching the Dhamma especially for me.’
+> But it should not be so regarded; the Tathāgata teaches the Dhamma to
+> others only to give them knowledge. When the talk is finished,
+> Aggivessana, then I steady my mind internally, quieten it, bring it to
+> singleness, and compose it on that same sign of composure as before,
+> in which I constantly abide.”
 >
-> <u>Questioned about abiding in delusion</u>:\\ “This is a matter about
+> <u>Questioned about abiding in delusion</u>: “This is a matter about
 > which Master Gotama can be trusted, as an accomplished and fully
 > enlightened one should be. But does Master Gotama recall sleeping
 > during the day?”
@@ -2796,7 +2815,7 @@ desires sufficiently.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “…Again, Aggivessana, a second simile occurred to me spontaneously,
 > never heard before. Suppose there were a wet sappy piece of wood lying
@@ -2833,7 +2852,7 @@ because you do so while still valuing sensual pleasures.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “Again, Aggivessana, a third simile occurred to me spontaneously,
 > never heard before. Suppose there were a dry sapless piece of wood
@@ -2885,7 +2904,7 @@ enlightened”. No, the Buddha said himself, “I cannot make anyone
 enlightened. I just point the way, and then they either choose to follow
 it or not”.
 
-<div class="english">
+<div lang="en">
 
 > “…When he had spoken, Moggallāna the Accountant said to the
 > Buddha,”When his disciples are instructed and advised like this by
@@ -2928,10 +2947,10 @@ it or not”.
 > my disciples, instructed and advised like this, achieve the ultimate
 > goal, Nibbana, while some of them fail. What can I do about that,
 > brahmin? The Realized One is the one who shows the way.”
+>
+> — <cite>[MN 107](https://suttacentral.net/mn107)</cite>
 
 </div>
-
-> – [MN 107](https://suttacentral.net/mn107)
 
 All the Buddha can do is point the way. So then how did that person in
 the sutta get enlightened after just one sentence? Well, if you read a
@@ -2983,7 +3002,7 @@ need very little effort to light the fire.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “…So too, Aggivessana, as to those contemplatives who live bodily
 > withdrawn from sensual pleasures, and whose sensual desire, affection,
@@ -3044,7 +3063,7 @@ matter whether you are a monk or not, the sticks still need to be dry.
 
 ## 210hh- How To Let Go
 
-<div class="english">
+<div lang="en">
 
 > “Monks, whatever’s not yours: Let go of it. Your letting go of it will
 > be for your long-term happiness & benefit. And what is not yours?
@@ -3090,10 +3109,11 @@ matter whether you are a monk or not, the sticks still need to be dry.
 > intellect-contact—experienced either as pleasure, as pain, or as
 > neither-pleasure-nor-pain—that too isn’t yours: Let go of it. Your
 > letting go of it will be for your long-term happiness & benefit.”
+>
+> — <cite>[SN
+> 35.101](https://www.dhammatalks.org/suttas/SN/SN35_101.html)</cite>
 
 </div>
-
-> – [SN 35.101](https://www.dhammatalks.org/suttas/SN/SN35_101.html)
 
 When you ask “How do I let go?”, do you ask that question when you are
 at the peak of happiness and when life is comfortable? Do you ask how to
@@ -3110,7 +3130,7 @@ being able to hold things in the first place. If you were truly
 changed, you would not have been experiencing suffering, you would have
 been in control.
 
-<div class="english">
+<div lang="en">
 
 > “Bhikkhus, form is non-self. For if, bhikkhus, form were self, this
 > form would not lead to affliction, and it would be possible to control
@@ -3128,10 +3148,10 @@ been in control.
 > non-self, consciousness leads to affliction, and it is not possible to
 > control consciousness: ’Let my consciousness be thus; let my
 > consciousness not be thus.”
+>
+> — <cite>[SN 22.59](https://suttacentral.net/sn22.59)</cite>
 
 </div>
-
-> – [SN 22.59](https://suttacentral.net/sn22.59)
 
 When things are comfortable, people don’t want to look at the nature of
 change or contemplate letting go.
@@ -3151,7 +3171,7 @@ yourself.
 In other words, letting go is not something you do. Letting go is
 understanding that you could not have held things in the first place.
 
-<div class="english">
+<div lang="en">
 
 > “…Here, Ānanda, a bhikkhu is practising in this way—‘It could not be
 > and it could not be mine; it will not be, it will not be mine.
@@ -3161,10 +3181,11 @@ understanding that you could not have held things in the first place.
 > that equanimity, not welcoming it, not holding onto it, consciousness
 > is not dependent on it, he doesn’t assume it. Ānanda, a bhikkhu who is
 > without assumptions, is fully extinguished.”
+>
+> — <cite>[MN
+> 106](https://www.dhammatalks.org/suttas/MN/MN106.html)</cite>
 
 </div>
-
-> – [MN 106](https://www.dhammatalks.org/suttas/MN/MN106.html)
 
 Don’t just reflect on letting go when there is discomfort or when there
 is pain, or when there is reminder of it, but do it at the peak of your
@@ -3172,14 +3193,14 @@ happiness. When everything is ne, everything is going your way, be aware
 that it could have not been that way and it won’t be that way. That
 reflection and remembrance can result in a slight uneasiness, but that
 is the gateway to that right perspective of recognising the true meaning
-of *anicca* that the Buddha spoke about. *Anicca* means “subject to
-change”, it doesn’t mean “changing al the time”, it means “subject to
-change, against your will , outside of your scope of your control, you
-are subject to it”.
+of <span lang="pi">*anicca*</span> that the Buddha spoke about.
+<span lang="pi">*Anicca*</span> means “subject to change”, it doesn’t
+mean “changing al the time”, it means “subject to change, against your
+will , outside of your scope of your control, you are subject to it”.
 
-Understanding *anicca*, understanding “being subject to change” means
-letting go, it means preventing yourself from assuming that you are
-holding on.
+Understanding <span lang="pi">*anicca*</span>, understanding “being
+subject to change” means letting go, it means preventing yourself from
+assuming that you are holding on.
 
 Often you will get given advice to just let go, but “just let go” is not
 a matter of choice. Even *holding* is not a matter of choice. It’s the
@@ -3250,8 +3271,8 @@ fact that that is a possibility, means they were never yours to begin
 with, no matter how long you have been attached to them, no matter how
 deeply you have loved them. It doesn’t matter what you do, this is the
 ultimate context, “THIS is subject to change, it’s against my will”,
-that’s *anicca*. Mindfulness of that context is worth developing because
-it leads to true freedom.
+that’s <span lang="pi">*anicca*</span>. Mindfulness of that context is
+worth developing because it leads to true freedom.
 
 If you do make the effort and sustain the perspective that, “My dear pet
 can be taken away at any given time”. That perspective will prevent you
@@ -3259,41 +3280,43 @@ from becoming blindly, carelessly, obliviously attached to it. And when
 things change, there will not be as much of a shock to the system,
 because you know beforehand that it is truly out of your hands. So the
 grief will be seriously dampened, and if you’ve truly developed a full
-understanding of *anicca*, there will be no grief at all. Even for
-people who are not monks or who are not committed to this practice 24/7,
-it’s still a useful thing to be aware of, the fact that things are
-subject to change. It’s quite a useful superpower that you can develop
-in this life. It keeps you more resilient, more patient, more stable,
-more impermeable to disruptions, because sometimes things might change
-quickly into one thing and then into another, from very pleasant, to
-intensely unpleasant, and you will still be able to sustain some sort of
-composure in regard to it, which most people would not. Which means your
-well being, your contentment will be less affected, even as an undevoted
-practitioner.
+understanding of <span lang="pi">*anicca*</span>, there will be no grief
+at all. Even for people who are not monks or who are not committed to
+this practice 24/7, it’s still a useful thing to be aware of, the fact
+that things are subject to change. It’s quite a useful superpower that
+you can develop in this life. It keeps you more resilient, more patient,
+more stable, more impermeable to disruptions, because sometimes things
+might change quickly into one thing and then into another, from very
+pleasant, to intensely unpleasant, and you will still be able to sustain
+some sort of composure in regard to it, which most people would not.
+Which means your well being, your contentment will be less affected,
+even as an undevoted practitioner.
 
 It’s always useful to have that authentic recognition of “things are
 subject to change”. But it needs to be done on that personal level.
-Usually when a person hears about *anicca*, it’s often taken in this
-abstract sense,
+Usually when a person hears about <span lang="pi">*anicca*</span>, it’s
+often taken in this abstract sense,
 
 “Yes, everything is subject to change. Modern science has shown
 everything is constantly changing, etc”.
 
-People tend to think about *anicca* in those completely impersonal
-terms, but that’s not *anicca*. *Anicca* is finding that which is dear
-to you, and contemplating that to be subject to change, and then see how
-indifferent you’re going to stay if you start thinking like that. If you
-work through that unease on account of contemplating the loss of that
-which is personally dear to you, that’s where freedom from suffering
-canbe found. The letting go that comes from understanding the nature of
-things is how you will not suffer even when your dearest family members,
-pets, friends, or whatever, change, die or leave. Your mind will not be
-affected. That doesn’t mean that you will not perceive what has happened
-or not know the significance of an event, it just means you will not be
-as affected by it because you never lost perspective in regards to that
-which is inevitable- sickness, old age and death.
+People tend to think about <span lang="pi">*anicca*</span> in those
+completely impersonal terms, but that’s not
+<span lang="pi">*anicca*</span>. <span lang="pi">*Anicca*</span> is
+finding that which is dear to you, and contemplating that to be subject
+to change, and then see how indifferent you’re going to stay if you
+start thinking like that. If you work through that unease on account of
+contemplating the loss of that which is personally dear to you, that’s
+where freedom from suffering canbe found. The letting go that comes from
+understanding the nature of things is how you will not suffer even when
+your dearest family members, pets, friends, or whatever, change, die or
+leave. Your mind will not be affected. That doesn’t mean that you will
+not perceive what has happened or not know the significance of an event,
+it just means you will not be as affected by it because you never lost
+perspective in regards to that which is inevitable- sickness, old age
+and death.
 
-<div class="english">
+<div lang="en">
 
 > “What do you think, bhikkhus: is matter permanent or impermanent?”
 >
@@ -3344,10 +3367,10 @@ which is inevitable- sickness, old age and death.
 > liberated. Liberated, there is the knowledge: ‘Liberated’. He
 > understands: ‘Birth is destroyed, the holy life has been lived, what
 > should be done has been done, there is no more of this.’”
+>
+> — <cite>[SN 22.59](https://suttacentral.net/sn22.59)</cite>
 
 </div>
-
-> – [SN 22.59](https://suttacentral.net/sn22.59)
 
 </div>
 
@@ -3455,7 +3478,7 @@ mind, from freeing it of defilement.
 
 ## 215hh- Mindfulness Of Breathing And Calming Of The Aversion
 
-<div class="english">
+<div lang="en">
 
 > “The Blessed One said,”Monks, do you develop mindfulness/recollection
 > of in-&-out breathing?” When this was said, Ven. Arittha replied to
@@ -3483,11 +3506,11 @@ mind, from freeing it of defilement.
 >
 > “Breathing in long, he discerns, ‘I am breathing in long’; or
 > breathing out long, he discerns, ‘I am breathing out long.’…”
+>
+> — <cite>[SN
+> 54.6](https://www.accesstoinsight.org/tipitaka/sn/sn54/sn54.006.than.html)</cite>
 
 </div>
-
-> – [SN
-> 54.6](https://www.accesstoinsight.org/tipitaka/sn/sn54/sn54.006.than.html)
 
 Some might think that what Arittha described is not correct mindfulness
 of breathing but the Buddha didn’t disagree with him and then offered a
@@ -3503,9 +3526,9 @@ breathes in, Recollected he breathes out”, that’s all you need to know
 and if you stick to that as the Ven.Arittha did you will overcome any
 desire towards sensual objects of the present, past and future. In other
 words, you would have surmounted the entire domain of sensual craving
-and most importantly you would have completely subdued that *patigha*
-towards your own senses. Which is enough for having the five lower
-fetters destroyed.
+and most importantly you would have completely subdued that
+<span lang="pi">*patigha*</span> towards your own senses. Which is
+enough for having the five lower fetters destroyed.
 
 Mindfulness of breathing is often taken as a mechanical method, and so
 to avoid that mistake, it would be better to first follow Ven.Arritha’s
@@ -3513,19 +3536,21 @@ instructions because it would prevent you from falling into a mindless
 ‘in-and-out-breathing-focussing-visualisation’ technique. It would force
 you to develop knowledge of the enduring breath underneath your
 experience, regardless of the mental, emotional, or physical state.
-(That’s also how *anapanasati* brings *satipatthana* to fulfilment.) As
-the Suttas say, recollected he breathes in or out. They don’t say
-“*focused*” or “*concentrated*” he breathes in or out.
+(That’s also how <span lang="pi">*anapanasati*</span> brings
+<span lang="pi">*satipatthana*</span> to fulfilment.) As the Suttas say,
+recollected he breathes in or out. They don’t say “*focused*” or
+“*concentrated*” he breathes in or out.
 
-If you overcome all sensuality and subdue all of the *patigha* that you
-have towards your own senses and towards anything or anyone in the
-world, present, past or future, then you will be ready to follow the
-Buddha’s detailed instructions on *anapanasati*. You will also know
-exactly what he means, otherwise, you will be doing his instructions
-with sensuality and as a method that you think will result in a “Greater
-sensual pleasure for me!”. Any greatness of mindfulness of breathing can
-only be developed upon complete surmounting of sensuality or overcoming
-the five lower fetters.
+If you overcome all sensuality and subdue all of the
+<span lang="pi">*patigha*</span> that you have towards your own senses
+and towards anything or anyone in the world, present, past or future,
+then you will be ready to follow the Buddha’s detailed instructions on
+<span lang="pi">*anapanasati*</span>. You will also know exactly what he
+means, otherwise, you will be doing his instructions with sensuality and
+as a method that you think will result in a “Greater sensual pleasure
+for me!”. Any greatness of mindfulness of breathing can only be
+developed upon complete surmounting of sensuality or overcoming the five
+lower fetters.
 
 That breath underneath your experience that is always enduring and which
 you don’t lose sight of (the knowledge of the breath being there), is an
@@ -3540,19 +3565,21 @@ absorbed into what you’re doing, so that you forget that breathing is
 happening in the background. It’s about learning how not to overly
 commit to the foreground attention and learning how to stretch your mind
 to discern ‘both ends’ (background and foreground) simultaneously
-enduring. That’s why, when you develop *samadhi*/composure, the mind
-becomes pliable, it can stretch, it’s no longer a hard twisted lump.
+enduring. That’s why, when you develop
+<span lang="pi">*samadhi*</span>/composure, the mind becomes pliable, it
+can stretch, it’s no longer a hard twisted lump.
 
 **Q:** Having become accomplished in virtue and sense restraint, things
 calm down and then the reality of the body becomes clearer.
 
 **Nm:** That reality of the body will first present itself as unpleasant
-and confining because you will experience the fundamental *patigha* that
-you have towards it, you are going to experience this physical
-resistance, sickness, like a heroin addict going through withdrawal
-because you’re withdrawing from the entire domain of ‘sensual being’
-(*kamabhava*). However, you have to abandon that *patigha*/aversion,
-that aversion towards your own senses which are no longer engaging with
+and confining because you will experience the fundamental
+<span lang="pi">*patigha*</span> that you have towards it, you are going
+to experience this physical resistance, sickness, like a heroin addict
+going through withdrawal because you’re withdrawing from the entire
+domain of ‘sensual being’ (<span lang="pi">*kamabhava*</span>). However,
+you have to abandon that <span lang="pi">*patigha*</span>/aversion, that
+aversion towards your own senses which are no longer engaging with
 sensual distractions. That’s why the sensual desire is so powerful
 because the aversion towards being confined within the body underneath
 it is extremely strong and the only means of escape, that an ordinary
@@ -3581,26 +3608,29 @@ experience them as uncomfortable, pressured and agitated.
 
 **Nm:** Yes, practically speaking, you will experience them as a
 pressure. However there is only pressure when you have ignorance, which
-the baby does, it has an underlying tendency of *avijja*. If there was
-no *avijja* in that baby’s mind, it would not have been born. If you
-begin to know and see the sense organs clearly and sustain that clarity,
-you will begin to diminish your ignorance in regards to them, your
-appropriation of them, your assumption of ownership. You will get to
-understand that resisting them is futile and therefore your aversion
-will also fade.
+the baby does, it has an underlying tendency of
+<span lang="pi">*avijja*</span>. If there was no
+<span lang="pi">*avijja*</span> in that baby’s mind, it would not have
+been born. If you begin to know and see the sense organs clearly and
+sustain that clarity, you will begin to diminish your ignorance in
+regards to them, your appropriation of them, your assumption of
+ownership. You will get to understand that resisting them is futile and
+therefore your aversion will also fade.
 
 **Q:** The body is fundamentally agitated.
 
-**Nm:** The nature of form/*rupa* is to deform, the elements which it is
-made up of are changing and reshaping and your body is doing the same.
+**Nm:** The nature of form/<span lang="pi">*rupa*</span> is to deform,
+the elements which it is made up of are changing and reshaping and your
+body is doing the same.
 
 **Q:** You cannot just remove that bodily discomfort because that is the
 body. You have to somehow make peace with it.
 
 **Nm:** By removing your aversion towards the senses, that’s how you
-make peace. You subdue all perceptions of *patigha* by thoroughly
-developing sense restraint, keeping a close eye on them so that they
-don’t get polluted by the unwholesome.
+make peace. You subdue all perceptions of
+<span lang="pi">*patigha*</span> by thoroughly developing sense
+restraint, keeping a close eye on them so that they don’t get polluted
+by the unwholesome.
 
 **Q:** If you had to suppress the body, trying to not let it sense
 anything, it would just get more agitated.
@@ -3628,8 +3658,8 @@ something back, but it doesn’t matter. In itself, the phenomenon of
 giving, still requires giving up, and that thread remains wholesome
 throughout the giving, even if I give it with the desire for some future
 benefit, it’s still good to give. Sure, the best way to give is when you
-are completely unattached to what you are giving. ([AN
-7.49](https://www.dhammatalks.org/suttas/AN/AN7_49.html))
+are completely unattached to what you are giving. (<cite>[AN
+7.49](https://www.dhammatalks.org/suttas/AN/AN7_49.html)</cite>)
 
 **Q:** I think generosity also provides the donor a sense of security.
 
@@ -3671,7 +3701,7 @@ how can you be affected if it changes or goes away? That’s exactly the
 whole point of the encouragement that the Buddha gave to some monks in a
 forest:
 
-<div class="english">
+<div lang="en">
 
 > “Bhikkhus, whatever is not yours, abandon it. When you have abandoned
 > it, that will lead to your welfare and happiness. And what is it,
@@ -3691,10 +3721,10 @@ forest:
 > “So too, bhikkhus, form is not yours … consciousness is not yours:
 > abandon it. When you have abandoned it, that will lead to your welfare
 > and happiness.”
+>
+> — <cite>[SN 22.33](https://suttacentral.net/sn22.33)</cite>
 
 </div>
-
-> – [SN 22.33](https://suttacentral.net/sn22.33)
 
 People who are stingy or miserly, lack wisdom in that regard, they don’t
 see that they cannot fundamentally own anything, they ignore that fact.
@@ -3703,7 +3733,7 @@ and more control.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “General Sīha went to the Blessed One and, on arrival, having bowed
 > down to him, sat to one side. As he was sitting there he said to the
@@ -3775,10 +3805,11 @@ and more control.
 > with the five sensuality strands. Having followed the words of the
 > sage who is Such, they enjoy themselves in heaven, the disciples of
 > the One Well-Gone.”
+>
+> — <cite>[AN
+> 5.34](https://www.dhammatalks.org/suttas/AN/AN5_34.html)</cite>
 
 </div>
-
-> – [AN 5.34](https://www.dhammatalks.org/suttas/AN/AN5_34.html)
 
 **Nm:** Why would you become confident? Why would you not be as
 confident if you’re not generous? Why would generosity make you more
@@ -3834,7 +3865,7 @@ sufficiently enough, it will be known. But you wouldn’t care whether
 it’s known to others or not, but it will be known by you. That’s a fact.
 That’s why Buddha listed it as one of the inevitable benefits.
 
-<div class="english">
+<div lang="en">
 
 > “…Then there is the case where you recollect your own generosity: ‘It
 > is a gain, a great gain for me, that among people overcome with the
@@ -3850,10 +3881,11 @@ That’s why Buddha listed it as one of the inevitable benefits.
 > is joyful, happiness arises. In one whose mind is happy, the body
 > grows calm. One whose body is calmed experiences ease. In one at ease,
 > the mind becomes composed…”
+>
+> — <cite>[AN
+> 11.12](https://www.dhammatalks.org/suttas/AN/AN11_12.html)</cite>
 
 </div>
-
-> – [AN 11.12](https://www.dhammatalks.org/suttas/AN/AN11_12.html)
 
 It’s a practice that should be developed and encouraged for individual
 benefit of your own mind expansion and benefit of others. You can also
@@ -3861,7 +3893,7 @@ encourage others to be generous by setting a good example, which will
 then in return, help their own minds from escaping the state of insecure
 constricted stinginess.
 
-<div class="english">
+<div lang="en">
 
 > “…This world is on fire with aging, illness, & death. With the world
 > thus on fire with aging, illness, & death, any restraint of body,
@@ -3872,10 +3904,11 @@ constricted stinginess.
 > salvage (your wealth) by giving: What’s given is well salvaged. When
 > you’re restrained herein body, speech and mind; when you make merit
 > while still alive: That will be for your happiness after death.”
+>
+> — <cite>[AN
+> 3.53](https://www.dhammatalks.org/suttas/AN/AN3_53.html)</cite>
 
 </div>
-
-> – [AN 3.53](https://www.dhammatalks.org/suttas/AN/AN3_53.html)
 
 </div>
 
@@ -3936,7 +3969,7 @@ things to happen, *hoping* they will happen… that is meditating with
 sensuality. Waiting for *pleasant things to happen* that will sort
 everything else out.
 
-<div class="english">
+<div lang="en">
 
 > “The Blessed One, brahmin, did not praise every type of meditation,
 > nor did he condemn every type of meditation. What kind of meditation
@@ -3952,22 +3985,22 @@ everything else out.
 > it actually is the escape from arisen doubt. While he harbours doubt
 > within, he meditates, premeditates, out-meditates, and mismeditates.
 > The Blessed One did not praise that kind of meditation.”
+>
+> — <cite>MN 108</cite>
 
 </div>
 
-> – MN 108
-
-<div class="english">
+<div lang="en">
 
 > “When he harbors aversion toward painful feeling, the underlying
 > tendency to aversion toward painful feeling lies behind this. Being
 > contacted by a painful feeling, he seeks delight in sensual pleasure.
 > For what reason? Because the untrained ordinary person does not know
 > of any escape from painful feeling other than sensual pleasure.”
+>
+> — <cite>SN 36.6</cite>
 
 </div>
-
-> – SN 36.6
 
 When touched by pain, the only thing an untrained ordinary person knows
 is to seek pleasure. It doesn’t matter whether he seeks pleasure through
@@ -4001,7 +4034,7 @@ of *jhana* is the pleasure of that withdrawal from beforehand, that is
 what the pleasure belongs to, not to the *jhana* \[as such\]. It is a
 result of that seclusion and non-activity.
 
-<div class="english">
+<div lang="en">
 
 > “Here, bhikkhus, withdrawn from sense desire, withdrawn from
 > unwholesome states, a bhikkhu enters upon and abides in the first
@@ -4011,10 +4044,10 @@ result of that seclusion and non-activity.
 > of enlightenment. I say of this kind of pleasure that it should be
 > pursued, that it should be developed, that it should be cultivated,
 > and that it should not be feared.”
+>
+> — <cite>MN 139</cite>
 
 </div>
-
-> – MN 139
 
 What is truly disturbing is that movement of the mind - and you *seeking
 pleasure* is just another movement. Another expectation, another
@@ -4025,8 +4058,14 @@ the world. So the true *samatha*, then is calming of those movements and
 those activities, or *sankharas*, intentions of the mind - calming that,
 within whatever you are intending towards, or against.
 
-**Right meditation comes within right endurance  
-*Patient endurance is the supreme austerity* (Dhp 184)**
+<div lang="en">
+
+> **Right meditation comes within right endurance**  
+> ***Patient endurance is the supreme austerity***
+>
+> — <cite>Dhp 184</cite>
+
+</div>
 
 In order to calm your intentions on the mental level, you need to have
 calmed your body and speech, restrained it sufficiently long beforehand.
@@ -4048,9 +4087,9 @@ depending on the senses for aeons, not only this life. If you think
 cigarettes are hard to give up, or heroin, try giving up the entire
 domain of pleasure dependent on the senses and existence in general.
 
-**Q:** *Even on that small scale in terms of little things like
-addiction to smoking, you can get a glimpse of the relief that comes
-from not being agitated anymore by that particular craving.*
+**Q:** Even on that small scale in terms of little things like addiction
+to smoking, you can get a glimpse of the relief that comes from not
+being agitated anymore by that particular craving.
 
 **Ajahn Nyanamoli:** Imagine then the pleasure of the first *jhana*;
 when you are not drawn by anything in the world. No addiction, you are
@@ -4063,21 +4102,21 @@ only the withdrawal from that which you are addicted to. That is the
 ‘magical way’; and you need to be *sufficiently* withdrawn. For how
 long, depends on how strongly you were addicted.
 
-**MN 107 - The Discourse to Ganaka-Moggallana:**
+**<cite>MN 107 - The Discourse to Ganaka-Moggallana<cite>:**
 
-<div class="english">
+<div lang="en">
 
 > “…When the Tathāgata gets a person fit to be tamed, he first trains
-> him thus:  
->   
+> him thus:
+>
 > ‘(1)Come, bhikkhu. Be virtuous. Dwell restrained in accordance with
 > the Pāṭimokkha, consummate in your behavior & sphere of activity.
 > Train yourself, having undertaken the training rules, seeing danger in
-> the slightest faults.’  
->   
-> ”When the monk is virtuous… seeing danger in the slightest faults, the
-> Tathāgata then trains him further:  
->   
+> the slightest faults.’
+>
+> “When the monk is virtuous… seeing danger in the slightest faults, the
+> Tathāgata then trains him further:
+>
 > ‘(2)Come, monk. Be one who is guarded in the doors of your sense
 > faculties. On seeing a form with the eye, don’t grasp at any signs and
 > features (significance) by which—if you were to dwell without
@@ -4092,20 +4131,20 @@ long, depends on how strongly you were addicted.
 > intellect—evil, unskillful qualities such as greed or distress might
 > assail you. Practice for its restraint. Protect the faculty of the
 > intellect. Attain restraint with regard to the faculty of the
-> intellect.’  
->   
+> intellect.’
+>
 > “When the monk is one who is guarded in the doors of his sense
-> faculties… the Tathāgata then trains him further:  
->   
+> faculties… the Tathāgata then trains him further:
+>
 > ‘(3)Come, monk. Be one who eats for the right reasons. With a correct
 > perspective (yonisomanasikara), take your food not playfully, nor for
 > intoxication, nor for putting on bulk, nor for beautification, but
 > simply for the survival and continuance of this body, for ending its
 > afflictions, for the support of the holy life, thinking, “I will
 > destroy old feelings & not create new feelings. Thus I will maintain
-> myself, be blameless, and live in comfort.”’”When the monk is one who
-> eats for the right reasons… the Tathāgata then trains him further:  
->   
+> myself, be blameless, and live in comfort.”’ “When the monk is one who
+> eats for the right reasons… the Tathāgata then trains him further:
+>
 > ‘(4)Come, monk. Be one who is devoted to wakefulness. During the day,
 > sitting & walking back & forth, cleanse your mind of any obstructive
 > states. During the first watch of the night, sitting & walking back &
@@ -4114,33 +4153,33 @@ long, depends on how strongly you were addicted.
 > posture, one foot placed on top of the other, mindful, alert, with
 > your mind set on getting up \[either as soon as you awaken or at a
 > particular time\]. During the last watch of the night, sitting &
-> walking back & forth, cleanse your mind of any obstructive states.’  
->   
+> walking back & forth, cleanse your mind of any obstructive states.’
+>
 > “When the monk is one who is devoted to wakefulness/vigilance… the
-> Tathāgata then trains him further:  
->   
+> Tathāgata then trains him further:
+>
 > ‘(5)Come, monk. Be one who is possessed of mindfulness & awareness.
 > When going forward & returning, make yourself aware. When looking
 > toward & looking away…. When bending & extending your limbs…. When
 > carrying your outer cloak, upper robe, & bowl…. When eating, drinking,
 > chewing, & tasting…. When urinating & defecating…. When walking,
 > standing, sitting, falling asleep, waking up, talking, & remaining
-> silent, make yourself aware.’  
->   
-> ”When the monk is one who is possessed of mindfulness & awareness… The
-> Tathāgata then trains him further:  
->   
+> silent, make yourself aware.’
+>
+> “When the monk is one who is possessed of mindfulness & awareness… The
+> Tathāgata then trains him further:
+>
 > ‘(6)Come, monk. Seek out a secluded dwelling: a wilderness, the shade
 > of a tree, a mountain, a glen, a hillside cave, a charnel ground, a
 > forest grove, the open air, a heap of straw.’  
->   
+>
 > “He seeks out a secluded dwelling: a wilderness, the shade of a tree,
 > a mountain, a glen, a hillside cave, a charnel ground, a forest grove,
 > the open air, a heap of straw. After his meal, returning from his alms
 > round, he sits down, crosses his legs, holds his body upright, and
-> brings mindfulness to the fore.  
->   
-> ”(7)Abandoning covetousness with regard to the world, he dwells with
+> brings mindfulness to the fore.
+>
+> “(7)Abandoning covetousness with regard to the world, he dwells with
 > an awareness devoid of covetousness. He cleanses his mind of
 > covetousness. Abandoning ill will & anger, he dwells with an awareness
 > devoid of ill will, sympathetic to the welfare of all living beings.
@@ -4151,18 +4190,18 @@ long, depends on how strongly you were addicted.
 > his mind inwardly stilled. He cleanses his mind of restlessness &
 > anxiety. Abandoning uncertainty, he dwells having crossed over
 > uncertainty, with no perplexity with regard to skillful qualities. He
-> cleanses his mind of uncertainty.  
->   
+> cleanses his mind of uncertainty.
+>
 > “(8)Having abandoned these five hindrances—imperfections of awareness
 > that weaken discernment—then, quite secluded from sense desire,
 > secluded from unskillful things, he enters & remains in the first
 > jhāna: joy & pleasure born of seclusion, accompanied by thought &
 > evaluation… the second jhāna…the third jhāna, the fourth jhāna: purity
 > of equanimity & mindfulness, neither pleasure nor pain.”
+>
+> — <cite>MN 107</cite>
 
 </div>
-
-> – MN 107
 
 **Ajahn Nyanamoli:** That’s the ‘technique.’ The technique of basically
 overcoming *the* addiction of the addictions - i.e. the addiction of the
@@ -4181,23 +4220,25 @@ seclusion, guarding of the sense doors - now you learn to calm within
 that. Not abandon it, but calm; still the agitation aspect of it, so
 that you can carry on, because you realise that that’s the way out.
 
-<div class="english">
+<div lang="en">
 
 > “The Blessed One said,”Monks, do you develop mindfulness of in-&-out
-> breathing?” When this was said, Ven. Arittha replied to the Blessed
-> One, “I develop mindfulness of in-&-out breathing, lord.”  
->   
-> “But how do you develop mindfulness of in-&-out breathing, Arittha?”  
->   
+> breathing?”
+>
+> When this was said, Ven. Arittha replied to the Blessed One, “I
+> develop mindfulness of in-&-out breathing, lord.”
+>
+> “But how do you develop mindfulness of in-&-out breathing, Arittha?”
+>
 > “Having abandoned sensual desire for past sensual pleasures, lord,
 > having done away with sensual desire for future sensual pleasures, and
 > having thoroughly subdued perceptions of irritation with regard to
 > internal & external events, I breathe in mindfully and breathe out
 > mindfully.”
+>
+> — <cite>SN 54.6</cite>
 
 </div>
-
-> – SN 54.6
 
 \[There is no specific instruction that can be given on how to do this,
 because\] that would become another activity you will now *do*. The only
@@ -4236,15 +4277,15 @@ pleasures - and that’s the weight you need to start taking on in the
 gradual training, it’s the whole point. That’s what the lay followers in
 suttas did:
 
-<div class="english">
+<div lang="en">
 
 > “We go for refuge to Master Gotama, to the teaching, and to the sangha
 > of monks. From this day forth, may Master Gotama remember us as lay
 > followers who have gone for refuge for life.”
+>
+> – <cite>MN 150</cite>
 
 </div>
-
-> – MN 150
 
 It means that five precepts are now the basis of your sense restraint
 and confinement, which is very easy, not even really confining - but
@@ -4264,37 +4305,37 @@ guard your senses; because if you don’t, it becomes very unpleasant in
 the confinement of the eight precepts. That’s how you start taming your
 mind.
 
-**MN 125 - Taming the wild elephant simile:**
+**<cite>MN 125 - Taming the wild elephant simile</cite>:**
 
-<div class="english">
+<div lang="en">
 
 > “Suppose, Aggivessana, that a king addresses his woodsman, ‘Come, my
 > good woodsman. Mount a royal elephant, enter the woods, and when you
 > find a wilderness elephant, bind it by the neck to the royal
-> elephant.’  
->   
-> ”Responding, ‘Yes, your majesty,’ the woodsman mounts a royal
+> elephant.’
+>
+> “Responding, ‘Yes, your majesty,’ the woodsman mounts a royal
 > elephant, enters the woods and, finding a wilderness elephant, binds
 > it by the neck to the royal elephant. Then the royal elephant leads it
 > out into the open air. It’s to this extent that the wilderness
 > elephant has come into the open air, for wilderness elephants long for
-> the woods. “Then the woodsman informs the king, ‘Your majesty, the
-> wilderness elephant has come into the open air.’  
->   
-> ”The king then addresses his elephant tamer, ‘Come, my good elephant
+> the woods.”Then the woodsman informs the king, ‘Your majesty, the
+> wilderness elephant has come into the open air.’
+>
+> “The king then addresses his elephant tamer, ‘Come, my good elephant
 > tamer. Tame the wilderness elephant. Break it of its wilderness
 > habits, its wilderness memories and intentions, its distraction,
 > fatigue, and fever over leaving the wilderness. Make it enjoy the town
-> and teach it habits congenial to human beings.’  
->   
+> and teach it habits congenial to human beings.’
+>
 > “Responding, ‘Yes, your majesty,’ the elephant tamer then plants a
 > large post in the ground and binds the wilderness elephant to it by
 > the neck in order to break it of its wilderness habits, its wilderness
 > memories and resolves, its distraction, fatigue, and fever over
 > leaving the wilderness, to make it delight in the town and to teach it
-> habits congenial to human beings.  
->   
-> ”The elephant tamer then speaks to the wilderness elephant words that
+> habits congenial to human beings.
+>
+> “The elephant tamer then speaks to the wilderness elephant words that
 > are soothing, pleasing to the ear, affectionate, that go to the heart,
 > that are polite, appealing and pleasing to people at large. When the
 > wilderness elephant is spoken to with words that are soothing,
@@ -4304,17 +4345,17 @@ mind.
 > further rewards it with grass, fodder, and water. When the wilderness
 > elephant accepts the elephant tamer’s grass, fodder, and water, that’s
 > when the elephant tamer knows, ‘Now the wilderness elephant will
-> live!’  
->   
+> live!’
+>
 > “Then the elephant tamer makes the wilderness elephant perform further
 > tasks: ‘Pick this up, sir. Put this down, sir.’ When the wilderness
 > elephant obeys the elephant tamer’s instructions to pick up and put
 > down as it is told, the elephant tamer makes it perform further tasks:
 > ‘Go forward. Go back.’ When the wilderness elephant obeys the elephant
 > tamer’s instructions to go forward and go back as it is told, the
-> elephant tamer makes it perform further tasks: ‘Get up. Lie down.’  
->   
-> ”When the wilderness elephant obeys the elephant tamer’s instructions
+> elephant tamer makes it perform further tasks: ‘Get up. Lie down.’
+>
+> “When the wilderness elephant obeys the elephant tamer’s instructions
 > to get up and lie down as it is told, the elephant tamer makes it
 > perform a further task called immovability. The elephant tamer ties a
 > giant shield to its trunk. A man with a lance in his hand sits on its
@@ -4327,7 +4368,7 @@ mind.
 > move its tail, it doesn’t move its trunk. It is a royal elephant that
 > endures attacks from spears, swords, arrows, and axes; and resounding
 > beats of drums, cymbals, conchs, and tom-toms. Rid of all faults and
-> defects, purged of flaws, it is worthy of the king….”
+> defects, purged of flaws, it is worthy of the king…”
 
 </div>
 
@@ -4348,8 +4389,8 @@ accomplish ‘going against the grain’, going against samsara, it’s
 irreversible, you can’t go back down, impossible. That’s why the free
 mind is known as ‘free mind.’
 
-**Q:** *An alcoholic might not drink for ten years, but could still go
-back…*
+**Q:** An alcoholic might not drink for ten years, but could still go
+back…
 
 **Ajahn Nyanamoli:** Yes, because they haven’t uprooted their view of
 sensuality. But even in that sense, you can get a glimpse of the same
@@ -4376,7 +4417,7 @@ unbearable pain? When the reason that was making it provide him with
 that relative pleasure is gone, it just becomes inconceivable for him to
 do that.
 
-<div class="english">
+<div lang="en">
 
 > “Suppose, Māgandiya, there was a leper with sores and blisters on his
 > limbs, being devoured by worms, scratching the scabs off the openings
@@ -4388,23 +4429,23 @@ do that.
 > himself, able to go where he likes. Then two strong men would seize
 > him by both arms and drag him towards a burning charcoal pit. What do
 > you think, Māgandiya? Would that man twist his body this way and
-> that?”  
->   
+> that?”
+>
 > “Yes, Master Gotama. Why is that? Because that fire is indeed painful
-> to touch, hot, and scorching.”  
->   
+> to touch, hot, and scorching.”
+>
 > “What do you think, Māgandiya? Is it only now that that fire is
 > painful to touch, hot, and scorching, or previously too was that fire
-> painful to touch, hot, and scorching?”  
->   
+> painful to touch, hot, and scorching?”
+>
 > “Master Gotama, that fire is now painful to touch, hot, and scorching,
 > and previously too that fire was painful to touch, hot, and scorching.
 > For when that man was a leper with sores and blisters on his limbs,
 > being devoured by worms, scratching the scabs off the openings of his
 > wounds with his nails, his faculties were impaired; thus, though the
 > fire was actually painful to touch, he acquired a mistaken perception
-> of it as pleasant.”  
->   
+> of it as pleasant.”
+>
 > “So too, Māgandiya, in the past sensual pleasures were painful to
 > touch, hot, and scorching; in the future sensual pleasures will be
 > painful to touch, hot, and scorching; and now at present sensual
@@ -4414,10 +4455,10 @@ do that.
 > pleasures, have faculties that are impaired; thus, though sensual
 > pleasures are actually painful to touch, they acquire a mistaken
 > perception of them as pleasant.”
+>
+> — <cite>MN 75</cite>
 
 </div>
-
-> – MN 75
 
 </div>
 
@@ -4425,7 +4466,7 @@ do that.
 
 ## 230hh- Stilling Of All Activities
 
-<div class="english">
+<div lang="en">
 
 > “Then the Venerable Ānanda approached the Blessed One, paid homage to
 > him, sat down to one side,and said to him:
@@ -4454,45 +4495,49 @@ do that.
 > would enter and dwell in that liberation of mind, liberation by
 > wisdom, through which there is no more I-making, mine-making, and
 > underlying tendency to conceit for one who enters and dwells in it.”
+>
+> — <cite>AN 3.32</cite>
 
 </div>
 
-> – AN 3.32
-
-Stilling of *sankhāras* equates to samadhi, so practically, how would
-you then convey what *sankhāras* are? It’s an important term, so how can
-you make it not so abstract? Most translations we find are not very
+Stilling of <span lang="pi">*sankhāras*</span> equates to samadhi, so
+practically, how would you then convey what
+<span lang="pi">*sankhāras*</span> are? It’s an important term, so how
+can you make it not so abstract? Most translations we find are not very
 practical, for example, when it’s translated as ‘determinations’, you
 might ask yourself: “How do I calm determinations? Do I just refrain
 from determining anything? How am I even determining things, etc.” There
 are some even more ambiguous translations such as ‘mental formations’ or
 ‘energies’, etc. But if we look at what is common to
-body-*kāya-sankhāras*, speech-*vacī-sankhāras* or mind-citta- or
+body-<span lang="pi">*kāya-sankhāras*</span>,
+speech-<span lang="pi">*vacī-sankhāras*</span> or mind-citta- or
 mano-sankhāras, what we find is that those things are movements,
 intentions, directions, pressures, forms of ‘activities/activations’ in
 the broadest sense of the term.
 
-So how to be free from *sankhāras*? How to still all activities? It’s
-not just about not doing anything to be free from *sankhāras* because
-abstaining from doing is your doing, that is also an activity. It’s
-about seeing the relationship between wholesome activities and not going
-into unwholesome activities, and then fundamentally removing a
-particular aspect from activities - the activity of ownership, which is
-the root of all problems, and that’s exactly what the gradual training
-is all about. The first few steps- (1) keeping the precepts and (2)
-guarding the senses doors, are for the reducing of unwholesome
-activities; (3) Moderate in eating and (4) watchfulness - the activities
-that you do carefully; (5) Seclusion - not distracting yourself with
-work, talk, or company, i.e. moderating activities that you don’t have
-to do unless they are necessary. You are still active in seclusion, you
-move around, you intend, clean, plan, etc, but now the background of
-those activities can become more obvious, more discernible because you
-are not distracted by coarser activities and that’s exactly how you can
-begin to discern and still the fundamental activity based on ignorance,
-that of taking things as mine, taking things as belonging to me. The
-Buddha called it “*ahaṅkāra and mamaṅkāra*”- I making and mine making.
+So how to be free from <span lang="pi">*sankhāras*</span>? How to still
+all activities? It’s not just about not doing anything to be free from
+<span lang="pi">*sankhāras*</span> because abstaining from doing is your
+doing, that is also an activity. It’s about seeing the relationship
+between wholesome activities and not going into unwholesome activities,
+and then fundamentally removing a particular aspect from activities -
+the activity of ownership, which is the root of all problems, and that’s
+exactly what the gradual training is all about. The first few steps- (1)
+keeping the precepts and (2) guarding the senses doors, are for the
+reducing of unwholesome activities; (3) Moderate in eating and (4)
+watchfulness - the activities that you do carefully; (5) Seclusion - not
+distracting yourself with work, talk, or company, i.e. moderating
+activities that you don’t have to do unless they are necessary. You are
+still active in seclusion, you move around, you intend, clean, plan,
+etc, but now the background of those activities can become more obvious,
+more discernible because you are not distracted by coarser activities
+and that’s exactly how you can begin to discern and still the
+fundamental activity based on ignorance, that of taking things as mine,
+taking things as belonging to me. The Buddha called it
+“<span lang="pi">*ahaṅkāra and mamaṅkāra*</span>”- I making and mine
+making.
 
-<div class="english">
+<div lang="en">
 
 > “When, Sāriputta, a bhikkhu has no I-making, mine-making, and
 > underlying tendency to conceit in regard to this conscious body; when
@@ -4502,36 +4547,38 @@ Buddha called it “*ahaṅkāra and mamaṅkāra*”- I making and mine making.
 > there is no more I-making, mine-making, and underlying tendency to
 > conceit for one who enters and dwells in it, he is called a bhikkhu
 > who has cut off craving, stripped off the fetter, and, by completely
-> breaking through conceit, has made an end of suffering….”
+> breaking through conceit, has made an end of suffering…”
+>
+> — <cite>AN 3.33</cite>
 
 </div>
 
-> – AN 3.33
-
 ‘Mine-making’ is not ‘I chose to make this mine’, it’s on the level of
 being conscious towards things as if they are yours, including your
-‘self’, so it is of course a subtle *sankhāra*, but if you have been
-practising the gradual training, it will be the most obvious thing. You
-take things as ‘mine’, that’s why ‘you’ are, it’s not the other way
-round. The activities, paired with ignorance, are there and that’s why
-you have a sense of self which you take as your own. Usually one thinks:
-‘I am first’, ‘I am active’, ‘I am inactive’, “I am” equals things that
-are mine or not- mine. However, ‘Things are assumed to be yours first’
-and that’s already an activity, an assumption which assumes ‘I am’.
-Activities are already there and you are already taking them implicitly
-as ‘towards you’, ‘for you’, and that’s why you have a sense of self.
-That sense of self, which is real as such, is dependent on that
-assumption of “for me” or “this is mine”, thus it is not-MY-self.
+‘self’, so it is of course a subtle <span lang="pi">*sankhāra*</span>,
+but if you have been practising the gradual training, it will be the
+most obvious thing. You take things as ‘mine’, that’s why ‘you’ are,
+it’s not the other way round. The activities, paired with ignorance, are
+there and that’s why you have a sense of self which you take as your
+own. Usually one thinks: ‘I am first’, ‘I am active’, ‘I am inactive’,
+“I am” equals things that are mine or not- mine. However, ‘Things are
+assumed to be yours first’ and that’s already an activity, an assumption
+which assumes ‘I am’. Activities are already there and you are already
+taking them implicitly as ‘towards you’, ‘for you’, and that’s why you
+have a sense of self. That sense of self, which is real as such, is
+dependent on that assumption of “for me” or “this is mine”, thus it is
+not-MY-self.
 
 The removal of that assumption of ownership in regard to the activities,
 that you can only discern on account of withdrawing yourself from every
 single unwholesome activity of body, speech and mind, i.e. the gradual
 training, is peaceful, is sublime, is the stilling of all activities,
 the relinquishing of all acquisitions, the destruction of craving,
-dispassion, cessation, *nibbāna*. When there is no *avijja* in regard to
-*sankhāras*, then sankhāras cease and the activities that are left are
-the activities on account of this conscious body and all external
-significances/things.
+dispassion, cessation, <span lang="pi">*nibbāna*</span>. When there is
+no <span lang="pi">*avijja*</span> in regard to
+<span lang="pi">*sankhāras*</span>, then sankhāras cease and the
+activities that are left are the activities on account of this conscious
+body and all external significances/things.
 
 </div>
 
@@ -4539,25 +4586,29 @@ significances/things.
 
 ## 235hh- Escape From The Body
 
-<u>\*\*Right order, and non-delight in masculinity/femininity\*\*</u>
+<u>**Right order, and non-delight in masculinity/femininity**</u>
 
-::: {.english} \> “Bhikkhus, I will teach you a Dhamma exposition on
-union and \> disengagement…A man, bhikkhus, attends internally to his
-masculine \> faculty, his masculine comportment, his masculine
-appearance, his \> masculine aspect, his masculine desire, his masculine
-voice, his \> masculine ornamentation. He becomes excited by these and
-takes delight \> in them. Excited by them, taking delight in them, he
-attends \> externally to \[a woman’s\] feminine faculty, her feminine \>
-comportment, her feminine appearance, her feminine aspect, her \>
-feminine desire, her feminine voice, her feminine ornamentation. He \>
-becomes excited by these and takes delight in them. Excited by them, \>
-taking delight in them, he desires union externally, and he also \>
-desires the pleasure and joy that arise on account of such union. \>
-Beings who are delighted with their masculinity enter upon union with \>
-women. It is in this way that a man does not transcend his \>
-masculinity. This is how union comes about.” ::: {.english}
+<div lang="en">
 
-> – [AN 7.51](https://suttacentral.net/an7.51)
+> “Bhikkhus, I will teach you a Dhamma exposition on union and
+> disengagement…A man, bhikkhus, attends internally to his masculine
+> faculty, his masculine comportment, his masculine appearance, his
+> masculine aspect, his masculine desire, his masculine voice, his
+> masculine ornamentation. He becomes excited by these and takes delight
+> in them. Excited by them, taking delight in them, he attends
+> externally to \[a woman’s\] feminine faculty, her feminine
+> comportment, her feminine appearance, her feminine aspect, her
+> feminine desire, her feminine voice, her feminine ornamentation. He
+> becomes excited by these and takes delight in them. Excited by them,
+> taking delight in them, he desires union externally, and he also
+> desires the pleasure and joy that arise on account of such union.
+> Beings who are delighted with their masculinity enter upon union with
+> women. It is in this way that a man does not transcend his
+> masculinity. This is how union comes about.”
+>
+> — <cite>[AN 7.51](https://suttacentral.net/an7.51)</cite>
+
+</div>
 
 **Ajahn Nyanamoli:** The first thing you would notice there is that it
 is not about denying masculinity or femininity. It is about not
@@ -4601,14 +4652,15 @@ In other words, your senses, your body, masculinity, or femininity; is
 invisible to you, because you have been carelessly cultivating actions
 towards that pleasure *out there*, which is also factual but is actually
 secondary to the pressure of the body, sense objects are secondary to
-the existence of the *patigha* (resistance-pressure) of your senses. The
-only reason you don’t see that is because you keep assuming. You keep
-holding the view that *that* \[out there\] is first, and this \[body
-here\] is second. So \[in the eyes of the assumption\] this \[I\] gets
-attracted to *that* \[out there\] because of that \[out there.\] Thus,
-whatever is *here* is seen as second, and as insufficient. That is why
-you are not developed in regard to the body because you assume the wrong
-order, and the wrong order prevents the development.
+the existence of the <span lang="pi">*patigha*</span>
+(resistance-pressure) of your senses. The only reason you don’t see that
+is because you keep assuming. You keep holding the view that *that*
+\[out there\] is first, and this \[body here\] is second. So \[in the
+eyes of the assumption\] this \[I\] gets attracted to *that* \[out
+there\] because of that \[out there.\] Thus, whatever is *here* is seen
+as second, and as insufficient. That is why you are not developed in
+regard to the body because you assume the wrong order, and the wrong
+order prevents the development.
 
 But if you see: “Well, it doesn’t matter how far out I reach and seek,
 the experience is bound within the framework of these senses. The only
@@ -4626,7 +4678,7 @@ response to the impulse. For as long as you keep that picture perverted,
 there is no development, there is no uprooting of sensuality, and there
 is no abandoning of masculinity or femininity.
 
-<div class="english">
+<div lang="en">
 
 > “And at that time Venerable Vaṅgīsa became dissatisfied, as lust
 > infected his mind. Then he addressed Ānanda in verse:”I am burning
@@ -4641,11 +4693,11 @@ is no abandoning of masculinity or femininity.
 > While recollecting the body, be disenchanted. Develop clarity in
 > regard to the signless, give up the underlying tendency to conceit;
 > and when you comprehend conceit, you will live at peace.”
+>
+> — <cite>[SN
+> 8.4](https://suttacentral.net/sn8.4/en/sujato?layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)</cite>
 
 </div>
-
-> [SN
-> 8.4](https://suttacentral.net/sn8.4/en/sujato?layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)
 
 **Nm:** Perversion of the order, means literally, putting that which is
 second as first.
@@ -4666,7 +4718,7 @@ and terror. Your assumption is of the external world, and suddenly you
 see that it doesn’t matter the extent of the universe you travel, it’s
 within this body as the Buddha would say:
 
-<div class="english">
+<div lang="en">
 
 > Once I was a seer named Rohitassa, a student of Bhoja, a powerful
 > sky-walker. My speed was as fast as that of a strong
@@ -4693,11 +4745,11 @@ within this body as the Buddha would say:
 > intellect, that I declare that there is the world, the origination of
 > the world, the cessation of the world, and the path of practice
 > leading to the cessation of the world.”
+>
+> — <cite>[AN
+> 4.45](https://suttacentral.net/an4.45/en/thanissaro?reference=none&highlight=false)</cite>
 
 </div>
-
-> – [AN
-> 4.45](https://suttacentral.net/an4.45/en/thanissaro?reference=none&highlight=false)
 
 When you actually take that in a realistic sense it is quite frightening
 for a mind that is not developed, for a mind that is still dependent on
@@ -4711,7 +4763,7 @@ misconceiving, that misconception “exists” as such. That’s why the
 Buddha said the form “finds footing” in existence, through
 misconceiving:
 
-<div class="english">
+<div lang="en">
 
 > “Mendicant, this is not how the question should be asked:”Sir, where
 > do these four primary elements cease without anything left over,
@@ -4719,20 +4771,20 @@ misconceiving:
 >
 > This is how the question should be asked: “Where do water and earth,
 > fire and air find no footing?”
+>
+> — <cite>DN 11</cite>
 
 </div>
 
-> – DN 11
-
 So it exists then as external, although it can’t - by not knowing that
 that is how it exists for you. That’s the fundamental perversion of the
-order. Sensuality is that, *bhava* is that. So seeing that your senses
-come first - (and you can only see that if you have not been acting out
-of them if you have been withdrawn from that pressuring addiction of
-scratching the itch by external means) - when you see that, you start
-seeing that there is no outside of this, and even your thoughts of
-“outside”- it’s not that you stop having them, you just see them
-correctly, as “within this.”
+order. Sensuality is that, <span lang="pi">*bhava*</span> is that. So
+seeing that your senses come first - (and you can only see that if you
+have not been acting out of them if you have been withdrawn from that
+pressuring addiction of scratching the itch by external means) - when
+you see that, you start seeing that there is no outside of this, and
+even your thoughts of “outside”- it’s not that you stop having them, you
+just see them correctly, as “within this.”
 
 So the clearer that becomes, the lesser the perversion you are living on
 a day-to-day basis, so to speak. Up to the point where the perversion
@@ -4740,16 +4792,17 @@ would become completely eradicated - doesn’t matter what you see, hear,
 smell, taste, touch, or think, you cannot fall back into the assumption
 of the wrong order, because the right order has been thoroughly
 understood, such that the perversion can’t take place any more. And
-that’s when you know you’re free from *kamabhava*, from sensual craving
-and sensual being. The pleasure of the external kind was not the
-sensuality, it was because of the perversion of the order that the
-sensuality was there.
+that’s when you know you’re free from
+<span lang="pi">*kamabhava*</span>, from sensual craving and sensual
+being. The pleasure of the external kind was not the sensuality, it was
+because of the perversion of the order that the sensuality was there.
 
-That’s exactly what that sutta (AN 7.51) describes - through not being
-developed in regard to what comes first - for a man it’s the masculine
-framework of the body and the senses; for a woman, it’s the feminine
-framework of the body and the senses - you start spilling outside,
-assuming outside, becoming even more dependent on the outside.
+That’s exactly what that sutta (<cite>AN 7.51</cite>) describes -
+through not being developed in regard to what comes first - for a man
+it’s the masculine framework of the body and the senses; for a woman,
+it’s the feminine framework of the body and the senses - you start
+spilling outside, assuming outside, becoming even more dependent on the
+outside.
 
 **Q:** “Not being developed” means…?
 
@@ -4760,8 +4813,8 @@ Or, having been keeping the precepts as a means of external duty, not as
 a means of direct development of your mind by not acting out of the
 pressure of the current sense. All of that is “not being developed in
 regard to your own masculinity or femininity.” It means taking up the
-ownership of that, not being able to see it as impersonal, as *anicca*,
-as *‘other’*
+ownership of that, not being able to see it as impersonal, as
+<span lang="pi">*anicca*</span>, as ‘*other*’.
 
 **Q:** So he gives in, and delights in his masculine pressure.
 
@@ -4799,7 +4852,8 @@ then that whole perverted order on account of taking up the pressure as
 mine would have faded or would have diminished sufficiently for you to
 see that it has diminished.
 
-<u>**Correct practice of Asubha vs *sīlabbataparāmāso***</u>
+<u>**Correct practice of <span lang="pi">*Asubha*</span> vs
+<span lang="pi">*sīlabbataparāmāso*</span>**</u>
 
 **Q:** There is an idea that one practices in such a way: “I have lust
 for a woman. So now I must contemplate the disgusting nature of a
@@ -4814,46 +4868,50 @@ non-lust - I do that. Either way, I will try to not be aware of myself
 because it’s too unpleasant.” So when the mind of lust is there, that
 needs to be endured.
 
-If you are jumping into the practice of *“asubha”* immediately, you are
-acting out of it. You are not allowing it to be for what it is - the
-phenomenon of lust, mind affected by lust - you’re just trying to get
-rid of it. Which is exactly the motion of sensuality - when lust is
-present you immediately jump into the sensuality to get rid of that
-painful itch. So now you learn that this is bad, and now you go “when
-lust is present what do I do?” And you jump into acting out \[in another
-way\] *still to get rid of that painful itch*.
+If you are jumping into the practice of
+“<span lang="pi">*asubha*</span>” immediately, you are acting out of it.
+You are not allowing it to be for what it is - the phenomenon of lust,
+mind affected by lust - you’re just trying to get rid of it. Which is
+exactly the motion of sensuality - when lust is present you immediately
+jump into the sensuality to get rid of that painful itch. So now you
+learn that this is bad, and now you go “when lust is present what do I
+do?” And you jump into acting out \[in another way\] *still to get rid
+of that painful itch*.
 
 Those are the two extremes that people end up going towards, by not
 understanding the middle way: either scratch the itch or try to deny the
-itch. People’s practice of *asubha* often falls on the level of just
-trying to deny the itch. That is not *asubha*, it is not uprooting of
-the lust, it’s just managing it. It is not even good management, because
-it will come back, and the *“asubha”* will lose effectiveness the more
-you do it rooted in wrong reasons.
+itch. People’s practice of <span lang="pi">*asubha*</span> often falls
+on the level of just trying to deny the itch. That is not
+<span lang="pi">*asubha*</span>, it is not uprooting of the lust, it’s
+just managing it. It is not even good management, because it will come
+back, and the “<span lang="pi">*asubha*</span>” will lose effectiveness
+the more you do it rooted in wrong reasons.
 
 So the mind of lust is present; then the first thing you know is “okay,
-I should not act out of this. But I should do *asubha* - when the mind
-of lust is NOT present.” Otherwise, your practice of *asubha* is rooted
-in lust, trying to deny the lust. And why would you try to deny the
-lust? Because you don’t want to endure it. The first step of patient
-endurance is what you do not even want to do. So all the subsequent
-steps are based on *sīlabbataparāmāso* - avoiding responsibility for the
-first step of patiently enduring it, not trying to get rid of it.
+I should not act out of this. But I should do
+<span lang="pi">*asubha*</span> - when the mind of lust is NOT present.”
+Otherwise, your practice of <span lang="pi">*asubha*</span> is rooted in
+lust, trying to deny the lust. And why would you try to deny the lust?
+Because you don’t want to endure it. The first step of patient endurance
+is what you do not even want to do. So all the subsequent steps are
+based on <span lang="pi">*sīlabbataparāmāso*</span> - avoiding
+responsibility for the first step of patiently enduring it, not trying
+to get rid of it.
 
-<div class="english">
+<div lang="en">
 
-> “Patient endurance is the ultimate austerity.\\ Nibbana is the
-> ultimate, say the Buddhas.\\ No true renunciate is violent or hostile
-> to an other”
+> “Patient endurance is the ultimate austerity.  
+> Nibbana is the ultimate, say the Buddhas.  
+> No true renunciate is violent or hostile to an other”
+>
+> — <cite>[Dhp
+> 184](https://suttacentral.net/dhp179-196/en/sujato?layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)</cite>
 
 </div>
 
-> – [Dhp
-> 184](https://suttacentral.net/dhp179-196/en/sujato?layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)
-
 **Q:** Again, you have the underlying tendency towards lust, whereas
 lust is not exactly active now but one can still see that one is liable
-to lust. So now I can contemplate *asubha*.
+to lust. So now I can contemplate <span lang="pi">*asubha*</span>.
 
 **Nm:** Exactly, so there is no “mind of lust” actively present, but if
 I ask “am I free from lust? Well…” So now you should contemplate and try
@@ -4867,10 +4925,11 @@ Q: Properly established means “being able to patiently endure.”
 
 Nm: To have not acted out of it, so that you are not gripped by lust.
 And in that frame of mind, you can contemplate - contemplate the
-*asubha*, contemplate the danger, all of these things. Then when the
-‘activated’ lust comes back, you wouldn’t need to be asking “oh, what do
-I do now?” Because if you had sufficiently contemplated the nature of
-that which is lustful, it will be implicit in that lust.
+<span lang="pi">*asubha*</span>, contemplate the danger, all of these
+things. Then when the ‘activated’ lust comes back, you wouldn’t need to
+be asking “oh, what do I do now?” Because if you had sufficiently
+contemplated the nature of that which is lustful, it will be implicit in
+that lust.
 
 So that which was lustful comes now with an even richer background of
 “unattractive” because that is what you have been cultivating. It’s
@@ -4897,7 +4956,7 @@ will be included in that - as long as it is not done based on lust and
 trying to avoid the endurance of a mind of lust or any other unwholesome
 hindrance.
 
-<div class="english">
+<div lang="en">
 
 > “And how does disengagement come about? A man, bhikkhus, does not
 > attend internally to his masculine faculty … his masculine
@@ -4911,10 +4970,10 @@ hindrance.
 > their masculinity become disengaged from women. It is in this way that
 > a man transcends his masculinity.”This is how disengagement comes
 > about.”
+>
+> — <cite>[AN 7.51](https://suttacentral.net/an7.51)</cite>
 
 </div>
-
-> – [AN 7.51](https://suttacentral.net/an7.51)
 
 **Nm:** “not delighting” is about not taking it for granted. The
 pressure, the possibilities of pleasure that your masculine form offers
@@ -4940,21 +4999,23 @@ towards external pleasures, start practicing sense restraint, endure
 your senses and their own patigha, endure the pressure, and try to see
 it as impersonal as possible.
 
-Then if you become more accustomed to this, (which is what *samadhi* is,
-basically - being unmoved, by having sufficiently endured it)- that is,
-more accustomed to the interior of your senses (which is all you ever
-had, there is no “exterior” to your own experience, it’s a contradiction
-in terms) then, being accustomed to this, stop resisting it, you can see
-it as simply “a thing there.”
+Then if you become more accustomed to this, (which is what
+<span lang="pi">*samadhi*</span> is, basically - being unmoved, by
+having sufficiently endured it)- that is, more accustomed to the
+interior of your senses (which is all you ever had, there is no
+“exterior” to your own experience, it’s a contradiction in terms) then,
+being accustomed to this, stop resisting it, you can see it as simply “a
+thing there.”
 
 So it doesn’t mean “I need to become feminine in order to overcome my
 masculinity” or vice versa, no - that’s just you acting out of whatever
 you have, trying to deny it with the opposite. All you need to do is
 stop taking it for granted and stop assuming ownership of it.
 
-<u>**Opening amidst confinement and practice of *jhana***</u>
+<u>**Opening amidst confinement and practice of
+<span lang="pi">*jhana*</span>**</u>
 
-<div class="english">
+<div lang="en">
 
 > “This was said, friend, by the young deva Pañcālacaṇḍa:\\”‘The sage,
 > the withdrawn chief bull, the Buddha who has understood jhāna, the One
@@ -4972,59 +5033,65 @@ stop taking it for granted and stop assuming ownership of it.
 > Now, take a mendicant who, quite secluded from sensual pleasures …
 > enters and remains in the first jhana. To this extent the Buddha spoke
 > of creating an opening amid confinement in a qualified sense….”
+>
+> — <cite>[AN 9.42](https://suttacentral.net/an9.42)</cite>
 
 </div>
-
-> – [AN 9.42](https://suttacentral.net/an9.42)
 
 **Nm:** The opening is not finding another direction apart from the
 senses, or denial of the senses. The “opening amidst confinement” is the
 removal of the ownership of that which confines you. Complete
-non-appropriation - which begins with the first *jhana*.
+non-appropriation - which begins with the first
+<span lang="pi">*jhana*</span>.
 
 So it’s not like you find the opening in the aggregates by which you can
 sort of “slip out” of samsara. No, you *are* confined by everything that
-appears. *Nama-rupa paccaya vinnana. Vinnana paccaya nama-rupa* - that
-is the ultimate confinement. So what is, then, the “opening” amidst
-that, the opening within already being fully buried alive - it is the
-removal of the ownership of that situation in its entirety. That’s why
-in the first *jhana* there is no sense of “I am” as in “I am entering
-the first *jhana*”. It’s not that there is no sense of the five senses -
-there is, but there’s no ownership of it. There are \[thoughts and
-thinking\]{.underline}, but the traces of ownership have been completely
-removed on every level. Thus, nobody is confined; there is no
-confinement anymore. For something to be confined, you need that which
-confines and that one which is confined, the assumed sense of self.
-Complete removal of that ownership and conceit is the subtlest of the
-openings, so to speak, amidst everything that confines.
+appears. <span lang="pi">*Nama-rupa paccaya vinnana. Vinnana paccaya
+nama-rupa*</span> - that is the ultimate confinement. So what is, then,
+the “opening” amidst that, the opening within already being fully buried
+alive - it is the removal of the ownership of that situation in its
+entirety. That’s why in the first <span lang="pi">*jhana*</span> there
+is no sense of “I am” as in “I am entering the first
+<span lang="pi">*jhana*</span>”. It’s not that there is no sense of the
+five senses - there is, but there’s no ownership of it. There are
+\[thoughts and thinking\]{.underline}, but the traces of ownership have
+been completely removed on every level. Thus, nobody is confined; there
+is no confinement anymore. For something to be confined, you need that
+which confines and that one which is confined, the assumed sense of
+self. Complete removal of that ownership and conceit is the subtlest of
+the openings, so to speak, amidst everything that confines.
 
-**Q:** That’s why it says that the first *jhana* is an opening, that
-escape - but now, as the sutta continues to state, could one see that
-there is still confinement there?
+**Q:** That’s why it says that the first <span lang="pi">*jhana*</span>
+is an opening, that escape - but now, as the sutta continues to state,
+could one see that there is still confinement there?
 
 **Nm:** Yes, but now it is getting abstract. If a person develops the
-first *jhana* they will understand what is the true *okāsā* (opening)
-among *sambādhe* (confinement) then the principle of other *jhanas* will
-become apparent. But if somebody tries to understand this \[on an
-abstract level\] “This opening and this confinement, then this further
-opening and this confinement” - none of that will become applicable.
+first <span lang="pi">*jhana*</span> they will understand what is the
+true <span lang="pi">*okāsā*</span> (opening) among
+<span lang="pi">*sambādhe*</span> (confinement) then the principle of
+other <span lang="pi">*jhanas*</span> will become apparent. But if
+somebody tries to understand this \[on an abstract level\] “This opening
+and this confinement, then this further opening and this confinement” -
+none of that will become applicable.
 
 The opening, the escape, from that which confines, is the removal,
 uprooting, and fading away of ownership and conceit in regard to the
 senses and their pleasure that you have been depending on. That’s why
-the first *jhana* is enough for arahantship. If you establish your mind
-upon that first escape and spend a sufficient amount of time in it, you
-will have uprooted any lust towards anything that was confining you
-before. But yes, theoretically speaking, one who is established in the
-first jhana can start thinking about whether there is a more refined
-opening or escape in regard to this. From the point of view of the
-second *jhana*, the first is very coarse; from the point of view of the
-third *jhana*, the second is very coarse, and so on.
+the first <span lang="pi">*jhana*</span> is enough for arahantship. If
+you establish your mind upon that first escape and spend a sufficient
+amount of time in it, you will have uprooted any lust towards anything
+that was confining you before. But yes, theoretically speaking, one who
+is established in the first jhana can start thinking about whether there
+is a more refined opening or escape in regard to this. From the point of
+view of the second <span lang="pi">*jhana*</span>, the first is very
+coarse; from the point of view of the third
+<span lang="pi">*jhana*</span>, the second is very coarse, and so on.
 
-So you can use that principle to *remove the ownership*. *Jhana* in
-itself does not necessarily bring the full uprooting of the sense of “I
-am” and the sense of “mine.” For that you need wisdom. Theoretically, a
-person could have *jhanas* without having fully uprooted their
+So you can use that principle to *remove the ownership*.
+<span lang="pi">*Jhana*</span> in itself does not necessarily bring the
+full uprooting of the sense of “I am” and the sense of “mine.” For that
+you need wisdom. Theoretically, a person could have
+<span lang="pi">*jhanas*</span> without having fully uprooted their
 underlying tendencies.
 
 **Q:** So here I am with a pressure of the body, and I want to satisfy
@@ -5047,10 +5114,10 @@ become, the more dependent on sensuality you become. That’s why it’s
 important to realize that this needs to be lived on the level of
 enduring the pressure, not acting out of it, and calming your mind
 within it. Withdrawal from the dependence on the pleasure of the assumed
-external kind is the prerequisite for that pleasure of *jhana*, that
-genuine release.
+external kind is the prerequisite for that pleasure of
+<span lang="pi">*jhana*</span>, that genuine release.
 
-<div class="english">
+<div lang="en">
 
 > “As long as these five hindrances are not given up inside themselves,
 > a mendicant regards them as a debt, a disease, a prison, slavery, and
@@ -5069,25 +5136,26 @@ genuine release.
 > states, he enters and dwells in the first jhāna, which is accompanied
 > by thought and thinking and filled with the joy and happiness born of
 > withdrawal…”
+>
+> — <cite>DN 10</cite>
 
 </div>
-
-> – DN 10
 
 Withdrawing from unwholesome, from the wrong order that you have been
 assuming, that is the work, and the release of the right kind will occur
 as a result of it. That’s the true “opening amidst confinement.” But
 people don’t want to deal with the confinement. They don’t want to deal
 with the pressure or endure it - they want a technique that will give
-them an experience of pleasure that they will then take to be *jhana*,
-and then assume that all this work has been done, on account of this
-special meditation pleasure that they had. That is exactly mirroring the
-same principle of the sensuality that you have been acting out of. You
-are still seeking that pleasant thing to be your escape. No - the escape
-is found by not being, not maintaining, the dependence upon the wrong
-order. Then the pleasure of *jhana* will happen:
+them an experience of pleasure that they will then take to be
+<span lang="pi">*jhana*</span>, and then assume that all this work has
+been done, on account of this special meditation pleasure that they had.
+That is exactly mirroring the same principle of the sensuality that you
+have been acting out of. You are still seeking that pleasant thing to be
+your escape. No - the escape is found by not being, not maintaining, the
+dependence upon the wrong order. Then the pleasure of
+<span lang="pi">*jhana*</span> will happen:
 
-<div class="english">
+<div lang="en">
 
 > “Quite withdrawn from sense pleasures, withdrawn from unwholesome
 > states, he enters and dwells in the first jhāna, which is accompanied
@@ -5106,53 +5174,54 @@ problems just falls away, and it’s a magical experience.”
 
 ## 236hh- Desire To End Desire
 
-<div class="english">
+<div lang="en">
 
 > “And what, monks, is the right effort? (1) There is the case where a
 > monk generates desire, endeavors, activates persistence, upholds &
-> exerts his intent for the sake of the \[non-arising of evil,
-> unskillful qualities\]{.underline} that have not yet arisen. (2) He
+> exerts his intent for the sake of the <u>non-arising of evil,
+> unskillful qualities</u> that have not yet arisen. (2) He generates
+> desire, endeavors, activates persistence, upholds & exerts his intent
+> for the sake of the <u>abandonment of evil, unskillful qualities</u>
+> that have arisen. (3) He generates desire, endeavors, activates
+> persistence, upholds & exerts his intent for the sake of the
+> <u>arising of skillful qualities</u> that have not yet arisen. (4) He
 > generates desire, endeavors, activates persistence, upholds & exerts
-> his intent for the sake of the \[abandonment of evil, unskillful
-> qualities\]{.underline} that have arisen. (3) He generates desire,
-> endeavors, activates persistence, upholds & exerts his intent for the
-> sake of the \[arising of skillful qualities\]{.underline} that have
-> not yet arisen. (4) He generates desire, endeavors, activates
-> persistence, upholds & exerts his intent for the maintenance,
-> non-confusion, increase, plenitude, culmination, and \[development of
-> skillful qualities\]{.underline} that have arisen: This, monks, is
-> called right effort.”
+> his intent for the maintenance, non-confusion, increase, plenitude,
+> culmination, and <u>development of skillful qualities</u> that have
+> arisen: This, monks, is called right effort.”
+>
+> — [SN
+> 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)
 
 </div>
 
-> – [SN
-> 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)
+**Q:** What is the difference between desire-
+<span lang="pi">*chanda*</span> and craving-
+<span lang="pi">*tanha*</span>?
 
-**Q:** What is the difference between desire- *chanda* and craving-
-*tanha*?
-
-**Nyanamoli:** The difference is that *chanda*-desire is a form of zeal,
-interest, and it can be either wholesome or unwholesome. If you have a
-desire towards sensuality, that is *kamachanda*-sensual desire, which is
-not a wholesome desire. So then if you want to be free from sensuality
-because you started to understand the dissatisfaction of it, then you
-can have a desire to be free from it, to be free from sensuality and
-sensual desire. It’s still a form of desire that can make you want to
-practice the Dhamma. It’s a desire that can eventually result in freedom
-from sensual desire. *Chanda* is not in itself bad, nor good, it just
-depends on where you direct it. It’s not a question of not having
-desires as you begin to practice. It’s really about having the desires
-that are directed at the development of the wholesome and the
-diminishing of the unwholesome.
+**Nyanamoli:** The difference is that
+<span lang="pi">*chanda*</span>-desire is a form of zeal, interest, and
+it can be either wholesome or unwholesome. If you have a desire towards
+sensuality, that is <span lang="pi">*kamachanda*</span>-sensual desire,
+which is not a wholesome desire. So then if you want to be free from
+sensuality because you started to understand the dissatisfaction of it,
+then you can have a desire to be free from it, to be free from
+sensuality and sensual desire. It’s still a form of desire that can make
+you want to practice the Dhamma. It’s a desire that can eventually
+result in freedom from sensual desire. <span lang="pi">*Chanda*</span>
+is not in itself bad, nor good, it just depends on where you direct it.
+It’s not a question of not having desires as you begin to practice. It’s
+really about having the desires that are directed at the development of
+the wholesome and the diminishing of the unwholesome.
 
 When you are free from any desire towards sensuality and so on, you will
 also lose the desire towards the wholesome because that is now what you
 are. At that point, you don’t need to have a desire to develop the
 wholesome once that wholesome is developed. That’s how desire, directed
 rightly, can result in freedom from desire all together, freedom from
-*chanda* all together.
+<span lang="pi">*chanda*</span> all together.
 
-<div class="english">
+<div lang="en">
 
 > “Then the brahmin Uṇṇābha approached the Venerable Ānanda… and
 > said:”For what purpose, Master Ānanda, is the holy life lived under
@@ -5162,7 +5231,7 @@ rightly, can result in freedom from desire all together, freedom from
 > is lived under the Blessed One.”
 >
 > “But, Master Ānanda, is there a path, is there a way for the
-> abandoning of this desire- *chanda*?”
+> abandoning of this desire- <span lang="pi">*chanda*</span>?”
 >
 > “There is a path, brahmin, there is a way for the abandoning of this
 > desire.”
@@ -5171,11 +5240,11 @@ rightly, can result in freedom from desire all together, freedom from
 > abandoning of this desire?”
 >
 > “Here, brahmin, a bhikkhu develops the basis for potency that
-> possesses composure due to desire- *chanda* and intentions of
-> striving. He develops the basis for potency that possesses composure
-> due to energy … composure due to mind … composure due to investigation
-> and intentions of striving. This, brahmin, is the path, this is the
-> way for the abandoning of this desire.”
+> possesses composure due to desire- <span lang="pi">*chanda*</span> and
+> intentions of striving. He develops the basis for potency that
+> possesses composure due to energy … composure due to mind … composure
+> due to investigation and intentions of striving. This, brahmin, is the
+> path, this is the way for the abandoning of this desire.”
 >
 > “Such being the case, Master Ānanda, the situation is never ending,
 > there is no end. It is impossible that one can abandon desire by means
@@ -5226,15 +5295,15 @@ rightly, can result in freedom from desire all together, freedom from
 >
 > Magni cent, Master Ānanda!… From today let Master Ānanda remember me
 > as a lay follower who has gone for refuge for life.”
+>
+> — <cite>[SN
+> 51.15](https://www.accesstoinsight.org/tipitaka/sn/sn51/sn51.015.than.html)</cite>
 
 </div>
 
-> – [SN
-> 51.15](https://www.accesstoinsight.org/tipitaka/sn/sn51/sn51.015.than.html)
-
 Abandoning unskilful desire is not a matter of choice, it’s a matter of
 directing it towards a certain kind of behaviour, that kind being the
-[*gradual training*,](https://suttacentral.net/mn125) which will then
+[*gradual training*](https://suttacentral.net/mn125), which will then
 remove any basis for perpetuation of unskilful desire later on.
 
 In other words, when you become aware of your illness, you need to have
@@ -5256,15 +5325,16 @@ physical pleasures, of the lustful kind. That’s a desire you should not
 cultivate, that’s the desire you should abandon, not welcome, not
 entertain, endure until it passes without acting out of it.
 
-An *anagami,* who is free from sensual desire, is not free from
-*chanda*. He’s free from desire towards the sense objects of pleasures.
-In other words, freedom from sensuality doesn’t mean absence of *chanda*
-of any kind, it means loss of interest and zeal for the sensual type of
+An <span lang="pi">*anagami*</span>, who is free from sensual desire, is
+not free from <span lang="pi">*chanda*</span>. He’s free from desire
+towards the sense objects of pleasures. In other words, freedom from
+sensuality doesn’t mean absence of <span lang="pi">*chanda*</span> of
+any kind, it means loss of interest and zeal for the sensual type of
 pleasure. Why? Because the gratification has been fully understood, the
 danger has been fully understood and the escape has been fully
 understood.
 
-<div class="english">
+<div lang="en">
 
 > “That any brahmins or contemplatives who do not discern, as it
 > actually is, the gratification of sensuality as gratification, the
@@ -5278,17 +5348,18 @@ understood.
 > sensuality or would rouse another with the truth so that, in line with
 > what he has practiced, he would understand sensuality: That is
 > possible.”
+>
+> — <cite>[MN
+> 13](https://www.accesstoinsight.org/tipitaka/mn/mn.013.than.html)</cite>
 
 </div>
 
-> – [MN
-> 13](https://www.accesstoinsight.org/tipitaka/mn/mn.013.than.html)
-
-It’s not that an *anagami* or an *arahant* have no concept anymore of
-what physical pleasure would feel like, it’s that they have no interest
-in it anymore on the level of the mind, intent or thought. They’re
-absolutely free from any zeal that a person not free from sensuality
-would otherwise have. An untrained person who has a sensual thought, is
+It’s not that an <span lang="pi">*anagami*</span> or an
+<span lang="pi">*arahant*</span> have no concept anymore of what
+physical pleasure would feel like, it’s that they have no interest in it
+anymore on the level of the mind, intent or thought. They’re absolutely
+free from any zeal that a person not free from sensuality would
+otherwise have. An untrained person who has a sensual thought, is
 immediately pressured to act out of that thought and pursue sensual
 pleasures, because there exists an inclination towards it, there is a
 welcoming of that prospect of pleasure, the possibility of
@@ -5311,9 +5382,10 @@ Yet, I’m still attracted.”
 the danger and the escape, you will still value sensuality, which means
 that you should not claim that you understood sensuality. Because if you
 do make such a statement, that means you’re contradicting yourself. If
-you fully understood those three aspects, there would be no *chanda*
-towards sensuality left, there would only be *chanda* towards
-renunciation, towards seclusion, towards further abandonment.
+you fully understood those three aspects, there would be no
+<span lang="pi">*chanda*</span> towards sensuality left, there would
+only be <span lang="pi">*chanda*</span> towards renunciation, towards
+seclusion, towards further abandonment.
 
 A person might think, “Yes, I understand the peril of sensuality”. Okay,
 fine. Ask yourself the next question.
@@ -5339,7 +5411,7 @@ become careless and interested in sensual pursuits again? Well ,
 maybe?”. Well , there you go, you’re not free from doubt in regard to
 it, which means you’re not free from it.
 
-<div class="english">
+<div lang="en">
 
 > “…Then Ānanda said to the nun:
 >
@@ -5358,12 +5430,12 @@ it, which means you’re not free from it.
 > blamelessly and at ease.’ After some time, relying on food, they give
 > up food. That’s why I said what I said.
 >
-> ‘This body is produced by *tanha*-craving. Relying on craving, you
-> should give up craving.’ This is what I said, but why did I say it?
-> Take a mendicant who hears this: ‘They say that the mendicant named
-> so-and-so has realized the undefiled freedom of mind and freedom by
-> wisdom in this very life. And they live having realized it with their
-> own insight due to the ending of defilements.’
+> ‘This body is produced by <span lang="pi">*tanha*</span>-craving.
+> Relying on craving, you should give up craving.’ This is what I said,
+> but why did I say it? Take a mendicant who hears this: ‘They say that
+> the mendicant named so-and-so has realized the undefiled freedom of
+> mind and freedom by wisdom in this very life. And they live having
+> realized it with their own insight due to the ending of defilements.’
 >
 > They think: ‘Oh, when will I too realize the undefiled freedom of mind
 > and freedom by wisdom in this very life. …’ After some time, relying
@@ -5383,17 +5455,18 @@ it, which means you’re not free from it.
 >
 > ‘This body is produced by sex. The Buddha spoke of breaking o
 > everything to do with sex.’”
+>
+> — <cite>[AN 4.159](https://suttacentral.net/an4.159)</cite>
 
 </div>
 
-> – [AN 4.159](https://suttacentral.net/an4.159)
-
-As for *tanha*, it’s subtler than *chanda*. *Tanha* is on a different
-level. *Chanda* is kind of an active quality that you either carelessly
-engage with on account of your past behaviour that hasn’t been
-restrained, or something you can cultivate, as the Buddha would say, “he
-generates desire… for the sake of the non-arising of evil, unskillful
-qualities that have not yet arisen…”.
+As for <span lang="pi">*tanha*</span>, it’s subtler than
+<span lang="pi">*chanda*</span>. <span lang="pi">*Tanha*</span> is on a
+different level. <span lang="pi">*Chanda*</span> is kind of an active
+quality that you either carelessly engage with on account of your past
+behaviour that hasn’t been restrained, or something you can cultivate,
+as the Buddha would say, “he generates desire… for the sake of the
+non-arising of evil, unskillful qualities that have not yet arisen…”.
 
 You can reflect on why it’s good to be cured, why it’s good to make the
 effort towards abandoning the unwholesome and cultivating the wholesome,
@@ -5401,8 +5474,8 @@ why it’s good to practice the gradual training, why it’s good to be
 virtuous and sense restraint, and because of those reflections you will
 be generating a desire to develop those practices.
 
-*Tanha* is more on an immediate level of your attitude towards your
-present enduring feeling, whatever it is.
+<span lang="pi">*Tanha*</span> is more on an immediate level of your
+attitude towards your present enduring feeling, whatever it is.
 
 That attitude is always rooted in *resistance*. If there is craving for
 pleasure, that is rooted in you resisting the current feeling, which is
@@ -5412,14 +5485,15 @@ means, it’s painful.
 
 Any resistance is painful, and with the mind of resistance, if you
 experience pleasure, you will by default be resisting it, because by
-default, you want more of it. With the mind not free from *tanha*, when
-you experience pain, by default you’re resisting it, because you don’t
-want any of it. You want it to completely go away. With the mind not
-free from *tanha*, when you experience a neutral feeling, you will
-automatically resist it, you will incline towards oblivion, towards
-ignoring it, towards turning away from it, because you don’t understand
-it. *Tanha,* practically speaking, is always that resistance on the
-level of what you’re currently feeling.
+default, you want more of it. With the mind not free from
+<span lang="pi">*tanha*</span>, when you experience pain, by default
+you’re resisting it, because you don’t want any of it. You want it to
+completely go away. With the mind not free from
+<span lang="pi">*tanha*</span>, when you experience a neutral feeling,
+you will automatically resist it, you will incline towards oblivion,
+towards ignoring it, towards turning away from it, because you don’t
+understand it. <span lang="pi">*Tanha*</span>, practically speaking, is
+always that resistance on the level of what you’re currently feeling.
 
 **Q:** Even if you’re feeling pleasure, you’re still resisting it. It’s
 not good enough for you.
@@ -5427,18 +5501,21 @@ not good enough for you.
 **Nm:** Absolutely. That’s why if you’re not free from craving, every
 pleasure will be underlined by craving for more. With the presence of
 resistance, there is the presence of dissatisfaction, presence of
-*tanha* means *dukkha* is there, presence of *dukkha* means *tanha* is
-there.
+<span lang="pi">*tanha*</span> means <span lang="pi">*dukkha*</span> is
+there, presence of <span lang="pi">*dukkha*</span> means
+<span lang="pi">*tanha*</span> is there.
 
-If *tanha* is still present, that means that there is still resistance
-to whatever feeling is there for you at the time, and that’s why you
-suffer, not because of what is felt but because of that resistance. And
-why would you be resisting? Why is it that you’re not content with an
-agreeable feeling that is present? Why is it, that by default, the mind
-wants more of it? It’s because of the wrong view in regard to what
-pleasure is, what sensuality is, what gratification is. Sensuality is a
-form of *upadana*, an assumption, it’s a view, it’s basically the values
-that you uphold throughout your day to day existence.
+If <span lang="pi">*tanha*</span> is still present, that means that
+there is still resistance to whatever feeling is there for you at the
+time, and that’s why you suffer, not because of what is felt but because
+of that resistance. And why would you be resisting? Why is it that
+you’re not content with an agreeable feeling that is present? Why is it,
+that by default, the mind wants more of it? It’s because of the wrong
+view in regard to what pleasure is, what sensuality is, what
+gratification is. Sensuality is a form of
+<span lang="pi">*upadana*</span>, an assumption, it’s a view, it’s
+basically the values that you uphold throughout your day to day
+existence.
 
 Sensual desire is felt unpleasantly and that’s why you want to gratify
 your senses, because non-gratified senses hurt. However, your resistance
@@ -5461,11 +5538,14 @@ The habit of resistance (craving) perpetuates the sensuality view that
 non-gratified senses cause suffering and gratified senses means freedom
 from suffering.
 
-*Tanha* feeds *kāmupādāna-* the assumption of sense desire, and the
-*kāmupādāna* feeds *tanha*, that’s why it’s beginningless. It’s a
+<span lang="pi">*Tanha*</span> feeds
+<span lang="pi">*kāmupādāna*</span>- the assumption of sense desire, and
+the <span lang="pi">*kāmupādāna*</span> feeds
+<span lang="pi">*tanha*</span>, that’s why it’s beginningless. It’s a
 vicious circle, it has no beginning. It’s not that you were pure, then
-you develop *tanha*, and then you develop *upadana*. No, you start
-already infected, perverted, mistaken, confused, assumed.
+you develop <span lang="pi">*tanha*</span>, and then you develop
+<span lang="pi">*upadana*</span>. No, you start already infected,
+perverted, mistaken, confused, assumed.
 
 Corruption is beginningless. And that’s why if you understand it, if you
 uproot the gratuitous assumption or the craving, both will be uprooted
@@ -5473,7 +5553,7 @@ and cannot revert back. The uprooting is irreversible.
 
 Ignorance:
 
-<div class="english">
+<div lang="en">
 
 > “Bhikkhus, this is said: ’A first point of ignorance, bhikkhus, is not
 > seen such that before this there was no ignorance and afterward it
@@ -5496,24 +5576,26 @@ Ignorance:
 > comprehension?
 >
 > It should be said: “attention without the right perspective”-
-> *ayonisomanasikara*.
+> <span lang="pi">*ayonisomanasikara*</span>.
 >
-> *Ayonisomanasikara*, too, I say, has a nutriment; it is not without
-> nutriment. And what is the nutriment for *ayonisomanasikara*? It
-> should be said: lack of faith. Lack of faith, too, I say, has a
+> <span lang="pi">*Ayonisomanasikara*</span>, too, I say, has a
 > nutriment; it is not without nutriment. And what is the nutriment for
-> lack of faith? It should be said: not hearing the good Dhamma. Not
-> hearing the good Dhamma, too, I say, has a nutriment; it is not
-> without nutriment. And what is the nutriment for not hearing the good
-> Dhamma? It should be said: not associating with good people.
+> <span lang="pi">*ayonisomanasikara*</span>? It should be said: lack of
+> faith. Lack of faith, too, I say, has a nutriment; it is not without
+> nutriment. And what is the nutriment for lack of faith? It should be
+> said: not hearing the good Dhamma. Not hearing the good Dhamma, too, I
+> say, has a nutriment; it is not without nutriment. And what is the
+> nutriment for not hearing the good Dhamma? It should be said: not
+> associating with good people.
+>
+> — <cite>[AN
+> 10.61](https://www.dhammatalks.org/suttas/AN/AN10_61.html)</cite>
 
 </div>
 
-> – [AN 10.61](https://www.dhammatalks.org/suttas/AN/AN10_61.html)
-
 Craving:
 
-<div class="english">
+<div lang="en">
 
 > “Bhikkhus, it is said: ‘A first point of craving for existence,
 > bhikkhus, is not seen such that before this there was no craving for
@@ -5524,13 +5606,13 @@ Craving:
 > not without nutriment. And what is the nutriment for craving for
 > existence? It should be said: ignorance. Ignorance, too, I say, has a
 > nutriment; it is not without nutriment. And what is the nutriment for
-> ignorance? It should be said: the five hindrances … (as in 10:61) …
-> And what is the nutriment for not hearing the good Dhamma? It should
-> be said: not associating with good people.
+> ignorance? It should be said: the five hindrances … (as in
+> <cite>10:61</cite>) … And what is the nutriment for not hearing the
+> good Dhamma? It should be said: not associating with good people.
+>
+> — <cite>[AN 10.62](https://suttacentral.net/an10.62)</cite>
 
 </div>
-
-> – [AN 10.62](https://suttacentral.net/an10.62)
 
 </div>
 
@@ -5704,7 +5786,7 @@ peripherally, the necessary basis for sense organs as that which is
 first, structurally speaking. If you un-pervert that perception there is
 then no room for lust to breed and expand
 
-<div class="english">
+<div lang="en">
 
 > “…I’ve got a burning desire for pleasure; My mind is on fire! Please,
 > out of compassion, Gotama, tell me how to quench the flames?”
@@ -5717,9 +5799,9 @@ then no room for lust to breed and expand
 > recollection of the body, be full of disenchantment. Contemplate the
 > signless, give up the underlying tendency to conceit; and when you
 > comprehend conceit, you will live at peace.”
+>
+> — <cite>[SN 8.4](https://suttacentral.net/sn8.4)</cite>
 
 </div>
-
-> – [SN 8.4](https://suttacentral.net/sn8.4)
 
 </div>
