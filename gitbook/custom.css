@@ -145,29 +145,21 @@
 /* Custom font settings */
 
 .book.font-family-0 {
-    font-family: "Bookerly", "Noto Serif", "Literata", "Liberation Serif", "DejaVu Serif", "Source Serif Pro", Georgia, serif;
+    font-family: "Noto Serif", "Liberation Serif", "DejaVu Serif", "Source Serif 4", "Source Serif Pro", Garamond, Georgia, "Times New Roman", serif;
 }
 .book.font-family-1 {
-    font-family: "Amazon Ember","Noto Sans", "Liberation Sans", "DejaVu Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Noto Sans", "Liberation Sans", "DejaVu Sans", "Source Sans 3", "Source Sans Pro", Arial, Helvetica, "Helvetica Neue", Tahoma, "Trebuchet MS", Verdana, sans-serif;
 }
 
 /* custom classes */
 
-.pali {
+blockquote:lang(pi) {
   font-weight: 400;
   font-style: italic;
   font-size: 1.2em;
 }
 
-.pali2 {
-  font-weight: 400;
-  font-size: 1em;
-  font-style: italic;
-  margin-top: 0em;
-  margin-bottom: 0em;
-}
-
-.english {
+blockquote:lang(en) {
   font-weight: 400;
   font-style: normal;
   font-size: 1.2em;
