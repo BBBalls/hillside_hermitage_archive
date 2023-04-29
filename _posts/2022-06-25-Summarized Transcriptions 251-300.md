@@ -6,13 +6,13 @@ category: Transcriptions
 layout: post
 ---
 
-<div id="transcript_seven-factors-of-enlightenment.md">
+<div id="transcript_seven_factors_of_enlightenment.md">
 
 ## 256hh- Seven Factors of Enlightenment
 
-Sīlasutta SN 46.3:
+<cite>Sīlasutta SN 46.3</cite>:
 
-<div class="english">
+<div lang="en">
 
 > …Bhikkhus, when a bhikkhu is accomplished in virtue, composure,
 > understanding, freedom, or the knowledge and vision of freedom, even
@@ -28,7 +28,7 @@ Sīlasutta SN 46.3:
 
 **Q:** If you meet someone who has understood the Dhamma, and then you
 contemplate that teaching, do you then have the enlightenment factor of
-*Sati* - recollection?
+<span lang="pi">*Sati*</span> - recollection?
 
 **Ajahn Nyanamoli:** Only if you are thinking about the actual Dhamma.
 In other words, if you understood them correctly, then yes. Thinking
@@ -42,9 +42,12 @@ enlightenment factors, because it’s not on the level of insight.
 
 Before we get into the discussion, what are the enlightenment factors?
 
-Q: Recollection (*sati*), the investigation into dhammas
-(*dhammavicaya*), effort (*viriya*), joy (*pīti*), calm (*passaddhi*),
-composure (*samādhi*), and equanimity (*upekkhā*).
+Q: Recollection (<span lang="pi">*sati*</span>), the investigation into
+dhammas (<span lang="pi">*dhammavicaya*</span>), effort
+(<span lang="pi">*viriya*</span>), joy (<span lang="pi">*pīti*</span>),
+calm (<span lang="pi">*passaddhi*</span>), composure
+(<span lang="pi">*samādhi*</span>), and equanimity
+(<span lang="pi">*upekkhā*</span>).
 
 **Nm:** That’s kind of the problem with most of the things you read in
 the Suttas. It’s been so long since they were taught. And, the only way
@@ -64,11 +67,12 @@ the right view, then go for the second step. It’s not a step-by-step
 arrangement, and neither are the seven enlightenment factors.
 
 One first needs to go and hear a Noble person’s teaching— understand
-what they teach—and become a *sotāpanna*, and have the right view
-developed. Then, based on that correct view and standpoint, think about
-the Dhamma, and when it is recollected, those other enlightenment
-factors will develop. That won’t happen by not having the right view and
-just thinking about the list of enlightenment factors.
+what they teach—and become a <span lang="pi">*sotāpanna*</span>, and
+have the right view developed. Then, based on that correct view and
+standpoint, think about the Dhamma, and when it is recollected, those
+other enlightenment factors will develop. That won’t happen by not
+having the right view and just thinking about the list of enlightenment
+factors.
 
 **Q:** So I shouldn’t think that if I do these seven things, step by
 step, it will lead to enlightenment.
@@ -88,8 +92,8 @@ how much you think about it. If on the other hand, you don’t think about
 them as this methodical list, step by step instructions, but try to
 understand their nature: What is correct recollection; What are the
 correct investigations of phenomena; What is the correct effort; What is
-*samādhi* as an enlightenment factor? and so on, then you can eventually
-start to develop them.
+<span lang="pi">*samādhi*</span> as an enlightenment factor? and so on,
+then you can eventually start to develop them.
 
 There are many things that you need to develop beforehand. All of that
 you can infer from reading the Sutta. So, have you developed all these
@@ -123,30 +127,30 @@ investigating. I feel quite calm. I’m happy and I’m peaceful….thus I am
 doing quite well. Nibbana is just around the corner!”
 
 **Nm:** Yes. That is quite normal, especially due to the whole
-*Abhidhamma*, where the whole Dhamma is presented as just a basic
-collection of lists and a myriad of information and parallels, and so
-on. But none of that is the Dhamma. Dhamma begins with the understanding
-of the principle. If you don’t understand the principle of freedom from
-suffering, as in the Four Noble Truths- as just one principle with four
-aspects (If you fully understand it, you understood the four facets of
-one insight.). Without that, there is no Dhamma, even if you know all of
-the Suttas by heart and have collected a vast amount of information.
-That’s something that people don’t necessarily know because again,
-you’re presented with so much stuff today, and so many different
-opinions. Then you come and read various things, and naturally, try to
-make sense of them. But, you’re not aware that you’re reading into it.
-You’re not transparent enough. You don’t have the right basis. You don’t
-have the Gradual Training developed. So, when you come across this
-information, it’s being misunderstood for *understanding*. And, most
-people’s understanding is just that- a collection of information. They
-have one piece of information and they contrast it with another piece of
-information, and another piece of information, and develop greater
-information, a nice spider diagram. It’s a form of understanding, but
-it’s not a form of understanding that pertains to that individual
-personal level—internally to be known by the wise—as the Buddha says.
-Basically, the one that pertains to freedom from suffering for which no
-amount of information will suffice to free you—only that insight into
-the Four Noble Truths would.
+<span lang="pi">*Abhidhamma*</span>, where the whole Dhamma is presented
+as just a basic collection of lists and a myriad of information and
+parallels, and so on. But none of that is the Dhamma. Dhamma begins with
+the understanding of the principle. If you don’t understand the
+principle of freedom from suffering, as in the Four Noble Truths- as
+just one principle with four aspects (If you fully understand it, you
+understood the four facets of one insight.). Without that, there is no
+Dhamma, even if you know all of the Suttas by heart and have collected a
+vast amount of information. That’s something that people don’t
+necessarily know because again, you’re presented with so much stuff
+today, and so many different opinions. Then you come and read various
+things, and naturally, try to make sense of them. But, you’re not aware
+that you’re reading into it. You’re not transparent enough. You don’t
+have the right basis. You don’t have the Gradual Training developed. So,
+when you come across this information, it’s being misunderstood for
+*understanding*. And, most people’s understanding is just that- a
+collection of information. They have one piece of information and they
+contrast it with another piece of information, and another piece of
+information, and develop greater information, a nice spider diagram.
+It’s a form of understanding, but it’s not a form of understanding that
+pertains to that individual personal level—internally to be known by the
+wise—as the Buddha says. Basically, the one that pertains to freedom
+from suffering for which no amount of information will suffice to free
+you—only that insight into the Four Noble Truths would.
 
 That’s the important thing to realize, if you don’t have the right view,
 your sole goal then is to develop the right view—insight into freedom
@@ -177,40 +181,44 @@ collecting information now. I’m learning about the Suttas. I’m not
 taking anything for granted. I’m taking everything with a pinch of salt
 until I know for myself the way out of suffering.”
 
-Nothing shorter than *sotāpatti* should be a criterion of success. If
-you don’t have that authentic attitude, then whether you have a little
-bit of information or a lot of information, it makes no difference
-because you’re already obscured by yourself, by being ignorant, by not
-having that right attitude that pertains to freedom from suffering as
-the only measure of understanding.
+Nothing shorter than <span lang="pi">*sotāpatti*</span> should be a
+criterion of success. If you don’t have that authentic attitude, then
+whether you have a little bit of information or a lot of information, it
+makes no difference because you’re already obscured by yourself, by
+being ignorant, by not having that right attitude that pertains to
+freedom from suffering as the only measure of understanding.
 
 **Q:** So, I’m now reluctant to even talk about this. To provide further
 information about the enlightenment factors. I’ll just continue:
 
-<div class="english">
+<div lang="en">
 
 > …as they recollect and think about that teaching. At such a time, a
 > bhikkhu is developing the (1) awakening factor of *recollection*; they
 > develop it and perfect it. As they live recollected in this way they
 > investigate, explore, and inquire into that teaching with wisdom. At
 > such a time, a bhikkhu is developing the (2) awakening factor of
-> *investigation into dhammas* they develop and perfect it.
+> *investigation into* <span lang="pi">*dhammas*</span> they develop and
+> perfect it.
 
 </div>
 
 **Nm:** All the enlightenment factors are peripheral and secondary. By
 developing one thing, another thing gets developed in the background.
 When he thinks and ponders about that teaching he understood,
-*dhammavicaya* gets developed. Not - he thinks about *dhammavicaya*,
-that’s how *dhammavicaya* gets developed. He thinks about the Dhamma,
-ponders on Dhamma, or fortifies his understanding of Dhamma, that effort
-is the development of *dhammavicaya*, secondarily.
+<span lang="pi">*dhammavicaya*</span> gets developed. Not - he thinks
+about <span lang="pi">*dhammavicaya*</span>, that’s how
+<span lang="pi">*dhammavicaya*</span> gets developed. He thinks about
+the Dhamma, ponders on Dhamma, or fortifies his understanding of Dhamma,
+that effort is the development of <span lang="pi">*dhammavicaya*</span>,
+secondarily.
 
-<div class="english">
+<div lang="en">
 
-> …As they *investigate dhammas* with wisdom in this way their effort is
-> activated and tireless. At such a time, a bhikkhu is developing the
-> (3) awakening factor of effort; they develop it and perfect it.
+> …As they *investigate* <span lang="pi">*dhammas*</span> with wisdom in
+> this way their effort is activated and tireless. At such a time, a
+> bhikkhu is developing the (3) awakening factor of effort; they develop
+> it and perfect it.
 
 </div>
 
@@ -224,7 +232,7 @@ get through the right view, and the effort you’re putting into
 furthering that understanding, is the enlightenment factor of effort and
 striving.
 
-<div class="english">
+<div lang="en">
 
 > …When they are striving, joy arises. At such a time, a bhikkhu is
 > developing the (4) awakening factor of joy; they develop it and
@@ -239,7 +247,7 @@ the right view. Don’t fall from it. Don’t neglect it. Joy will then
 arise on account of the effort that you invested in following that
 direction.
 
-<div class="english">
+<div lang="en">
 
 > …When the mind is full of joy, the body and mind become calm. At such
 > a time, a bhikkhu is developing the (5) awakening factor of calmness;
@@ -254,39 +262,53 @@ direction.
 
 **Nm:** Again, that’s not something he does directly. It’s done
 indirectly by fulfilling further the understanding of the four noble
-truths. That’s how you will establish the right *samādhi*, by being
-fully committed, directed, and composed in that one right way. That’s
-one-pointedness—not one-pointedness of the tip of your nose, or
-something. It’s one-pointedness of the direction towards freedom from
-suffering—composed in that one direction. That’s the only meaning of the
-*one-way-only* reference in the *satipaṭṭhānas*.
+truths. That’s how you will establish the right
+<span lang="pi">*samādhi*</span>, by being fully committed, directed,
+and composed in that one right way. That’s one-pointedness—not
+one-pointedness of the tip of your nose, or something. It’s
+one-pointedness of the direction towards freedom from suffering—composed
+in that one direction. That’s the only meaning of the *one-way-only*
+reference in the <span lang="pi">*satipaṭṭhānas*</span>.
 
-No right view equals no enlightenment factors, no *samādhi*, no freedom
-from suffering, no understanding, no wisdom, and no equanimity. If you
-think you have this *samādhi*, equanimity, and this joy, without the
+No right view equals no enlightenment factors, no
+<span lang="pi">*samādhi*</span>, no freedom from suffering, no
+understanding, no wisdom, and no equanimity. If you think you have this
+<span lang="pi">*samādhi*</span>, equanimity, and this joy, without the
 right view—knowing that you don’t have a right view—take those
 experiences with a pinch of salt. Recognize that they might not be the
-correct *samādhi* and correct equanimity, because there is no right
-view. It’s not to say, there is no *form* of *samādhi* at all. But, it’s
-important to recognize that there can be wrong *samādhi*—mistaken to be
-the right *samādhi*—and that cannot magically become the right
-*samādhi*.
+correct <span lang="pi">*samādhi*</span> and correct equanimity, because
+there is no right view. It’s not to say, there is no *form* of
+<span lang="pi">*samādhi*</span> at all. But, it’s important to
+recognize that there can be wrong
+<span lang="pi">*samādhi*</span>—mistaken to be the right
+<span lang="pi">*samādhi*</span>—and that cannot magically become the
+right <span lang="pi">*samādhi*</span>.
 
-Sometimes people might think, “Well, you know, I know my *samādhi* is
-not right, but if I keep investing in the effort in it, it will become
-right.” No, right *samādhi* is the result of the right view and
-correctly directed mind. Right *samādhi* is not the result of going
-along with the wrong *samādhi*. That’s already the wrong view. Thinking
-you can directly develop *samādhi* as a form of concentration that would
-then result in some liberation. You develop the right *samādhi* by
-following the right view, which is guided by the right recollection, and
-correct investigation of dhammas, joy, calm, and effort, and that
-becomes a unification of the mind. It’s equally secondary, the right
-*samādhi*—it’s indirect. It’s a *peripheral* from where you are making
-your effort towards understanding freedom from suffering.
+Sometimes people might think, “Well, you know, I know my
+<span lang="pi">*samādhi*</span> is not right, but if I keep investing
+in the effort in it, it will become right.” No, right
+<span lang="pi">*samādhi*</span> is the result of the right view and
+correctly directed mind. Right <span lang="pi">*samādhi*</span> is not
+the result of going along with the wrong
+<span lang="pi">*samādhi*</span>. That’s already the wrong view.
+Thinking you can directly develop <span lang="pi">*samādhi*</span> as a
+form of concentration that would then result in some liberation. You
+develop the right <span lang="pi">*samādhi*</span> by following the
+right view, which is guided by the right recollection, and correct
+investigation of dhammas, joy, calm, and effort, and that becomes a
+unification of the mind. It’s equally secondary, the right
+<span lang="pi">*samādhi*</span>—it’s indirect. It’s a *peripheral* from
+where you are making your effort towards understanding freedom from
+suffering.
 
-MN 117: ::: {.english} \>These three states run and circle the right
-view: right view, right effort, and right recollection. :::
+<cite>MN 117</cite>:
+
+<div lang="en">
+
+> These three states run and circle the right view: right view, right
+> effort, and right recollection.
+
+</div>
 
 **Nm:** It’s always those three. If you have the right view, it means
 there is a degree of right effort, and it certainly means there is a
@@ -327,37 +349,39 @@ learn the seven factors, you learn the four noble truths, you learn the
 Gradual Training, and you have more information than you need. As we
 said before, back in the Buddha’s day, there were no Sutta collections
 as we have them now. All the information we have now on account of the
-*nikāyas*, monks did not have access to that. Only Venerable Ānanda
-remembered all of it. Most of the monks didn’t. Probably the vast
-majority of them knew maybe one story, with one instruction, and that
-was enough for enlightenment. Why? Because they did the work. If you
-know the four noble truths and you know the Gradual Training—most
-importantly—you know what comes first: the virtue, sense restraint,
-guarding of the sense doors. You have all the information you need. Now
-you have to start doing that. Which is what the information is telling
-you to do. And, that’s the catch; people don’t do it. Even when they
-take on the virtue, take on the gradual training, they still keep it on
-the level of performing the instruction on the level of information,
-because they don’t want to endure the *dukkha* on the right level—that
-liability to suffering. They don’t want to feel it without immediately
-trying to manage it, because it’s too unpleasant. You need to give up
-the management, and just stay under the pressure of that unresolved
+<span lang="pi">*nikāyas*</span>, monks did not have access to that.
+Only Venerable Ānanda remembered all of it. Most of the monks didn’t.
+Probably the vast majority of them knew maybe one story, with one
+instruction, and that was enough for enlightenment. Why? Because they
+did the work. If you know the four noble truths and you know the Gradual
+Training—most importantly—you know what comes first: the virtue, sense
+restraint, guarding of the sense doors. You have all the information you
+need. Now you have to start doing that. Which is what the information is
+telling you to do. And, that’s the catch; people don’t do it. Even when
+they take on the virtue, take on the gradual training, they still keep
+it on the level of performing the instruction on the level of
+information, because they don’t want to endure the
+<span lang="pi">*dukkha*</span> on the right level—that liability to
+suffering. They don’t want to feel it without immediately trying to
+manage it, because it’s too unpleasant. You need to give up the
+management, and just stay under the pressure of that unresolved
 liability to suffering—on the deepest existential level so that the
 right view can take root and start to grow. It can only do so on that
 basis.
 
 The Buddha taught only two things: suffering and freedom from it. If
-somebody correctly understands the nature of *dukkha*, there are only
-two outcomes of that, either mental derangement or noble search. If they
-don’t lose their mind on account of the recognition of that liability to
-suffering, that existential dread, then they will have no other choice
-but to try and correctly uproot it, and seek the correct
-information—that will then be the basis for them making the right effort
-and enduring things on the right level. It comes down to that, enduring
-things on the right level. If you endure things on the level of that
-existential *dukkha*—without trying to manage it, get rid of it,
-distract yourself from it— then the whole basis for the right view and
-everything else that comes from it is being developed. That’s the
+somebody correctly understands the nature of
+<span lang="pi">*dukkha*</span>, there are only two outcomes of that,
+either mental derangement or noble search. If they don’t lose their mind
+on account of the recognition of that liability to suffering, that
+existential dread, then they will have no other choice but to try and
+correctly uproot it, and seek the correct information—that will then be
+the basis for them making the right effort and enduring things on the
+right level. It comes down to that, enduring things on the right level.
+If you endure things on the level of that existential
+<span lang="pi">*dukkha*</span>—without trying to manage it, get rid of
+it, distract yourself from it— then the whole basis for the right view
+and everything else that comes from it is being developed. That’s the
 fundamental difference between information and understanding it. It’s in
 two opposite directions. Information gives you something that needs to
 be understood, but only your effort to understand can bring that
@@ -378,12 +402,13 @@ these things on the right level, even the little information you
 collected will start slotting itself in the right place, because now you
 got the right basis. That’s why the two factors for the right view are
 correct information (utterance of another), and the
-*yonisomanasikāra*—without which, there is no right view. Even if you
-listen to the Buddha himself giving you the information.
+<span lang="pi">*yonisomanasikāra*</span>—without which, there is no
+right view. Even if you listen to the Buddha himself giving you the
+information.
 
 </div>
 
-<div id="transcript_only-the-noble-truth-of-pain.md">
+<div id="transcript_only_the_noble_truth_of_pain.md">
 
 ## 257hh- Only The Noble Truth Of Pain
 
@@ -402,14 +427,14 @@ pain when you’re feeling disagreeable. You need to endure and not act
 out of the pressure to ignore the neither-pleasant-nor-unpleasant
 feeling. That type of endurance is the hardest thing to do.
 
-<div class="english">
+<div lang="en">
 
 > “Patient endurance is the supreme austerity. Khantī paramaṃ tapo
 > titikkhā.”
+>
+> — <cite>[Dhp 179-196](https://suttacentral.net/dhp179-196)</cite>
 
 </div>
-
-> – [Dhp 179-196](https://suttacentral.net/dhp179-196)
 
 That’s why people find sense-restraint difficult because you have to
 endure that pressure of craving. That’s why they find it difficult to
@@ -471,12 +496,15 @@ turning away.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
-> “...This is the dukkha ariya·sacca/noble truth of suffering:\\ 1-
-> jāti/birth is dukkha,\\ 2-jarā/decaying is dukkha,\\ 3-maraṇa/death is
-> dukkha,\\ 4-association with the disliked is dukkha,\\ 5-separation
-> from the liked is dukkha,\\ 6-not getting what one wants is dukkha;\\
+> “...This is the dukkha ariya·sacca/noble truth of suffering:  
+> 1-jāti/birth is dukkha,  
+> 2-jarā/decaying is dukkha,  
+> 3-maraṇa/death is dukkha,  
+> 4-association with the disliked is dukkha,  
+> 5-separation from the liked is dukkha,  
+> 6-not getting what one wants is dukkha;  
 > 7-in short, the pañcupādānakkhandhā/ five assumed aggregates are
 > dukkha…”
 
@@ -496,7 +524,7 @@ instances of suffering, “Oh, he said, that upset me, she didn’t do that
 which upset me, I’ll go talk to her, I’ll tell him off,….all so that I
 can address the suffering”.
 
-<div class="english">
+<div lang="en">
 
 > “He abused me, he attacked me, he defeated me, he robbed me.” Those
 > who harbour such thoughts will never end their hatred.\\ “He abused
@@ -504,10 +532,11 @@ can address the suffering”.
 > harbour such thoughts will end their hatred.\\ Hatred never ends
 > through hatred; by non-hatred alone does it end. This is an eternal
 > truth.”
+>
+> — <cite>[Dhp 1 Yamaka
+> Vagga](https://suttafriends.org/sutta/dhp1/)</cite>
 
 </div>
-
-> – [Dhp 1 Yamaka Vagga](https://suttafriends.org/sutta/dhp1/)
 
 All of these things that you experienced throughout the life that
 involved suffering are not the reason for your suffering, if they were,
@@ -596,7 +625,7 @@ discipline of the noble one.” If you have the right view, if you
 understand the nature of feelings, you understand that whatever is felt
 is unpleasant because it’s felt.
 
-<div class="english">
+<div lang="en">
 
 > “..Good, good, bhikkhu! These three feelings have been spoken of by
 > me: pleasant feeling, painful feeling, neither-painful-nor-pleasant
@@ -607,10 +636,10 @@ is unpleasant because it’s felt.
 > destruction … to sankharas being subject to vanishing … to sankharas
 > being subject to fading away … to sankharas being subject to cessation
 > … to sankharas being subject to change…”
+>
+> — <cite>[SN 36.11](https://suttacentral.net/sn36.11)</cite>
 
 </div>
-
-> – [SN 36.11](https://suttacentral.net/sn36.11)
 
 **Q:** If you feel, that means you are affected, and therefore you can
 know that you are infected, you have a disease.
@@ -635,26 +664,27 @@ always mental. And there’s only three types of feeling on that level,
 which is the level of feeling agreeable, disagreeable, and
 neither-agreeable-or-disagreeable.
 
-<div class="english">
+<div lang="en">
 
 > “…It’s for one who feels that I declare: ‘This is suffering’ … ‘This
 > is the origin of suffering’ … ‘This is the cessation of suffering’ …
 > ‘This is the practice that leads to the cessation of suffering…’.
+>
+> — <cite>[AN
+> 3.61](https://www.accesstoinsight.org/tipitaka/an/an03/an03.061.than.html)</cite>
 
 </div>
 
-> – [AN
-> 3.61](https://www.accesstoinsight.org/tipitaka/an/an03/an03.061.than.html)
-
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “This is the dukkha·samudaya ariya·sacca/the noble truth of the origin
-> of suffering:\\ 1-Taṇhā/urge/inclination/craving,\\ 2-which
-> perpetuates being,\\ 3-connected with craving and passion,\\ 4-finding
-> delight here or there,\\ 5-that is to say: kāma-taṇhā/sensual desire,
-> bhava-taṇhā/desire for being and vibhava-taṇhā/desire for non-being.”
+> of suffering: \| 1-Taṇhā/urge/inclination/craving, \| 2-which
+> perpetuates being, \| 3-connected with craving and passion, \|
+> 4-finding delight here or there, \| 5-that is to say:
+> kāma-taṇhā/sensual desire, bhava-taṇhā/desire for being and
+> vibhava-taṇhā/desire for non-being.”
 
 </div>
 
@@ -694,7 +724,7 @@ the senses that we spoke of before. And if you continue not to act out
 of craving, the mind will calm down within that and then you get to see
 the escape.
 
-<div class="english">
+<div lang="en">
 
 > “Near Sāvatthī. As he was standing to one side, Pañcālacaṇḍa the
 > deva’s son recited this verse in the Blessed One’s presence:”Truly in
@@ -705,10 +735,10 @@ the escape.
 > The Buddha:“Even in a confining place they find it, the Dhamma for the
 > attainment of Nibbana. Those who have gained recollection, are rightly
 > composed.”
+>
+> — <cite>[SN 2.7](https://suttacentral.net/sn2.7)</cite>
 
 </div>
-
-> – [SN 2.7](https://suttacentral.net/sn2.7)
 
 That’s wisdom, it’s not a magical result of some method or some
 accidental insight. When you get to see dukkha for what it is through
@@ -719,12 +749,16 @@ then it will dry up.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > This is the dukkha·nirodha ariya·sacca/the noble truth of the
-> cessation of suffering:\\ 1-the complete virāga/dispassion,\\
-> 2-nirodha/cessation,\\ 3-cāgo/abandoning,\\ 4-paṭinissaggo/giving
-> up,\\ 5-mutti/release and\\ 6-anālayo/detachment from that very taṇhā.
+> cessation of suffering:  
+> 1-the complete virāga/dispassion,  
+> 2-nirodha/cessation,  
+> 3-cāgo/abandoning,  
+> 4-paṭinissaggo/giving up,  
+> 5-mutti/release and  
+> 6-anālayo/detachment from that very taṇhā.
 
 </div>
 
@@ -735,15 +769,15 @@ you cannot crave.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > This is the dukkha·nirodha·gāminī paṭipada ariya·sacca/ the noble
 > truth of the path leading to the cessation of suffering: just this
-> ariya aṭṭhaṅgika magga/ noble eightfold path, that is to say:\\
-> 1-sammā·diṭṭhi/right view,\\ 2-sammā·saṅkappa/right resolve,\\
-> 3-sammā·vācā/right speech,\\ 4-sammā·kammanta/right action,\\
-> 5-sammā·ājīva/right livelihood,\\ 6-sammā·vāyāma/right effort,\\
-> 7-sammā·sati/ right recollection,\\ 8-sammā·samādhi/ right composure.
+> ariya aṭṭhaṅgika magga/ noble eightfold path, that is to say: \|
+> 1-sammā·diṭṭhi/right view, \| 2-sammā·saṅkappa/right resolve, \|
+> 3-sammā·vācā/right speech, \| 4-sammā·kammanta/right action, \|
+> 5-sammā·ājīva/right livelihood, \| 6-sammā·vāyāma/right effort, \|
+> 7-sammā·sati/ right recollection, \| 8-sammā·samādhi/ right composure.
 
 </div>
 
@@ -763,24 +797,28 @@ it’s not pressuring you. There’s nothing wanted in regard to it and
 nothing not wanted in regard to it either. Not touching or being touched
 by it, it is no longer felt.
 
+<div lang="en">
+
 > “…Ven. Udayin said to Ven. Sariputta,”But what is the pleasure here,
 > my friend, where there is nothing felt?”
 >
 > “Just that is the pleasure here, my friend: where there is nothing
 > felt…”
-
-> – [AN
-> 9.34](https://www.accesstoinsight.org/tipitaka/an/an09/an09.034.than.html)
+>
+> — <cite>[AN
+> 9.34](https://www.accesstoinsight.org/tipitaka/an/an09/an09.034.than.html)</cite>
 
 </div>
 
-<div id="transcript_simile-of-the-sons-flesh.md">
+</div>
+
+<div id="transcript_simile_of_the_sons_flesh.md">
 
 ## 258hh- Simile of The Son’s Flesh
 
-SN 12.63 Puttamansa Sutta: A Son’s Flesh:
+<cite>SN 12.63 Puttamansa Sutta: A Son’s Flesh</cite>:
 
-<div class="english">
+<div lang="en">
 
 > “At Savatthi…”There are these four nutriments for the maintenance of
 > beings who have come into being or for the support of those in search
@@ -980,7 +1018,7 @@ so much, it wouldn’t be baiting you so much. There’s always a catch.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “When lust for the five types of sensual pleasure is fully understood
 > there is no fetter bound by which the noble disciple might come back
@@ -997,9 +1035,10 @@ fully overcome the lust towards the five types of sensual pleasure.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
-> “And how is the nutriment of *phassa*/contact/pressure to be regarded?
+> “And how is the nutriment of
+> <span lang="pi">*phassa*</span>/contact/pressure to be regarded?
 > Suppose a flayed cow were to stand leaning against a wall. The
 > creatures living in the wall would chew on it. If it were to stand
 > leaning against a tree, the creatures living in the tree would chew on
@@ -1015,32 +1054,35 @@ fully overcome the lust towards the five types of sensual pleasure.
 
 </div>
 
-**Nm:** That’s why I like to translate *phassa*/contact as pressure.
-It’s not an impersonal, mechanical or biological “contact”. It’s the
-mental pressure. *Phassa* is the pressure to act on account of what is
-felt, and that’s exactly how the cow is feeling. It’s not just
-nonchalant about creatures anatomically chewing on its flesh. No, it’s
-pressured, it’s harassed, it’s annoyed. It’s attacked, it’s being
-devoured, it’s uncomfortable. “Contact” is uncomfortable. So do you
-regard *phassa* as uncomfortable or do you not even see it as a pressure
-at all? If that’s the case, your understanding of or your idea of
-*phassa* is very inaccurate. And usually it’s very inaccurate. People
-usually think, due to the whole commentarial misrepresentation which
-explains *phassa* as a physical coming together of the senses, sense
-objects and consciousness, and then ‘poof!’, the result of that is
-sight, sound,etc. As if it has nothing to do with me, and I’m not
-responsible for it. No, *phassa* is indeed having eyes and sights, but
-it’s being pressured on account of what is felt in regard to that.
-That’s where *phassa* is.
+**Nm:** That’s why I like to translate
+<span lang="pi">*phassa*</span>/contact as pressure. It’s not an
+impersonal, mechanical or biological “contact”. It’s the mental
+pressure. <span lang="pi">*Phassa*</span> is the pressure to act on
+account of what is felt, and that’s exactly how the cow is feeling. It’s
+not just nonchalant about creatures anatomically chewing on its flesh.
+No, it’s pressured, it’s harassed, it’s annoyed. It’s attacked, it’s
+being devoured, it’s uncomfortable. “Contact” is uncomfortable. So do
+you regard <span lang="pi">*phassa*</span> as uncomfortable or do you
+not even see it as a pressure at all? If that’s the case, your
+understanding of or your idea of <span lang="pi">*phassa*</span> is very
+inaccurate. And usually it’s very inaccurate. People usually think, due
+to the whole commentarial misrepresentation which explains
+<span lang="pi">*phassa*</span> as a physical coming together of the
+senses, sense objects and consciousness, and then ‘poof!’, the result of
+that is sight, sound,etc. As if it has nothing to do with me, and I’m
+not responsible for it. No, <span lang="pi">*phassa*</span> is indeed
+having eyes and sights, but it’s being pressured on account of what is
+felt in regard to that. That’s where <span lang="pi">*phassa*</span> is.
 
-So in other words, if people want to understand *phassa*, if they want
-to understand the situation of that cow, then find things within your
-mind, where you are emotionally pressured, on account of anything,
-sight, sound, smell, taste, touch, thought, doesn’t matter. If there is
-pressure there, if there is discomfort there, that’s where *phassa* is.
-And that’s what needs to be understood, not psychologically or
+So in other words, if people want to understand
+<span lang="pi">*phassa*</span>, if they want to understand the
+situation of that cow, then find things within your mind, where you are
+emotionally pressured, on account of anything, sight, sound, smell,
+taste, touch, thought, doesn’t matter. If there is pressure there, if
+there is discomfort there, that’s where <span lang="pi">*phassa*</span>
+is. And that’s what needs to be understood, not psychologically or
 anatomically explained in terms of sense organs and so on. That’s not
-the *phassa*.
+the <span lang="pi">*phassa*</span>.
 
 Imagine the cow being devoured by the insects, and you’re telling it,
 “Oh, no, see, this is what’s happening to you. In dependence on the body
@@ -1053,7 +1095,7 @@ phenomenon, it will result in freedom from suffering, as the suttas
 would say.” The full understanding of contact results in you being free
 from the pressure.
 
-<div class="english">
+<div lang="en">
 
 > “Seeing thus, the instructed noble disciple experiences revulsion
 > towards the body, towards bodily phenomena, towards
@@ -1066,7 +1108,7 @@ from the pressure.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “When the nutriment of contact/pressure is understood, the three
 > feelings, pleasure, pain, neither-pleasure-nor-pain are understood.”
@@ -1115,7 +1157,7 @@ the pressure to move will fade away because you’re not feeding it
 anymore. You also don’t practise immovability in regard to everything
 and nothing? No, in regard to the pressure that’s there on account of
 what you’re currently feeling, that’s where you practice
-endurance/*khanti*.
+endurance/<span lang="pi">*khanti*</span>.
 
 You need to find that level of presently enduring feeling, and don’t
 move there. Everything else is fine, everything else is second to it,
@@ -1124,14 +1166,14 @@ level where it matters.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “And how is the nutriment of mental intention to be regarded? Suppose
 > there were a pit of glowing embers, deeper than a man’s height, full
 > of embers that were neither flaming nor smoking, and a man were to
-> come along — loving life, hating death, loving pleasure, resisting
-> pain — and two strong men, having grabbed him by the arms, were to
-> drag him to the pit of embers. To get far away would be that man’s
+> come along—loving life, hating death, loving pleasure, resisting
+> pain—and two strong men, having grabbed him by the arms, were to drag
+> him to the pit of embers. To get far away would be that man’s
 > intention, far away would be his wish, far away would be his
 > aspiration. Why is that? Because he would realize, ‘If I fall into
 > this pit of glowing embers, I will meet with death from that cause, or
@@ -1202,20 +1244,21 @@ the good wanting until you can completely disown even that.
 **Nm:** Well, because your sense of self, your being, all of your
 assumptions are fed by it, dependent on it, sustained by it. Whether you
 want it or not, through acting on it, you’re feeding it. It’s a direct
-nutriment for *bhava*, for ego, for conceit, for ownership. It’s a
-vicious circle.
+nutriment for <span lang="pi">*bhava*</span>, for ego, for conceit, for
+ownership. It’s a vicious circle.
 
 There are four types of nutriment and what’s in common with all those
-nutriments, is that they are nutriments for *bhava*, for your sense of
-self when you take them wrongly. So the one who is free from nutriment
-of food is free from *bhava* to that extent. An arahant doesn’t stop
+nutriments, is that they are nutriments for
+<span lang="pi">*bhava*</span>, for your sense of self when you take
+them wrongly. So the one who is free from nutriment of food is free from
+<span lang="pi">*bhava*</span> to that extent. An arahant doesn’t stop
 eating food, but eating food ceases to be the nutriment for his being
 because he has seen the danger in it. There is no wanting anymore, no
 desire, no lust in regard to the nutriment of food. Thus, it has ceased
-to be the nutriment for *bhava*, nutriment for his being and
-misconceptions. There is no more pressure either. Pressure was your
-wrong attitude which has been uprooted. As I said, “itch” is enough in
-itself, it does not require a scratch nor even imply it.
+to be the nutriment for <span lang="pi">*bhava*</span>, nutriment for
+his being and misconceptions. There is no more pressure either. Pressure
+was your wrong attitude which has been uprooted. As I said, “itch” is
+enough in itself, it does not require a scratch nor even imply it.
 
 **Q:** But it’s still an itch
 
@@ -1227,19 +1270,19 @@ itself is self sufficient. It’s enough. In the itch there is just the
 itch. And if you start seeing it like that, you will not be pressured to
 scratch it. The pressure of scratching it will fade away.
 
-As the Buddha said, *phassa*/pressure cannot pressure the groundless
-one. The one that has no ground for that pressure to land, no ownership,
-no delight, no lust in those thoughts of, “what if I only scratch it..”,
-none of that, he completely disowned them all, thus the thoughts of
-scratching do not pressure him anymore. The itch is there. The thoughts
-of scratching might be there but there is no pressure to scratch and
-then even the thoughts of scratching will fade away. And then again in
-the itch there’s just the itch, in the seen there’s just the seen, in
-the heard, just the heard and so on.
+As the Buddha said, <span lang="pi">*phassa*</span>/pressure cannot
+pressure the groundless one. The one that has no ground for that
+pressure to land, no ownership, no delight, no lust in those thoughts
+of, “what if I only scratch it..”, none of that, he completely disowned
+them all, thus the thoughts of scratching do not pressure him anymore.
+The itch is there. The thoughts of scratching might be there but there
+is no pressure to scratch and then even the thoughts of scratching will
+fade away. And then again in the itch there’s just the itch, in the seen
+there’s just the seen, in the heard, just the heard and so on.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “And how is the nutriment of consciousness to be regarded? Suppose
 > that, having arrested a thief, a criminal, they were to show him to
@@ -1325,7 +1368,7 @@ the context.
 
 **Q:**
 
-<div class="english">
+<div lang="en">
 
 > “When the nutriment of consciousness is understood, name and form are
 > understood. When name and form are understood, I tell you, there is
@@ -1339,7 +1382,186 @@ cognised there will be just the cognised.
 
 </div>
 
-<div id="transcript_the-meaning-of-right-samadhi.md">
+<div id="transcript_abundant_theory_and_lack_of_endurance.md">
+
+## 281hh- Abundant Theory and Lack of Endurance
+
+**Q:** In terms of <span lang="pi">*anatta*</span>—a regular person
+acknowledges their mortality and realizes that they don’t have full
+control over their body. However, they still take things personally and
+view their body as their own, even though they know they will die.
+
+**Ajahn Nyanamoli:** Why is that?
+
+**Q:** It’s because of their behavior. Their actions reflect the belief
+that they have control.
+
+**Nm:** Exactly. You can have all the right ideas, but if your behavior
+doesn’t align with those ideas, you’re reinforcing incorrect
+assumptions. So, even though you understand in theory the nature of
+existence, your habits and carelessness lead you towards sensuality,
+resisting discomfort, overindulging in food, and in general failing to
+restrain your senses. That’s where your wrong views are being sustained.
+Your actions are in line with a sense of entitlement, control, and the
+idea that you will live forever, despite your beliefs being different.
+So, you need to act on your right ideas. You need to start purifying
+your behavior to mirror those ideas.
+
+There were, as it states in the <span lang="pi">Suttas</span>,
+<span lang="pi">sāmanas</span>, and <span lang="pi">brahmins</span>
+outside of the Buddha’s teaching who also had some right ideas that they
+cultivated, for example:
+
+<div lang="en">
+
+> ‘I am not anything belonging to anyone anywhere, nor is there anything
+> belonging to me in anyone anywhere.’
+>
+> — <cite>AN 4.185</cite>
+
+</div>
+
+<div lang="en">
+
+> <span lang="pi">Bhikkhu</span>s, of views held by outsiders, this is
+> the foremost, namely: ‘I might not be and it might not be mine; I
+> shall not be, and it will not be mine.’
+>
+> — <cite>AN 10.29</cite>
+
+</div>
+
+They realized that things are quite circumstantial, including the sense
+of control. It can end at any moment. And the Buddha said that that is
+the foremost of the outsiders’ views. The point was that, if you do not
+just think that view once a month, but start, whenever you want to act
+towards the world, towards him, her, or this, or that, you put that view
+first: “\_I am not anything belonging to anyone anywhere, nor is there
+anything belonging to me in anyone anywhere, or ‘I might not be and it
+might not be mine; I shall not be, and it will not be mine.\_’” And by
+doing so you would not be able to engage in passion, aversion, or
+distraction.
+
+**Q:** For example, I might logically reason that feelings are not mine
+because they’re subject to change. I can see that and it kind of mirrors
+that right view in theory. I understand in theory that it’s impermanent,
+or inaccessible to my control. And now, as I feel pain, what do I do?
+
+**Nm:** Are you trying to get rid of it or are you unmoved by it?
+Inevitably, you’ll be trying to get rid of it by using those ideas of
+<span lang="pi">*anicca*</span> etc. But, if you then really start to
+understand those ideas, you realize, thinking about the
+<span lang="pi">Dhamma</span> does not mean that’s the
+<span lang="pi">Dhamma</span>. So you can have all the right ideas, but
+if you’re not applying them rightly, there is no
+<span lang="pi">Dhamma</span> there. And that’s important to recognize
+because otherwise, you can easily slip into a view of ‘Well, as long as
+I think about the <span lang="pi">Dhamma</span>, I am on the path’. But
+you’re not. You’re on the path when you become a
+<span lang="pi">*sotāpanna*</span>. That’s the beginning of the path. If
+you don’t see the <span lang="pi">Dhamma</span>, it means you don’t see
+the path. How can you be on the path if you don’t see the path? And you
+will not become a <span lang="pi">*sotāpanna*</span> just on account of
+such ideas. You need to start applying them, and enduring things on the
+right level.
+
+**Q:** So you could say feelings are not mine…
+
+**Nm:** Great, in theory, you’ve got it. So what do you do? Let’s say
+there is a prospect of pleasure. What do you do in the face of the
+prospect of pleasure?
+
+**Q:** I don’t delight in it.
+
+**Nm:** And what else? Do you act towards it? Follow it?
+
+**Q:** No, I endure it.
+
+**Nm:** For how long?
+
+**Q:** Forever.
+
+**Nm:** Exactly. So, if those are the truths that you understood, that
+you accepted, that you intellectually verified as correct, now you start
+doing it. This feeling is not mine…It’s not in my control, it’s a trap,
+it’s suffering…
+
+**Q:** But say in the beginning, I am faced with feeling, a feeling is
+pressuring me, it’s touching me, it seems like mine. But I have the
+outside view of the Buddha saying that it’s not- mine…
+
+**Nm:** It seems like yours, but there is an option there. Do you accept
+the pressure as yours or as not-mine ? It is presented as yours, as for
+you, but that doesn’t mean you have to accept that at face value. It’s
+similar to how a fisherman casts a baited hook, tempting the fish to
+bite. The bait is presented as something beneficial for the fish to
+take, but ultimately it’s meant to hook and trap it. You might not see
+that trap immediately, but at least you know, as long as I don’t take
+this, I won’t be hooked.
+
+Overall it’s important to recognize that <span lang="pi">Dhamma</span>
+begins with <span lang="pi">*sotāpatti*</span>, not with the ideas of
+<span lang="pi">Dhamma</span>, and even the clarity you might have.
+Because if you do, you will be creating that discrepancy between your
+ideas that you’re convinced are putting you on the path of
+<span lang="pi">Dhamma</span>, and your behavior that is still not
+matching it. Your lack of endurance, your lack of recognition on that
+right level, lack of restraint regarding the need to manage discomfort
+and unpleasant things. But if you don’t have such a view, and you
+recognize ‘Yes, these ideas, as clear and as pleasing as they are, they
+might be very right, and I might verify later on that I was spot on
+right from the start. But the only way I’ll do that is not through
+holding these views about the ideas and so on, and feeling safe on
+account of it. No, let me now apply those views in regard to sensuality,
+aversion, and distraction.’ Only three things. You don’t need to seek
+verification anywhere else.
+
+**Q:** That’s the only way you will ever be able to verify the
+<span lang="pi">Dhamma</span>. Because I can have a view, and you can
+agree with my view. We can both agree that feelings are not self…
+
+**Nm:** … and we can write scholarly papers on it, dissertations, and
+pages and pages of references, and create a whole network of
+information. But that’s not the <span lang="pi">Dhamma</span>. That’s
+the information about the <span lang="pi">Dhamma</span>.
+<span lang="pi">Dhamma</span> is when things are endured on the right
+level.
+
+**Q:** So, I understand that feelings are not my own. They don’t belong
+to me. They just come and go.
+
+**Nm:** Great. Now, when things come and go, let them come and go
+without acting out of them, without trying to get rid of them, without
+delighting in them, without welcoming them.
+
+**Q:** And keep doing that.
+
+**Nm:** For as long as it takes. And it might take forever.
+
+**Q:** The verification that it has worked, is the fact that feelings no
+longer pressure you.
+
+**Nm:** Eventually, yes. The pressure felt will diminish. There will be
+no pressure in the end. That’s why <span lang="pi">*phassa*</span> -
+pressure, can not pressure the groundless one when there is no ground to
+apply that pressure. An <span lang="pi">Arahant</span> is unable to
+experience pressure of any kind anymore, mentally. He’s beyond pressure,
+nothing can pressure him.
+
+<div lang="en">
+
+> When struck by pleasure and pain in the village or wilderness, regard
+> it NOT as one’s self or an other’s.  
+> Pressures pressure due to attachment;  
+> how could pressure pressure one free of attachment?
+>
+> — <cite>Ud 2.1</cite>
+
+</div>
+
+</div>
+
+<div id="transcript_the_meaning_of_right_samadhi.md">
 
 ## 284hh- The Meaning of Right Samadhi
 
@@ -1383,10 +1605,11 @@ cultivation of that mood.
 As the Buddha said, even if one lives a non-celibate life, i.e. a
 householder’s life, but frequently recollects the Buddha, Dhamma,
 Sangha, and their own virtue, then he will gain a pleasant abiding, a
-good mood - a kind of *samadhi* right now. When the mind is directed
-toward reflecting upon certain values, it becomes composed in that
-direction. So, day after day, you want to make a practice of reflecting
-upon the right things, even when you don’t feel like it.
+good mood - a kind of <span lang="pi">*samadhi*</span> right now. When
+the mind is directed toward reflecting upon certain values, it becomes
+composed in that direction. So, day after day, you want to make a
+practice of reflecting upon the right things, even when you don’t feel
+like it.
 
 If you want a higher pleasant abiding, that will require more restraint,
 but it boils down to frequent remembrance and reflection. That is what
@@ -1396,7 +1619,7 @@ it irritation, fault finding, ill will, or non-irritation, non-fault
 finding, non-ill will? One direction inclines to suffering and the other
 does not.
 
-<div class="english">
+<div lang="en">
 
 > On one occasion…The Blessed One said this: Bhikkhus, before my
 > enlightenment, while I was still seeking enlightenment, it occurred to
@@ -1425,12 +1648,12 @@ does not.
 > non-aversion…or if he frequently thinks and ponders with cruelty, he
 > has abandoned thinking with non-cruelty,…and as such his mind inclines
 > to those unwholesome directions.
+>
+> — <cite>MN 19</cite>
 
 </div>
 
-> —MN 19
-
-**Recollection versus Concentration**
+<u>**Recollection versus Concentration**</u>
 
 How is *recollection* different from concentration? What is
 concentration in mundane terms?
@@ -1529,7 +1752,7 @@ discerning whether you are attending to something wholesome or not?
 expense of concentration.
 
 **Nm:** What is the point at which attention becomes a concentration
-practice?……when recollection is lost.
+practice?…when recollection is lost.
 
 You have no choice but to attend to things. Nevertheless, you can learn
 not to over-attend and overlook the context, meaning, and background of
@@ -1539,18 +1762,19 @@ can allow it to be attended further) or unwholesome (I should not
 welcome it, not delight in it, and make sure I don’t attend particular
 signs and features that will increase these states). Attending only to
 the content means ignoring the context. So, ironically the concentration
-practice is directly opposite to the *samadhi* practice. The
-*composition* of the context is *samadhi*. Recollecting things rightly,
-that then sustains and inclines your mind in a certain way.
-Concentration means overshooting the mark and abandoning the context -
-even if it’s concentrating on good things. That’s why the whole practice
-is to learn how not to overshoot (concentrate) or undershoot (ignore,
-deny). Attend to something, but don’t let it become a focusing
-concentration practice, because you cannot possibly do that and at the
-same time discern the background context of your intentionality, the
-meaning, and the mood behind all of that.
+practice is directly opposite to the <span lang="pi">*samadhi*</span>
+practice. The *composition* of the context is
+<span lang="pi">*samadhi*</span>. Recollecting things rightly, that then
+sustains and inclines your mind in a certain way. Concentration means
+overshooting the mark and abandoning the context - even if it’s
+concentrating on good things. That’s why the whole practice is to learn
+how not to overshoot (concentrate) or undershoot (ignore, deny). Attend
+to something, but don’t let it become a focusing concentration practice,
+because you cannot possibly do that and at the same time discern the
+background context of your intentionality, the meaning, and the mood
+behind all of that.
 
-**Right Recollections, Right Composures**
+<u>**Right Recollections, Right Composures**</u>
 
 Can you give some examples of the right composure and right
 recollection?
@@ -1603,7 +1827,7 @@ experience. The normal tendency is to attend to what’s right in front of
 you. That’s the definition of sensuality in general. Your *being*
 existing on the level of sense objects. That’s the measure of what’s
 real. So then whatever you come across, you make it an object by overly
-attending it - *Ayoniso manasikara*.
+attending it—<span lang="pi">*Ayoniso manasikara*</span>.
 
 In this case, you’ll learn the right things, but you’ll still make them
 objects of your attention. By studying, hearing, recollecting,
@@ -1628,8 +1852,9 @@ unwholesome? Not by watching your belly movements, nostrils, or the
 soles of your feet. But through your active thinking and reflection, you
 sustain these values by pondering on potential dangers, potential
 perils, lack of satisfaction, and benefits. That’s what the first
-*jhana* is - a comprehension born of active thinking and pondering that
-is fully withdrawn, separated, and gone beyond sensuality.
+<span lang="pi">*jhana*</span> is - a comprehension born of active
+thinking and pondering that is fully withdrawn, separated, and gone
+beyond sensuality.
 
 **Q:** It takes effort to understand what the Suttas are genuinely
 saying. You have to be willing to question your assumptions about these
@@ -1640,12 +1865,13 @@ way to pay attention to things, a peripheral attention.
 **Nm:** Yes. It is learning how to attend correctly because you start by
 over-attending everything. Or not attending what you need to attend.
 Either ignoring or over-attending. The Middle ground of it is awareness
-of attention and its context, its origin, its womb (*yoniso*). That
-needs to be discerned and learned first; sustained; endured; and then
-recognized for what it is. And then, yes, you can cultivate it. But even
-then, it won’t become an object of your cultivation, in that
-concentration sense. Even though, in the broadest theoretical sense, yes
-– it’s a phenomenon, a theme, an object that you can think about.
+of attention and its context, its origin, its womb
+(<span lang="pi">*yoniso*</span>). That needs to be discerned and
+learned first; sustained; endured; and then recognized for what it is.
+And then, yes, you can cultivate it. But even then, it won’t become an
+object of your cultivation, in that concentration sense. Even though, in
+the broadest theoretical sense, yes—it’s a phenomenon, a theme, an
+object that you can think about.
 
 **Q:** It’s an *indirect* way. Not directly wanting to change what is in
 front of you but changing the context.
@@ -1667,7 +1893,8 @@ sense-restrained. That’s how you’ll cultivate those right themes. As far
 as external actions are concerned, there is nothing more you need to do.
 You don’t need to be adding new rules and random observances. By
 actively thinking about certain themes, one cultivates the right
-*samadhi* based on unbroken virtue. Setting the mind on the right path.
+<span lang="pi">*samadhi*</span> based on unbroken virtue. Setting the
+mind on the right path.
 
 **Q:** Recollecting your virtue and experiencing the joy of that, the
 body becomes calm, and the mind becomes happy. That is the composure
@@ -1675,13 +1902,14 @@ that leads to knowledge and vision.
 
 **Nm:** Exactly. Your body will become calm and agreeable as your mind
 is calmed and made agreeable by having directed it to certain moods and
-themes. *Samadhi* then is a result of the right recollection, right
-thinking, and right evaluation - right *vitakka* and *vicara*. And
-anyone can sit for periods of each day, and make their mind think about
-these themes and values. If you spend a few days building that up, the
-right mood will begin to persist and gather momentum.
+themes. <span lang="pi">*Samadhi*</span> then is a result of the right
+recollection, right thinking, and right evaluation - right
+<span lang="pi">*vitakka*</span> and <span lang="pi">*vicara*</span>.
+And anyone can sit for periods of each day, and make their mind think
+about these themes and values. If you spend a few days building that up,
+the right mood will begin to persist and gather momentum.
 
-**Losing Composure**
+<u>**Losing Composure**</u>
 
 **Q:** Let’s say somebody says something to you and you get angry. In
 frustration, you lose your *samadhi*. How should you proceed?
@@ -1719,15 +1947,15 @@ Trying to get rid of things that bother you and replacing it with a
 sense pleasure - ‘antidoting’ this with that. Which requires you to
 abandon the context or not have it to begin with.
 
-This is how you protect your *samadhi*. Recognizing where the importance
-lies. Reflecting on what you value. Thinking about the dangers of losing
-those values and having the mind return to states that are unbeneficial.
-Remembering all the joy, lightness, and clarity you got as a result of
-establishing the right mood. Recollecting the fact that the things that
-used to make you furious or lustful haven’t moved you now, and if you
-forget about that, your mind will slowly drift back into those
-unwholesome domains. Unless, of course, those impurities have been fully
-uprooted.
+This is how you protect your <span lang="pi">*samadhi*</span>.
+Recognizing where the importance lies. Reflecting on what you value.
+Thinking about the dangers of losing those values and having the mind
+return to states that are unbeneficial. Remembering all the joy,
+lightness, and clarity you got as a result of establishing the right
+mood. Recollecting the fact that the things that used to make you
+furious or lustful haven’t moved you now, and if you forget about that,
+your mind will slowly drift back into those unwholesome domains. Unless,
+of course, those impurities have been fully uprooted.
 
 There is no need to fight things directly. All you need is virtue, sense
 restraint, solitude, and an active practice of thinking about and
@@ -1739,7 +1967,7 @@ burnt all bridges whereby it’s impossible to return.
 
 </div>
 
-<div id="transcript_how-to-abandon-self-view.md">
+<div id="transcript_how_to_abandon_self_view.md">
 
 ## 287hh- How To Abandon Self View
 
@@ -1772,7 +2000,7 @@ for a mind to not move on account of dying?
 
 **Nm**: Exactly, that is the culminating insight. The complete
 cessation, first of self-view, then of conceit. And when that is
-completely gone without any trace – you couldn’t suffer even if you want
+completely gone without any trace—you couldn’t suffer even if you want
 to.
 
 **Q**: Is the measure that the less somebody takes things personally,
@@ -1786,16 +2014,16 @@ the voice of another and yoniso manasikara (concurrent attention) based
 on sense restraint. It’s a factual, irreversible insight. Seeing anicca
 and dukkha is just so that you can experience the anatta.
 
-<div class="english">
+<div lang="en">
 
 > “There are monks, these two conditions for the arising of the right
 > view. Which are the two? The voice of another, and yoniso manasikara.
 > These, monks, are the two conditions for the arising of the right
 > view.”
+>
+> — <cite>[AN 2.118–129](https://suttacentral.net/an2.118-129)</cite>
 
 </div>
-
-> – [AN 2.118–129](https://suttacentral.net/an2.118-129)
 
 **Q**: You can say my mind won’t be bothered by even the thought of
 dying. But anatta is more fundamental than becoming so mentally strong
@@ -1806,11 +2034,11 @@ said during his life, some teachers could help one establish
 neither-perception-nor-non-perception, which means you are pretty much
 unbothered by anything inferior to that. But only in the dispensation of
 the Buddha could one attain the anatta part. The suttas say that an
-Arahant’s mind doesn’t get overwhelmed by things – an Arahant’s mind
+Arahant’s mind doesn’t get overwhelmed by things—an Arahant’s mind
 overwhelms things. That is the factual strength, without which one
 couldn’t understand and fully develop the anatta.
 
-<div class="english">
+<div lang="en">
 
 > “When a bhikkhu dwells thus, (restraint, recollected, wise, and
 > liberated), he overwhelms forms; forms do not overwhelm him. He
@@ -1824,12 +2052,11 @@ couldn’t understand and fully develop the anatta.
 > overwhelms and who is not overwhelmed. He has overwhelmed those evil
 > unwholesome states that defile, that lead to being, that bring
 > trouble, that result in suffering, and that perpetuate birth, aging,
-> and death.  
-> ”It is in this way that one is uncorrupted.”
+> and death.”It is in this way that one is uncorrupted.”
+>
+> — [SN 35.243](https://suttacentral.net/sn35.243)
 
 </div>
-
-> – [SN 35.243](https://suttacentral.net/sn35.243)
 
 But say you have been sense restrained, seeing the danger in the
 slightest fault, guarding the sense doors, keeping the precepts, living
@@ -1843,10 +2070,10 @@ necessary basis for anatta?
 
 **Nm**: Yes. What is atta then?
 
-**Q**: You can’t put it in front of you – it’s always peripheral.
+**Q**: You can’t put it in front of you—it’s always peripheral.
 
-**Nm**: Yes, the properties of atta – the sense of self – are that it’s
-not directly visible. You can’t access it through your senses. You can’t
+**Nm**: Yes, the properties of atta—the sense of self—are that it’s not
+directly visible. You can’t access it through your senses. You can’t
 observe it with your five senses, and you can’t say ‘this is my “Self”
 that I am relating to’. It’s always ambiguous. What else? Do you have
 the experience of when that self is not there?
@@ -1854,9 +2081,9 @@ the experience of when that self is not there?
 **Q**: No.
 
 **Nm**: It’s always there to some degree. Sometimes it might feel
-clearer or more ambiguous. But that sense of self – the center of
-experience – is always there. Do you see it right now as we speak – the
-sense of self enduring on its own – somehow ambiguously lingering?
+clearer or more ambiguous. But that sense of self—the center of
+experience—is always there. Do you see it right now as we speak—the
+sense of self enduring on its own—somehow ambiguously lingering?
 
 **Q**: To some degree. Accepting its allusivity is important when it
 comes to seeing it on its own terms.
@@ -1870,18 +2097,18 @@ make it into an object of observation that I think it should be.
 Mindfulness is the memory of your present experience. By abandoning the
 views of mindfulness being concentration on the present moment you
 realize that there’s nothing complicated about it. Having the memory of
-the present moment while we speak – that’s what mindfulness is. The
+the present moment while we speak—that’s what mindfulness is. The
 practice of memory here and now.
 
 It’s like a different angle of attending to what is directly attended in
-front of me – yoniso manasikara. If I ask you to recall a memory, how
+front of me—yoniso manasikara. If I ask you to recall a memory, how
 would you do that? Focus on sensations and your breathing? No, it would
 be the opposite. You would de-focus on what you were focusing on, to
 recall or recollect what is there.
 
-That point of view – of memory – whether it’s the memory of this second
-or the memory of 10 years ago, is the same point of view. It’s the point
-of view that you can use to observe the present experience; at the same
+That point of view—of memory—whether it’s the memory of this second or
+the memory of 10 years ago, is the same point of view. It’s the point of
+view that you can use to observe the present experience; at the same
 time, you are (indirectly) in the present experience. It’s the
 background of your current absorbed attention. It’s the ‘point of view’
 of your senses. It’s where the mind is.
@@ -1893,13 +2120,13 @@ If you’re of the view that that sense of self is something you can think
 directly, or that it’s something you can access through your senses
 directly, or that it’s something you can observe and see as ‘anatta’;
 you are not seeing anatta. You are just chasing the idea that you have
-intellectually developed – on account of reading the suttas or listening
+intellectually developed—on account of reading the suttas or listening
 to talks. The sense of self is always behind from where you are looking.
 When you realize that the range of where you can look is either the
 direction of where you attend or the direction of the memory point of
 view; you realize that you don’t need to know specifically where the
 sense of self is. You know that it will have to be between the two
-points of view – that are there at the same time running concurrently.
+points of view—that are there at the same time running concurrently.
 
 “With this, this is”. It’s not that the memory point of view (where the
 mind is) comes first, in the sense that it exists apart from the senses.
@@ -1922,13 +2149,13 @@ wouldn’t be. Either way, there’s no room for ownership.
 Let’s say you start practicing sati correctly in solitude. You are
 recollecting what you are presently doing instead of being absorbed into
 attending to what you are presently doing. Keeping that peripheral point
-of view. Watching what is present – sitting, breathing, etc… The memory
-of current breathing is what anapanasati is. It’s not the accessing of
-it through directly attending the sensations of it, but accessing it
+of view. Watching what is present—sitting, breathing, etc… The memory of
+current breathing is what anapanasati is. It’s not the accessing of it
+through directly attending the sensations of it, but accessing it
 through the indirect knowledge (point of view) of it. The recognition of
 the images of breathing that you are doing. That’s what memory is.
 
-<div class="english">
+<div lang="en">
 
 > “Sati, in a loose sense, can certainly be translated as”memory” but
 > memory is normally memory of the past, whereas in the eight-factored
@@ -1947,18 +2174,19 @@ the images of breathing that you are doing. That’s what memory is.
 > 2)  Here, monks, a monk dwells contemplating the body in the body…
 >     feelings in feelings… the mind in the mind… ideas in ideas,
 >     ardent, aware, mindful, having put away worldly covetousness and
->     grief. Thus, monks, is a monk mindful. (SN 36:7/S IV 211)”
+>     grief. Thus, monks, is a monk mindful. (<cite>SN 36:7/S IV
+>     211</cite>)”
 
 </div>
 
-> – [chapter 17, Selected Letters of Ñāṇavīra
-> Thera](https://nanavira.org/22-writings/192-the-tragic-the-comic-and-the-personal)
+> — <cite>[chapter 17, Selected Letters of Ñāṇavīra
+> Thera](https://nanavira.org/22-writings/192-the-tragic-the-comic-and-the-personal)</cite>
 
-The atta (sense of self) – however ambiguous, fleeting, or unclear it
-might be – it’s real as such. Instead of you trying to ‘see myself on
-the level of directly attended experience’, you see it for whatever it
-is – however it is: A thick cloud; sometimes palpable; sometimes not…
-But the sense of self, the sense of ‘I am’ is there, lingering. In other
+The atta (sense of self)—however ambiguous, fleeting, or unclear it
+might be—it’s real as such. Instead of you trying to ‘see myself on the
+level of directly attended experience’, you see it for whatever it
+is—however it is: A thick cloud; sometimes palpable; sometimes not… But
+the sense of self, the sense of ‘I am’ is there, lingering. In other
 words, you can’t go behind it. You can’t become the observer of it and
 turn it into an object. It’s always in the background.
 
@@ -1987,7 +2215,7 @@ an ambiguous thing that’s neither in my senses nor away from it. It’s
 kind of always there. But wherever it is, it *must* be in between this
 and this: What I am directly attending, and the knowledge of what I am
 directly attending. It cannot be outside of these two directions.
-Recollect that frequently and in solitude – based on your currently
+Recollect that frequently and in solitude—based on your currently
 enduring sense of self (not just theoretically). This sense of self that
 you’re not trying to define, or ignore, has to be in between ‘this and
 this’ (the two simultaneous points of view).
@@ -1995,7 +2223,7 @@ this’ (the two simultaneous points of view).
 Becoming established in that idea is how you uproot the sense of self.
 You don’t uproot it immediately. You uproot the view that the sense of
 self can be outside ‘this, and this’; outside of the experience as a
-whole; outside of the five aggregates – whichever way you want to define
+whole; outside of the five aggregates—whichever way you want to define
 it.
 
 If I look in the direction of what I am attending, or in the direction
@@ -2006,7 +2234,7 @@ cannot be outside of it because all I have is ‘this, and this’. Even the
 thought ‘outside’ of this experience, and the external world; is within
 ‘this, and this’; within the attending it and having the memory of it.
 
-<div class="english">
+<div lang="en">
 
 > “Sir, are these the five assumed aggregates: form, feeling,
 > perception, intentions, and consciousness?”
@@ -2025,24 +2253,24 @@ thought ‘outside’ of this experience, and the external world; is within
 >
 > “Neither. Rather, the desire and greed for them is the assumption
 > there.”
+>
+> — <cite>[MN 109](https://suttacentral.net/mn109)</cite>
 
 </div>
 
-> – [MN 109](https://suttacentral.net/mn109)
-
 <u>**Two Directions, two points of view - concurrent attention.**</u>
 
-**Q**: That’s all that appears – ‘with this, this is’.
+**Q**: That’s all that appears—‘with this, this is’.
 
-**Nm**: And a lot more appears in between – but not outside of it. When
-I say ‘in between’, I don’t mean in a third place between the two. I
-mean, based on these two simultaneous directions. That’s why the Buddha
+**Nm**: And a lot more appears in between—but not outside of it. When I
+say ‘in between’, I don’t mean in a third place between the two. I mean,
+based on these two simultaneous directions. That’s why the Buddha
 described Namarupa Vinnana, Vinnana Namarupa. They mutually determine
 each other. Neither comes before the other. They are two sheaves of
 reeds leaning on each other equally. They cannot remain standing if one
 is removed.
 
-<div class="english">
+<div lang="en">
 
 > “Just as two sheaves of reeds might stand leaning against each other,
 > so too, with name-and-form as condition, consciousness comes to be;
@@ -2059,10 +2287,10 @@ is removed.
 > comes the cessation of the six sense bases; with the cessation of the
 > six sense bases, cessation of contact…. Such is the ending of this
 > whole mass of suffering.”
+>
+> — <cite>[SN 12.67](https://suttacentral.net/sn12.67)</cite>
 
 </div>
-
-> – [SN 12.67](https://suttacentral.net/sn12.67)
 
 **Q**: It might be useful to mention two common wrong views to
 illustrate what you mean by these two directions, for example,
@@ -2090,7 +2318,7 @@ same two points of view that are simultaneously present.
 These two points of view are all you ever have, it’s just that there are
 wrong views about what comes first; and everything else in between. That
 generally results in the weight of this experience being put on the
-sense of self as the owner – outside of this: The sense of self can
+sense of self as the owner—outside of this: The sense of self can
 remember, the sense of self can attend, the sense of self can do both,
 and look in between. But then you realize that that sense of self, as
 ambiguous as it is, is still an arisen phenomenon that you can have a
@@ -2106,10 +2334,10 @@ direct attention. It means neither of them can be the center or master
 of the experience. When there are two, there cannot be one owner. Any
 notion of the external world, any notion of scientific observation; has
 to be within these two points of view. Any notion of a solipsistic world
-where ‘I’ is first; has to be within these two points of view –
-Paticcasamuppada.
+where ‘I’ is first; has to be within these two points of
+view—<span lang="pi">Paticcasamuppada</span>.
 
-<div class="english">
+<div lang="en">
 
 > “Name-and-form is not created by oneself, nor is it created by
 > another, nor is it created both by oneself and by another, nor has it
@@ -2127,12 +2355,12 @@ Paticcasamuppada.
 > nor has it arisen fortuitously, being created neither by oneself nor
 > by another; but rather, with name-and-form as condition, consciousness
 > comes to be.”
+>
+> — <cite>[SN 12.67](https://suttacentral.net/sn12.67)</cite>
 
 </div>
 
-> – [SN 12.67](https://suttacentral.net/sn12.67)
-
-<div class="english">
+<div lang="en">
 
 > “Then the wanderer Vacchagotta approached the Blessed One … and said
 > to him:  
@@ -2169,16 +2397,16 @@ Paticcasamuppada.
 > ‘There is no self,’ the wanderer Vacchagotta, already confused, would
 > have fallen into even greater confusion, thinking, ‘It seems that the
 > self I formerly had does not exist now.’”
+>
+> — <cite>[SN 44.20](https://suttacentral.net/sn44.10)</cite>
 
 </div>
-
-> – [SN 44.20](https://suttacentral.net/sn44.10)
 
 Often, when people asked the Buddha about the sense of self; saying that
 ‘Master Gotama says there is no self \[implying that non-self is a
 self\]’ or any other mysticism; he would just be silent. However, on
 some other occasions, people did ask him the same question and he
-replied – but not to their question. He would say ‘with this, this is’,
+replied—but not to their question. He would say ‘with this, this is’,
 ‘with Vinnana, Namarupa; with Namarupa, Vinnana’. Why would he give that
 answer to ‘where is my sense of self?’. Then you realize that it’s
 because that is where the sense of self is.
@@ -2192,10 +2420,10 @@ The Buddha could describe ‘with this, this is’ (paticcasamuppada) in
 many different subtle details. But fundamentally, all you need to
 contemplate is the principle ‘with this, this is’ on the right level.
 
-With what, what is? With this – that which I’m directly attending to (my
-experience as a whole); and with this – the image of the experience as a
-whole – the memory of it simultaneously present. If that image-memory
-was not there, you wouldn’t know the experience as a whole, as the
+With what, what is? With this—that which I’m directly attending to (my
+experience as a whole); and with this—the image of the experience as a
+whole—the memory of it simultaneously present. If that image-memory was
+not there, you wouldn’t know the experience as a whole, as the
 experience you are attending to. These two points of view are
 simultaneous/concurrent: One feeds the other, one defines the other. If
 there are no senses that are attending and operating in their own
@@ -2206,37 +2434,37 @@ conscious being.
 
 So what then is the practice?
 
-Whatever happens throughout the day – make sure that you don’t forget
-the context of ‘with this, this is’.
+Whatever happens throughout the day—make sure that you don’t forget the
+context of ‘with this, this is’.
 
 Whether you’re recollecting birth or death, or Namarupa Vinnana; the
 principle of ‘with this, this is’; the principle of two simultaneously
 present things and everything else in between; always remains the same.
 The monk who establishes that rightly, doesn’t take ‘I’ to be first (to
 be his own), or forms in the world, or mental objects. Everything else
-in between – the feelings arising on account of perceptions, and all of
-the other experiences in between this relationship – he then equally
-won’t take as his.
+in between—the feelings arising on account of perceptions, and all of
+the other experiences in between this relationship—he then equally won’t
+take as his.
 
 If you make the effort to not ignore this right order, then whatever
-you’re experiencing – based on sense restraint, virtue and solitude, you
-include in the order ‘with this, this is’ – there is no outside of it.
-It doesn’t matter if it’s more on the mental memory side or more on the
+you’re experiencing—based on sense restraint, virtue and solitude, you
+include in the order ‘with this, this is’—there is no outside of it. It
+doesn’t matter if it’s more on the mental memory side or more on the
 palpable side; that’s why we keep saying the content doesn’t matter. The
 nature of things matters. It’s present as such. Whichever way it feels,
-it’s got to be felt within ‘with this, this is’ – not outside of it.
+it’s got to be felt within ‘with this, this is’—not outside of it.
 
 And when I think ‘outside of it’, that’s within the enduring body here,
 and the memory of the enduring body here. It’s still enclosed within the
 same principle. The moment you hammer that in, whereby you cannot forget
-that there is no outside of ‘with this, this is’ – that’s where your
+that there is no outside of ‘with this, this is’—that’s where your
 attavada is gone. You continue to operate externally. You might still
 look the same. But your assumption of external to ‘with this, this is’
-is now inconceivable – because it is inconceivable. ‘Conceiving’ is seen
+is now inconceivable—because it is inconceivable. ‘Conceiving’ is seen
 within it. Because you have developed the perspective of ‘with this,
 this is’ sufficiently enough to include the wildest of your careless
-fantasies, imaginations, assumptions… It’s still seen rightly, as second
-– within it.
+fantasies, imaginations, assumptions… It’s still seen rightly, as
+second—within it.
 
 Now if you sustain, invest effort, purify, establish, and endure that
 view; there will be no room for the slightest traces of conceit to
@@ -2254,7 +2482,7 @@ aversion, and delusion. Because all of those things imply a degree of
 that conceit, self-centeredness, and craving. But none of that can stand
 if this right view is hammered in.
 
-<div class="english">
+<div lang="en">
 
 > “Now this has been said by the Blessed One:”One who sees dependent
 > origination sees the Dhamma; one who sees the Dhamma sees dependent
@@ -2265,25 +2493,25 @@ if this right view is hammered in.
 > and lust for these five aggregates affected by assumption is the
 > cessation of suffering.’ At that point too, friends, much has been
 > done by that bhikkhu.”
+>
+> — <cite>[MN 28](https://suttacentral.net/mn28)</cite>
 
 </div>
-
-> – [MN 28](https://suttacentral.net/mn28)
 
 <u>**Beyond right view**</u>
 
 **Q**: Could it be correct to say that the removal of attavada is to see
-that view of paticcasamuppada rightly – as you described? And then you
+that view of paticcasamuppada rightly—as you described? And then you
 don’t need the view anymore. You can’t even have that pure view anymore
 if that conceit is removed because you would *be* it. In the sense that
 paticcasamuppada is what you are.
 
 **Nm**: Yes. For an Arahant, because there are no more traces of conceit
-left, he doesn’t need to recollect and re-establish that view – because
+left, he doesn’t need to recollect and re-establish that view—because
 there’s nothing perverting it. The suttas say that ‘the Arahant has gone
 beyond the view’. Which means, even the right view is gone. He doesn’t
-have it anymore because he has no wrong reference regarding it anymore –
-to define it.
+have it anymore because he has no wrong reference regarding it
+anymore—to define it.
 
 **Q**: Whereas someone who sees that has another reference point.
 
@@ -2325,22 +2553,21 @@ knowledge of ‘the way out’.
 order of phenomena, and the wrong order of phenomena. There is no third
 option. If the right order of phenomena is established ‘with this, this
 is’, dispassion will have to be an inevitable result. Like the simile of
-the river sloping down the mountain – the water has to go that way
-because that’s where the mountain slopes. If your slope is established
-upon the right order, the mind will have to slope towards nibbana,
-dispassion, cooling down, removal of ownership, and any traces of
-ownership of atta.
+the river sloping down the mountain—the water has to go that way because
+that’s where the mountain slopes. If your slope is established upon the
+right order, the mind will have to slope towards nibbana, dispassion,
+cooling down, removal of ownership, and any traces of ownership of atta.
 
 The moment you start seeing ‘the self’ (that ambiguous phenomenon we
 started describing) as ‘an ambiguous phenomenon that endures there
-peripherally’ – that’s already the beginning of relinquishing the
+peripherally’—that’s already the beginning of relinquishing the
 ownership of it. That’s why I keep saying that *you* don’t remove the
-attavada – you remove the ownership of it. Because it’s neither here nor
-there – but it’s known to be between the two. Thus, atta becomes
-an-atta. But the thing is there. The creature or individual – whatever
-you want to call it – is still there. That ambiguous sense of self of
-these 5 aggregates, of these memories, future plans, and everything else
-remains there; it’s just impossible to own.
+attavada—you remove the ownership of it. Because it’s neither here nor
+there—but it’s known to be between the two. Thus, atta becomes an-atta.
+But the thing is there. The creature or individual—whatever you want to
+call it—is still there. That ambiguous sense of self of these 5
+aggregates, of these memories, future plans, and everything else remains
+there; it’s just impossible to own.
 
 **Q**: Perhaps it’s necessary to emphasize that it’s ‘*direction*’; you
 can never access an endpoint to the direction.
@@ -2348,18 +2575,18 @@ can never access an endpoint to the direction.
 **Nm**: Even if you’re not necessarily thinking about either direction,
 you realize that you are within the two. Your non-thinking, your
 distraction, is within ‘with this, this is’. It’s within: What’s
-presently attended to, and the memory of it – even if it is presently
+presently attended to, and the memory of it—even if it is presently
 unattended to in unawareness.
 
 **Q**: What do you think about defining ‘with this, this is’ in terms of
 ‘the direction of what is attended to’ and ‘the direction of where
 attention is coming from’?
 
-**Nm**: Exactly. That’s what *yoniso* is. The womb of what you’re
-looking at. They are simultaneously present as ‘with this, this is’. So
-what you’re looking at, or touching, etc… it’s there where that image
-is. It’s not in you: ‘In me’ it’s ‘there’ where that image is. So, it’s
-just outside and more outside (internally speaking).
+**Nm**: Exactly. That’s what <span lang="pi">*yoniso*</span> is. The
+womb of what you’re looking at. They are simultaneously present as ‘with
+this, this is’. So what you’re looking at, or touching, etc… it’s there
+where that image is. It’s not in you: ‘In me’ it’s ‘there’ where that
+image is. So, it’s just outside and more outside (internally speaking).
 
 **Q**: Inaccessible.
 
@@ -2371,7 +2598,7 @@ The more you practice these two internal points of view (attention and
 present memory); the more external the whole thing becomes. They are
 becoming two external points of view, and thus there is nothing ‘in me’.
 
-<div class="english">
+<div lang="en">
 
 > “When a bhikkhu has no I-making, mine-making, and underlying tendency
 > to conceit regarding this conscious body; and in regard to all
@@ -2381,18 +2608,18 @@ becoming two external points of view, and thus there is nothing ‘in me’.
 > who enters and dwells in it, he is called a bhikkhu who has cut off
 > craving, stripped off the fetter, and, by completely breaking through
 > conceit, has made an end of suffering”
+>
+> — <cite>[AN 3.33](https://suttacentral.net/an3.33)</cite>
 
 </div>
-
-> – [AN 3.33](https://suttacentral.net/an3.33)
 
 The image ‘in me’ is already external to my own sense of self. The sense
 of self is external to itself thus it’s not mine. That’s why it’s a bit
 ambiguous in the suttas between the usage of ‘internal’ and ‘external’.
-Sometimes ‘internal’ basically stands for ‘mine’ – because that’s where
+Sometimes ‘internal’ basically stands for ‘mine’—because that’s where
 ‘mine’ is. Here, you will start internally, stop assuming the external
 world, and in the end; that ‘internal’ non-assumption of the external
-world is seen as a thing ‘out there’ – with purification from attavada.
+world is seen as a thing ‘out there’—with purification from attavada.
 That’s like the body there ‘to the extent necessary’. The image of the
 body, the memory of the body there, understood as ‘body there’, to the
 extent necessary for the final knowledge and the final uprooting of
@@ -2417,7 +2644,7 @@ cannot be mine.
 <u>**Remembering the right order**</u>
 
 The practice of sati is the practice of memory, for example, of your
-present body posture. *Memory* – not direct attention. Have a memory of
+present body posture. *Memory*—not direct attention. Have a memory of
 your presently enduring body posture. Have a memory of your presently
 enduring feeling. Have a memory of your presently enduring thoughts.
 Again, the memory of it. So emphasize the memory point of view, not the
@@ -2431,19 +2658,19 @@ choices ‘I’ make, ‘I’ have to be within ‘with this, this is’.
 **Nm**: Exactly. It resets the right order. Then when you inevitably
 have the thought that took you away from the principle of ‘with this,
 this is’, you don’t negate it, or try to get rid of it, stop thinking,
-focus… No, you have a memory of having it right here and now – because
-it is here and now. You do that long enough and the fact that it’s
+focus… No, you have a memory of having it right here and now—because it
+is here and now. You do that long enough and the fact that it’s
 inconceivable for it to be outside of ‘with this, this is’, will become
 established. There is no going back from there.
 
 Even if you then stop recollecting the two directions, a sotapanna’s
-knowledge cannot be undone – that it cannot be outside of these
+knowledge cannot be undone—that it cannot be outside of these
 directions. I can ignore this knowledge because I’m too occupied with
-the world or family. It doesn’t matter – the knowledge that it cannot be
+the world or family. It doesn’t matter—the knowledge that it cannot be
 outside of ‘with this, this is’ is still there. The gratuitous
-assumption of a self, living there independently (an owner) – and the
+assumption of a self, living there independently (an owner)—and the
 entire mass of suffering that is dependent on that deeply rooted
-perversion – is gone. That’s why there is no ‘second arrow’ hitting an
+perversion—is gone. That’s why there is no ‘second arrow’ hitting an
 Ariya Savaka as the suttas describe. Because that deeply perverted
 order, that projected you out there into even worse circumstances than
 you already are in, is gone.
@@ -2460,16 +2687,16 @@ view and ceasing to assume outside of yourself.
 
 **Q**: Because you know the escape.
 
-**Nm**: Yes, and factually the burden – to a great degree – has been
-made inconceivable. That’s also why the right view (freeing yourself of
-the assumption of self) surpasses all assumptions (upadanas). Because
+**Nm**: Yes, and factually the burden—to a great degree—has been made
+inconceivable. That’s also why the right view (freeing yourself of the
+assumption of self) surpasses all assumptions (upadanas). Because
 attavada is on the level of ‘with this, this is’. The upadana (or
 assumption) of ‘virtue and duty’ (silabatta parāmāsa), sensuality
 (kama), and all of the other wrong views, are not on the level of ‘with
 this, this is’. All views are contained within ‘with this, this is’.
-Somebody who has understood it is a sotapanna – is free from attavada –
-even though they might not be free from sensuality, ill will, and all of
-the other things that are in between.
+Somebody who has understood it is a sotapanna—is free from attavada—even
+though they might not be free from sensuality, ill will, and all of the
+other things that are in between.
 
 <u>**The Earth element**</u>
 
@@ -2481,29 +2708,29 @@ internally clung to or held as mine’ is undermined by the fact that
 ‘internal earth element’ and ‘external earth element’ both are earth
 element. Can we also contemplate that sutta by discerning that you
 cannot just have internal earth element, you cannot just have external
-earth element: You need to have both, for any of this to be – for all
+earth element: You need to have both, for any of this to be—for all
 elements.
 
 **Nm**: Yes. And that could also stand for the principle of ‘with this,
 this is’. It’s not on the level of directly attending to earth and
 staring at a piece of soil. It’s recollecting the great earth. Have a
-memory of what you are already in: ‘Be like earth’ – recall the
-properties of the earth that’s currently enduring.
+memory of what you are already in: ‘Be like earth’—recall the properties
+of the earth that’s currently enduring.
 
 Earth is not elsewhere while we talk and forget about it. You are on
 earth. Factually it’s there, it endures as the basis for your
 experience. What are the properties of that ‘external’ earth? Can this
 ‘internal’ earth that I’m paired with control any properties outside the
-properties of the earth – that are different from it? That would not be
+properties of the earth—that are different from it? That would not be
 affected if the great earth is affected? That’s inconceivable.
 
-Sustain that image; ‘with this, this is’ – there will be no room for the
+Sustain that image; ‘with this, this is’—there will be no room for the
 ownership to remain there clinging to this part or that part. You won’t
 be able to assume ‘I’m not this body but I am the universe’. Which
-universe? The one that changes against your will all the time –
-forcefully, violently, disrupts, erupts, gets destroyed? Look at those
-mountains – they come to destruction eventually. What is to be said of
-this tiny fickle body, in relation to the size of them – that’s equally
+universe? The one that changes against your will all the
+time—forcefully, violently, disrupts, erupts, gets destroyed? Look at
+those mountains—they come to destruction eventually. What is to be said
+of this tiny fickle body, in relation to the size of them—that’s equally
 unpredictable? ‘With this, this is’. The properties of this, cannot not
 be the properties of this inferior thing. That’s the practice of kasinas
 in a nutshell. The elements of earth, fire, water, air, space,
@@ -2512,17 +2739,17 @@ consciousness…
 The Buddha would describe a Brahmin establishing his mind on the level
 of that great earth. Anything inferior to that cannot perturb him. If
 you’re always thinking about the presently enduring earth, while you’re
-here on it, you’ll probably develop the contemporary *eco-anxiety* –
-worrying about what will happen to the earth. Even if it’s not ecology
-related, you’re going to have anxiety if you’re not relinquishing your
-sense of self. If you don’t know what comes first and what to look for.
-Because you realize that all of your life’s concerns, joys, possessions,
-future, past… presuppose this enduring planet of earth. You are bound
-with this great lump of soil that is simultaneously present; as an
-uncontrollable, unownable basis for experience. Now, if your mind is
-established on that level, i.e. it has relinquished the ownership of
-everything inferior to the earth; any changes inferior to the earth
-changing could not bother you.
+here on it, you’ll probably develop the contemporary
+*eco-anxiety*—worrying about what will happen to the earth. Even if it’s
+not ecology related, you’re going to have anxiety if you’re not
+relinquishing your sense of self. If you don’t know what comes first and
+what to look for. Because you realize that all of your life’s concerns,
+joys, possessions, future, past… presuppose this enduring planet of
+earth. You are bound with this great lump of soil that is simultaneously
+present; as an uncontrollable, unownable basis for experience. Now, if
+your mind is established on that level, i.e. it has relinquished the
+ownership of everything inferior to the earth; any changes inferior to
+the earth changing could not bother you.
 
 However, those Brahmins that could factually establish their minds in
 the right order, on the right level, and to the right extent; did not
@@ -2543,21 +2770,21 @@ The same goes for somebody concerned with this inferior earth as an
 internal ‘me’, or ‘my body’. You can cultivate and apply the properties
 of that great earth to it; that is unbothered by people throwing stuff
 on it, digging it, and destroying it. These things make no difference to
-the great earth. Apply those same properties to this internal body –
-because it is the same element – and you will see that it’s your
+the great earth. Apply those same properties to this internal
+body—because it is the same element—and you will see that it’s your
 ownership that created that gratuitous division of ‘mine’; ‘internal’
 and ‘external’ etc…
 
 </div>
 
-<div id="transcript_undermining-the-sense-of-self.md">
+<div id="transcript_undermining_the_sense_of_self.md">
 
 ## 296hh- Undermining the Sense of Self
 
 **Ajahn Nyanamoli:** What would be the measure of success in this
 practice?
 
-**Q:** The full development of *anatta*.
+**Q:** The full development of <span lang="pi">*anatta*</span>.
 
 **Nm:** How does one go about developing that?…
 
@@ -2577,9 +2804,10 @@ that’s it.
 You will of course fall from that view, and you certainly won’t even do
 it right the first time. But, if you know that’s what you’re supposed to
 do, i.e not try to remove the *sense of self*, but simply set up the
-correct way of attending to it, by way of *yoniso* of that attention,
-(Peripherally knowing it concurrently with that which is being
-attended.) then you stand a chance for that view to take root.
+correct way of attending to it, by way of
+<span lang="pi">*yoniso*</span> of that attention, (Peripherally knowing
+it concurrently with that which is being attended.) then you stand a
+chance for that view to take root.
 
 You can presently recollect your *sense of self* now as we speak. It
 doesn’t matter whether it’s exemplified through a clear thought or
@@ -2712,9 +2940,9 @@ to it. The purpose isn’t to avoid doubts, but rather to overcome them
 with the same principle of non-ownership. Doubt cannot access that which
 precedes it, which is its necessary basis.
 
-MN 38, Mahātaṇhāsaṅkhaya Suttaṃ:
+<cite>MN 38, Mahātaṇhāsaṅkhaya Suttaṃ</cite>:
 
-<div class="english">
+<div lang="en">
 
 > On one occasion the Blessed One was living at Sāvatthī in Jeta’s
 > Grove, Anāthapiṇḍika’s Park…

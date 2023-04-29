@@ -55,6 +55,7 @@ layout: post
 [265hh- Seven Factors of Enlightenment](/hillside_hermitage_archive/transcriptions/03.01.0256_transcript_Seven_Factors_of_Enlightenment.html)\
 [257hh- Only The Noble Truth Of Pain](/hillside_hermitage_archive/transcriptions/03.01.0257_transcript_Only_The_Noble_Truth_Of_Pain.html)\
 [258hh- Simile of The Son’s Flesh](/hillside_hermitage_archive/transcriptions/03.01.0258_transcript_Simile_of_The_Sons_Flesh.html)\
+[281hh- Abundant Theory and Lack of Endurance](/hillside_hermitage_archive/transcriptions/03.01.0281_transcript_Abundant_Theory_and_Lack_of_Endurance.html)\
 [284hh- The Meaning of Right Samadhi](/hillside_hermitage_archive/transcriptions/03.01.0284_transcript_The_Meaning_of_Right_Samadhi.html)\
 [287hh- How To Abandon Self View](/hillside_hermitage_archive/transcriptions/03.01.0287_transcript_How_To_Abandon_Self_View.html)\
 [296hh- Undermining the Sense of Self](/hillside_hermitage_archive/transcriptions/03.01.0296_transcript_Undermining_the_Sense_of_Self.html)
