@@ -19,7 +19,7 @@ toc:
   h_max: 3
 
 # markdown render engine.
-markdown:         GFM
+markdown:         kramdown
 kramdown:
   auto_ids:               true
   input:                  GFM
