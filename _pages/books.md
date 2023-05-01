@@ -19,7 +19,7 @@ by Ajahn Nyanamoli Thero\
 <br>
 
 ### *Dhamma Within Reach*
-*A Guide to Edurance, Patience and Wisdom*\
+*A Guide to Endurance, Patience and Wisdom*\
 by Ajahn Nyanamoli Thero\
 ![Dhamma Within Reach](/hillside_hermitage_archive/images/dhamma_within_reach_small.jpg)\
 [[EPUB]](/hillside_hermitage_archive/books/Dhamma_Within_Reach-Ajahn_Nyanamoli_Thero.epub)
@@ -46,3 +46,6 @@ by Ajahn Nyanamoli Thero\
 [[EPUB]](/hillside_hermitage_archive/books/HH_collected_essays_and_transcriptions.epub)
 [[AZW3]](/hillside_hermitage_archive/books/HH_collected_essays_and_transcriptions.azw3)
 [[MOBI]](/hillside_hermitage_archive/books/HH_collected_essays_and_transcriptions.mobi)
+[[KEPUB\*]](/hillside_hermitage_archive/books/HH_collected_essays_and_transcriptions.kepub.epub)
+
+\* An epub with Kobo-specific markup. It is suggested to not use Calibre to add the kepub to your Kobo device. If you use Calibre to manage books on your Kobo device, download the regular epub.
