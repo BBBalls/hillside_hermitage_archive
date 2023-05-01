@@ -1436,9 +1436,9 @@ of control. It can end at any moment. And the Buddha said that that is
 the foremost of the outsiders’ views. The point was that, if you do not
 just think that view once a month, but start, whenever you want to act
 towards the world, towards him, her, or this, or that, you put that view
-first: “\_I am not anything belonging to anyone anywhere, nor is there
-anything belonging to me in anyone anywhere, or ‘I might not be and it
-might not be mine; I shall not be, and it will not be mine.\_’” And by
+first: “*I am not anything belonging to anyone anywhere, nor is there
+anything belonging to me in anyone anywhere, or* *‘I might not be and it
+might not be mine; I shall not be, and it will not be mine.’*” And by
 doing so you would not be able to engage in passion, aversion, or
 distraction.
 

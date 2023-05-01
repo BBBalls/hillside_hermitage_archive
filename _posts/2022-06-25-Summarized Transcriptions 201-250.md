@@ -1705,7 +1705,7 @@ the pleasure of withdrawal is unwholesome:
 > nothing to do with unskillful qualities, but that pleasure is not easy
 > to achieve with a body so extremely emaciated…”
 >
-> — [MN 36](https://suttacentral.net/mn36)</cite>
+> — <cite>[MN 36](https://suttacentral.net/mn36)</cite>
 
 </div>
 
@@ -3935,28 +3935,27 @@ and doing meditation for the wrong reasons. Are you doing meditation
 just to get away from things, to not deal with them? Or, to calm your
 mind *in regard to* the things that are still there, that are otherwise
 agitating you? Am I trying to avoid the pain, or am I trying to calm my
-mind in regard to the pain, not trying to get rid of it - that is the
+mind in regard to the pain, not trying to get rid of it—that is the
 fundamental difference there.
 
 That’s why it is important what view a person carries in regard to
-meditation. Most contemporary meditation notions - even when people have
-genuine reasons \[initially behind wanting to practice it\] - imply some
+meditation. Most contemporary meditation notions—even when people have
+genuine reasons \[initially behind wanting to practice it\]—imply some
 sort of special pleasant experience that you will get if you commit to a
 technique, a pleasure which will overwhelm you, and easily allow
 yourself to conclude that you had a very ‘successful meditation’.
 
 That is not ‘calming’ to begin with; and also it is in line with the
 same principal of sensuality, i.e. ‘I’m bothered; let me do certain
-things - let me work, let me gain - and then \[as a result of my
-efforts\] let me enjoy this vast amount of pleasure that will make me
-very satisfied’.
+things—let me work, let me gain—and then \[as a result of my efforts\]
+let me enjoy this vast amount of pleasure that will make me very
+satisfied’.
 
 Sometimes people realise that sensuality cannot really provide that
-\[lasting satisfaction\] - then they turn to meditation, but they don’t
+\[lasting satisfaction\]—then they turn to meditation, but they don’t
 change their attitude. The whole idea of jhanas being a pleasure that
-overwhelms you, a kind of ecstasy - is the exact same view of
-sensuality, just replacing the object that you usually chase with a
-different one.
+overwhelms you, a kind of ecstasy—is the exact same view of sensuality,
+just replacing the object that you usually chase with a different one.
 
 Would you consider yourself to be calming yourself down; while you are
 cultivating expectations, asking ‘when will this pleasure arrive, when
@@ -4004,14 +4003,14 @@ everything else out.
 
 When touched by pain, the only thing an untrained ordinary person knows
 is to seek pleasure. It doesn’t matter whether he seeks pleasure through
-food, company, others - or meditation. *He seeks pleasure, because he
+food, company, others—or meditation. *He seeks pleasure, because he
 doesn’t want to deal with the pain.* That is why it is a sensual view
-that underlies that meditation - any meditation of that kind.
+that underlies that meditation—any meditation of that kind.
 
 Meditation is not about replacing the experience that has arisen, it is
 about thoroughly knowing it while it’s there. But the point will come
 when, in order to fully understand it, you need to learn how to stay
-calm, within it - and that is the role of the proper *samadhi*.
+calm, within it—and that is the role of the proper *samadhi*.
 
 That is why the right view is the necessary basis for the right
 *samadhi*, because the right view will know that it is about enduring
@@ -4024,15 +4023,15 @@ which agitated you is still there, now you get to understand it, because
 the mind sees clearly when it is calm.
 
 The pleasure that the Buddha talks about, the pleasure that is different
-from the pleasure of sensuality - is that very pleasure of not being
+from the pleasure of sensuality—is that very pleasure of not being
 bothered, pleasure of being withdrawn, pleasure of sense restraint.
 
 It is a pleasure that you cannot crave for more of, because it didn’t
 come in that external sense of just replacing \[one experience with
-another\] - as in just something that overwhelms you. Even the pleasure
-of *jhana* is the pleasure of that withdrawal from beforehand, that is
-what the pleasure belongs to, not to the *jhana* \[as such\]. It is a
-result of that seclusion and non-activity.
+another\]—as in just something that overwhelms you. Even the pleasure of
+*jhana* is the pleasure of that withdrawal from beforehand, that is what
+the pleasure belongs to, not to the *jhana* \[as such\]. It is a result
+of that seclusion and non-activity.
 
 <div lang="en">
 
@@ -4049,13 +4048,13 @@ result of that seclusion and non-activity.
 
 </div>
 
-What is truly disturbing is that movement of the mind - and you *seeking
+What is truly disturbing is that movement of the mind—and you *seeking
 pleasure* is just another movement. Another expectation, another
-anticipation, whether you get it or not doesn’t matter - you are still
+anticipation, whether you get it or not doesn’t matter—you are still
 relying on the perpetual movement of the mind, to remain floating. That
 is not peaceful or calming, even if you get all the pleasure you want in
 the world. So the true *samatha*, then is calming of those movements and
-those activities, or *sankharas*, intentions of the mind - calming that,
+those activities, or *sankharas*, intentions of the mind—calming that,
 within whatever you are intending towards, or against.
 
 <div lang="en">
@@ -4070,22 +4069,22 @@ within whatever you are intending towards, or against.
 In order to calm your intentions on the mental level, you need to have
 calmed your body and speech, restrained it sufficiently long beforehand.
 THEN you can actually start calming that movement, the movement of the
-mind - but not at the expense of what is agitating you, that remains;
-that actually serves almost as a criteria for whether you are calm now,
-or not. It’s easy to be calm when there is nothing bothering you. But
-the very reason people don’t want to live in seclusion, not partake in
-company, and guard the sense doors - is that it is very disturbing.
+mind—but not at the expense of what is agitating you, that remains; that
+actually serves almost as a criteria for whether you are calm now, or
+not. It’s easy to be calm when there is nothing bothering you. But the
+very reason people don’t want to live in seclusion, not partake in
+company, and guard the sense doors—is that it is very disturbing.
 
 That is why the gradual training is about *building that up*, because
 that is the most disturbing thing. When you start saying no to desiring
 sense pleasures and guarding the sense doors, avoiding company, it is
 very disturbing for the mind that depends on those movements,
 engagements and activities. Solitude, seclusion, withdrawal from the
-senses, confinement - it basically feels like dying. It is the
-withdrawal of a heavy addiction: \[your mind is\] an addict who has been
-depending on the senses for aeons, not only this life. If you think
-cigarettes are hard to give up, or heroin, try giving up the entire
-domain of pleasure dependent on the senses and existence in general.
+senses, confinement—it basically feels like dying. It is the withdrawal
+of a heavy addiction: \[your mind is\] an addict who has been depending
+on the senses for aeons, not only this life. If you think cigarettes are
+hard to give up, or heroin, try giving up the entire domain of pleasure
+dependent on the senses and existence in general.
 
 **Q:** Even on that small scale in terms of little things like addiction
 to smoking, you can get a glimpse of the relief that comes from not
@@ -4096,13 +4095,13 @@ when you are not drawn by anything in the world. No addiction, you are
 completely dry of it, such that even if you have thoughts \[of sensual
 objects?\], they are not *sensual thoughts* in the sense of thoughts
 that would immediately pressure you. That’s a true relief, a true peace,
-laying down a burden. But there is no magical way to achieve this, i.e -
-‘watch your left nostril, watch your right, three steps left’ - there is
-only the withdrawal from that which you are addicted to. That is the
+laying down a burden. But there is no magical way to achieve this,
+i.e—‘watch your left nostril, watch your right, three steps left’—there
+is only the withdrawal from that which you are addicted to. That is the
 ‘magical way’; and you need to be *sufficiently* withdrawn. For how
 long, depends on how strongly you were addicted.
 
-**<cite>MN 107 - The Discourse to Ganaka-Moggallana<cite>:**
+**<cite>MN 107—The Discourse to Ganaka-Moggallana</cite>:**
 
 <div lang="en">
 
@@ -4123,7 +4122,7 @@ long, depends on how strongly you were addicted.
 > restraint over the faculty of the eye—evil, unskillful qualities such
 > as greed or distress might assail you. Practice for its restraint.
 > Protect the faculty of the eye. Attain restraint with regard to the
-> faculty of the eye. On hearing a sound with the ear…. On smelling an
+> faculty of the eye. On hearing a sound with the ear… On smelling an
 > aroma with the nose…. On tasting a flavor with the tongue…. On
 > touching a tactile sensation with the body…. On cognizing an idea with
 > the intellect, don’t grasp at any signs and features by which—if you
@@ -4204,21 +4203,21 @@ long, depends on how strongly you were addicted.
 </div>
 
 **Ajahn Nyanamoli:** That’s the ‘technique.’ The technique of basically
-overcoming *the* addiction of the addictions - i.e. the addiction of the
-senses - without replacements. People can often replace it, committing
-to something else, even more activity, work, perpetual distraction,
-company - which would keep the mind away from actually seeking sense
+overcoming *the* addiction of the addictions—i.e. the addiction of the
+senses—without replacements. People can often replace it, committing to
+something else, even more activity, work, perpetual distraction,
+company—which would keep the mind away from actually seeking sense
 pleasures on a course level, but without uprooting anything. It is just
 like a heroin addict finding something else to keep his mind addicted
 to, which is not dealing with it. The moment those activities become
 unavailable, the resting place of his mind is where his addiction still
 is, so he will go back to that which he hasn’t uprooted.
 
-So that is what ‘meditation’ is - once you have sufficiently,
-wholesomely disturbed your mind by unwavering sense restraint,
-seclusion, guarding of the sense doors - now you learn to calm within
-that. Not abandon it, but calm; still the agitation aspect of it, so
-that you can carry on, because you realise that that’s the way out.
+So that is what ‘meditation’ is—once you have sufficiently, wholesomely
+disturbed your mind by unwavering sense restraint, seclusion, guarding
+of the sense doors—now you learn to calm within that. Not abandon it,
+but calm; still the agitation aspect of it, so that you can carry on,
+because you realise that that’s the way out.
 
 <div lang="en">
 
@@ -4244,15 +4243,15 @@ that you can carry on, because you realise that that’s the way out.
 because\] that would become another activity you will now *do*. The only
 way to do it is to endure it, and through that endurance, when you have
 no room to move left, right, forward or backward, you will find the way
-to calm yourself - BY not moving left, right, forward or backward.
+to calm yourself—BY not moving left, right, forward or backward.
 
-That’s also why you cannot accidentally become enlightened - who would
+That’s also why you cannot accidentally become enlightened—who would
 accidentally become free from addiction through enduring the pain of
 withdrawal for six months? Without a reason, without a determined goal
 to go through that and do that work? Who would accidentally somehow just
 choose to do that for so long that they then become free? There has to
 be some knowledge, and some will behind it, to commit to that training
-and see benefit in it. Again - cigarettes, alcohol, heroin, all are
+and see benefit in it. Again—cigarettes, alcohol, heroin, all are
 particular addictions, *within* sensuality. Now you are giving up the
 entire domain of pleasure that is based on activity through the senses.
 
@@ -4268,12 +4267,12 @@ base.
 That is why from the point of view of developing your mind, it is
 actually better to start by keeping even the five precepts, but taking
 them *for the rest of your life*. The five precepts for the rest of your
-life is what would start to become that ‘wide base’ - and it has to be
+life is what would start to become that ‘wide base’—and it has to be
 done in that sense. A heroin addict will not free himself if he goes to
 rehab only on the weekends and then continues as normal throughout the
-week. So take on the five precepts - forever. That is already going to
-be a confinement for the mind that is addicted to chasing sense
-pleasures - and that’s the weight you need to start taking on in the
+week. So take on the five precepts—forever. That is already going to be
+a confinement for the mind that is addicted to chasing sense
+pleasures—and that’s the weight you need to start taking on in the
 gradual training, it’s the whole point. That’s what the lay followers in
 suttas did:
 
@@ -4288,15 +4287,15 @@ suttas did:
 </div>
 
 It means that five precepts are now the basis of your sense restraint
-and confinement, which is very easy, not even really confining - but
-they must be taken in the ultimate sense. Then, if on top of that you
-want to sometimes keep the eight precepts, good; but then if you don’t
-keep the eight precepts there is no falling lower than the five
-precepts, that is your basis. And that must remain your basis.
+and confinement, which is very easy, not even really confining—but they
+must be taken in the ultimate sense. Then, if on top of that you want to
+sometimes keep the eight precepts, good; but then if you don’t keep the
+eight precepts there is no falling lower than the five precepts, that is
+your basis. And that must remain your basis.
 
 Then, if you do really want to free yourself once and for all, or at
-least make an attempt for it, then you should take the eight precepts -
-again, in the ultimate sense, *for the rest of your life.*
+least make an attempt for it, then you should take the eight
+precepts—again, in the ultimate sense, *for the rest of your life.*
 
 Through that, because now that’s something you must protect, you’re
 forced to be mindful. You’re forced to be moderate and not overdo things
@@ -4305,7 +4304,7 @@ guard your senses; because if you don’t, it becomes very unpleasant in
 the confinement of the eight precepts. That’s how you start taming your
 mind.
 
-**<cite>MN 125 - Taming the wild elephant simile</cite>:**
+**<cite>MN 125—Taming the wild elephant simile</cite>:**
 
 <div lang="en">
 
@@ -4379,12 +4378,12 @@ mind still kicks and screams, and now you are calming it *without*
 abandoning withdrawal, *without* giving in to the senses, *without*
 letting the elephant go back to the jungle to have a break.
 
-Then there is no going back - \[which is the very meaning of\]
+Then there is no going back—\[which is the very meaning of\]
 ‘non-return’. One who abandons sensuality is *not coming back to this
 world*, for that very reason. He has abandoned dependence on anything
 from this world. It is not a poetic name, ‘non-return’, but factual. He
-is never returning to any previous addiction, it’s inconceivable - like
-a stone split in half cannot be drawn together, irreversible. If you
+is never returning to any previous addiction, it’s inconceivable—like a
+stone split in half cannot be drawn together, irreversible. If you
 accomplish ‘going against the grain’, going against samsara, it’s
 irreversible, you can’t go back down, impossible. That’s why the free
 mind is known as ‘free mind.’
@@ -4395,11 +4394,11 @@ back…
 **Ajahn Nyanamoli:** Yes, because they haven’t uprooted their view of
 sensuality. But even in that sense, you can get a glimpse of the same
 principle. Suppose you free yourself from that addiction to cigarettes
-for example - then you go back to cigarettes and it is sickening. It
-would take a lot of effort to work through that and become addicted
-again. And it’s kind of impossible for you to now go through that work
-carelessly, knowing what you have been through, when you have truly
-freed yourself from the addiction of it.
+for example—then you go back to cigarettes and it is sickening. It would
+take a lot of effort to work through that and become addicted again. And
+it’s kind of impossible for you to now go through that work carelessly,
+knowing what you have been through, when you have truly freed yourself
+from the addiction of it.
 
 \[In the same way,\] having fully uprooted the view of sensuality, fully
 understood the danger of it, it’s just impossible for the mind to even
@@ -4617,16 +4616,15 @@ or the pleasures of the feminine body, which then results in seeking the
 external counterpart. So the whole point is to become developed in
 regard to your own body. It’s not about saying “there is no gender, this
 masculinity is just an illusion.” Yes, in a sense, there is no gender as
-in no gender that is yours, that can be owned by you - but factually,
-the body is so. It is such - with such hormones, with such
-predispositions, such height and shape and so on - and that’s not a
-problem.
+in no gender that is yours, that can be owned by you—but factually, the
+body is so. It is such—with such hormones, with such predispositions,
+such height and shape and so on—and that’s not a problem.
 
 The problem is that there is a basis of pleasure that can arise on
 account of the body and your mind is not developed in regard to that. So
 when the prospect of pleasure makes itself apparent, you are accepting
 the body and accepting the ownership. You are carelessly identifying and
-taking up the ownership of whatever you are paired with - in this case,
+taking up the ownership of whatever you are paired with—in this case,
 the masculine aspects. As a result, you seek pleasure even further
 outside, which is the counterpart for it. Again as a result of that, you
 seek the union and become dependent on the pleasure of the union and
@@ -4673,7 +4671,7 @@ all you can have.
 
 But you will not be able to reach the basic level of this clarity if you
 are *still* acting on account of the assumption of the external coming
-first. And your body, your desire, the pressure being second - as just a
+first. And your body, your desire, the pressure being second—as just a
 response to the impulse. For as long as you keep that picture perverted,
 there is no development, there is no uprooting of sensuality, and there
 is no abandoning of masculinity or femininity.
@@ -4707,9 +4705,9 @@ second as first.
 **Nm:** What is first is the framework of your senses, there is no
 outside of it, you are fully enclosed within it. You start recognizing
 that, and you will start experiencing deep anxiety because you realize
-you are utterly, utterly enclosed - trapped - within yourself. And any
-notion of the external world or external pleasure - it is not that it is
-“not real” - it’s real, but it’s also enclosed with you, it’s within.
+you are utterly, utterly enclosed—trapped—within yourself. And any
+notion of the external world or external pleasure—it is not that it is
+“not real”—it’s real, but it’s also enclosed with you, it’s within.
 \[It’s almost like a sense of being\] ‘buried alive’ as we spoke before.
 
 That’s why underlying tendencies just push you in the direction of
@@ -4776,19 +4774,19 @@ misconceiving:
 
 </div>
 
-So it exists then as external, although it can’t - by not knowing that
+So it exists then as external, although it can’t—by not knowing that
 that is how it exists for you. That’s the fundamental perversion of the
 order. Sensuality is that, <span lang="pi">*bhava*</span> is that. So
-seeing that your senses come first - (and you can only see that if you
+seeing that your senses come first—(and you can only see that if you
 have not been acting out of them if you have been withdrawn from that
-pressuring addiction of scratching the itch by external means) - when
-you see that, you start seeing that there is no outside of this, and
-even your thoughts of “outside”- it’s not that you stop having them, you
-just see them correctly, as “within this.”
+pressuring addiction of scratching the itch by external means)—when you
+see that, you start seeing that there is no outside of this, and even
+your thoughts of “outside”- it’s not that you stop having them, you just
+see them correctly, as “within this.”
 
 So the clearer that becomes, the lesser the perversion you are living on
 a day-to-day basis, so to speak. Up to the point where the perversion
-would become completely eradicated - doesn’t matter what you see, hear,
+would become completely eradicated—doesn’t matter what you see, hear,
 smell, taste, touch, or think, you cannot fall back into the assumption
 of the wrong order, because the right order has been thoroughly
 understood, such that the perversion can’t take place any more. And
@@ -4797,12 +4795,11 @@ that’s when you know you’re free from
 being. The pleasure of the external kind was not the sensuality, it was
 because of the perversion of the order that the sensuality was there.
 
-That’s exactly what that sutta (<cite>AN 7.51</cite>) describes -
-through not being developed in regard to what comes first - for a man
-it’s the masculine framework of the body and the senses; for a woman,
-it’s the feminine framework of the body and the senses - you start
-spilling outside, assuming outside, becoming even more dependent on the
-outside.
+That’s exactly what that sutta (<cite>AN 7.51</cite>) describes—through
+not being developed in regard to what comes first—for a man it’s the
+masculine framework of the body and the senses; for a woman, it’s the
+feminine framework of the body and the senses—you start spilling
+outside, assuming outside, becoming even more dependent on the outside.
 
 **Q:** “Not being developed” means…?
 
@@ -4846,7 +4843,7 @@ not taking it for granted anymore.
 Eventually, then you will be able to see it as not yours. It’s not that
 now you need to just “see it as not mine.” It is by not acting out of
 it, guarding your sense doors, taking responsibility for it, allowing it
-to endure, and not trying to get rid of it - all of these are ways of
+to endure, and not trying to get rid of it—all of these are ways of
 practicing \[towards\] “not mine.” When that is sufficiently cultivated,
 then that whole perverted order on account of taking up the pressure as
 mine would have faded or would have diminished sufficiently for you to
@@ -4861,18 +4858,18 @@ woman’s body.” \[or the opposite.\]
 
 **Nm:** See, the problem with that is that it is taking it in the sense
 of an external duty that one must do. “When lust is present, I must do
-*this*.” No - When lust is present you must acknowledge it, and
-recognize the mind of lust as the mind of lust. As opposed to - “Mind of
-lust - \[I immediately turn away from it and\] do this. The mind of
-non-lust - I do that. Either way, I will try to not be aware of myself
-because it’s too unpleasant.” So when the mind of lust is there, that
-needs to be endured.
+*this*.” No—When lust is present you must acknowledge it, and recognize
+the mind of lust as the mind of lust. As opposed to—“Mind of lust—\[I
+immediately turn away from it and\] do this. The mind of non-lust—I do
+that. Either way, I will try to not be aware of myself because it’s too
+unpleasant.” So when the mind of lust is there, that needs to be
+endured.
 
 If you are jumping into the practice of
 “<span lang="pi">*asubha*</span>” immediately, you are acting out of it.
-You are not allowing it to be for what it is - the phenomenon of lust,
-mind affected by lust - you’re just trying to get rid of it. Which is
-exactly the motion of sensuality - when lust is present you immediately
+You are not allowing it to be for what it is—the phenomenon of lust,
+mind affected by lust—you’re just trying to get rid of it. Which is
+exactly the motion of sensuality—when lust is present you immediately
 jump into the sensuality to get rid of that painful itch. So now you
 learn that this is bad, and now you go “when lust is present what do I
 do?” And you jump into acting out \[in another way\] *still to get rid
@@ -4889,12 +4886,12 @@ the more you do it rooted in wrong reasons.
 
 So the mind of lust is present; then the first thing you know is “okay,
 I should not act out of this. But I should do
-<span lang="pi">*asubha*</span> - when the mind of lust is NOT present.”
+<span lang="pi">*asubha*</span>—when the mind of lust is NOT present.”
 Otherwise, your practice of <span lang="pi">*asubha*</span> is rooted in
 lust, trying to deny the lust. And why would you try to deny the lust?
 Because you don’t want to endure it. The first step of patient endurance
 is what you do not even want to do. So all the subsequent steps are
-based on <span lang="pi">*sīlabbataparāmāso*</span> - avoiding
+based on <span lang="pi">*sīlabbataparāmāso*</span>—avoiding
 responsibility for the first step of patiently enduring it, not trying
 to get rid of it.
 
@@ -4916,15 +4913,15 @@ to lust. So now I can contemplate <span lang="pi">*asubha*</span>.
 **Nm:** Exactly, so there is no “mind of lust” actively present, but if
 I ask “am I free from lust? Well…” So now you should contemplate and try
 to redefine the framework of attractive by seeing it as unattractive,
-create a broader context of unattractive - because that is there. Just
-you haven’t been looking at those aspects. But you can only do that
-right when the mind is properly established; i.e. when you are not
-rooted in trying to get rid of things, that lazy avoidance of endurance.
+create a broader context of unattractive—because that is there. Just you
+haven’t been looking at those aspects. But you can only do that right
+when the mind is properly established; i.e. when you are not rooted in
+trying to get rid of things, that lazy avoidance of endurance.
 
 Q: Properly established means “being able to patiently endure.”
 
 Nm: To have not acted out of it, so that you are not gripped by lust.
-And in that frame of mind, you can contemplate - contemplate the
+And in that frame of mind, you can contemplate—contemplate the
 <span lang="pi">*asubha*</span>, contemplate the danger, all of these
 things. Then when the ‘activated’ lust comes back, you wouldn’t need to
 be asking “oh, what do I do now?” Because if you had sufficiently
@@ -4952,7 +4949,7 @@ person’s* body. Is it not better to look at this body, your body?
 affected by lust at the time, you can do it either internally or
 externally; it doesn’t matter. If you do it externally your body will be
 included in that contemplation; if you do it internally other’s bodies
-will be included in that - as long as it is not done based on lust and
+will be included in that—as long as it is not done based on lust and
 trying to avoid the endurance of a mind of lust or any other unwholesome
 hindrance.
 
@@ -4992,23 +4989,22 @@ beautification, the anxiety you have if it gets sick, the suffering of
 the senses failing, all of that is on the level of when you already took
 it for granted.
 
-So you cannot just say “I will un-take it” - or “I will just let go of
-it” -it’s not a matter of direct choice. But what you can do is first,
-stop acting out of the form being taken for granted; i.e. stop acting
-towards external pleasures, start practicing sense restraint, endure
-your senses and their own patigha, endure the pressure, and try to see
-it as impersonal as possible.
+So you cannot just say “I will un-take it”—or “I will just let go of it”
+-it’s not a matter of direct choice. But what you can do is first, stop
+acting out of the form being taken for granted; i.e. stop acting towards
+external pleasures, start practicing sense restraint, endure your senses
+and their own patigha, endure the pressure, and try to see it as
+impersonal as possible.
 
 Then if you become more accustomed to this, (which is what
-<span lang="pi">*samadhi*</span> is, basically - being unmoved, by
-having sufficiently endured it)- that is, more accustomed to the
-interior of your senses (which is all you ever had, there is no
-“exterior” to your own experience, it’s a contradiction in terms) then,
-being accustomed to this, stop resisting it, you can see it as simply “a
-thing there.”
+<span lang="pi">*samadhi*</span> is, basically—being unmoved, by having
+sufficiently endured it)- that is, more accustomed to the interior of
+your senses (which is all you ever had, there is no “exterior” to your
+own experience, it’s a contradiction in terms) then, being accustomed to
+this, stop resisting it, you can see it as simply “a thing there.”
 
 So it doesn’t mean “I need to become feminine in order to overcome my
-masculinity” or vice versa, no - that’s just you acting out of whatever
+masculinity” or vice versa, no—that’s just you acting out of whatever
 you have, trying to deny it with the opposite. All you need to do is
 stop taking it for granted and stop assuming ownership of it.
 
@@ -5041,15 +5037,15 @@ stop taking it for granted and stop assuming ownership of it.
 **Nm:** The opening is not finding another direction apart from the
 senses, or denial of the senses. The “opening amidst confinement” is the
 removal of the ownership of that which confines you. Complete
-non-appropriation - which begins with the first
+non-appropriation—which begins with the first
 <span lang="pi">*jhana*</span>.
 
 So it’s not like you find the opening in the aggregates by which you can
 sort of “slip out” of samsara. No, you *are* confined by everything that
 appears. <span lang="pi">*Nama-rupa paccaya vinnana. Vinnana paccaya
-nama-rupa*</span> - that is the ultimate confinement. So what is, then,
+nama-rupa*</span>—that is the ultimate confinement. So what is, then,
 the “opening” amidst that, the opening within already being fully buried
-alive - it is the removal of the ownership of that situation in its
+alive—it is the removal of the ownership of that situation in its
 entirety. That’s why in the first <span lang="pi">*jhana*</span> there
 is no sense of “I am” as in “I am entering the first
 <span lang="pi">*jhana*</span>”. It’s not that there is no sense of the
@@ -5062,7 +5058,7 @@ self. Complete removal of that ownership and conceit is the subtlest of
 the openings, so to speak, amidst everything that confines.
 
 **Q:** That’s why it says that the first <span lang="pi">*jhana*</span>
-is an opening, that escape - but now, as the sutta continues to state,
+is an opening, that escape—but now, as the sutta continues to state,
 could one see that there is still confinement there?
 
 **Nm:** Yes, but now it is getting abstract. If a person develops the
@@ -5071,8 +5067,8 @@ true <span lang="pi">*okāsā*</span> (opening) among
 <span lang="pi">*sambādhe*</span> (confinement) then the principle of
 other <span lang="pi">*jhanas*</span> will become apparent. But if
 somebody tries to understand this \[on an abstract level\] “This opening
-and this confinement, then this further opening and this confinement” -
-none of that will become applicable.
+and this confinement, then this further opening and this
+confinement”—none of that will become applicable.
 
 The opening, the escape, from that which confines, is the removal,
 uprooting, and fading away of ownership and conceit in regard to the
@@ -5107,7 +5103,7 @@ assumed relief of the pressure here. And that’s why people are so
 psychologically dependent on “scratching the itch.” That is the only
 form of release that they know.
 
-But it is not a release - it’s the very reason for your confinement.
+But it is not a release—it’s the very reason for your confinement.
 
 The more you try to find release in that way, the more burdened you
 become, the more dependent on sensuality you become. That’s why it’s
@@ -5145,13 +5141,13 @@ Withdrawing from unwholesome, from the wrong order that you have been
 assuming, that is the work, and the release of the right kind will occur
 as a result of it. That’s the true “opening amidst confinement.” But
 people don’t want to deal with the confinement. They don’t want to deal
-with the pressure or endure it - they want a technique that will give
-them an experience of pleasure that they will then take to be
+with the pressure or endure it—they want a technique that will give them
+an experience of pleasure that they will then take to be
 <span lang="pi">*jhana*</span>, and then assume that all this work has
 been done, on account of this special meditation pleasure that they had.
 That is exactly mirroring the same principle of the sensuality that you
 have been acting out of. You are still seeking that pleasant thing to be
-your escape. No - the escape is found by not being, not maintaining, the
+your escape. No—the escape is found by not being, not maintaining, the
 dependence upon the wrong order. Then the pleasure of
 <span lang="pi">*jhana*</span> will happen:
 

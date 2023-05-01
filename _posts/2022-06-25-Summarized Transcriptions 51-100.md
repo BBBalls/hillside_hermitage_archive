@@ -1374,7 +1374,8 @@ anything unwholesome.
 > and composed my mind internally. Why is that? So that my mind should
 > not be strained…”
 >
-> — <cite>[MN 19](https://www.dhammatalks.org/suttas/MN/MN19.html)<cite>
+> — <cite>[MN
+> 19](https://www.dhammatalks.org/suttas/MN/MN19.html)</cite>
 
 </div>
 
