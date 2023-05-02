@@ -34,13 +34,13 @@ function footnotePopup(showIndex, showCloseBtn) {
     }
 
     // Remove redundant [return] links from footnote list (optional)
-    const fnReturns = document.querySelectorAll("a.footnote-return");
+    const fnReturns = document.querySelectorAll("a.footnote-backref");
     fnReturns.forEach(function(fnReturn) {
         const parent = fnReturn.parentNode;
         parent.removeChild(fnReturn);
     });
 
-    const fnRefs = document.querySelectorAll("a[id^='fnref']");
+    const fnRefs = document.querySelectorAll("a.fnref");
      fnRefs.forEach(function(fnRef) {
          fnRef.addEventListener("click", handler("refs", fnRef));
     });
