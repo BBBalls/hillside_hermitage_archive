@@ -40,9 +40,9 @@ function footnotePopup(showIndex, showCloseBtn) {
         parent.removeChild(fnReturn);
     });
 
-    const fnRefs = document.querySelectorAll("sup[id^='fnref']");
-    fnRefs.forEach(function(fnRef) {
-        fnRef.addEventListener("click", handler("refs", fnRef));
+    const fnRefs = document.querySelectorAll("a[id^='fnref']");
+     fnRefs.forEach(function(fnRef) {
+         fnRef.addEventListener("click", handler("refs", fnRef));
     });
 
     window.addEventListener("scroll", handler("close"));
