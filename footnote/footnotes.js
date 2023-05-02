@@ -34,15 +34,15 @@ function footnotePopup(showIndex, showCloseBtn) {
     }
 
     // Remove redundant [return] links from footnote list (optional)
-    const fnReturns = document.querySelectorAll("a.footnote-backref");
+    const fnReturns = document.querySelectorAll("a.footnote-return");
     fnReturns.forEach(function(fnReturn) {
         const parent = fnReturn.parentNode;
         parent.removeChild(fnReturn);
     });
 
-    const fnRefs = document.querySelectorAll("a.fnref");
-     fnRefs.forEach(function(fnRef) {
-         fnRef.addEventListener("click", handler("refs", fnRef));
+    const fnRefs = document.querySelectorAll("a[id^='fnref']");
+    fnRefs.forEach(function(fnRef) {
+        fnRef.addEventListener("click", handler("refs", fnRef));
     });
 
     window.addEventListener("scroll", handler("close"));
@@ -74,3 +74,4 @@ function footnotePopup(showIndex, showCloseBtn) {
 };
 
 footnotePopup(true, true);
+
