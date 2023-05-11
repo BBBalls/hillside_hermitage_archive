@@ -23,6 +23,7 @@ layout: post
 [71hh- Ajahn Chah and the Original Mind](/hillside_hermitage_archive/transcriptions/03.01.0071_transcript_Ajahn_Chah_and_the_Original_Mind.html)\
 [83hh- Don’t Be Faithful to Ignorance](/hillside_hermitage_archive/transcriptions/083_transcript_Dont_Be_Faithful_to_Ignorance.html)\
 [131hh- Even Being A Layman Does Not Justify Your Sensuality](/hillside_hermitage_archive/transcriptions/03.01.0131_transcript_Even_Being_A_Layman_Does_Not_Justify_Your_Sensuality.html)\
+[140hh- There is No Love in Loving-kindness](/hillside_hermitage_archive/transcriptions/03.01.0140_transcript_There_is_no_love_in_loving-kindness.html)\
 [150hh- Valuing Sense Pleasures Makes You An Addict](/hillside_hermitage_archive/transcriptions/03.01.0150_transcript_Valuing_Sense_Pleasures_Makes_You_An_Addict.html)\
 [155hh- You Don't Need To Say No To Everything](/hillside_hermitage_archive/transcriptions/03.01.0155_transcript_You_Dont_Need_To_Say_No_To_Everything.html)\
 [168hh- The Contradiction in the Unwholesome](/hillside_hermitage_archive/transcriptions/03.01.0168_transcript_The_Contradiction_in_the_Unwholesome.html)\
