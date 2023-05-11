@@ -549,7 +549,7 @@ of <span lang="pi">*jhana*</span>; if you keep following the principle
 of the first <span lang="pi">*jhana*</span>, you will arrive at the
 fourth.
 
-**Q: **Regarding <span lang="pi">*mettā*</span> specifically, it refers
+**Q:** Regarding <span lang="pi">*mettā*</span> specifically, it refers
 to an attitude of non-aversion rather than engaging in friendly social
 interactions or cultivating forms of love.
 
@@ -560,11 +560,11 @@ does not have ill will towards them. The focus is on prioritising the
 protection of the mind of non-aversion, regardless of the content of
 one’s everyday experience.
 
-**Q: **This differs from popular ideas of <span lang="pi">*mettā*</span>
+**Q:** This differs from popular ideas of <span lang="pi">*mettā*</span>
 practice, which usually consist of generating love and sending it in
 various directions.
 
-**Nm: **The problem with this is that such a practice will not uproot
+**Nm:** The problem with this is that such a practice will not uproot
 craving, which is why that is not what is meant by the description of
 <span lang="pi">*mettā*</span> in the suttas. People prefer that method
 because it is more palpable, and ‘nicer,’ and it’s certainly a helpful
@@ -735,7 +735,7 @@ with, or trying to prevent those circumstances, you realise, “All I need
 to do is protect the gateway and not lose sight of it”. And you protect
 it by not acting out of it.
 
-**Q: **Which results in peacefulness?
+**Q:** Which results in peacefulness?
 
 **Nm:** Peacefulness will come as a result of it, as a culmination of
 the absence of your resistance towards what you feel. Peace is not about
@@ -744,7 +744,7 @@ pulled by pleasures.
 
 **Q:** Non-conflict.
 
-**Nm: **Yes, non-conflict internally. Can you have a conflict with
+**Nm:** Yes, non-conflict internally. Can you have a conflict with
 anybody externally without already being conflicted with what you’re
 feeling internally? Impossible.
 
