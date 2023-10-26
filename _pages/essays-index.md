@@ -35,3 +35,6 @@ By Sister Medhini:
 
 [Living Under an Authority](/hillside_hermitage_archive/essays/02.03.0001_Medhini_essay1_Living_Under_an_Authority.html)
 
+By Bhikkhu Anīgha
+
+[Sīla is Samādhi]((/hillside_hermitage_archive/essays/2023-08-28-Anigha_essay_Sila_is_Samadhi.html)
