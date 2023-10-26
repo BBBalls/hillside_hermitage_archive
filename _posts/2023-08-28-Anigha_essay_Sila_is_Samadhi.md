@@ -6,6 +6,8 @@ layout: post
 title: Sīla is Samādhi
 ---
 
+by Bhikkhu Anīgha
+
 What exactly is the connection between *sīla* and *samādhi*? Is it that
 virtue *aids* or *facilitates* the development of mental composure[^1],
 in the way that a suitable diet *contributes* to an athlete’s top
