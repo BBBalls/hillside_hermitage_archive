@@ -37,4 +37,4 @@ By Sister Medhini:
 
 By Bhikkhu Anīgha
 
-[Sīla is Samādhi]((/hillside_hermitage_archive/essays/2023-08-28-Anigha_essay_Sila_is_Samadhi.html)
+[Sīla is Samādhi](/hillside_hermitage_archive/essays/2023-08-28-Anigha_essay_Sila_is_Samadhi.html)
