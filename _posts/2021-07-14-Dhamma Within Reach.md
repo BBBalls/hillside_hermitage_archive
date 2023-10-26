@@ -1,7 +1,7 @@
 ---
 title: Dhamma Within Reach
 author: Ajahn Nyanamoli Thero
-date: 2021-07-18
+date: 2021-07-14
 category: Dhamma Within Reach
 layout: post
 ---
