@@ -26,15 +26,15 @@ By Ajahn Nyanamoli Thero:
 
 By Thaniyo Thero:
 
-[Meaning Of The Heart](/hillside_hermitage_archive/essays/02.02.0001_Thaniyo_essay1_Meaning_of_the_Heart.html)\
-[Uproot Assumptions, Uproot Suffering](/hillside_hermitage_archive/essays/02.02.0002_Thaniyo_essay2_Uproot_Assumptions_Uproot_Suffering.html)\
-[Making Peace With Feeling](/hillside_hermitage_archive/essays/02.02.0003_Thaniyo_essay3_Making_Peace_With_Feeling.html)\
-[Going Through Dukkha](/hillside_hermitage_archive/essays/02.02.0004_Thaniyo_essay4_Going_Through_Dukkha.html)
+[Meaning Of The Heart](/hillside_hermitage_archive/essays/2022-04-01-essay-Thaniyo-Meaning_of_the_Heart.html)\
+[Uproot Assumptions, Uproot Suffering](/hillside_hermitage_archive/essays/2022-07-03-essay-Thaniyo-Uproot_Assumptions_Uproot_Suffering.html)\
+[Making Peace With Feeling](/hillside_hermitage_archive/essays/2022-08-12-essay-Thaniyo-Making_Peace_With_Feeling.html)\
+[Going Through Dukkha](/hillside_hermitage_archive/essays/2023-03-04-essay-Thaniyo-Going_Through_Dukkha.html)
 
 By Sister Medhini:
 
-[Living Under an Authority](/hillside_hermitage_archive/essays/2023-02-23-Medhini_essay_Living_Under_an_Authority.html)
+[Living Under an Authority](/hillside_hermitage_archive/essays/2023-02-23-essay-Medhini-Living_Under_an_Authority.html)
 
-By Bhikkhu Anīgha
+By Bhikkhu Anīgha:
 
-[Sīla is Samādhi](/hillside_hermitage_archive/essays/2023-08-28-Anigha_essay_Sila_is_Samadhi.html)
+[Sīla is Samādhi](/hillside_hermitage_archive/essays/2023-08-28-essay-Anigha-Sila_is_Samadhi.html)
