@@ -1068,7 +1068,7 @@ develops the mind:
     craving for pleasure and against pain. Wanting is to be completely
     abandoned *beforehand*, and the “itch”  must be endured without
     expecting a reward at the end. *Samādhi* will not take care of your
-    own craving for you, as is often hoped. *Samādhi *is the *result* of
+    own craving for you, as is often hoped. *Samādhi* is the *result* of
     not acting out of craving, expectations and worries on any level.
 
 [^37]: Isn’t it strange that “meditation” tends to involve
