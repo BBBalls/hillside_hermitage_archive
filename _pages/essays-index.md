@@ -22,7 +22,8 @@ By Ajahn Nyanamoli Thero:
 [Breathing Towards Death](/hillside_hermitage_archive/essays/2018-05-01-essay-Nyanamoli-Breathing_Towards_Death.html)\
 [Intentions Behind One’s Actions](/hillside_hermitage_archive/essays/2018-05-21-essay-Nyanamoli-Intentions_Behind_Ones_Actions.html)\
 [The Necessity of Celibacy](/hillside_hermitage_archive/essays/2018-08-02-essay-Nyanamoli-The_Necessity_of_Celibacy.html)\
-[Peripheral Awareness](/hillside_hermitage_archive/essays/2018-11-08-essay-Nyanamoli-Peripheral_Awareness.html)
+[Peripheral Awareness](/hillside_hermitage_archive/essays/2018-11-08-essay-Nyanamoli-Peripheral_Awareness.html)\
+[Seeing Beneath the Surface](/hillside_hermitage_archive/essays/2023-07-11-essay-Nyanamoli-Seeing_Beneath_the_Surface.html)
 
 By Thaniyo Thero:
 
