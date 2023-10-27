@@ -1,7 +1,7 @@
 ---
 archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20221106%20-%20293hh%20-%20The%20stench%20and%20the%20flies%20-%20AN%203.128.mp3"
 author: Ajahn Nyanamoli Thero
-category: Transcriptions
+category: Transcription
 date: 2022-11-06
 description: a summarized transcription
 doc_url: "https://t.me/HillsideHermitage/301"
@@ -13,9 +13,9 @@ youtube_url: "https://www.youtube.com/watch?v=edaHv35nVek"
 
 a summarized transcription
 
-by Ajahn Nyanamoli Thero
+by **Ajahn Nyanamoli Thero**
 
-[video](https://www.youtube.com/watch?v=edaHv35nVek) [audio](https://archive.org/download/hillside-hermitage-audio-archive/20221106%20-%20293hh%20-%20The%20stench%20and%20the%20flies%20-%20AN%203.128.mp3)
+[\[video\]](https://www.youtube.com/watch?v=edaHv35nVek) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20221106%20-%20293hh%20-%20The%20stench%20and%20the%20flies%20-%20AN%203.128.mp3)
 
 > “On one occasion the Buddha, having gone for alms in Varanasi, after
 > the meal, returning from his alms round, addressed the bhikkhus:”This
