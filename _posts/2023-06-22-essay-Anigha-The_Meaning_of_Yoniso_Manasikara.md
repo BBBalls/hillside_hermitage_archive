@@ -95,11 +95,11 @@ experience[^2] is that of the *paṭiccasamuppāda* principle: “with this,
 this is; without this, this is not”[^3]. One has to see the present
 experience in its fullness, anything that *is* or *could* be attended
 to, leaving nothing out, as one thing, as
-“<font color="red">this</font>”. That “<font color="red">this</font>”
+“<font color="red">**this**</font>”. That “<font color="red">**this**</font>”
 will inevitably be the place where one’s sense of self and ownership is
 established, and includes **all** of one’s present feelings,
 perceptions, thoughts, and intentions to do this or that.
-“<font color="red">This</font>” is the five aggregates in their entirety
+“<font color="red">**This**</font>” is the five aggregates in their entirety
 —“past, present or future, internal or external, coarse or fine, lowly
 or sublime, far or near”.[^4]
 
