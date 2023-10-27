@@ -73,4 +73,5 @@ layout: post
 [Abundant Theory and Lack of Endurance](/hillside_hermitage_archive/transcriptions/2022-08-22-transcript-Abundant_Theory_and_Lack_of_Endurance.html)\
 [The Meaning of Right Samadhi](/hillside_hermitage_archive/transcriptions/2022-09-13-transcript-The_Meaning_of_Right_Samadhi.html)\
 [How To Abandon Self View](/hillside_hermitage_archive/transcriptions/2022-10-03-transcript-How_To_Abandon_Self_View.html)\
+[The Stench and the Flies](/hillside_hermitage_archive/transcriptions/2022-11-06-transcript-The_Stench_and_the_Flies.html)\
 [Undermining the Sense of Self](/hillside_hermitage_archive/transcriptions/2022-11-21-transcript-Undermining_the_Sense_of_Self.html)
