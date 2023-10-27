@@ -38,4 +38,5 @@ By Sister Medhini:
 
 By Bhikkhu Anīgha:
 
+[The Meaning of Yoniso Manasikāra](/hillside_hermitage_archive/essays/2023-06-22-essay-Anigha-The_Meaning_of_Yoniso_Manasikara.html)\
 [Sīla is Samādhi](/hillside_hermitage_archive/essays/2023-08-28-essay-Anigha-Sila_is_Samadhi.html)
