@@ -169,4 +169,8 @@ blockquote:lang(en) {
   font-size: 1.3em;
 }
 
+du {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
 

@@ -2,9 +2,17 @@
 author: Bhikkhu Anīgha
 category: Essays
 date: 2023-06-22
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/wp-content/uploads/2023/06/The-Meaning-of-Yoniso-Manasikara-Bhikkhu-Anigha.pdf"
 layout: post
 title: The Meaning of Yoniso Manasikāra
 ---
+
+an essay
+
+by **Bhikkhu Anīgha**
+
+
 
 It’s common knowledge that the literal meaning of “*yoni*” in “*yoniso
 manasikāra*” is “womb; origin; source”. However, the Buddha’s clearly
@@ -85,66 +93,60 @@ pertaining to the sixth sense base. As it will be shown, this only
 serves to temporarily suppress the symptoms of the disease of being
 *liable* to suffering, and ultimately fails to tackle the root cause.
 
-(***From here onwards, text is colorized when it helps to illustrate the
-principle of yoniso manasikāra, with red denoting the domain of direct
-<font color="red">attention</font>, and blue that which is more
-fundamental than it, the <font color="blue">yoni</font>***)
+(***From here onwards, text is underlined when it helps to illustrate
+the principle of yoniso manasikāra, with single underlining denoting the
+domain of direct <u>attention</u>, and double underlining that which is
+more fundamental than it, the <du>yoni</du>***)
 
 The discernment that truly *uproots* the ownership of our whole
 experience[^2] is that of the *paṭiccasamuppāda* principle: “with this,
 this is; without this, this is not”[^3]. One has to see the present
 experience in its fullness, anything that *is* or *could* be attended
-to, leaving nothing out, as one thing, as
-“<font color="red">**this**</font>”. That “<font color="red">**this**</font>”
-will inevitably be the place where one’s sense of self and ownership is
-established, and includes **all** of one’s present feelings,
-perceptions, thoughts, and intentions to do this or that.
-“<font color="red">**This**</font>” is the five aggregates in their entirety
-—“past, present or future, internal or external, coarse or fine, lowly
-or sublime, far or near”.[^4]
+to, leaving nothing out, as one thing, as “<u>**this**</u>”. That
+“<u>**this**</u>” will inevitably be the place where one’s sense of self
+and ownership is established, and includes **all** of one’s present
+feelings, perceptions, thoughts, and intentions to do this or that.
+“<u>**This**</u>” is the five aggregates in their entirety —“past,
+present or future, internal or external, coarse or fine, lowly or
+sublime, far or near”.[^4]
 
-The goal is then to see that whole “<font color="red">**this**</font>”,
-which is, again, one’s entire world, not just one thing, as *within*, as
-being fully dependent on, secondary to, simultaneously **originated
-from** (*paṭiccasamuppanna*) another
-“<font color="blue">**this**</font>”. This will automatically prevent
-you from assuming **yourself** as the origin, the owner, the master of
-this experience—of this
-<font color="red">**attention**/***manasikāra***</font>. It will truly
-prevent assuming as yours *anything* that you can attend to, as opposed
-to fruitlessly denying that *this* or *that* is yours… using the same
-<font color="red">**attention**</font> that you still take as yours.
-This is because the assumption of “mine” is not a matter of choice, it’s
-a matter of simply not being presently aware of something more
-fundamental than your own attention, which causes the “I” to become that
-fundamental thing automatically. Awareness of this
-<font color="blue">**more fundamental phenomenon**</font> is the
-*yoniso* aspect in <font color="blue">***yoniso***</font>
-<font color="red">***manasikāra***</font>.
+The goal is then to see that whole “<u>**this**</u>”, which is, again,
+one’s entire world, not just one thing, as *within*, as being fully
+dependent on, secondary to, simultaneously **originated from**
+(*paṭiccasamuppanna*) another “<du>**this**</du>”. This will
+automatically prevent you from assuming **yourself** as the origin, the
+owner, the master of this experience—of this
+<u>**attention**/***manasikāra***</u>. It will truly prevent assuming as
+yours *anything* that you can attend to, as opposed to fruitlessly
+denying that *this* or *that* is yours… using the same
+<u>**attention**</u> that you still take as yours. This is because the
+assumption of “mine” is not a matter of choice, it’s a matter of simply
+not being presently aware of something more fundamental than your own
+attention, which causes the “I” to become that fundamental thing
+automatically. Awareness of this <du>**more fundamental
+phenomenon**</du> is the *yoniso* aspect in <du>***yoniso***</du>
+<u>***manasikāra***</u>.
 
-> “Bhikkhus, do you see: ‘<font color="red">**This**</font> is’?”—“Yes,
-> venerable sir.”—“Bhikkhus, do you see:
-> ‘<font color="red">**It**</font> exists with <font color="blue">**this
-> nutriment**</font>’?”—“Yes, venerable sir.”—“Bhikkhus, do you see:
-> ‘With the cessation of <font color="blue">**this nutriment**</font>,
-> <font color="red">**that which is**</font> is subject to
-> cessation’?”—“Yes, venerable sir.”
+> “Bhikkhus, do you see: ‘<u>**This**</u> is’?”—“Yes, venerable
+> sir.”—“Bhikkhus, do you see: ‘<u>**It**</u> exists with <du>**this
+> nutriment**</du>’?”—“Yes, venerable sir.”—“Bhikkhus, do you see: ‘With
+> the cessation of <du>**this nutriment**</du>, <u>**that which is**</u>
+> is subject to cessation’?”—“Yes, venerable sir.”
 >
 > — <cite>MN 38</cite>
 
-Failing to correctly see that “<font color="blue">**nutriment**</font>”
-as that which is more structurally fundamental than
-“<font color="red">**this**</font>” ( the experience as a whole) is
-*ayoniso manasikāra*, and it is what maintains the deepest unwholesome,
-the fetter of self-view/*sakkāyadiṭṭhi* (cf. <cite>AN 1.66</cite>
-above), *regardless* of how much one tries to tell oneself that things
-are “not mine”. In other words, *a-yoniso manasikāra* is not some
-specific mistake you are doing or thinking—it is the **absence**
-altogether of the awareness of that *yoni* <font color="blue">**on the
-right level**</font>. This is also why in MN 2 it is said that the
-*puthujjana* lacks even the correct understanding of what *yoniso
-manasikāra* is— *ayoniso manasikāra* is the very reason for his
-self-view. Self-view cannot possibly remain once *yoniso manasikāra*
+Failing to correctly see that “<du>**nutriment**</du>” as that which is
+more structurally fundamental than “<u>**this**</u>” ( the experience as
+a whole) is *ayoniso manasikāra*, and it is what maintains the deepest
+unwholesome, the fetter of self-view/*sakkāyadiṭṭhi* (cf. <cite>AN
+1.66</cite> above), *regardless* of how much one tries to tell oneself
+that things are “not mine”. In other words, *a-yoniso manasikāra* is not
+some specific mistake you are doing or thinking—it is the **absence**
+altogether of the awareness of that *yoni* <du>**on the right
+level**</du>. This is also why in MN 2 it is said that the *puthujjana*
+lacks even the correct understanding of what *yoniso manasikāra* is—
+*ayoniso manasikāra* is the very reason for his self-view. Self-view
+cannot possibly remain once *yoniso manasikāra*
 (i.e. *paṭiccasamuppāda*) is correctly understood.
 
 *Paṭiccasamuppāda* is in fact said by the Buddha to be the “noble
@@ -161,29 +163,25 @@ It is also the discernment of yoniso manasikāra that caused Ven.
 Sāriputta to enter the stream upon grasping the meaning of the
 well-known verse:
 
-> Whatever <font color="red">***things are dependently
-> arisen***</font>—  
-> <font color="blue">***That which they depend on***</font> has been
-> told by the Tathāgata  
+> Whatever <u>***things are dependently arisen***</u>—  
+> <du>***That which they depend on***</du> has been told by the
+> Tathāgata  
 > As well as the cessation of those things,  
 > Such speaks the great ascetic.
 >
 > — <cite>Mahāvagga 1.23</cite>
 
-*Yoniso manasikāra* is not about <font color="red">***what***</font>
-your attention is directed at, it’s about discerning the
-<font color="blue">***container***</font> (yoni, the “womb”) that your
-<font color="red">**attention**</font> depends on, as the verse says.
-Only then can one abandon the ownership of attention itself. Nothing
-less than this can contribute to the cessation of suffering, nor reveal
-the path towards it. Merely replacing the
-<font color="red">**things**</font> one attends to with other
-<font color="red">**things**</font>, the “good”
-<font color="red">**things**</font>, will not bring the unwholesome to
-decline and the wholesome to increase. Whatever is wholesome, being
-non-greed, non-aversion and non-delusion, always comes from correctly
-discerning the <font color="blue">**simultaneous basis**</font> for
-<font color="red">***whatever*** **your attention is directed**</font>
+*Yoniso manasikāra* is not about <u>***what***</u> your attention is
+directed at, it’s about discerning the <du>***container***</du> (yoni,
+the “womb”) that your <u>**attention**</u> depends on, as the verse
+says. Only then can one abandon the ownership of attention itself.
+Nothing less than this can contribute to the cessation of suffering, nor
+reveal the path towards it. Merely replacing the <u>**things**</u> one
+attends to with other <u>**things**</u>, the “good” <u>**things**</u>,
+will not bring the unwholesome to decline and the wholesome to increase.
+Whatever is wholesome, being non-greed, non-aversion and non-delusion,
+always comes from correctly discerning the <du>**simultaneous
+basis**</du> for <u>***whatever*** **your attention is directed**</u>
 at, so that you can surmount the *possibility* of lust and aversion,
 instead of just abandoning particular *things* that entice you or bother
 you, which would evidently be an interminable endeavor.[^7]
@@ -203,16 +201,14 @@ fulfillment of the Dhamma to boot, simply because it offers a seemingly
 special sort of peace—a sort which is clearly temporary, just like
 managing the symptoms and not the cause of an illness.[^8]
 
-Now, the question arises: what exactly is that
-<font color="blue">**broader phenomenon**</font> that one must discern
-*in regard* to one’s <font color="red">**attention**</font>, so that
-<font color="red">***attention itself***</font> will be seen as “not
-mine” even if I *wanted* it to be mine, rather than just *telling*
-myself that it’s “not mine”… with <font color="red">**another
-attention**</font> that I still take as mine? This is where the
-<font color="blue">**four satipaṭṭhānas**</font> come in, or really any
-correct way of regarding our <font color="red">**experience**</font>
-found in the Suttas.
+Now, the question arises: what exactly is that <du>**broader
+phenomenon**</du> that one must discern *in regard* to one’s
+<u>**attention**</u>, so that <u>***attention itself***</u> will be seen
+as “not mine” even if I *wanted* it to be mine, rather than just
+*telling* myself that it’s “not mine”… with <u>**another attention**</u>
+that I still take as mine? This is where the <du>**four
+satipaṭṭhānas**</du> come in, or really any correct way of regarding our
+<u>**experience**</u> found in the Suttas.
 
 The four satipaṭṭhānas are four general aspects that can be
 interchangeably discerned as the “womb” (yoni) or “container” of this
@@ -230,26 +226,24 @@ body.[^9] And, quite importantly, whatever *views* I may have about
 anything at all whatsoever, even the “correct” views I could have
 acquired face-to-face with the Buddha himself—I can *attend* to them
 only because this body is still there. This body is the simultaneous
-“<font color="blue">**nutriment**</font>” for my
-<font color="red">**entire world**</font>, and without that nutriment,
-that world cannot remain.
+“<du>**nutriment**</du>” for my <u>**entire world**</u>, and without
+that nutriment, that world cannot remain.
 
 > “Bhikkhus, while a bhikkhu dwells thus, recollected and clearly
 > comprehending, diligent, ardent, and resolute, if there arises in him
-> a <font color="red">**pleasant feeling**</font>, he understands thus:
-> ‘There has arisen in me a pleasant feeling. Now that is dependent, not
-> independent. Dependent on what? Dependent on <font color="blue">**this
-> very body**</font>. But this body is impermanent, conditioned,
-> dependently arisen. So, when the pleasant feeling has arisen in
-> dependence on a body that is impermanent, conditioned, dependently
-> arisen, how could it be permanent?’ He dwells contemplating
-> impermanence in the body and in pleasant feeling, he dwells
-> contemplating vanishing, contemplating fading away, contemplating
-> cessation, contemplating relinquishment. As he dwells thus, the
-> underlying tendency to lust in regard to the body and in regard to
-> pleasant feeling is abandoned by him.” **\[repeated verbatim for
-> painful and neutral feeling, resulting in abandonment of aversion and
-> delusion respectively\]**
+> a <u>**pleasant feeling**</u>, he understands thus: ‘There has arisen
+> in me a pleasant feeling. Now that is dependent, not independent.
+> Dependent on what? Dependent on <du>**this very body**</du>. But this
+> body is impermanent, conditioned, dependently arisen. So, when the
+> pleasant feeling has arisen in dependence on a body that is
+> impermanent, conditioned, dependently arisen, how could it be
+> permanent?’ He dwells contemplating impermanence in the body and in
+> pleasant feeling, he dwells contemplating vanishing, contemplating
+> fading away, contemplating cessation, contemplating relinquishment. As
+> he dwells thus, the underlying tendency to lust in regard to the body
+> and in regard to pleasant feeling is abandoned by him.” **\[repeated
+> verbatim for painful and neutral feeling, resulting in abandonment of
+> aversion and delusion respectively\]**
 >
 > — <cite>SN 36.7</cite>
 
@@ -263,13 +257,13 @@ the past, e.g., if yesterday there was pain or neither pleasure nor
 pain, those thoughts can only be had on the basis of *this feeling* that
 is here now. All of one’s actions in the present will also be by
 necessity subordinate to that feeling. This means also that whatever
-<font color="red">**intentions infused with** ***craving***</font> to
-get “more” of this feeling which one might engage with now will be
-*secondary* to the fact that this <font color="blue">**broader
-feeling**</font> is there *first*.[^10] One can certainly go and *try*
-to get pleasure out of particular objects, but that pleasure will always
-remain secondary to the more general feeling one is presently enclosed
-in, through which all other “lesser” feelings are felt.
+<u>**intentions infused with** ***craving***</u> to get “more” of this
+feeling which one might engage with now will be *secondary* to the fact
+that this <du>**broader feeling**</du> is there *first*.[^10] One can
+certainly go and *try* to get pleasure out of particular objects, but
+that pleasure will always remain secondary to the more general feeling
+one is presently enclosed in, through which all other “lesser” feelings
+are felt.
 
 This is why, as everyone has no doubt experienced first-hand, when there
 is a very unpleasant feeling as the “womb”, no amount of agreeable
@@ -278,19 +272,17 @@ the throne of that broader pain. Conversely, when a very pleasant
 feeling just so happens to be there as the container of everything else,
 even meeting with upsetting circumstances does not shake the primacy of
 that overall pleasantness. This means that whenever you suddenly find
-yourself within a different <font color="blue">**overarching
-feeling**</font>, it’s not because *you* brought about change through
-your <font color="red">**actions**</font>. The fact that your attempts
-sometimes succeed and sometimes don’t means that ultimately you are like
-a subordinate submitting proposals, and the feeling is the boss having
-the final say. In truth, it changes on its own, and you cannot even know
-“when” exactly that background feeling became different: trying to
-figure out “when” will be a thought that is already totally enclosed
-within the “new” general feeling you are now within. You can only
-pinpoint the changes of specific feelings, which corresponds to changes
-in <font color="red">***attention***</font>, not of that
-<font color="blue">**greater feeling**</font> which precedes the
-movements of attention.
+yourself within a different <du>**overarching feeling**</du>, it’s not
+because *you* brought about change through your <u>**actions**</u>. The
+fact that your attempts sometimes succeed and sometimes don’t means that
+ultimately you are like a subordinate submitting proposals, and the
+feeling is the boss having the final say. In truth, it changes on its
+own, and you cannot even know “when” exactly that background feeling
+became different: trying to figure out “when” will be a thought that is
+already totally enclosed within the “new” general feeling you are now
+within. You can only pinpoint the changes of specific feelings, which
+corresponds to changes in <u>***attention***</u>, not of that
+<du>**greater feeling**</du> which precedes the movements of attention.
 
 > ’Now, Ananda, one who says: “Feeling is my self” should be told:
 > “There are three kinds of feeling, friend: pleasant, painful, and
@@ -357,20 +349,18 @@ mental state (which could last for days), would also allow one to
 recognize that acting out of lust is falling for a deceitful trap—pain
 that invites you to regard it as pleasure and seek more of it.[^11]
 Whatever pleasure could be sought after will be limited to the
-<font color="red">**domain of attention**</font>, which is now seen to
-be *enclosed* in the pain of that <font color="blue">**oppressive mental
-state**</font>, and one sees that seeking
-<font color="red">**pleasure**</font> to gratify that
-<font color="blue">**mental state**</font> would be like applying
-medicine <font color="red">**on the skin**</font> to cure
-<font color="blue">**a digestive issue**</font>. The result of this is
-dispassion towards both the mental state and whatever experiences are
-secondary to it—and these two together comprise one’s entire world at
-any given time, which is now truly “not clung to”. Note how *none* of
-this would have been seen if one had automatically jumped onto other
-*objects of attention* in the name of “practice” to wriggle out of the
-unpleasant pressure as quickly as possible, thereby dismissing the very
-basis where insight into the drawback of lust would take root.
+<u>**domain of attention**</u>, which is now seen to be *enclosed* in
+the pain of that <du>**oppressive mental state**</du>, and one sees that
+seeking <u>**pleasure**</u> to gratify that <du>**mental state**</du>
+would be like applying medicine <u>**on the skin**</u> to cure <du>**a
+digestive issue**</du>. The result of this is dispassion towards both
+the mental state and whatever experiences are secondary to it—and these
+two together comprise one’s entire world at any given time, which is now
+truly “not clung to”. Note how *none* of this would have been seen if
+one had automatically jumped onto other *objects of attention* in the
+name of “practice” to wriggle out of the unpleasant pressure as quickly
+as possible, thereby dismissing the very basis where insight into the
+drawback of lust would take root.
 
 If attention to specific things were what liberates the mind, the Buddha
 could have used terms like “kusala-manasikāra” (wholesome/beneficial
@@ -391,12 +381,10 @@ made it even harder to overcome later by forming attachment to such
 quick-fix practices.
 
 The true wholesome is always about *concurrently* knowing the
-<font color="blue">***yoni***</font> while
-<font color="red">***manasikāra***</font> is taking place. This is the
-only way out. Attention by itself is still within the *All* (it’s an
-aspect of *nāma*[^12]), and thus it cannot provide the escape from
-<font color="red">***the All***</font>—the escape from
-<font color="red">***viññāna-nāmarūpa***</font>.[^13]
+<du>***yoni***</du> while <u>***manasikāra***</u> is taking place. This
+is the only way out. Attention by itself is still within the *All* (it’s
+an aspect of *nāma*[^12]), and thus it cannot provide the escape from
+<u>***the All***</u>—the escape from <u>***viññāna-nāmarūpa***</u>.[^13]
 
 **A few additional points that emerge from all the above:**
 
@@ -437,52 +425,50 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
       attention is directed at and thus allows him to discern the womb
       as his container.
 
-      This is why meditation techniques involving
-      <font color="red">**observation, focused attention and
-      concentration**</font> upon *things*, be they physical or mental
-      imagery or concepts of any kind, are the epitome of *ayoniso
-      manasikāra*, while claiming to be the opposite. They entail
-      doubling down even more in the direction of the *attention*, the
-      very grasping to which keeps beings bound to *saṁsāra*. Just like
-      if the fetus would use a magnifying glass in hopes of it revealing
-      to the truth of his enclosure, and thus lose even the chance of
-      recognizing the wider context, these practices distract one even
-      more from discerning the *yoni* of attention so one can finally
-      abandon the mistaken notions of ownership of the latter.
+      This is why meditation techniques involving <u>**observation,
+      focused attention and concentration**</u> upon *things*, be they
+      physical or mental imagery or concepts of any kind, are the
+      epitome of *ayoniso manasikāra*, while claiming to be the
+      opposite. They entail doubling down even more in the direction of
+      the *attention*, the very grasping to which keeps beings bound to
+      *saṁsāra*. Just like if the fetus would use a magnifying glass in
+      hopes of it revealing to the truth of his enclosure, and thus lose
+      even the chance of recognizing the wider context, these practices
+      distract one even more from discerning the *yoni* of attention so
+      one can finally abandon the mistaken notions of ownership of the
+      latter.
 
-      It’s also why <font color="red">**intellectualizing and
-      psychologizing**</font> the Dhamma as a means of practice is
-      wrong, because it equally involves putting all the weight on the
-      *attention* (in this case to thoughts and ideas) and thus
-      overlooking the <font color="blue">**foundation**</font> of it
-      all, just like when observing bodily sensations as a practice. It
-      doesn’t matter *what* those thoughts are, even if they are the
-      loftiest Dhamma, verbatim from the Buddha’s mouth—the actual
-      Dhamma is always about the discernment of the broader context
-      behind your thinking, the womb which your attention (“you”) sits
-      in. The root of suffering and agitation is therefore never the
-      *thinking*, it’s the fact that it’s being done *ayoniso*.
+      It’s also why <u>**intellectualizing and psychologizing**</u> the
+      Dhamma as a means of practice is wrong, because it equally
+      involves putting all the weight on the *attention* (in this case
+      to thoughts and ideas) and thus overlooking the
+      <du>**foundation**</du> of it all, just like when observing bodily
+      sensations as a practice. It doesn’t matter *what* those thoughts
+      are, even if they are the loftiest Dhamma, verbatim from the
+      Buddha’s mouth—the actual Dhamma is always about the discernment
+      of the broader context behind your thinking, the womb which your
+      attention (“you”) sits in. The root of suffering and agitation is
+      therefore never the *thinking*, it’s the fact that it’s being done
+      *ayoniso*.
 
       > “Meditate like a thoroughbred, Sandha, not like a wild colt. And
       > how does a wild colt meditate? When a wild colt is tied up near
-      > the feeding trough he meditates: <font color="red">**‘Fodder,
-      > fodder!’**</font> For what reason? Because when a wild colt is
-      > tied up by the feeding trough, he does not ask himself:
-      > <font color="blue">**‘Now what task will my trainer set for me
-      > today? What can I do to satisfy him?’**</font> Tied up by the
-      > feeding trough, he just meditates: ‘Fodder, fodder!’ So too,
-      > Sandha, a person who is like a wild colt, when gone to the
-      > forest, to the foot of a tree, or to an empty hut, dwells with a
-      > mind obsessed and oppressed by sensual lust[^15], and he does
-      > not understand as it really is the
-      > <font color="blue">**escape**</font> from arisen sensual lust.
-      > Harboring sensual lust within, he <font color="red">**meditates,
-      > cogitates, ponders, and ruminates**</font>. He dwells with a
-      > mind obsessed and oppressed by ill will … by dullness and
-      > drowsiness … by restlessness and remorse … by doubt, and he does
-      > not understand as it really is the escape from arisen doubt.
-      > Harboring doubt within, he meditates, cogitates, ponders, and
-      > ruminates.
+      > the feeding trough he meditates: <u>**‘Fodder, fodder!’**</u>
+      > For what reason? Because when a wild colt is tied up by the
+      > feeding trough, he does not ask himself: <du>**‘Now what task
+      > will my trainer set for me today? What can I do to satisfy
+      > him?’**</du> Tied up by the feeding trough, he just meditates:
+      > ‘Fodder, fodder!’ So too, Sandha, a person who is like a wild
+      > colt, when gone to the forest, to the foot of a tree, or to an
+      > empty hut, dwells with a mind obsessed and oppressed by sensual
+      > lust[^15], and he does not understand as it really is the
+      > <du>**escape**</du> from arisen sensual lust. Harboring sensual
+      > lust within, he <u>**meditates, cogitates, ponders, and
+      > ruminates**</u>. He dwells with a mind obsessed and oppressed by
+      > ill will … by dullness and drowsiness … by restlessness and
+      > remorse … by doubt, and he does not understand as it really is
+      > the escape from arisen doubt. Harboring doubt within, he
+      > meditates, cogitates, ponders, and ruminates.
       >
       > “He meditates (1) in dependence on earth, (2) in dependence on
       > water, (3) in dependence on fire, (4) in dependence on air, (5)
@@ -491,10 +477,9 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
       > dependence on the base of nothingness, (8) in dependence on the
       > base of neither-perception-nor-non-perception, (9) in dependence
       > on this world, (10) in dependence on the other world, (11) **in
-      > dependence on** <font color="red">**what is seen, heard, sensed,
-      > cognized, reached, sought after, and examined by the
-      > mind**</font>. Such is the meditation of a person who is like a
-      > wild colt.
+      > dependence on** <u>**what is seen, heard, sensed, cognized,
+      > reached, sought after, and examined by the mind**</u>. Such is
+      > the meditation of a person who is like a wild colt.
       >
       > — <cite>AN 11.9</cite>
 
@@ -540,17 +525,16 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
     opposed to just an avoidance of specific things, it’s the entire
     practice, culminating in full non-ownership of the senses.
 
-    > “And how, bhikkhus, is there restraint? Here,
-    > <font color="red">**having seen a form with the eye**</font>, a
-    > bhikkhu is not intent upon a pleasing form and not repelled by a
-    > displeasing form. He dwells having set up
-    > <font color="blue">**recollection of the body**</font>, with a
-    > measureless mind, and he understands as it really is that
-    > liberation of mind, liberation by wisdom, wherein those evil
-    > unwholesome states cease without remainder. Having heard a sound
-    > with the ear … Having cognized a mental phenomenon with the mind…
-    > he understands as it really is that liberation of mind… It is in
-    > such a way that there is restraint.
+    > “And how, bhikkhus, is there restraint? Here, <u>**having seen a
+    > form with the eye**</u>, a bhikkhu is not intent upon a pleasing
+    > form and not repelled by a displeasing form. He dwells having set
+    > up <du>**recollection of the body**</du>, with a measureless mind,
+    > and he understands as it really is that liberation of mind,
+    > liberation by wisdom, wherein those evil unwholesome states cease
+    > without remainder. Having heard a sound with the ear … Having
+    > cognized a mental phenomenon with the mind… he understands as it
+    > really is that liberation of mind… It is in such a way that there
+    > is restraint.
     >
     > “Suppose, bhikkhus, a man would catch six animals—with different
     > domains and different feeding grounds—and tie them by a strong
@@ -588,10 +572,9 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
     the animals from pulling towards their respective domains (as the
     practice of restraint is often carried out), **nor** does he cut
     them any slack and encourage them to keep pulling on the rope.[^20]
-    He has simply established the <font color="blue">**recollection of
-    the body**</font> as the anchor for the <font color="red">**six
-    animals**</font> until they tire out and settle down by
-    *themselves*. This connects to the following point:
+    He has simply established the <du>**recollection of the body**</du>
+    as the anchor for the <u>**six animals**</u> until they tire out and
+    settle down by *themselves*. This connects to the following point:
 
 3.  The Dhamma is timeless and visible here-&-now precisely because it’s
     solely about discerning that yoni that is already there and always
@@ -601,14 +584,13 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
     involves anticipation and expectation of a future result,
     i.e. craving. It’s also why the correct practice cannot possibly
     give rise to frustration, nor complacency on the other extreme,
-    because even if your attention is directed towards
-    <font color="red">**frustration or complacency**</font>, your sole
-    task is to discern its simultaneously present
-    <font color="blue">**background**</font>, so that you are unable to
-    take the ownership of those mental states and act out of them. It is
-    only through ayoniso manasikāra that those arisen mental states
-    become unwholesome, and it is what enables you to succumb to them in
-    any way:
+    because even if your attention is directed towards <u>**frustration
+    or complacency**</u>, your sole task is to discern its
+    simultaneously present <du>**background**</du>, so that you are
+    unable to take the ownership of those mental states and act out of
+    them. It is only through ayoniso manasikāra that those arisen mental
+    states become unwholesome, and it is what enables you to succumb to
+    them in any way:
 
     > “And what, bhikkhus, is the nutriment for the arising of unarisen
     > ill will and for the increase and expansion of arisen ill will?
@@ -628,35 +610,32 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
     rope. This is what leads to the mind becoming “quite secluded from
     unwholesome states” in the first jhāna, while the senses are still
     very much still operational. You don’t run away from the enticing or
-    irritating <font color="red">**things that pressure you**</font> and
-    towards “<font color="red">**thoughts of Dhamma**</font>”—how will
-    you *understand* the gratification, danger and escape from those
-    pressures by burying your head in the
-    <font color="red">**sand**</font> when they arise? This is not even
-    a true escape. Rather, it’s precisely by not losing the
-    <font color="blue">**context**</font> (the “strong pillar”) *while*
-    the <font color="red">**pressure**</font> is there that one gets to
-    understand and become dispassionate *towards* the pressure
-    correctly—one gets to abandon the appropriation and delight in the
-    *senses* (the core of the issue), not only their objects.[^21]
+    irritating <u>**things that pressure you**</u> and towards
+    “<u>**thoughts of Dhamma**</u>”—how will you *understand* the
+    gratification, danger and escape from those pressures by burying
+    your head in the <u>**sand**</u> when they arise? This is not even a
+    true escape. Rather, it’s precisely by not losing the
+    <du>**context**</du> (the “strong pillar”) *while* the
+    <u>**pressure**</u> is there that one gets to understand and become
+    dispassionate *towards* the pressure correctly—one gets to abandon
+    the appropriation and delight in the *senses* (the core of the
+    issue), not only their objects.[^21]
 
     Even when the Buddha spoke of “attending to a different sign
     (*nimitta*)”,[^22] this should be understood as re-establishing the
     context or *yoni*—a context is what a “*nimitta*” is, it’s not a
     mystical vision or some specific thought. This is exactly why the
-    Buddha here employs the simile of a <font color="blue">***subtler***
-    **peg**</font> to knock out a <font color="red">**coarser
-    one**</font>, not a new <font color="red">**coarse peg**</font> to
-    replace the old <font color="red">**coarse peg**</font>.
+    Buddha here employs the simile of a <du>***subtler*** **peg**</du>
+    to knock out a <u>**coarser one**</u>, not a new <u>**coarse
+    peg**</u> to replace the old <u>**coarse peg**</u>.
 
-    This peripheral context, the “subtler peg”, is a
-    <font color="blue">**thought of Dhamma**</font> on the right level,
-    not rooted in impulsive aversion towards the pressure of that which
-    is attended to. In another simile, it’s how you get to see
-    <font color="red">**“the drink”**</font> as deadly poison correctly,
-    without anxiously denying its pleasantness, which is precisely what
-    would abolish any chance of seeing what the true poison is and
-    escaping it… apart from drinking it of course.
+    This peripheral context, the “subtler peg”, is a <du>**thought of
+    Dhamma**</du> on the right level, not rooted in impulsive aversion
+    towards the pressure of that which is attended to. In another
+    simile, it’s how you get to see <u>**“the drink”**</u> as deadly
+    poison correctly, without anxiously denying its pleasantness, which
+    is precisely what would abolish any chance of seeing what the true
+    poison is and escaping it… apart from drinking it of course.
 
     > “Suppose, bhikkhus, there was a bronze cup of a beverage having a
     > fine colour, aroma, and taste, but it was mixed with poison. Then
@@ -674,11 +653,11 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
     > suffering.
     >
     > So too, bhikkhus, whatever ascetics and brahmins in the past … in
-    > the future … at present regard <font color="red">**that in the
-    > world with a pleasant and agreeable nature**</font> as
-    > <font color="blue">**impermanent, as suffering, as not-self, as a
-    > disease, as fearful**</font>[^24]: they are abandoning craving. In
-    > abandoning craving … they are freed from suffering, I say.”
+    > the future … at present regard <u>**that in the world with a
+    > pleasant and agreeable nature**</u> as <du>**impermanent, as
+    > suffering, as not-self, as a disease, as fearful**</du>[^24]: they
+    > are abandoning craving. In abandoning craving … they are freed
+    > from suffering, I say.”
     >
     > — <cite>SN 12.66</cite>
 
@@ -694,55 +673,50 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
     just a theoretical agreement with the Suttas.
 
 4.  “Attending to that which is pleasant and agreeable” is in a way not
-    a matter of choice. **Whatever** you choose to
-    <font color="red">**attend to**</font>, *that’s* what you regard as
-    beautiful and attractive at the time, *including your contemplation
-    of Dhamma*, when it’s taken as a
-    <font color="red">**foreground**</font> to *replace* what bothers
-    you and not a <font color="blue">**peripheral context**</font> to be
-    *unmoved* by what bothers you. Hence, one would automatically be
-    meditating on the danger of lust or asubha in a lustful manner for
-    instance, i.e. *ayoniso*, simply by doing it with the *direct
-    attention* which is always in itself “pleasant and agreeable”
-    (because it’s always regarded as “mine”).[^25] This will still be
-    rooted in craving against pain, just like acting out of desires is
-    always rooted in craving against the pain they cause when
-    unfulfilled. The way is to see the danger and lack of satisfaction
-    as the surrounding “*womb*” of that pressure *while* it is present.
-    This is the level where the true “contemplation of danger” occurs:
+    a matter of choice. **Whatever** you choose to <u>**attend to**</u>,
+    *that’s* what you regard as beautiful and attractive at the time,
+    *including your contemplation of Dhamma*, when it’s taken as a
+    <u>**foreground**</u> to *replace* what bothers you and not a
+    <du>**peripheral context**</du> to be *unmoved* by what bothers you.
+    Hence, one would automatically be meditating on the danger of lust
+    or asubha in a lustful manner for instance, i.e. *ayoniso*, simply
+    by doing it with the *direct attention* which is always in itself
+    “pleasant and agreeable” (because it’s always regarded as
+    “mine”).[^25] This will still be rooted in craving against pain,
+    just like acting out of desires is always rooted in craving against
+    the pain they cause when unfulfilled. The way is to see the danger
+    and lack of satisfaction as the surrounding “*womb*” of that
+    pressure *while* it is present. This is the level where the true
+    “contemplation of danger” occurs:
 
     > “Herein, what are the six kinds of equanimity based on the
     > household life? On seeing a form with the eye,
-    > <font color="red">**equanimity**</font> arises in a foolish
-    > infatuated ordinary person, in an untaught ordinary person who has
-    > not conquered the <font color="red">**boundary**</font> \[of the
-    > domain of attention\], who has not conquered the result of
-    > actions, and who is blind to danger. Such
-    > <font color="red">**equanimity**</font> as this **does not
-    > transcend the form**; that is why it is called equanimity based on
-    > the household life.
+    > <u>**equanimity**</u> arises in a foolish infatuated ordinary
+    > person, in an untaught ordinary person who has not conquered the
+    > <u>**boundary**</u> \[of the domain of attention\], who has not
+    > conquered the result of actions, and who is blind to danger. Such
+    > <u>**equanimity**</u> as this **does not transcend the form**;
+    > that is why it is called equanimity based on the household life.
     >
     > “On hearing a sound with the ear…On smelling an odor with the
     > nose…On tasting a flavor with the tongue…On touching a tangible
     > with the body…On cognizing a mind-object with the mind,
-    > <font color="red">**equanimity**</font> arises in a foolish
-    > infatuated ordinary person, in an untaught ordinary person who has
-    > not conquered the <font color="red">**boundary**</font> \[of the
-    > domain of attention\], who has not conquered the result of
-    > actions, and who is blind to danger. Such
-    > <font color="red">**equanimity**</font> as **this does not
-    > transcend the mind-object**; that is why it is called equanimity
-    > based on the household life. These are the six kinds of equanimity
-    > based on the household life.
+    > <u>**equanimity**</u> arises in a foolish infatuated ordinary
+    > person, in an untaught ordinary person who has not conquered the
+    > <u>**boundary**</u> \[of the domain of attention\], who has not
+    > conquered the result of actions, and who is blind to danger. Such
+    > <u>**equanimity**</u> as **this does not transcend the
+    > mind-object**; that is why it is called equanimity based on the
+    > household life. These are the six kinds of equanimity based on the
+    > household life.
     >
     > “Herein, what are the six kinds of equanimity based on
-    > renunciation? When, by <font color="blue">**knowing**</font> the
-    > impermanence, change, fading away, and cessation of
-    > <font color="red">**forms**</font>, one sees as it actually is
-    > with proper wisdom that forms both formerly and now are all
-    > impermanent, suffering, and subject to change, equanimity arises.
-    > **Such equanimity as this transcends the form**; that is why it is
-    > called equanimity based on renunciation.
+    > renunciation? When, by <du>**knowing**</du> the impermanence,
+    > change, fading away, and cessation of <u>**forms**</u>, one sees
+    > as it actually is with proper wisdom that forms both formerly and
+    > now are all impermanent, suffering, and subject to change,
+    > equanimity arises. **Such equanimity as this transcends the
+    > form**; that is why it is called equanimity based on renunciation.
     >
     > “When, by knowing the impermanence, change, fading away, and
     > cessation of sounds…of odours…of flavours…of tangibles… of
@@ -755,32 +729,27 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
     >
     > — <cite>MN 137</cite>
 
-    Replacing <font color="red">**attractive mental images**</font> with
-    <font color="red">**repulsive ones**</font>, as the practice of
-    asubha is often done, is a perfect example of equanimity that does
-    not transcend sense objects. It simply involves changing one
-    appropriated object with another, and if one stops doing it, the
-    lust will return unchanged.[^26] Same goes for covering up
-    <font color="red">**disagreeable experiences**</font> with
-    <font color="red">**thoughts of “loving-kindness”**</font>. One must
-    rather *see through* the
-    <font color="red">**attractive/irritating**</font> things by
-    discerning the <font color="blue">**simultaneous context**</font>
-    which is larger than them, which results in the correct
-    asubha/mettā, the *inability* to be lustful/angry even when
-    beautiful/angering things arise.
+    Replacing <u>**attractive mental images**</u> with <u>**repulsive
+    ones**</u>, as the practice of asubha is often done, is a perfect
+    example of equanimity that does not transcend sense objects. It
+    simply involves changing one appropriated object with another, and
+    if one stops doing it, the lust will return unchanged.[^26] Same
+    goes for covering up <u>**disagreeable experiences**</u> with
+    <u>**thoughts of “loving-kindness”**</u>. One must rather *see
+    through* the <u>**attractive/irritating**</u> things by discerning
+    the <du>**simultaneous context**</du> which is larger than them,
+    which results in the correct asubha/mettā, the *inability* to be
+    lustful/angry even when beautiful/angering things arise.
 
-    > One who has <font color="blue">**abandoned**</font> greed,  
-    > is not greedy **amidst** <font color="red">**that which incites
-    > greed**</font>  
+    > One who has <du>**abandoned**</du> greed,  
+    > is not greedy **amidst** <u>**that which incites greed**</u>  
     > greed just slips off from him  
     > like water drops from a lotus.  
     >   
     > \[…\]  
     >   
-    > One who has <font color="blue">**abandoned**</font> aversion,  
-    > is not averse **amidst** <font color="red">**that which incites
-    > aversion**</font>,  
+    > One who has <du>**abandoned**</du> aversion,  
+    > is not averse **amidst** <u>**that which incites aversion**</u>,  
     > aversion just slips off from him,  
     > like a palm nut from its stalk.  
     >   
@@ -806,12 +775,11 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
     way, *yoniso manasikāra*, which *inevitably* leads to samādhi when
     cultivated correctly, entails seeing that “womb” of whatever
     peripheral context one takes as a practice, as the
-    “<font color="blue">**peak**</font>” in comparison to whatever is
-    taking place in the domain of attention. The unshakable prominence
-    of that “peak” in regard to <font color="red">**all else that
-    arises**</font> is what gives rise to “imperturbability’”, not the
-    *absence* of other things arising through concentrating on one thing
-    alone.
+    “<du>**peak**</du>” in comparison to whatever is taking place in the
+    domain of attention. The unshakable prominence of that “peak” in
+    regard to <u>**all else that arises**</u> is what gives rise to
+    “imperturbability’”, not the *absence* of other things arising
+    through concentrating on one thing alone.
 
 6.  It is essential not to fall into the attitude that more attempts at
     *yoniso manasikāra* automatically constitute higher quality of
@@ -819,9 +787,8 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
     see it or not, and have been so always. So by anxiously trying to
     see it all the time, the value gets placed on the content of
     *attention* again. That which needs to be known as the
-    <font color="blue">**basis**</font> for all objects of attention
-    gets turned into another <font color="red">**object of
-    attention**</font>.
+    <du>**basis**</du> for all objects of attention gets turned into
+    another <u>**object of attention**</u>.
 
     So, one has to remind oneself and re-establish recollection only
     when the context has clearly been lost[^27] not all the time
@@ -916,15 +883,11 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
     > “But, venerable sir, in what way can a bhikkhu be called skilled
     > in paṭiccasamuppāda?”
     >
-    > “Here, Ānanda, a bhikkhu knows thus: ’With
-    > <font color="blue">**this**</font>,
-    > <font color="red">**this**</font> is; when
-    > <font color="blue">**this**</font> is manifested,
-    > <font color="red">**this**</font> is manifested. Without
-    > <font color="blue">**this**</font>,
-    > <font color="red">**this**</font> is not; when
-    > <font color="blue">**this**</font> ceases,
-    > <font color="red">**this**</font> ceases.”
+    > “Here, Ānanda, a bhikkhu knows thus: ’With <du>**this**</du>,
+    > <u>**this**</u> is; when <du>**this**</du> is manifested,
+    > <u>**this**</u> is manifested. Without <du>**this**</du>,
+    > <u>**this**</u> is not; when <du>**this**</du> ceases,
+    > <u>**this**</u> ceases.”
     >
     > — <cite>MN 115</cite>
 
@@ -1006,10 +969,9 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
 [^14]:
     > ’There is one thing that was perfectly proclaimed by the Lord who
     > knows and sees, the fully-enlightened Buddha… ’What is this one
-    > thing? All <font color="red">**beings**</font> stand upon
-    > <font color="blue">**nutriment**</font> (āhāraṭṭhitikā); ’all
-    > <font color="red">**beings**</font> stand upon
-    > <font color="blue">**foundations**</font> (sankhāraṭṭhitikā)
+    > thing? All <u>**beings**</u> stand upon <du>**nutriment**</du>
+    > (āhāraṭṭhitikā); ’all <u>**beings**</u> stand upon
+    > <du>**foundations**</du> (sankhāraṭṭhitikā)
     >
     > — <cite>DN 33</cite>
 
@@ -1049,19 +1011,17 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
 
 [^20]:
     > “The eye, bhikkhus, is the ocean for a person; its tide consists
-    > of forms. One who <font color="blue">**endures**</font>
-    > <font color="red">**that tide consisting of forms**</font> is said
-    > to have crossed the ocean of the eye with its waves, whirlpools,
-    > sharks, and demons. Crossed over, gone beyond, the brahmin stands
-    > on <font color="blue">**high ground**</font>.
+    > of forms. One who <du>**endures**</du> <u>**that tide consisting
+    > of forms**</u> is said to have crossed the ocean of the eye with
+    > its waves, whirlpools, sharks, and demons. Crossed over, gone
+    > beyond, the brahmin stands on <du>**high ground**</du>.
     >
     > “The ear, bhikkhus, is the ocean for a person…. The mind is the
     > ocean for a person; its tide consists of mental phenomena. One who
-    > <font color="blue">**endures**</font> <font color="red">**that
-    > tide consisting of mental phenomena**</font> is said to have
-    > crossed the ocean of the mind with its waves, whirlpools, sharks,
-    > and demons. Crossed over, gone beyond, the brahmin stands on
-    > <font color="blue">**high ground**</font>.”
+    > <du>**endures**</du> <u>**that tide consisting of mental
+    > phenomena**</u> is said to have crossed the ocean of the mind with
+    > its waves, whirlpools, sharks, and demons. Crossed over, gone
+    > beyond, the brahmin stands on <du>**high ground**</du>.”
     >
     > — <cite>SN 35.228</cite>
 
@@ -1069,11 +1029,11 @@ aspect of *nāma*[^12]), and thus it cannot provide the escape from
 
 [^21]: Such a person is “oppressed by hindrances” **because** the
     hindrances arise from the tendency to be absorbed and “dependent” on
-    one’s <font color="red">**attention**</font>. The hindrances are not
-    specific thoughts that come up every now and then that you get rid
-    of just by attending to <font color="red">**something
-    else**</font>—they are simply caused by the absence of *yoniso
-    manasikāra*, which manifests in 5 ways. cf. point \#4 below.
+    one’s <u>**attention**</u>. The hindrances are not specific thoughts
+    that come up every now and then that you get rid of just by
+    attending to <u>**something else**</u>—they are simply caused by the
+    absence of *yoniso manasikāra*, which manifests in 5 ways. cf. point
+    \#4 below.
 
 [^22]: <https://www.youtube.com/watch?v=EwxRFPkurhI>
 
