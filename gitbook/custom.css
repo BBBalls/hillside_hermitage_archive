@@ -156,13 +156,13 @@
 blockquote:lang(pi) {
   font-weight: 400;
   font-style: italic;
-  font-size: 1.2em;
+  font-size: 1em;
 }
 
 blockquote:lang(en) {
   font-weight: 400;
   font-style: normal;
-  font-size: 1.2em;
+  font-size: 1em;
 }
 
 .author {
