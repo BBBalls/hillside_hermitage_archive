@@ -1,7 +1,7 @@
 ---
 archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20221106%20-%20293hh%20-%20The%20stench%20and%20the%20flies%20-%20AN%203.128.mp3"
 author: Ajahn Nyanamoli Thero
-category: Transcription
+category: Transcriptions
 date: 2022-11-06
 description: a summarized transcription
 doc_url: "https://t.me/HillsideHermitage/301"
