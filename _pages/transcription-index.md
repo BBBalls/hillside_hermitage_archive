@@ -59,7 +59,7 @@ layout: post
 [How to be Happy](/hillside_hermitage_archive/transcriptions/2021-06-27-transcript-How_to_be_Happy.html)\
 [Mindfulness Of Breathing And Calming Of The Aversion](/hillside_hermitage_archive/transcriptions/2021-07-15-transcript-Mindfulness_Of_Breathing_And_Calming_Of_The_Aversion.html)\
 [Practice Of Generosity](/hillside_hermitage_archive/transcriptions/2021-08-23-transcript-Practice_Of_Generosity.html)\
-[No Joy, No Misery](2021-09-01-transcript-No_Joy_No_Misery)\
+[No Joy, No Misery](/hillside_hermitage_archive/transcriptions/2021-09-01-transcript-No_Joy_No_Misery.html)\
 [Calming the Pain Not Avoiding It](/hillside_hermitage_archive/transcriptions/2021-09-19-transcript-Calming_the_Pain_Not_Avoiding_It.html)\
 [Stilling Of All Activities](/hillside_hermitage_archive/transcriptions/2021-09-24-transcript-Stilling_Of_All_Activities.html)\
 [Escape From The Body](/hillside_hermitage_archive/transcriptions/2021-10-26-transcript-Escape_From_The_Body.html)\
