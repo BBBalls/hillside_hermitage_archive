@@ -24,6 +24,7 @@ layout: post
 [It's Not The Pain That Makes You Suffer](/hillside_hermitage_archive/transcriptions/2019-03-09-transcript-It's_Not_The_Pain_That_Makes_You_Suffer.html)\
 [The Stream Entry of Ajahn Chah](/hillside_hermitage_archive/transcriptions/2019-03-28-transcript-The_Stream_Entry_of_Ajahn_Chah.html)\
 [Responsibility Can Free You From Suffering](/hillside_hermitage_archive/transcriptions/2019-04-04-transcript-Responsibility_Can_Free_You_From_Suffering.html)\
+[Die Before You Die](/hillside_hermitage_archive/transcriptions/2019-04-07-transcript-Die_Before_You_Die.html)\
 [Overcoming Anxiety](/hillside_hermitage_archive/transcriptions/2019-04-11-transcript-Overcoming_Anxiety.html)\
 [Ajahn Chah and the Original Mind](/hillside_hermitage_archive/transcriptions/2019-06-13-transcript-Ajahn_Chah_and_the_Original_Mind.html)\
 [Don’t Be Faithful to Ignorance](/hillside_hermitage_archive/transcriptions/2019-07-10-transcript-Dont_Be_Faithful_to_Ignorance.html)
@@ -76,3 +77,7 @@ layout: post
 [How To Abandon Self View](/hillside_hermitage_archive/transcriptions/2022-10-03-transcript-How_To_Abandon_Self_View.html)\
 [The Stench and the Flies](/hillside_hermitage_archive/transcriptions/2022-11-06-transcript-The_Stench_and_the_Flies.html)\
 [Undermining the Sense of Self](/hillside_hermitage_archive/transcriptions/2022-11-21-transcript-Undermining_the_Sense_of_Self.html)
+
+### 2023
+
+[Overcoming the Sexual Urge](/hillside_hermitage_archive/transcriptions/2023-09-19-transcript-Overcoming_the_Sexual_Urge.html)
