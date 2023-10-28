@@ -17,7 +17,9 @@ by **Ajahn Nyanamoli Thero**
 
 [\[video\]](https://www.youtube.com/watch?v=D1DcXTYmbeA) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20230919%20-%20336hh%20-%20Overcoming%20the%20sexual%20urge.mp3)
 
-**Q**: \> Venerable Sir, I have been following the practice of “No Fap”,
+**Q**:
+
+> Venerable Sir, I have been following the practice of “No Fap”,
 which involves voluntary refraining from pornography and masturbation.
 However, this path has brought me to seek your guidance, because I have
 grown wary of mere abstinence. My goal is to find true liberation from
