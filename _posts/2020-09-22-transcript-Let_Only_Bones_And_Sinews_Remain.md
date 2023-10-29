@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20200922%20-%20175hh%20-%20Let%20only%20bones%20and%20sinews%20remain%20-%20AN%202.12.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2020-09-22
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/264"
+episode: 175
 layout: post
-title: 175hh- Let Only Bone and Sinews Remain
+title: Let Only Bone and Sinews Remain
+youtube_url: "https://www.youtube.com/watch?v=RAB0WaFzP1A"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=RAB0WaFzP1A) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20200922%20-%20175hh%20-%20Let%20only%20bones%20and%20sinews%20remain%20-%20AN%202.12.mp3)
 
 <div lang="en">
 

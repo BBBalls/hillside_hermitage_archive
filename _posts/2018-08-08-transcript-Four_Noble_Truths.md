@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20180807%20-%2030hh%20-%20The%20four%20noble%20truths.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2018-08-08
+description: a summarized transcription
+doc_url: "https://www.hillsidehermitage.org/wp-content/uploads/2022/06/30hh-The-Four-Noble-Truths.pdf"
+episode: 30
 layout: post
-title: 30hh- Four Noble Truths
+title: Four Noble Truths
+youtube_url: "https://www.youtube.com/watch?v=5YdrrkKfh3I"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=5YdrrkKfh3I) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20180807%20-%2030hh%20-%20The%20four%20noble%20truths.mp3)
 
 <div lang="en">
 

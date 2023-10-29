@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20180702%20-%2028hh%20-%20Sense%20of%20shame%20and%20fear%20of%20wrongdoing.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2018-07-02
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/174"
+episode: 28
 layout: post
-title: 28hh- Sense Of Shame And Fear Of Wrongdoing
+title: Sense Of Shame And Fear Of Wrongdoing
+youtube_url: "https://www.youtube.com/watch?v=JfwH9m_5psE"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=JfwH9m_5psE) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20180702%20-%2028hh%20-%20Sense%20of%20shame%20and%20fear%20of%20wrongdoing.mp3)
 
 **Q:** Authenticity, self-honesty, sense of shame and a fear of
 wrongdoing, these are all prerequisites for developing freedom from

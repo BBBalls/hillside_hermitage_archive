@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210330%20-%20202hh%20-%20Nibbana%20is%20the%20ultimate%20uncertainty%20-%20SN%2022.55%20AN%206.19%20MN%20137%20MN%2044%20AN%207.50.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-03-30
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/73"
+episode: 202
 layout: post
-title: 202hh- Nibbana Is The Ultimate Uncertainty
+title: Nibbana Is The Ultimate Uncertainty
+youtube_url: "https://www.youtube.com/watch?v=6FgiG7QY8f0"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=6FgiG7QY8f0) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210330%20-%20202hh%20-%20Nibbana%20is%20the%20ultimate%20uncertainty%20-%20SN%2022.55%20AN%206.19%20MN%20137%20MN%2044%20AN%207.50.mp3)
 
 Colloquially speaking, if something is determined it implies certainty
 and undetermined implies uncertainty. The highest undetermined thing is

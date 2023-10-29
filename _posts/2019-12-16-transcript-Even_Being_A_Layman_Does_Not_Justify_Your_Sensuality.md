@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20191216%20-%20131hh%20-%20Even%20being%20a%20layman%20does%20not%20justify%20your%20sensuality.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2019-12-16
+description: a summarized transcription
+doc_url: "https://www.hillsidehermitage.org/wp-content/uploads/2022/06/131hh_Even_Being_A_Layman_Does_Not_Justify_Your_Sensuality_1.pdf"
+episode: 131
 layout: post
-title: 131hh- Even Being A Layman Does Not Justify Your Sensuality
+title: Even Being A Layman Does Not Justify Your Sensuality
+youtube_url: "https://www.youtube.com/watch?v=gFzaTO5Nvc0"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=gFzaTO5Nvc0) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20191216%20-%20131hh%20-%20Even%20being%20a%20layman%20does%20not%20justify%20your%20sensuality.mp3)
 
 <u>**The practice starts by learning what the Buddha taught.**</u>
 

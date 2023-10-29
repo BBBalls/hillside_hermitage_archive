@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20200314%20-%20140hh%20-%20There%20is%20no%20love%20in%20loving-kindness%20-%20On%20Brahmaviharas%20-%20Part%201.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2020-03-14
+description: a summarized transcription
+doc_url: "https://www.hillsidehermitage.org/theres-no-love-in-loving-kindness/"
+episode: 140
 layout: post
-title: 140hh- There’s No Love In Loving-kindness
+title: There’s No Love In Loving-kindness
+youtube_url: "https://www.youtube.com/watch?v=CvQRbVs3oIY"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=CvQRbVs3oIY) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20200314%20-%20140hh%20-%20There%20is%20no%20love%20in%20loving-kindness%20-%20On%20Brahmaviharas%20-%20Part%201.mp3)
 
 **Q:** Our recent discussions have centred around cultivating the
 Brahmavihāras. From my perspective, it’s crucial to differentiate and

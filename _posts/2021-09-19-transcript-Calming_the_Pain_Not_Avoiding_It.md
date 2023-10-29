@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210919%20-%20229hh%20-%20Calming%20the%20pain%20not%20avoiding%20it.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-09-19
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/207"
+episode: 229
 layout: post
-title: 229hh- Calming the Pain Not Avoiding It
+title: Calming the Pain Not Avoiding It
+youtube_url: "https://www.youtube.com/watch?v=UtwIR-d-sA0"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=UtwIR-d-sA0) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210919%20-%20229hh%20-%20Calming%20the%20pain%20not%20avoiding%20it.mp3)
 
 **What is ‘meditation’?**
 

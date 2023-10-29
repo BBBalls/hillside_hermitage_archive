@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20200804%20-%20168hh%20-%20Looking%20for%20a%20bigger%20picture%20importance%20of%20precepts.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2020-08-04
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/88"
+episode: 168
 layout: post
-title: 168hh- The Contradiction in the Unwholesome
+title: The Contradiction in the Unwholesome
+youtube_url: "https://www.youtube.com/watch?v=VcQqUS4awDs"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=VcQqUS4awDs) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20200804%20-%20168hh%20-%20Looking%20for%20a%20bigger%20picture%20importance%20of%20precepts.mp3)
 
 **Nm:** Unwholesome things are unwholesome because in themselves they
 contain a contradiction or a discrepancy.

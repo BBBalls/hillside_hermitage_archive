@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210304%20-%20199hh%20-%20The%20uprooting%20of%20your%20suffering.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-03-04
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/68"
+episode: 199
 layout: post
-title: 199hh- The Uprooting Of Your Suffering
+title: The Uprooting Of Your Suffering
+youtube_url: "https://www.youtube.com/watch?v=zndwMKAszWM"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=zndwMKAszWM) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210304%20-%20199hh%20-%20The%20uprooting%20of%20your%20suffering.mp3)
 
 **Q:** Ajahn, you have said many times that the problem is that we are
 affected by things in the first place. In other words, it is possible

@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20211104%20-%20236hh%20-%20Desire%20to%20end%20desire.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-11-04
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/173"
+episode: 236
 layout: post
-title: 236hh- Desire To End Desire
+title: Desire To End Desire
+youtube_url: "https://www.youtube.com/watch?v=12_iuMQrywA"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=12_iuMQrywA) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20211104%20-%20236hh%20-%20Desire%20to%20end%20desire.mp3)
 
 <div lang="en">
 

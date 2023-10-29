@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210513%20-%20207hh%20-%20The%20danger%20contemplation%20-%20SN%2035.244%20MN%2025.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-05-13
+description: a summarized transcription
+doc_url: "https://www.hillsidehermitage.org/the-danger-contemplation/"
+episode: 207
 layout: post
-title: 207hh- The Danger Contemplation
+title: The Danger Contemplation
+youtube_url: "https://www.youtube.com/watch?v=oJiDzrw8bto"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=oJiDzrw8bto) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210513%20-%20207hh%20-%20The%20danger%20contemplation%20-%20SN%2035.244%20MN%2025.mp3)
 
 <div lang="en">
 

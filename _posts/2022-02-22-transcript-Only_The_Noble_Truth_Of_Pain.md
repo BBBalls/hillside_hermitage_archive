@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20220222%20-%20257hh%20-%20Only%20the%20noble%20truth%20of%20pain%20-%20SN%2056.11.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2022-02-22
+description: a summarized transcription
+doc_url: "https://www.hillsidehermitage.org/wp-content/uploads/2022/06/257hh-Only-The-Noble-Truth-Of-Pain.pdf"
+episode: 257
 layout: post
-title: 257hh- Only The Noble Truth Of Pain
+title: Only The Noble Truth Of Pain
+youtube_url: "https://www.youtube.com/watch?v=3ZwG3FXsKaA"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=3ZwG3FXsKaA) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20220222%20-%20257hh%20-%20Only%20the%20noble%20truth%20of%20pain%20-%20SN%2056.11.mp3)
 
 **Q:** The four noble truths, you’re saying, are four aspects to one
 insight.

@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20190613%20-%2071hh%20-%20Ajahn%20Chah%20and%20the%20original%20mind.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2019-06-13
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/162"
+episode: 71
 layout: post
-title: 71hh- Ajahn Chah and the Original Mind
+title: Ajahn Chah and the Original Mind
+youtube_url: "https://www.youtube.com/watch?v=2B1VzcYHQto"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=2B1VzcYHQto) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20190613%20-%2071hh%20-%20Ajahn%20Chah%20and%20the%20original%20mind.mp3)
 
 **Ven. Thaniyo:** This is another talk by Ajahn Chah called <cite>“The
 Path to Peace.”</cite> Now, this is just a few paragraphs from it that I

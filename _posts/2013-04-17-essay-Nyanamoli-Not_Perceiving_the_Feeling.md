@@ -1,12 +1,19 @@
 ---
-title: Not Perceiving the Feeling
+alt_doc_url: "https://pathpress.org/not-perceiving-the-feeling/"
 author: Ajahn Nyanamoli Thero
-date: 2013-04-17
 category: Essays
+date: 2013-04-17
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/not-perceiving-the-feeling-notes-on-mn-43/"
 layout: post
+title: Not Perceiving the Feeling (Notes on MN 43)
 ---
 
-by Ajahn Nyanamoli Thero
+an essay
+
+by **Ajahn Nyanamoli Thero**
+
+
 
 <div lang="en">
 

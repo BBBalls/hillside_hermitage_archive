@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20180403%20-%2005hh%20-%20Purpose%20of%20rules%20and%20precepts.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2018-04-03
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/153"
+episode: 5
 layout: post
-title: 05hh- Purpose Of The Precepts
+title: Purpose Of The Precepts
+youtube_url: "https://www.youtube.com/watch?v=CL6bswnLULY"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=CL6bswnLULY) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20180403%20-%2005hh%20-%20Purpose%20of%20rules%20and%20precepts.mp3)
 
 **Q:** What is the purpose of the precepts?
 

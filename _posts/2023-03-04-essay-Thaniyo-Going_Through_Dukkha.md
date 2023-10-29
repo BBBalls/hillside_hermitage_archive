@@ -1,12 +1,19 @@
 ---
-title: Going Through Dukkha
+alt_doc_url: "https://t.me/HillsideHermitage/257"
 author: Thaniyo Thero
 category: Essays
 date: 2023-03-04
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/going-through-dukkha/"
 layout: post
+title: Going Through Dukkha
 ---
 
-by Thaniyo Thero
+an essay
+
+by **Thaniyo Thero**
+
+
 
 *If I experience a painful feeling in relation to a bodily sensation,
 such as a backache, should I then just leave that ache alone without

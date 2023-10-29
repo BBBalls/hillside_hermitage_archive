@@ -1,10 +1,20 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20181022%20-%20On%20Nanavira%20Thera%20-%20Notes%20on%20Dhamma%20-%20Part%206%20-%20Anicca.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2018-10-22
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/41"
 layout: post
 title: On Nanavira Thera’s Notes on Dhamma - “Anicca”
+youtube_url: "https://www.youtube.com/watch?v=E8Ova00pIkI"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=E8Ova00pIkI) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20181022%20-%20On%20Nanavira%20Thera%20-%20Notes%20on%20Dhamma%20-%20Part%206%20-%20Anicca.mp3)
 
 **Q:** This is in regards to Ven. Nanavira’s, shorter notes on ​anicca​
 and the sutta quotes found there:

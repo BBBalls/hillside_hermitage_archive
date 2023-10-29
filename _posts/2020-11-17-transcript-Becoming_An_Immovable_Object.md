@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20201117%20-%20183hh%20-%20Becoming%20an%20immovable%20object.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2020-11-17
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/76"
+episode: 183
 layout: post
-title: 183hh- Becoming An Immovable Object
+title: Becoming An Immovable Object
+youtube_url: "https://www.youtube.com/watch?v=-039SYi2a94"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=-039SYi2a94) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20201117%20-%20183hh%20-%20Becoming%20an%20immovable%20object.mp3)
 
 **Q:** What is the middle way between asceticism and sensual indulgence?
 Is it the practice of enduring (neither giving into or denying)

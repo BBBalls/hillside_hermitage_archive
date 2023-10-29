@@ -1,12 +1,19 @@
 ---
-title: Peripheral Awareness
+alt_doc_url: "https://pathpress.org/peripheral-awareness/"
 author: Ajahn Nyanamoli Thero
-date: 2018-11-08
 category: Essays
+date: 2018-11-08
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/peripheral-awareness/"
 layout: post
+title: Peripheral Awareness
 ---
 
-by Ajahn Nyanamoli Thero
+an essay
+
+by **Ajahn Nyanamoli Thero**
+
+
 
 Mindfulness done correctly is when the mind is *anchored* in something.
 That something must be a thing that is not directly attended to, but

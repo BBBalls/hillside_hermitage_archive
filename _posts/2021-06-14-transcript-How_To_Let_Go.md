@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210614%20-%20210hh%20-%20How%20to%20let%20go.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-06-14
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/169"
+episode: 210
 layout: post
-title: 210hh- How To Let Go
+title: How To Let Go
+youtube_url: "https://www.youtube.com/watch?v=KcbyacvqmlU"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=KcbyacvqmlU) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210614%20-%20210hh%20-%20How%20to%20let%20go.mp3)
 
 <div lang="en">
 

@@ -1,12 +1,19 @@
 ---
-title: Papañca-Saññā-Sankhā
+alt_doc_url: "https://pathpress.org/papanca-sanna-sankha/"
 author: Ajahn Nyanamoli Thero
-date: 2010-08-01
 category: Essays
+date: 2010-08-01
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/papanca-sanna-sankha/"
 layout: post
+title: Papañca-Saññā-Sankhā
 ---
 
-by Ajahn Nyanamoli Thero
+an essay
+
+by **Ajahn Nyanamoli Thero**
+
+
 
 This compound has represented, to paraphrase John D. Ireland from his
 Udāna translation notes, a stumbling block which even the ancient

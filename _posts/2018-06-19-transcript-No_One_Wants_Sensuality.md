@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20180618%20-%2010hh%20-%20No%20one%20wants%20sensuality.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2018-06-19
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/160"
+episode: 10
 layout: post
-title: 10hh- No One Wants Sensuality
+title: No One Wants Sensuality
+youtube_url: "https://www.youtube.com/watch?v=Y5_57craCak"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=Y5_57craCak) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20180618%20-%2010hh%20-%20No%20one%20wants%20sensuality.mp3)
 
 **Q:** Bhante, you once said that the only reason one gives into
 sensuality is because one doesn’t want it. What do you mean by that?

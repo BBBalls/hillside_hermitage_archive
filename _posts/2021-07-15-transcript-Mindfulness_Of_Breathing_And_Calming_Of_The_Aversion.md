@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210714%20-%20215hh%20-%20Mindfulness%20of%20breathing%20and%20calming%20of%20aversion%20-%20SN%2054.6%20MN%2062.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-07-15
+description: a summarized transcription
+doc_url: "https://www.hillsidehermitage.org/wp-content/uploads/2022/06/215hh-Mindfulness-Of-Breathing-And-Calming-Of-The-Aversion-.pdf"
+episode: 215
 layout: post
-title: 215hh- Mindfulness Of Breathing And Calming Of The Aversion
+title: Mindfulness Of Breathing And Calming Of The Aversion
+youtube_url: "https://www.youtube.com/watch?v=GrgV9KI5LeI"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=GrgV9KI5LeI) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210714%20-%20215hh%20-%20Mindfulness%20of%20breathing%20and%20calming%20of%20aversion%20-%20SN%2054.6%20MN%2062.mp3)
 
 <div lang="en">
 

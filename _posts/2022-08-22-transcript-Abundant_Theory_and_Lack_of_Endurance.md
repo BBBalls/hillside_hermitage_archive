@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20220822%20-%20281hh%20-%20Abundant%20theory%20lack%20of%20endurance.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2022-08-22
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/270"
+episode: 281
 layout: post
-title: 281hh- Abundant Theory and Lack of Endurance
+title: Abundant Theory and Lack of Endurance
+youtube_url: "https://www.youtube.com/watch?v=nCIKZLmRTnE"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=nCIKZLmRTnE) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20220822%20-%20281hh%20-%20Abundant%20theory%20lack%20of%20endurance.mp3)
 
 **Q:** In terms of <span lang="pi">*anatta*</span>—a regular person
 acknowledges their mortality and realizes that they don’t have full

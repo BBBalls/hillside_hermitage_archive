@@ -1,12 +1,19 @@
 ---
-title: Resistance and Designation
+alt_doc_url: "https://pathpress.org/resistance-and-designation/"
 author: Ajahn Nyanamoli Thero
-date: 2013-03-28
 category: Essays
+date: 2013-03-28
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/resistance-and-designation-notes-on-dn-15/"
 layout: post
+title: Resistance and Designation (Notes on DN 15)
 ---
 
-by Ajahn Nyanamoli Thero
+an essay
+
+by **Ajahn Nyanamoli Thero**
+
+
 
 <div lang="pi">
 

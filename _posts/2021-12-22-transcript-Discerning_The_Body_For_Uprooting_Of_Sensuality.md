@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20211222%20-%20247hh%20-%20Discerning%20the%20body%20for%20uprooting%20of%20sensuality.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-12-22
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/145"
+episode: 247
 layout: post
-title: 247hh- Discerning The Body For Uprooting Of Sensuality
+title: Discerning The Body For Uprooting Of Sensuality
+youtube_url: "https://www.youtube.com/watch?v=7bU-4vX-daE"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=7bU-4vX-daE) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20211222%20-%20247hh%20-%20Discerning%20the%20body%20for%20uprooting%20of%20sensuality.mp3)
 
 The reason why a person’s mind would still be dependent on the pleasure
 of the senses despite knowing how little satisfaction they provide or

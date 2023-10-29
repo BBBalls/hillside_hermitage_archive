@@ -1,12 +1,19 @@
 ---
-title: With Birth Death Applies
+alt_doc_url: "https://pathpress.org/with-birth-death-applies/"
 author: Ajahn Nyanamoli Thero
-date: 2010-12-23
 category: Essays
+date: 2010-12-23
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/with-birth-death-applies/"
 layout: post
+title: With Birth Death Applies
 ---
 
-by Ajahn Nyanamoli Thero
+an essay
+
+by **Ajahn Nyanamoli Thero**
+
+
 
 1\. We are born. We come into this world through our birth. As we shall
 see in the following paragraphs, there are many ways that one *can*

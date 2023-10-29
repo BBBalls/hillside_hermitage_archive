@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210501%20-%20206hh%20-%20Pleasure%20of%20non-activity%20-%20Thag%2019.1%20AN%203.68%20SN%209.10%20SN%2021.4%20SN%2035.240.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-05-01
+description: a summarized transcription
+doc_url: "https://www.hillsidehermitage.org/wp-content/uploads/2022/06/206hh-The-Pleasure-of-Non-Activity-.pdf"
+episode: 206
 layout: post
-title: 206hh- The Pleasure of Non-Activity
+title: The Pleasure of Non-Activity
+youtube_url: "https://www.youtube.com/watch?v=Fs7Mj2Ig3Hw"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=Fs7Mj2Ig3Hw) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210501%20-%20206hh%20-%20Pleasure%20of%20non-activity%20-%20Thag%2019.1%20AN%203.68%20SN%209.10%20SN%2021.4%20SN%2035.240.mp3)
 
 <cite>[Theragatha 19.1 -
 Talaputta](https://suttacentral.net/thag19.1)</cite>:

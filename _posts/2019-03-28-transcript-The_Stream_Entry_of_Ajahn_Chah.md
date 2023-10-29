@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20190328%20-%2070hh%20-%20The%20stream-entry%20of%20Ajahn%20Chah.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2019-03-28
+description: a summarized transcription
+doc_url: "https://www.hillsidehermitage.org/wp-content/uploads/2022/06/70hh-The-Stream-Entry-of-Ajahn-Chah-1.pdf"
+episode: 70
 layout: post
-title: 70hh- The Stream Entry of Ajahn Chah
+title: The Stream Entry of Ajahn Chah
+youtube_url: "https://www.youtube.com/watch?v=wZoIwMQHoc4"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=wZoIwMQHoc4) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20190328%20-%2070hh%20-%20The%20stream-entry%20of%20Ajahn%20Chah.mp3)
 
 <u>**On Views**</u>
 

@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20220214%20-%20256hh%20-%20Seven%20factors%20of%20enlightenment%20-%20SN%2046.3.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2022-02-14
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/263"
+episode: 256
 layout: post
-title: 256hh- Seven Factors of Enlightenment
+title: Seven Factors of Enlightenment
+youtube_url: "https://www.youtube.com/watch?v=KSEQaBrNknM"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=KSEQaBrNknM) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20220214%20-%20256hh%20-%20Seven%20factors%20of%20enlightenment%20-%20SN%2046.3.mp3)
 
 <cite>Sīlasutta SN 46.3</cite>:
 

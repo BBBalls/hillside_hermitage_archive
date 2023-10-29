@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20220913%20-%20284hh%20-%20The%20meaning%20of%20right%20samadhi%20-%20AN%205.179.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2022-09-13
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/261"
+episode: 284
 layout: post
-title: 284hh- The Meaning of Right Samadhi
+title: The Meaning of Right Samadhi
+youtube_url: "https://www.youtube.com/watch?v=53sSOqThO2A"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=53sSOqThO2A) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20220913%20-%20284hh%20-%20The%20meaning%20of%20right%20samadhi%20-%20AN%205.179.mp3)
 
 **Ajahn Nyanamoli:** Could you give me a mundane example of samadhi
 (composure)?

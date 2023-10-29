@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20200516%20-%20155hh%20-%20You%20dont%20need%20to%20say%20no%20to%20everything.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2020-05-16
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/84"
+episode: 155
 layout: post
-title: 155hh- You Don’t Need To Say No To Everything
+title: You Don’t Need To Say No To Everything
+youtube_url: "https://www.youtube.com/watch?v=cqjLiZZsmAM"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=cqjLiZZsmAM) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20200516%20-%20155hh%20-%20You%20dont%20need%20to%20say%20no%20to%20everything.mp3)
 
 **Nm:** What needs to be restrained? Do you say no to everything, to
 whatever your eye wants to see or whatever your nose wants to smell? How

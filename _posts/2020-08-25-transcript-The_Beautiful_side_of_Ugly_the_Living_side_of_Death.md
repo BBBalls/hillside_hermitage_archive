@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20200825%20-%20171hh%20-%20Developing%20the%20right%20kind%20of%20perceptions%20-%20Part%201%20-%20Beautiful%20side%20of%20ugly%20living%20side%20of%20death%20-%20AN%207.49.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2020-08-25
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/31"
+episode: 171
 layout: post
-title: 171hh- The Beautiful side of Ugly, the Living side of Death
+title: The Beautiful side of Ugly, the Living side of Death
+youtube_url: "https://www.youtube.com/watch?v=EwxRFPkurhI"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=EwxRFPkurhI) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20200825%20-%20171hh%20-%20Developing%20the%20right%20kind%20of%20perceptions%20-%20Part%201%20-%20Beautiful%20side%20of%20ugly%20living%20side%20of%20death%20-%20AN%207.49.mp3)
 
 **Q:** <cite>AN 7.49</cite>:
 

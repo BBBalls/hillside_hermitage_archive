@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20221121%20%20-%20296hh%20-%20Undermining%20the%20sense%20of%20self.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2022-11-21
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/266"
+episode: 296
 layout: post
-title: 296hh- Undermining the Sense of Self
+title: Undermining the Sense of Self
+youtube_url: "https://www.youtube.com/watch?v=HIDVvlTYxIc"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=HIDVvlTYxIc) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20221121%20%20-%20296hh%20-%20Undermining%20the%20sense%20of%20self.mp3)
 
 **Ajahn Nyanamoli:** What would be the measure of success in this
 practice?

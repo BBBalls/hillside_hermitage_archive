@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20220304%20-%20258hh%20-%20Simile%20of%20the%20sons%20flesh%20-%20SN%2012.63%20SN%2056.35.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2022-03-04
+description: a summarized transcription
+doc_url: "https://www.hillsidehermitage.org/wp-content/uploads/2022/06/258hh-Simile-of-The-Sons-Flesh-.pdf"
+episode: 258
 layout: post
-title: 258hh- Simile of The Son’s Flesh
+title: Simile of The Son’s Flesh
+youtube_url: "https://www.youtube.com/watch?v=cmYzJSvZ5jE"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=cmYzJSvZ5jE) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20220304%20-%20258hh%20-%20Simile%20of%20the%20sons%20flesh%20-%20SN%2012.63%20SN%2056.35.mp3)
 
 <cite>SN 12.63 Puttamansa Sutta: A Son’s Flesh</cite>:
 

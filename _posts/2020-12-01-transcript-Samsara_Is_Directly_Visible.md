@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20201201%20-%20185hh%20-%20GUIDED%20CONTEMPLATION%20-%20Samsara%20is%20directly%20visible.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2020-12-01
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/141"
+episode: 185
 layout: post
-title: 185hh- Samsara Is Directly Visible
+title: Samsara Is Directly Visible
+youtube_url: "https://www.youtube.com/watch?v=rFWRsPGXsL0"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=rFWRsPGXsL0) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20201201%20-%20185hh%20-%20GUIDED%20CONTEMPLATION%20-%20Samsara%20is%20directly%20visible.mp3)
 
 Ask yourself can you stop your feelings? Can you stop your form/rupa
 from deteriorating? Can you prevent perceptions from besetting you? Can

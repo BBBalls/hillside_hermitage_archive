@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20200811%20-%20169hh%20-%20Context%20of%20your%20suffering%20-%20MN%20121.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2020-08-11
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/79"
+episode: 169
 layout: post
-title: 169hh- The Context Of Your Suffering
+title: The Context Of Your Suffering
+youtube_url: "https://www.youtube.com/watch?v=a2c4du8kk8Q"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=a2c4du8kk8Q) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20200811%20-%20169hh%20-%20Context%20of%20your%20suffering%20-%20MN%20121.mp3)
 
 <cite>MN 121</cite>:
 

@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210223%20-%20198hh%20-%20In%20the%20seen%20just%20the%20seen%20-%20Thag%2016.5.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-02-23
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/149"
+episode: 198
 layout: post
-title: 198hh- In The Seen Just The Seen
+title: In The Seen Just The Seen
+youtube_url: "https://www.youtube.com/watch?v=Jp0WtFO5qm0"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=Jp0WtFO5qm0) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210223%20-%20198hh%20-%20In%20the%20seen%20just%20the%20seen%20-%20Thag%2016.5.mp3)
 
 <div lang="en">
 

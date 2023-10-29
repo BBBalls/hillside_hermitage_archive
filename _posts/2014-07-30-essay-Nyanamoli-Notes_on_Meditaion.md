@@ -1,12 +1,19 @@
 ---
-title: Notes on Meditation
+alt_doc_url: "https://pathpress.org/notes-on-meditation/"
 author: Ajahn Nyanamoli Thero
-date: 2014-07-30
 category: Essays
+date: 2014-07-30
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/notes-on-meditation/"
 layout: post
+title: Notes on Meditation
 ---
 
-by Ajahn Nyanamoli Thero
+an essay
+
+by **Ajahn Nyanamoli Thero**
+
+
 
 <div class="{lang=en]:">
 

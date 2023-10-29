@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210924%20-%20230hh%20-%20Stilling%20of%20all%20activities.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-09-24
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/155"
+episode: 230
 layout: post
-title: 230hh- Stilling Of All Activities
+title: Stilling Of All Activities
+youtube_url: "https://www.youtube.com/watch?v=z1qG8z_yV1M"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=z1qG8z_yV1M) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210924%20-%20230hh%20-%20Stilling%20of%20all%20activities.mp3)
 
 <div lang="en">
 

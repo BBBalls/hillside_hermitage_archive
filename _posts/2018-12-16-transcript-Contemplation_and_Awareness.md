@@ -1,10 +1,22 @@
 ---
+alt_doc_url: "https://pathpress.org/contemplation-and-awareness/"
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20181216%20-%2041hh%20-%20GUIDED%20CONTEMPLATION%20-%20Awareness.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2018-12-16
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/162"
+episode: 41
 layout: post
-title: 41hh- Contemplation and Awareness
+title: Contemplation and Awareness
+youtube_url: "https://www.youtube.com/watch?v=AQQUBOLx2g4"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=AQQUBOLx2g4) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20181216%20-%2041hh%20-%20GUIDED%20CONTEMPLATION%20-%20Awareness.mp3)
 
 <u>**Discerning the background**</u>
 

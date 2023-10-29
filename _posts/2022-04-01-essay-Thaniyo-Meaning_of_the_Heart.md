@@ -1,12 +1,18 @@
 ---
-title: Meaning of the Heart
 author: Thaniyo Thero
 category: Essays
 date: 2022-04-01
+description: an essay
+doc_url: "https://t.me/HillsideHermitage/170"
 layout: post
+title: Meaning of the Heart
 ---
 
-by Thaniyo Thero
+an essay
+
+by **Thaniyo Thero**
+
+
 
 <div lang="en">
 

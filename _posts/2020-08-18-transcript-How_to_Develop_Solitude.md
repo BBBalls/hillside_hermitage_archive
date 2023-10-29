@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20200818%20-%20170hh%20-%20QA%20-%20How%20to%20develop%20the%20attitude%20of%20solitude.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2020-08-18
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/30"
+episode: 170
 layout: post
-title: 170hh- How to Develop Solitude
+title: How to Develop Solitude
+youtube_url: "https://www.youtube.com/watch?v=FQijampCTCU"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=FQijampCTCU) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20200818%20-%20170hh%20-%20QA%20-%20How%20to%20develop%20the%20attitude%20of%20solitude.mp3)
 
 **Q:** The Buddha encourages the development of seclusion. What then is
 the best way to cultivate it?

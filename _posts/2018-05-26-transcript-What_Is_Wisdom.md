@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20180525%20-%2029hh%20-%20What%20is%20wisdom.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2018-05-26
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/157"
+episode: 29
 layout: post
-title: 29hh- What Is Wisdom?
+title: What Is Wisdom?
+youtube_url: "https://www.youtube.com/watch?v=SGtDIg7j\\_-A"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=SGtDIg7j\_-A) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20180525%20-%2029hh%20-%20What%20is%20wisdom.mp3)
 
 **Q:** What is discernment or wisdom?
 

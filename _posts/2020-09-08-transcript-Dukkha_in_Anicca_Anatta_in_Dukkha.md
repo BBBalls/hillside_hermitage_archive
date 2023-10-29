@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20200908%20-%20173hh%20-%20Developing%20the%20right%20kind%20of%20perceptions%20-%20Part%202%20-%20Dukkha%20in%20anicca%20anatta%20in%20dukkha%20-%20AN%207.49.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2020-09-08
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/40"
+episode: 173
 layout: post
-title: 173hh- Dukkha in Anicca, Anatta in Dukkha
+title: Dukkha in Anicca, Anatta in Dukkha
+youtube_url: "https://www.youtube.com/watch?v=6PTgJKrrAVA"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=6PTgJKrrAVA) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20200908%20-%20173hh%20-%20Developing%20the%20right%20kind%20of%20perceptions%20-%20Part%202%20-%20Dukkha%20in%20anicca%20anatta%20in%20dukkha%20-%20AN%207.49.mp3)
 
 **Q:** <cite>AN 7.49</cite> continued:
 

@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210414%20-%20204hh%20-%20The%20six%20sensed%20animal%20-%20SN%2035.247%20MN%2019%20MN%2020.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-04-14
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/78"
+episode: 204
 layout: post
-title: 204hh- The Six Sensed Animal
+title: The Six Sensed Animal
+youtube_url: "https://www.youtube.com/watch?v=Ub4hW6xUDTg"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=Ub4hW6xUDTg) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210414%20-%20204hh%20-%20The%20six%20sensed%20animal%20-%20SN%2035.247%20MN%2019%20MN%2020.mp3)
 
 <cite>SN 35.247</cite>:
 

@@ -1,12 +1,19 @@
 ---
-title: Uproot Assumptions, Uproot Suffering
+alt_doc_url: "https://t.me/HillsideHermitage/197"
 author: Thaniyo Thero
 category: Essays
 date: 2022-07-03
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/wp-content/uploads/2022/07/Uproot-Assumptions-Uproot-Suffering_Thaniyo.pdf"
 layout: post
+title: Uproot Assumptions, Uproot Suffering
 ---
 
-by Thaniyo Thero
+an essay
+
+by **Thaniyo Thero**
+
+
 
 <div lang="en">
 

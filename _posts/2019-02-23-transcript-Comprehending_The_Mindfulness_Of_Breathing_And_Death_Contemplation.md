@@ -1,11 +1,23 @@
 ---
+alt_doc_url: "https://pathpress.org/comprehending-the-mindfulness-of-breathing-and-death-contemplation/"
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20190223%20-%2067hh%20-%20Comprehending%20the%20mindfulness%20of%20breathing.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2019-02-23
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/162"
+episode: 67
 layout: post
-title: 67hh- Comprehending The Mindfulness Of Breathing And Death
+title: Comprehending The Mindfulness Of Breathing And Death
   Contemplation
+youtube_url: "https://www.youtube.com/watch?v=4kY4zVThpro"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=4kY4zVThpro) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20190223%20-%2067hh%20-%20Comprehending%20the%20mindfulness%20of%20breathing.mp3)
 
 **I. Mindfulness of Breathing**
 

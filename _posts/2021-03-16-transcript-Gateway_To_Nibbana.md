@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210316%20-%20200hh%20-%20Gateway%20to%20nibbana.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-03-16
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/70"
+episode: 200
 layout: post
-title: 200hh- Gateway To Nibbana
+title: Gateway To Nibbana
+youtube_url: "https://www.youtube.com/watch?v=\\_XKSVuKe8_c"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=\_XKSVuKe8_c) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210316%20-%20200hh%20-%20Gateway%20to%20nibbana.mp3)
 
 Often I speak about the endurance of unpleasant or pleasant feeling. So
 how would you practically do that? Or rather how would failing to endure

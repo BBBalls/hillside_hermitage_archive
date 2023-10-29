@@ -12,6 +12,8 @@ an essay
 
 by **Bhikkhu Anīgha**
 
+
+
 <div lang="en">
 
 > “Bhikkhus, this is the one-way path for the purification of beings,

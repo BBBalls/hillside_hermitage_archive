@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210424%20-%20205hh%20-%20Jhana%20is%20a%20lifestyle%20-%20MN%20107.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-04-24
+description: a summarized transcription
+doc_url: "https://www.hillsidehermitage.org/wp-content/uploads/2022/06/205hh-Jhana-Is-A-Lifestyle.pdf"
+episode: 205
 layout: post
-title: 205hh- Jhana Is A Lifestyle
+title: Jhana Is A Lifestyle
+youtube_url: "https://www.youtube.com/watch?v=HVw4gDCrfKQ"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=HVw4gDCrfKQ) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210424%20-%20205hh%20-%20Jhana%20is%20a%20lifestyle%20-%20MN%20107.mp3)
 
 *“Jhana is an establishment of mind that results from your own efforts
 of purifying your lifestyle. It’s not a magical experience that will

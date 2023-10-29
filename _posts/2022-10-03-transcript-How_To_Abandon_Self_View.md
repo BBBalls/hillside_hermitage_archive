@@ -1,10 +1,20 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20221003%20-%20287hh%20-%20How%20to%20abandon%20the%20self%20view%20-%20MN%2038%20MN%2062.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2022-10-03
+description: a summarized transcription
+episode: 287
 layout: post
-title: 287hh- How To Abandon Self View
+title: How To Abandon Self View
+youtube_url: "https://www.youtube.com/watch?v=UWpMHj-6mmo"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=UWpMHj-6mmo) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20221003%20-%20287hh%20-%20How%20to%20abandon%20the%20self%20view%20-%20MN%2038%20MN%2062.mp3)
 
 **Ajahn Nyanamoli**: What is the result of a successful practice?
 

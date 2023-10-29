@@ -19,13 +19,14 @@ by **Ajahn Nyanamoli Thero**
 
 **Q**:
 
-> Venerable Sir, I have been following the practice of “No Fap”,
-which involves voluntary refraining from pornography and masturbation.
-However, this path has brought me to seek your guidance, because I have
-grown wary of mere abstinence. My goal is to find true liberation from
-the internal sexual pressure. Despite experiencing increased vitality
-through the NoFap practice, I still feel the weight of this pressure
-within me. I request your assistance in finding genuine freedom.
+> Venerable Sir, I have been following the practice of “No Fap”, which
+> involves voluntary refraining from pornography and masturbation.
+> However, this path has brought me to seek your guidance, because I
+> have grown wary of mere abstinence. My goal is to find true liberation
+> from the internal sexual pressure. Despite experiencing increased
+> vitality through the NoFap practice, I still feel the weight of this
+> pressure within me. I request your assistance in finding genuine
+> freedom.
 
 **Ajahn Nyanamoli**: The next step is to start discerning the mental
 aspects of sensuality and sensual craving. So being celibate, withdrawn

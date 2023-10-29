@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210823%20-%20223hh%20-%20Practice%20of%20generosity.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-08-23
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/167"
+episode: 223
 layout: post
-title: 223hh- Practice Of Generosity
+title: Practice Of Generosity
+youtube_url: "https://www.youtube.com/watch?v=RurJ6R0vVJM"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=RurJ6R0vVJM) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210823%20-%20223hh%20-%20Practice%20of%20generosity.mp3)
 
 **Q:** Is generosity beneficial?
 

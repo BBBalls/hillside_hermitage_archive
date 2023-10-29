@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20211026%20-%20235hh%20-%20Escape%20from%20the%20body.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-10-26
+description: a summarized transcription
+doc_url: "https://www.hillsidehermitage.org/wp-content/uploads/2022/06/235hh-Escape-from-the-body-1.pdf"
+episode: 235
 layout: post
-title: 235hh- Escape From The Body
+title: Escape From The Body
+youtube_url: "https://www.youtube.com/watch?v=VyOudkgrIcA"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=VyOudkgrIcA) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20211026%20-%20235hh%20-%20Escape%20from%20the%20body.mp3)
 
 <u>**Right order, and non-delight in masculinity/femininity**</u>
 

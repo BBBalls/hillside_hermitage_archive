@@ -1,12 +1,18 @@
 ---
-title: Intentions Behind Ones Actions
 author: Ajahn Nyanamoli Thero
-date: 2018-05-21
 category: Essays
+date: 2018-05-21
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/intentions-behind-ones-actions/"
 layout: post
+title: Intentions Behind One’s Actions
 ---
 
-by Ajahn Nyanamoli Thero
+an essay
+
+by **Ajahn Nyanamoli Thero**
+
+
 
 The Right meditation is inseparable from the Right view. That means that
 even if a person doesn’t have the Right view, their meditation should be

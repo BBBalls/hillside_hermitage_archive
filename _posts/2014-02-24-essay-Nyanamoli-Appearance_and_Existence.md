@@ -1,12 +1,19 @@
 ---
-title: Appearance and Existence
+alt_doc_url: "https://pathpress.org/appearance-and-existence/"
 author: Ajahn Nyanamoli Thero
-date: 2014-02-24
 category: Essays
+date: 2014-02-24
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/appearance-and-existence/"
 layout: post
+title: Appearance and Existence
 ---
 
-by Ajahn Nyanamoli Thero
+an essay
+
+by **Ajahn Nyanamoli Thero**
+
+
 
 For a <span lang="pi">*puthujjana*</span> the world exists. He can
 perceive things in that world, see them appear and disappear, he can see

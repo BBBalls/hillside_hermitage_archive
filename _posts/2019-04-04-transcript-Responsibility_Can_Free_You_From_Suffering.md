@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20190404%20-%2064hh%20-%20Responsibility%20can%20free%20you%20from%20suffering.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2019-04-04
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/177"
+episode: 64
 layout: post
-title: 64hh- Responsibility Can Free You From Suffering
+title: Responsibility Can Free You From Suffering
+youtube_url: "https://www.youtube.com/watch?v=3KoITf0utnI"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=3KoITf0utnI) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20190404%20-%2064hh%20-%20Responsibility%20can%20free%20you%20from%20suffering.mp3)
 
 The reason why understanding is hard to develop, is because in order to
 do so, one needs to know what must be understood. That might sound self

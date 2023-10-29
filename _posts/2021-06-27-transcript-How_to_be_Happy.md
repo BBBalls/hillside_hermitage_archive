@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210627%20-%20212hh%20-%20How%20to%20be%20happy.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-06-27
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/179"
+episode: 212
 layout: post
-title: 212hh- How to be Happy
+title: How to be Happy
+youtube_url: "https://www.youtube.com/watch?v=ICbQ1R6GEpw"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=ICbQ1R6GEpw) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210627%20-%20212hh%20-%20How%20to%20be%20happy.mp3)
 
 The first thing you have to answer is what happiness is for you? Most
 people generally go through life without even knowing what they want,

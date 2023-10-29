@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20190309%20-%2062hh%20-%20Its%20not%20the%20pain%20that%20makes%20you%20suffer.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2019-03-09
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/238"
+episode: 62
 layout: post
-title: 62hh- It’s Not The Pain That Makes You Suffer
+title: It’s Not The Pain That Makes You Suffer
+youtube_url: "https://www.youtube.com/watch?v=f8R1za5f9sI"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=f8R1za5f9sI) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20190309%20-%2062hh%20-%20Its%20not%20the%20pain%20that%20makes%20you%20suffer.mp3)
 
 **Ajahn Nyanamoli:** Why is painful feeling a problem?
 

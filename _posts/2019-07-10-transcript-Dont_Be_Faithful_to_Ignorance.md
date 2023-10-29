@@ -1,10 +1,22 @@
 ---
+alt_doc_url: "https://pathpress.org/dont-be-faithful-to-ignorance/"
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20190710%20-%2083hh%20-%20Dont%20be%20faithful%20to%20ignorance.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2019-07-10
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/162"
+episode: 83
 layout: post
-title: 83hh- Don’t Be Faithful to Ignorance
+title: Don’t Be Faithful to Ignorance
+youtube_url: "https://www.youtube.com/watch?v=jAhlUvFvttI"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=jAhlUvFvttI) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20190710%20-%2083hh%20-%20Dont%20be%20faithful%20to%20ignorance.mp3)
 
 **Thaniyo:** I was wondering if we could speak about lying, the
 phenomenon of lying, the choice to lie. A simple question: Is it wrong

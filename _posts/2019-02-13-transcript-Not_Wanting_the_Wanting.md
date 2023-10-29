@@ -1,10 +1,22 @@
 ---
+alt_doc_url: "https://pathpress.org/not-wanting-the-wanting/"
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20190219%20-%2054hh%20-%20MEDITATION%20-%20Stop%20wanting%20the%20wanting%20of%20sensuality.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2019-02-13
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/162"
+episode: 54
 layout: post
-title: 54hh- Not Wanting the Wanting
+title: Not Wanting the Wanting
+youtube_url: "https://www.youtube.com/watch?v=\\_ttVxzlzlj0"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=\_ttVxzlzlj0) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20190219%20-%2054hh%20-%20MEDITATION%20-%20Stop%20wanting%20the%20wanting%20of%20sensuality.mp3)
 
 Wanting sense objects that you derive pleasure from, that is sensuality,
 it’s that wanting. So, in order to abandon sensuality, you have to stop

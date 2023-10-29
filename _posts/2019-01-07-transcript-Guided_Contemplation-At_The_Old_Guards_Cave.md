@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20190107%20-%2051hh%20-%20GUIDED%20CONTEMPLATION%20-%20At%20the%20old%20guards%20cave.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2019-01-07
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/172"
+episode: 51
 layout: post
-title: 51hh- Guided Contemplation - At The Old Guards Cave
+title: Guided Contemplation - At The Old Guards Cave
+youtube_url: "https://www.youtube.com/watch?v=L4lt6JlhOp4"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=L4lt6JlhOp4) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20190107%20-%2051hh%20-%20GUIDED%20CONTEMPLATION%20-%20At%20the%20old%20guards%20cave.mp3)
 
 Meditation/<span lang="pi">*Bhāvanā*</span>, the mental development that
 the Buddha taught, is about the cultivation of understanding or wisdom.

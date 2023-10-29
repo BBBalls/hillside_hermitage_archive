@@ -1,12 +1,19 @@
 ---
-title: Feelings are Suffering
+alt_doc_url: "https://pathpress.org/1/"
 author: Ajahn Nyanamoli Thero
-date: 2010-12-10
 category: Essays
+date: 2010-12-10
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/feelings-are-suffering/"
 layout: post
+title: Feelings are Suffering
 ---
 
-by Ajahn Nyanamoli Thero
+an essay
+
+by **Ajahn Nyanamoli Thero**
+
+
 
 How should one free oneself from suffering?
 

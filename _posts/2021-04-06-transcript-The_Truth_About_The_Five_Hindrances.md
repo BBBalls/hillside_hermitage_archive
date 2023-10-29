@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210406%20-%20203hh%20-%20The%20truth%20about%20the%20five%20hindrances%20-%20AN%209.64%20AN%203.63%20MN%2075%20MN%2039%20SN%2012.66.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-04-06
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/75"
+episode: 203
 layout: post
-title: 203hh- The Truth About The Five Hindrances
+title: The Truth About The Five Hindrances
+youtube_url: "https://www.youtube.com/watch?v=UczBkf8eqxI"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=UczBkf8eqxI) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210406%20-%20203hh%20-%20The%20truth%20about%20the%20five%20hindrances%20-%20AN%209.64%20AN%203.63%20MN%2075%20MN%2039%20SN%2012.66.mp3)
 
 <div lang="en">
 

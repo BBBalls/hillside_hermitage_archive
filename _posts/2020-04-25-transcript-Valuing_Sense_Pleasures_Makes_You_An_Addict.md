@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20200425%20-%20150hh%20-%20Sense%20pleasures%20make%20you%20an%20addict.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2020-04-25
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/82"
+episode: 150
 layout: post
-title: 150hh- Valuing Sense Pleasures Makes You An Addict
+title: Valuing Sense Pleasures Makes You An Addict
+youtube_url: "https://www.youtube.com/watch?v=t6Q94MYr3Qc"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=t6Q94MYr3Qc) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20200425%20-%20150hh%20-%20Sense%20pleasures%20make%20you%20an%20addict.mp3)
 
 **Q:** You mentioned before that a person cannot get the right view
 without first abandoning the value of sensuality, what did you mean by

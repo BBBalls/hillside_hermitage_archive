@@ -1,12 +1,19 @@
 ---
-title: Living Under An Authority
+alt_doc_url: "https://t.me/HillsideHermitage/255"
 author: Sister Medhini
 category: Essays
 date: 2023-02-23
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/living-under-an-authority/"
 layout: post
+title: Living Under An Authority
 ---
 
-by Sister Medhini
+an essay
+
+by **Sister Medhini**
+
+
 
 As long as one is alive, being subject to some sort of authority or
 authorities is inevitable[^1]. An authority is here meant in a rather

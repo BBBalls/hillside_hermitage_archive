@@ -2,11 +2,17 @@
 author: Bhikkhu Anīgha
 category: Essays
 date: 2023-08-28
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/sila-is-samadhi/"
 layout: post
 title: Sīla is Samādhi
 ---
 
-by Bhikkhu Anīgha
+an essay
+
+by **Bhikkhu Anīgha**
+
+
 
 What exactly is the connection between *sīla* and *samādhi*? Is it that
 virtue *aids* or *facilitates* the development of mental composure[^1],
@@ -14,7 +20,7 @@ in the way that a suitable diet *contributes* to an athlete’s top
 physical performance—a secondary factor that allows for better results
 with greater ease, or that prevents setbacks down the line? This is what
 the relationship is often imagined to be, especially given how modern
-notions of *samādhi* go together with arbitrary practices that have no
+notions of *samādhi *go together with arbitrary practices that have no
 direct connection to the abstinence from unwholesome acts, except
 perhaps in that one cannot move, speak, or (supposedly) think *at
 all* while one is engaging in them. Because of this, the link between
@@ -42,7 +48,7 @@ that one can easily fail to recognize due to one’s expectations of what
 *samādhi* is about, and thus even a person who has put in the work into
 their virtue correctly can end up misapplying their efforts in various
 directions that do not take that same virtue as foundation, which is
-what would have not only resulted in greater composure, but also in a
+what would have not only resulted in greater composure*, *but also in a
 comparatively straightforward and seamless manner.[^2] Conversely, one
 not yet sufficiently accomplished in virtue can be tempted to put the
 cart before the horse, and thereby end up reaping either frustration, or
@@ -104,7 +110,7 @@ character of all of one’s actions, big or small as they may be, one is
 already working towards the indispensable foundation of all proper
 *samādhi*—picking up the “hints” of the mind (*cittassa nimitta*)[^10].
 The discernment of those “hints” is what enables one to abandon
-defilements where they *actually are* starting with one’s actions, as
+defilements where they *actually are *starting with one’s actions, as
 opposed to dealing with secondary factors or taking on practices and
 habits one *assumes* to be always wholesome in themselves:
 
@@ -217,7 +223,7 @@ what constitutes a fault.[^14] This is how you become your own “enemy”.
 The word “aggregate” *(khandha)* also adds an important nuance. When the
 Suttas talk about “aggregate of *sīla/samādhi/paññā*” this denotes a
 level of acquisition of that quality which no longer requires *active
-effort* or additions to it, but is now just “sitting there” like a heap
+effort *or additions to it, but is now just “sitting there” like a heap
 or pile, the literal meaning of *khandha*. In the context of virtue, it
 means that one no longer needs to stop and interrogate oneself before
 every action for 10 minutes like in the beginning,[^15] but rather every
@@ -273,8 +279,8 @@ training.[^19]
 
 Therefore, given that composure is a refinement of the same principle as
 virtue, it is unlikely (but not impossible) that a person would be able
-to see their own mind to the point necessary to attain the *jhānas*
-taught by the Buddha and not become a *sotāpanna* first, because they
+to see their own mind to the point necessary to attain the *jhānas
+*taught by the Buddha and not become a *sotāpanna* first, because they
 would’ve already reached the necessary development long before that. The
 most likely cause of not becoming one is that they haven’t heard the
 Dhamma sufficiently, or at all, but this is hardly possible today if
@@ -331,7 +337,7 @@ is not yours by trying to get rid of them?
 Remember some occasion in the recent past where you were faced with a
 prospect to break your virtue. What did you do? Did you find a way to
 stop that annoying fly from doing what it does, or did you simply
-resolve that you *would not kill it*? Do you smash every bottle of
+resolve that you *would not kill it? *Do you smash every bottle of
 alcohol you come across, or do you simply *not* *drink* even if you’re
 asked to? Did you prevent all sexually appealing people from existing,
 or did you simply *restrain* the urge to pursue them? And, most
@@ -339,7 +345,7 @@ importantly, why is it that you now don’t feel a threat to your virtue
 whenever these temptations and annoyances inevitably knock at your door,
 much unlike when your virtue was still weak?[^25]
 
-It will be evident that it’s because now you’re *confident* that you
+It will be evident that it’s because now you’re* confident *that you
 will ***not*** open that door, no matter how hard or how long it gets
 knocked on. And *that alone* is what gives rise to the *factual* safety
 you would be able to recognize, and precisely because it doesn’t depend
@@ -396,7 +402,7 @@ the city”?
 So then, it is *volitional lust* **towards** that which manifests within
 the world (the 6 sense bases) that constitutes sensuality. Anything less
 than this is just a “pretty thing in the world”. But how would one pick
-up the “hint” of that *volitional lust*? Is it by whether the perception
+up the “hint” of that *volitional lust? *Is it by whether the perception
 of the object is present *at all*? Would it be instead by the intensity
 of emotional pressure, the feeling that accompanies the thought? Would
 it be by the *possibilities*/intentions *(cetanā)* implied in it?[^27]
@@ -442,7 +448,7 @@ were to arise.[^29] But luckily, this is not the case, and thus
 liberation is possible to begin with.
 
 Rather, as the verse from AN 6.63  says, it is one’s ***volitional
-lust***, one’s *deliberate choice to accept* the presented possibilities
+lust***, one’s *deliberate choice to accept *the presented possibilities
 to try to “release” the mental pressure that is the problem. Not the
 pressure, perceptions, feeling or the *suggestions* to act in and of
 themselves, no matter how they arise—these are just the “racket outside
@@ -495,17 +501,18 @@ unwholesome is, *not* in what is being presented. This is what the
 Suttas mean by “welcoming, delighting in, entertaining agreeable
 objects”. The only proper solution to this is to abandon that *value*,
 that notion of “nice to get this”, right where it is, without trying to
-prevent the *offer* and its pressuring feeling from being there—that
-feeling is *utterly inseparable from that perception*, as said above.
-Both the feeling and perception clearly have come, and will likely come
+prevent the *offer *and its pressuring feeling from being there—that
+feeling is *utterly inseparable from that perception, *as said above*.
+*Both the feeling and perception clearly have come, and will likely come
 again in the future, as a “bait” placed by Māra, and their presence is
 thus not in your ultimate control.
 
 That “value” can be abandoned not by *choosing* to stop valuing the
 pleasure directly, but by clarifying and reflecting on the drawbacks of
 *accepting* the bait that is being presented to you.[^32]
+
 One does not need supramundane discernment to realize that *stepping
-into a trap* is never in one’s best interests, no matter how good the
+into a trap *is never in one’s best interests, no matter how good the
 bait in it is. Even if once you’re inside, the hunter is nice enough to
 give you a few more treats, the fact is that *now you’re in his
 control*, so if he ever feels like doing something bad to you, you have
@@ -593,7 +600,7 @@ the prospect of getting it “scratched’. But in and of itself, no amount
 of itch *requires* scratching. One’s mind not being free from lust,
 infected with distorted notions, is what *assumes* that scratching is
 “necessary”. Also, notice how in the above Sutta, the man simply
-*refrains* from doing what would cause the lamp to burn longer than it
+*refrains *from doing what would cause the lamp to burn longer than it
 should on its own. He doesn’t *manually* try to get the oil out or put
 out the fire. This is the only way to abandon an unwholesome state
 without generating another.
@@ -611,7 +618,7 @@ or managed to cross a desert. That sense of safety is a wholesome joy
 “I am safe” unless you’re safe *from something?* What’s more, how can
 that safety and the joy arising from it become the central theme of your
 experience, your *abiding* as said in the Suttas, unless that which was
-a threat before is still being equally *recognized*? Forgetting about
+a threat before is still being equally *recognized? *Forgetting about
 the threat would mean forgetting about the safety, even in mundane
 terms. This is why one who succeeds in this practice fully and
 disengages  from sensuality correctly has “blindfolded” Māra:
@@ -630,17 +637,17 @@ disengages  from sensuality correctly has “blindfolded” Māra:
 
 </div>
 
-It is precisely because you **don’t** prevent Māra from setting up his
+It is precisely because* *you **don’t** prevent Māra from setting up his
 bait (which is none other than the pressure of the six sense bases) that
 he is confused and at a loss. Before this point, it had always been a
 *guaranteed* catch every time he set up the trap, given that even when
 you tried to avoid it before, you went overboard and attempted to *get
-rid* of the trap, by trying to get rid of the mental pressure—stop
+rid *of the trap, by trying to get rid of the mental pressure—stop
 thinking, concentrate twice as hard hard on your abdomen or tip of your
 nose, etc.[^38] Therefore, you always *touched* the trap either to eat
 the bait or to throw it away, and that’s all the hunter needed to get
 you. But now, you are learning to not *take* the bait, nor try to
-*remove* it either. This is, contrary to one’s distorted gut-feeling, is
+*remove *it either. This is, contrary to one’s distorted gut-feeling, is
 the only way to stay safe:
 
 <div lang="en">
@@ -675,19 +682,19 @@ For this reason, if one simply learns to see “mental pressure” or
 “impulses” in the most general sense, even without classifying it into a
 particular hindrance, and learns to *neither act* out of that impulse
 *nor* prevent it from being where it is (a subtler way of acting out of
-it), then the entire *domain* of unwholesome, the domain of *kamma* and
-thus all suffering and adversity, can be surmounted one day. And this
+it), then the entire *domain* of unwholesome, the domain of *kamma *and
+thus all suffering and adversity*, *can be surmounted one day. And this
 is the same principle that virtue is based upon—one does not accept the
 impulse to act out, nor does one prevent it from arising.
 
 This “enduring” of mental pressure (*with the right perspective*, not
 just “mindless bearing”) that is required to abandon the five hindrances
-is the common thread to *jhāna* and Nibbāna, which would have to
+is the common thread to* jhāna* and Nibbāna, which would have to
 culminate in the latter eventually when paired with correct views and
-instructions. This is how Right Composure *factually* inclines the mind
+instructions. This is how Right Composure *factually *inclines the mind
 towards Nibbāna.[^40] Nibbāna is not about discovering a hidden
 experiential truth through an esoteric revelation or experience, but
-about perfect immovability, and thus *peace*, in the face of anything
+about perfect immovability, and thus *peace,* in the face of anything
 that can arise in one’s experience. And with this, lust, aversion and
 delusion, and the fetters of self-view, conceit and ignorance are
 destroyed, because their *raison d’être* is gone—the constant, futile
@@ -757,7 +764,7 @@ and distraction.
 
 Māra doesn’t care how well you can perform a mechanical mental exercise
 and how much pleasure it provides you with. All that matters to him is,
-you still *could* bite the hook. For as long as that’s the case, he’s
+you still *could *bite the hook. For as long as that’s the case, he’s
 got you already. This is why *actions* by body, speech and mind are what
 enables the five hindrances, and thus ignorance,  to thrive, and not
 one’s lack of skill in repetitive techniques, “energy blockages” in
@@ -786,7 +793,7 @@ distracts one away from starting to restrain those actions.
 To sum up, the right kind of composure is in having the mental strength
 to not take Māra’s bait without needing to shun it either, and
 developing the right kind of unwavering virtue is the first,
-indispensable step in that same direction.
+indispensable step in that same direction.* *
 
 Some more teachings on this proper practice of virtue and how it
 develops the mind:
@@ -839,7 +846,7 @@ develops the mind:
 [^4]: cf. AN 6.73. Notice  the emphatic expression “seen correctly as it
     truly is with proper wisdom” (*yathābhūtaṁ sammappaññāya
     sudiṭṭhaṁ*). This Sutta alone should serve to disprove the idea of
-    “pure *samādhi* without discernment”—a viable notion only when
+    “pure* samādhi *without discernment”—a viable notion only when
     *samādhi* is taken to be the result of a repetitive exercise of
     attention and “no thinking”, something which is notably absent from
     the Suttas unless it’s being read into them. The standard
@@ -956,7 +963,7 @@ develops the mind:
     > — AN 6.68
 
 [^19]: See SN 8.1 on the utter confidence in their virtue such a person
-    would have, despite still not *fully* seeing the escape from the
+    would have, despite still not *fully *seeing the escape from the
     mental aspect of the unwholesome. That confidence reflects what
     *sammāsamādhi* is—immovability amidst things that try to move you.
 
@@ -966,11 +973,11 @@ develops the mind:
 [^21]: [Abandoning of Sensuality is What Meditation
     Is](https://www.youtube.com/watch?v=YaexsS0MLas)
 
-[^22]: See what ***precedes***, not ***results from***, practicing
+[^22]: See what ***precedes***, not ***results from****, *practicing
     *sati* and *samādhi* in AN 8.63. Same in every Gradual Training
     sequence.
 
-[^23]: *Sīlanussati*: One of the 4 recollections that recur throughout
+[^23]: *Sīlanussati: *One of the 4 recollections that recur throughout
     the Suttas, aimed at the abandonment of unwholesome states (cf. SN
     9.11). The first of these, recollection of the Buddha, is often
     taken to be the repetition of the mantra “buddho”. Does this mean
@@ -1006,10 +1013,10 @@ develops the mind:
     the case with the pleasure of *utter* *indifference to all gain and
     loss* that comes with wholesome *samādhi*.
 
-[^27]: The term “intention” (*cetanā* or *saṅkhāra*) denotes a
+[^27]: The term “intention” (*cetanā *or *saṅkhāra*) denotes a
     *possibility* that a sense experience presents to act in some way.
     “Volition” is the choice to act upon those possibilities, similar in
-    practice to *kamma*, except in the case of the Arahant. See further
+    practice to *kamma, *except in the case of the Arahant. See further
     explanation on “mental action” below.
 
 [^28]: Translating “*phassa*” as “pressure”, a more practically useful
@@ -1044,14 +1051,14 @@ develops the mind:
 
 [^31]: In brief: *citta* (sometimes rendered “heart”) is responsible for
     actions and all unwholesome states and is what needs to be purified,
-    while *mano* (intellect), which is responsible for
+    while *mano (*intellect), which is responsible for
     *dhammas* (thoughts/images), is Māra’s property and is where he sets
     up his “bait”. “Hint of the mind” refers to *citta*, not *mano*.
 
 [^32]: [The Danger
     Contemplation](https://www.hillsidehermitage.org/the-danger-contemplation/)
 
-[^33]: Incidentally, people in the Suttas often became *sotāpannas* as a
+[^33]: Incidentally, people in the Suttas often became *sotāpannas *as a
     result of the Buddha expounding the danger of sensuality, with the
     sort of reflections exemplified here, which freed their mind from
     hindrances, and *then* the Noble Truths. It was not because they had
@@ -1068,16 +1075,16 @@ develops the mind:
 [^36]: But you must also not be *anticipating* that result and getting
     anxious to get it, because this would be a subtler form of still
     craving for pleasure and against pain. Wanting is to be completely
-    abandoned *beforehand*, and the “itch”  must be endured without
+    abandoned *beforehand, *and the “itch”  must be endured without
     expecting a reward at the end. *Samādhi* will not take care of your
-    own craving for you, as is often hoped. *Samādhi* is the *result* of
+    own craving for you, as is often hoped. *Samādhi *is the *result* of
     not acting out of craving, expectations and worries on any level.
 
 [^37]: Isn’t it strange that “meditation” tends to involve
-    “blindfolding” *oneself* by going into a trance, rather than
+    “blindfolding” *oneself *by going into a trance*, *rather than
     blindfolding Māra? Note that indeed, the second jhāna *is* the
     cessation of thinking and pondering, but that is something that is
-    *built upon the basis* of the pristine clarity of thinking of the
+    *built upon the* *basis *of the pristine clarity of thinking of the
     first *jhāna*. So it’s not “blindfolding” oneself at all, but
     developing *even more* clarity of the nature of Māra’s traps. It’s
     then even harder to foolishly overlook and fall for them in the
@@ -1094,7 +1101,7 @@ develops the mind:
 [^40]: SN 53.1
 
 [^41]: It’s not a coincidence that “patient endurance” appears in the
-    first line and Nibbāna in the second. It’s not *just* talking about
+    first line and Nibbāna in the second. It’s not *just *talking about
     everyday “patience” and resilience. Also, one “does not disturb”, or
     argue even with Māra, trying to get him to stop putting up his traps
     in the six sense base that is rightly his. In this way, one can

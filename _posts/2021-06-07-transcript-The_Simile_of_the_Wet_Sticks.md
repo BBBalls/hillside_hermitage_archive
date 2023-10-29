@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20210607%20-%20209hh%20-%20The%20simile%20of%20the%20wet%20sticks%20-%20%20MN%2036.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2021-06-07
+description: a summarized transcription
+doc_url: "https://www.hillsidehermitage.org/wp-content/uploads/2022/06/209hh-The-Simile-of-the-Wet-Sticks-.pdf"
+episode: 209
 layout: post
-title: 209hh- The Simile of the Wet Sticks
+title: The Simile of the Wet Sticks
+youtube_url: "https://www.youtube.com/watch?v=4_wfPa7EjZ0"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=4_wfPa7EjZ0) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210607%20-%20209hh%20-%20The%20simile%20of%20the%20wet%20sticks%20-%20%20MN%2036.mp3)
 
 **Q:** <cite>[MN 36 Mahāsaccaka
 sutta](https://suttacentral.net/mn36)</cite>:

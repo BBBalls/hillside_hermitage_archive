@@ -1,10 +1,21 @@
 ---
+archive_url: "https://archive.org/download/hillside-hermitage-audio-archive/20190411%20-%2063hh%20-%20Overcoming%20anxiety.mp3"
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
 date: 2019-04-11
+description: a summarized transcription
+doc_url: "https://t.me/HillsideHermitage/205"
+episode: 63
 layout: post
-title: 63hh- Overcoming Anxiety
+title: Overcoming Anxiety
+youtube_url: "https://www.youtube.com/watch?v=Cu-uJi7I2Vo"
 ---
+
+a summarized transcription
+
+by **Ajahn Nyanamoli Thero**
+
+[\[video\]](https://www.youtube.com/watch?v=Cu-uJi7I2Vo) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20190411%20-%2063hh%20-%20Overcoming%20anxiety.mp3)
 
 How do I overcome anxiety? That’s something everybody will wonder about
 at some point in their life and probably for many people today, it’s

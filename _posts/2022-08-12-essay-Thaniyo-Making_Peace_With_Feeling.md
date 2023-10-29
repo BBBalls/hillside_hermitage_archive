@@ -1,12 +1,18 @@
 ---
-title: Making Peace with Feeling
 author: Thaniyo Thero
 category: Essays
 date: 2022-08-12
+description: an essay
+doc_url: "https://t.me/HillsideHermitage/212"
 layout: post
+title: Making Peace with Feeling
 ---
 
-by Thaniyo Thero
+an essay
+
+by **Thaniyo Thero**
+
+
 
 By making peace with what is felt, one is developing
 <span lang="pi">*metta*</span> or non-ill will. By that I mean, no
