@@ -26,6 +26,7 @@ layout: post
 [Responsibility Can Free You From Suffering](/hillside_hermitage_archive/transcriptions/2019-04-04-transcript-Responsibility_Can_Free_You_From_Suffering.html)\
 [Die Before You Die](/hillside_hermitage_archive/transcriptions/2019-04-07-transcript-Die_Before_You_Die.html)\
 [Overcoming Anxiety](/hillside_hermitage_archive/transcriptions/2019-04-11-transcript-Overcoming_Anxiety.html)\
+[Appointment with Death](/hillside_hermitage_archive/transcriptions/2019-04-28-transcript-Appointment_with_Death.html)\
 [Ajahn Chah and the Original Mind](/hillside_hermitage_archive/transcriptions/2019-06-13-transcript-Ajahn_Chah_and_the_Original_Mind.html)\
 [Don’t Be Faithful to Ignorance](/hillside_hermitage_archive/transcriptions/2019-07-10-transcript-Dont_Be_Faithful_to_Ignorance.html)\
 [Even Being A Layman Does Not Justify Your Sensuality](/hillside_hermitage_archive/transcriptions/2019-12-16-transcript-Even_Being_A_Layman_Does_Not_Justify_Your_Sensuality.html)
