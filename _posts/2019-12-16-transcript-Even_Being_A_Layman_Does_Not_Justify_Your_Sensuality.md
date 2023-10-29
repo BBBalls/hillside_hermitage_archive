@@ -1,7 +1,7 @@
 ---
 author: Ajahn Nyanamoli Thero
 category: Transcriptions
-date: 2020-02-04
+date: 2019-12-16
 layout: post
 title: 131hh- Even Being A Layman Does Not Justify Your Sensuality
 ---

@@ -16,7 +16,7 @@ layout: post
 [The Infinity of The Mind (Notes on AN 1.51)](/hillside_hermitage_archive/essays/2013-03-19-essay-Nyanamoli-The_Infinity_of_The_Mind.html))\
 [Resistance and Designation (Notes on DN 15)](/hillside_hermitage_archive/essays/2013-03-28-essay-Nyanamoli-Resistance_and_Designation.html)\
 [Determining Determinations](/hillside_hermitage_archive/essays/2013-04-07-essay-Nyanamoli-Determining_Determinations.html)\
-[Not Perceiving the Feeling (Notes on MN 43)](/hillside_hermitage_archive/essays/2013-04-17-essay-Nyanamoli-essay-Not_Perceiving_the_Feeling.html)\
+[Not Perceiving the Feeling (Notes on MN 43)](/hillside_hermitage_archive/essays/2013-04-17-essay-Nyanamoli-Not_Perceiving_the_Feeling.html)\
 [Appearance and Existence](/hillside_hermitage_archive/essays/2014-02-24-essay-Nyanamoli-Appearance_and_Existence.html)\
 [Notes on Meditation](/hillside_hermitage_archive/essays/2014-07-30-essay-Nyanamoli-Notes_on_Meditaion.html)\
 [Breathing Towards Death](/hillside_hermitage_archive/essays/2018-05-01-essay-Nyanamoli-Breathing_Towards_Death.html)\

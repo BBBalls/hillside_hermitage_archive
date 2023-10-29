@@ -27,11 +27,11 @@ layout: post
 [Die Before You Die](/hillside_hermitage_archive/transcriptions/2019-04-07-transcript-Die_Before_You_Die.html)\
 [Overcoming Anxiety](/hillside_hermitage_archive/transcriptions/2019-04-11-transcript-Overcoming_Anxiety.html)\
 [Ajahn Chah and the Original Mind](/hillside_hermitage_archive/transcriptions/2019-06-13-transcript-Ajahn_Chah_and_the_Original_Mind.html)\
-[Don’t Be Faithful to Ignorance](/hillside_hermitage_archive/transcriptions/2019-07-10-transcript-Dont_Be_Faithful_to_Ignorance.html)
+[Don’t Be Faithful to Ignorance](/hillside_hermitage_archive/transcriptions/2019-07-10-transcript-Dont_Be_Faithful_to_Ignorance.html)\
+[Even Being A Layman Does Not Justify Your Sensuality](/hillside_hermitage_archive/transcriptions/2019-12-16-transcript-Even_Being_A_Layman_Does_Not_Justify_Your_Sensuality.html)
 
 ### 2020
 
-[Even Being A Layman Does Not Justify Your Sensuality](/hillside_hermitage_archive/transcriptions/2020-02-04-transcript-Even_Being_A_Layman_Does_Not_Justify_Your_Sensuality.html)\
 [There is No Love in Loving-kindness](/hillside_hermitage_archive/transcriptions/2020-03-14-transcript-There_is_no_love_in_loving-kindness.html)\
 [Valuing Sense Pleasures Makes You An Addict](/hillside_hermitage_archive/transcriptions/2020-04-25-transcript-Valuing_Sense_Pleasures_Makes_You_An_Addict.html)\
 [You Don't Need To Say No To Everything](/hillside_hermitage_archive/transcriptions/2020-05-16-transcript-You_Dont_Need_To_Say_No_To_Everything.html)\
