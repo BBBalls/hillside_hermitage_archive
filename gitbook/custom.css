@@ -145,10 +145,10 @@
 /* Custom font settings */
 
 .book.font-family-0 {
-    font-family: "Noto Serif", "Liberation Serif", "DejaVu Serif", "Source Serif 4", "Source Serif Pro", Garamond, Georgia, "Times New Roman", serif;
+    font-family: "Source Serif 4", "Noto Serif", "Liberation Serif", "DejaVu Serif", "Source Serif Pro", Garamond, Georgia, "Times New Roman", serif;
 }
 .book.font-family-1 {
-    font-family: "Noto Sans", "Liberation Sans", "DejaVu Sans", "Source Sans 3", "Source Sans Pro", Arial, Helvetica, "Helvetica Neue", Tahoma, "Trebuchet MS", Verdana, sans-serif;
+    font-family: "Source Sans 3", "Noto Sans", "Liberation Sans", "DejaVu Sans", "Source Sans Pro", Arial, Helvetica, "Helvetica Neue", Tahoma, "Trebuchet MS", Verdana, sans-serif;
 }
 
 /* custom classes */
