@@ -40,4 +40,4 @@ layout: post
 
 [The Meaning of Yoniso Manasikāra](/hillside_hermitage_archive/essays/2023-06-22-essay-Anigha-The_Meaning_of_Yoniso_Manasikara.html)\
 [Sīla is Samādhi](/hillside_hermitage_archive/essays/2023-08-28-essay-Anigha-Sila_is_Samadhi.html)\
-[Seeing a Body Within the Body](/hillside_hermitage_archive/essays/2023-08-29-essay-Anigha-Seeing_a_Body_Within_the_Body.html)
+[Seeing a Body Within the Body](/hillside_hermitage_archive/essays/2023-10-30-essay-Anigha-Seeing_a_Body_Within_the_Body.html)

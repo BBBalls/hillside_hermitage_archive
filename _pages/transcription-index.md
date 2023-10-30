@@ -81,4 +81,5 @@ layout: post
 
 ### 2023
 
-[Overcoming the Sexual Urge](/hillside_hermitage_archive/transcriptions/2023-09-19-transcript-Overcoming_the_Sexual_Urge.html)
+[Overcoming the Sexual Urge](/hillside_hermitage_archive/transcriptions/2023-09-19-transcript-Overcoming_the_Sexual_Urge.html)\
+[Abortion of Samsara](/hillside_hermitage_archive/transcriptions/2023-10-24-transcript-Abortion_of_Samsara.html)
