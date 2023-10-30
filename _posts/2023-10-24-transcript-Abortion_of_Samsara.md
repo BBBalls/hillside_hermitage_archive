@@ -34,9 +34,9 @@ by **Ajahn Nyanamoli Thero**
 
 </div>
 
-**Ajahn Nyanamoli**: Yes , absolutely, and it’s good that you are not in
+**Ajahn Nyanamoli**: Yes, absolutely, and it’s good that you are not in
 denial, and are actually using your guilt as a context to not make the
-same mistake. As for the consequences, well, yes , the consequences of
+same mistake. As for the consequences, well, yes, the consequences of
 taking a life have to be experienced at some point. Now, how much of
 those karmic consequences would be experienced? Well, you can see from
 the *sutta*s that if somebody, say, has taken human life and then
@@ -67,7 +67,7 @@ value in it.
 get, depending on whom you ask, basically, from your individual point of
 view, what comes first is the guilt and the always lingering doubt that
 it could have been a life that you have taken. So it doesn’t matter what
-science or religion gives you as an answer, “Yes, it was”, or ” No, it
+science or religion gives you as an answer, “Yes, it was”, or “No, it
 wasn’t.” The fact is, that act in and of itself, from your point of
 view, will always remain doubtful, because you cannot verify it.
 
