@@ -1,7 +1,7 @@
 ---
 author: Bhikkhu Anīgha
 category: Essays
-date: 2023-08-29
+date: 2023-10-30
 description: an essay
 doc_url: "https://www.hillsidehermitage.org/seeing-a-body-within-the-body/"
 layout: post
